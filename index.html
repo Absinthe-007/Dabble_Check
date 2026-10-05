@@ -194,6 +194,8 @@ a.pname,a.fname,a.tg-p{color:inherit;text-decoration:none}
 a.pname:hover,a.fname:hover,a.tg-p:hover{text-decoration:underline;text-underline-offset:3px}
 .more-link{align-self:flex-start;font-size:12.5px;font-weight:700;color:var(--ink);text-decoration:none;border-bottom:2px solid var(--amber);padding-bottom:1px;margin-top:2px}
 .more-link:hover{color:var(--amber-ink)}
+.proj{font-family:var(--f-mono);font-size:12px;font-weight:700;color:var(--amber-ink);background:var(--amber-soft);border-radius:6px;padding:2px 7px;white-space:nowrap}
+.tg-proj{grid-column:1/-1;justify-self:start;font-family:var(--f-mono);font-size:11.5px;font-weight:700;color:var(--amber-ink);background:var(--amber-soft);border-radius:5px;padding:1px 6px;margin-top:3px}
 /* ---------- Pick detail sheet ---------- */
 .card,.fcard{cursor:pointer}
 .card:focus-visible,.fcard:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
@@ -345,7 +347,8 @@ function shot(p){
 const ARROW={More:'<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 1 11 8H1z" fill="currentColor"/></svg>',Less:'<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 11 1 4h10z" fill="currentColor"/></svg>'};
 function prop(p){
   const tbd=p.line==null||p.line==="";
-  return `<div class="proprow"><div class="prop"><span class="side ${esc(p.side)}">${ARROW[p.side]||""}${esc(p.side)}</span><span class="lnum ${tbd?"tbd":""}">${tbd?"line TBD":esc(p.line)}</span></div><span class="lstat">${esc(p.stat)}</span></div>`;
+  const pj=p.projection&&p.projection.value?`<span class="proj" title="${esc(p.projection.basis||"")}">Proj ${esc(p.projection.value)}</span>`:"";
+  return `<div class="proprow"><div class="prop"><span class="side ${esc(p.side)}">${ARROW[p.side]||""}${esc(p.side)}</span><span class="lnum ${tbd?"tbd":""}">${tbd?"line TBD":esc(p.line)}</span></div><span class="lstat">${esc(p.stat)}</span>${pj}</div>`;
 }
 function pips(c){c=Math.max(1,Math.min(5,c||1));return `<div class="conf" title="Confidence ${c} of 5" aria-label="Confidence ${c} of 5">${Array.from({length:5},(_,i)=>`<i class="${i<c?"f":""}"></i>`).join("")}</div>`}
 const isOpen=p=>!p.status||p.status==="pending";
@@ -409,7 +412,7 @@ function renderToday(){
     const f=ps[0];const show=ps.slice(0,4);
     return `<article class="tgame"><div class="tg-head"><div><span class="tg-sport">${esc(SPORT_NAME[f.sport]||f.sport)}</span><br><b>${esc(f.game||"")}</b></div><span>${esc(kickoff(f)||f.gameTime||"")}</span></div>
       <ul class="tg-list">${show.map(p=>`<li class="tg-row" data-open="${esc(p.id)}" tabindex="0"><a class="tg-p" href="#${esc(p.id)}">${esc(p.player)}</a><span class="tg-s">${esc(p.stat)}${isOpen(p)?"":` · ${esc(p.status)}`}</span>
-        <span class="tg-side"><span class="tg-pill ${esc(p.side)}">${esc(p.side)}</span><span class="tg-line">${p.line==null||p.line===""?"TBD":esc(p.line)}</span></span></li>`).join("")}</ul>
+        <span class="tg-side"><span class="tg-pill ${esc(p.side)}">${esc(p.side)}</span><span class="tg-line">${p.line==null||p.line===""?"line TBD":esc(p.line)}</span></span>${p.projection&&p.projection.value?`<span class="tg-proj">Proj ${esc(p.projection.value)}</span>`:""}</li>`).join("")}</ul>
       ${ps.length>show.length?`<button class="tg-more" type="button" data-jump="${esc(f.sport)}">+${ps.length-show.length} more in ${esc(SPORT_NAME[f.sport]||f.sport)} →</button>`:""}</article>`}).join("")}</div>`;
 }
 
@@ -485,7 +488,7 @@ function openSheet(id){
   const w=state.weeks.find(x=>x.id===p.week)||{};
   const reads=(p.sources||[]).filter(s=>s&&s.url);
   const on=state.slip.includes(p.id);
-  const facts=[["Pick",`${p.side} ${p.line??"line TBD"}`],["Stat",p.stat],["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
+  const facts=[["Pick",`${p.side} ${p.line??"line TBD"}`],["Stat",p.stat],...(p.projection&&p.projection.value?[["Our projection",p.projection.value]]:[]),["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
   if(!isOpen(p))facts.splice(0,0,["Result",`${p.status}${p.actual?` · ${p.actual}`:""}`]);
   $("sheet").innerHTML=`<div class="sh-top">${shot(p)}<div class="sh-head">
       <span class="rank">${esc(SPORT_NAME[p.sport]||p.sport)} · ${esc(p.team||"")} · ${esc(p.game||"")}</span>
@@ -493,7 +496,7 @@ function openSheet(id){
       <button class="sh-close" type="button" data-close aria-label="Close">×</button></div>
     <div class="sh-body">
       <section class="sh-sec"><h4>The case</h4><p class="sh-case">${esc(p.analysis||p.why)}</p></section>
-      <section class="sh-sec"><div class="sh-facts">${facts.map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div></section>
+      <section class="sh-sec"><div class="sh-facts">${facts.map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>${p.projection&&p.projection.basis?`<p class="sh-note" style="margin-top:6px">Projection based on: ${esc(p.projection.basis)}</p>`:""}</section>
       ${(p.lines||[]).length?`<section class="sh-sec"><h4>Lines around the market</h4><div class="mkt">${p.lines.map(l=>`<span><b>${esc(l.book)}</b>${esc(l.line)}</span>`).join("")}</div></section>`:""}
       ${p.condition||p.newsTag?`<section class="sh-sec"><div class="chips">${p.condition?`<span class="chip cond">If: ${esc(p.condition)}</span>`:""}${p.newsTag?`<span class="chip">${esc(p.newsTag)}</span>`:""}</div></section>`:""}
       <section class="sh-sec"><h4>${reads.length?"Read the full articles":"Sources"}</h4>
