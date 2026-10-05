@@ -585,6 +585,10 @@
   "line": null,
   "newsTag": "Opener role",
   "player": "Anthony Kay",
+  "projection": {
+   "basis": "Used as an opener; openers rarely pitch past the 2nd inning",
+   "value": "3–6 outs"
+  },
   "side": "Less",
   "sources": [
    {
@@ -613,9 +617,19 @@
   "espnId": "5134581",
   "game": "NYY @ TB · ALDS G2",
   "gameTime": "Mon 10/5",
-  "line": null,
+  "line": "~7.5",
+  "lines": [
+   {
+    "book": "BetMGM",
+    "line": "7.5 (8+ at +130)"
+   }
+  ],
   "newsTag": "ALDS probable",
   "player": "Cam Schlittler",
+  "projection": {
+   "basis": "21 K in his last 16 innings; 10 K in his Wild Card start",
+   "value": "~8 K"
+  },
   "side": "More",
   "sources": [
    {
@@ -647,6 +661,10 @@
   "line": null,
   "newsTag": "ALDS probable",
   "player": "Freddy Peralta",
+  "projection": {
+   "basis": "0.96 ERA in September",
+   "value": "0–1 ER"
+  },
   "side": "Less",
   "sources": [
    {
@@ -708,8 +726,18 @@
   "game": "NYY @ TB · ALDS G2",
   "gameTime": "Mon 10/5",
   "line": "~14.5",
+  "lines": [
+   {
+    "book": "DraftKings",
+    "line": "14.5"
+   }
+  ],
   "newsTag": "7 straight overs",
   "player": "Freddy Peralta",
+  "projection": {
+   "basis": "Cleared 14.5 outs in each of his last 7 starts",
+   "value": "15+ outs"
+  },
   "side": "More",
   "sources": [
    {
@@ -770,8 +798,18 @@
   "game": "CWS @ CLE · ALDS G2",
   "gameTime": "Mon 10/5",
   "line": "~0.5",
+  "lines": [
+   {
+    "book": "Covers",
+    "line": "0.5"
+   }
+  ],
   "newsTag": "Contact leadoff man",
   "player": "Sam Antonacci",
+  "projection": {
+   "basis": "Covers analyst probability for 1+ hit",
+   "value": "1+ hit (65%)"
+  },
   "side": "More",
   "sources": [
    {
@@ -801,8 +839,18 @@
   "game": "CWS @ CLE · ALDS G2",
   "gameTime": "Mon 10/5",
   "line": "~0.5",
+  "lines": [
+   {
+    "book": "Covers",
+    "line": "0.5"
+   }
+  ],
   "newsTag": "Owns Williams",
   "player": "Miguel Vargas",
+  "projection": {
+   "basis": "Covers analyst probability; 6-for-14 career vs. Gavin Williams",
+   "value": "1+ hit (61%)"
+  },
   "side": "More",
   "sources": [
    {
@@ -832,8 +880,18 @@
   "game": "CWS @ CLE · ALDS G2",
   "gameTime": "Mon 10/5",
   "line": "~0.5",
+  "lines": [
+   {
+    "book": "Covers",
+    "line": "0.5"
+   }
+  ],
   "newsTag": "Hot September",
   "player": "Travis Bazzana",
+  "projection": {
+   "basis": "Covers analyst probability for 1+ hit",
+   "value": "1+ hit (60%)"
+  },
   "side": "More",
   "sources": [
    {
@@ -1013,7 +1071,17 @@
   "espnId": "4430807",
   "game": "ATL @ NO",
   "gameTime": "Mon 10/5",
-  "line": null,
+  "line": "~85.5",
+  "lines": [
+   {
+    "book": "Bettors Insider",
+    "line": "85.5"
+   },
+   {
+    "book": "Polymarket",
+    "line": "90"
+   }
+  ],
   "newsTag": "Saints front-seven injuries",
   "player": "Bijan Robinson",
   "side": "More",
@@ -1309,8 +1377,22 @@
   "game": "ATL @ NO",
   "gameTime": "Mon 10/5",
   "line": "~78.5",
+  "lines": [
+   {
+    "book": "FanDuel Research",
+    "line": "78.5"
+   },
+   {
+    "book": "Covers",
+    "line": "79.5"
+   }
+  ],
   "newsTag": "Coming off 194 yards",
   "player": "Drake London",
+  "projection": {
+   "basis": "Covers projection",
+   "value": "86 yds"
+  },
   "side": "More",
   "sources": [
    {
@@ -1340,8 +1422,18 @@
   "game": "ATL @ NO",
   "gameTime": "Mon 10/5",
   "line": "~85.5",
+  "lines": [
+   {
+    "book": "FanDuel Research",
+    "line": "85.5"
+   }
+  ],
   "newsTag": "A.J. Terrell out",
   "player": "Chris Olave",
+  "projection": {
+   "basis": "Season average (27 catches, 375 yds in 3 games)",
+   "value": "125 yds"
+  },
   "side": "More",
   "sources": [
    {
@@ -1371,8 +1463,18 @@
   "game": "ATL @ NO",
   "gameTime": "Mon 10/5",
   "line": "~37.5",
+  "lines": [
+   {
+    "book": "Bettors Insider",
+    "line": "37.5"
+   }
+  ],
   "newsTag": "Elite ATL run D",
   "player": "Alvin Kamara",
+  "projection": {
+   "basis": "Last 2 games average (18 carries, 51 yds)",
+   "value": "25.5 yds"
+  },
   "side": "Less",
   "sources": [
    {
@@ -1402,8 +1504,18 @@
   "game": "ATL @ NO",
   "gameTime": "Mon 10/5",
   "line": "~16.5",
+  "lines": [
+   {
+    "book": "FanDuel Research",
+    "line": "16.5"
+   }
+  ],
   "newsTag": "QB scramble volume",
   "player": "Tyler Shough",
+  "projection": {
+   "basis": "Season average (14 carries, 67 yds in 3 games)",
+   "value": "22.3 yds"
+  },
   "side": "More",
   "sources": [
    {
@@ -2595,6 +2707,10 @@
   "line": null,
   "newsTag": "Due, high volume",
   "player": "David Pastrnak",
+  "projection": {
+   "basis": "13 shots in 3 games this season",
+   "value": "4.3 SOG"
+  },
   "side": "More",
   "sources": [
    {
@@ -2622,6 +2738,10 @@
   "line": null,
   "newsTag": "Flyers leak shots",
   "player": "Brandon Hagel",
+  "projection": {
+   "basis": "9 shots in 2 games; PHI allows 40.7 shots a game",
+   "value": "4.5 SOG"
+  },
   "side": "More",
   "sources": [
    {
@@ -2645,6 +2765,10 @@
   "line": "~0.5",
   "newsTag": "Soft matchup",
   "player": "Nikita Kucherov",
+  "projection": {
+   "basis": "2 points in 2 games; FanDuel anytime goal +150",
+   "value": "1 point"
+  },
   "side": "More",
   "sources": [
    {
@@ -2668,6 +2792,10 @@
   "line": "~0.5",
   "newsTag": "Bounce-back spot",
   "player": "Mikko Rantanen",
+  "projection": {
+   "basis": "Covers/Novig probability for 1+ assist",
+   "value": "1+ assist (53%)"
+  },
   "side": "More",
   "sources": [
    {
