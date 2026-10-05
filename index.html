@@ -190,6 +190,10 @@ details.src a{color:var(--muted);overflow-wrap:anywhere}
 .mkt span{font-family:var(--f-mono);font-size:12px;border:1px solid var(--line);border-radius:8px;padding:4px 8px;background:var(--surface-2)}
 .mkt span b{font-family:var(--f-body);font-weight:600;margin-right:6px}
 
+a.pname,a.fname,a.tg-p{color:inherit;text-decoration:none}
+a.pname:hover,a.fname:hover,a.tg-p:hover{text-decoration:underline;text-underline-offset:3px}
+.more-link{align-self:flex-start;font-size:12.5px;font-weight:700;color:var(--ink);text-decoration:none;border-bottom:2px solid var(--amber);padding-bottom:1px;margin-top:2px}
+.more-link:hover{color:var(--amber-ink)}
 /* ---------- Pick detail sheet ---------- */
 .card,.fcard{cursor:pointer}
 .card:focus-visible,.fcard:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
@@ -404,7 +408,7 @@ function renderToday(){
     const ps=list.filter(p=>p.sport+"|"+p.game===g).sort((a,b)=>isOpen(b)-isOpen(a)||(b.confidence||0)-(a.confidence||0));
     const f=ps[0];const show=ps.slice(0,4);
     return `<article class="tgame"><div class="tg-head"><div><span class="tg-sport">${esc(SPORT_NAME[f.sport]||f.sport)}</span><br><b>${esc(f.game||"")}</b></div><span>${esc(kickoff(f)||f.gameTime||"")}</span></div>
-      <ul class="tg-list">${show.map(p=>`<li class="tg-row" data-open="${esc(p.id)}" tabindex="0"><span class="tg-p">${esc(p.player)}</span><span class="tg-s">${esc(p.stat)}${isOpen(p)?"":` · ${esc(p.status)}`}</span>
+      <ul class="tg-list">${show.map(p=>`<li class="tg-row" data-open="${esc(p.id)}" tabindex="0"><a class="tg-p" href="#${esc(p.id)}">${esc(p.player)}</a><span class="tg-s">${esc(p.stat)}${isOpen(p)?"":` · ${esc(p.status)}`}</span>
         <span class="tg-side"><span class="tg-pill ${esc(p.side)}">${esc(p.side)}</span><span class="tg-line">${p.line==null||p.line===""?"TBD":esc(p.line)}</span></span></li>`).join("")}</ul>
       ${ps.length>show.length?`<button class="tg-more" type="button" data-jump="${esc(f.sport)}">+${ps.length-show.length} more in ${esc(SPORT_NAME[f.sport]||f.sport)} →</button>`:""}</article>`}).join("")}</div>`;
 }
@@ -416,7 +420,7 @@ function renderFeatured(){
   $("featWrap").hidden=!top.length;
   $("feat").innerHTML=top.map((p,i)=>`<article class="fcard" data-open="${esc(p.id)}" tabindex="0" role="button" aria-label="Open ${esc(p.player)} details">${shot(p)}<div class="fbody">
     <div class="chead"><span class="rank">#${i+1} · ${esc(SPORT_NAME[p.sport]||p.sport)} · ${esc(p.gameTime||"")}</span>${pips(p.confidence)}</div>
-    <div class="fname">${esc(p.player)}</div>
+    <a class="fname" href="#${esc(p.id)}">${esc(p.player)}</a>
     ${prop(p)}
     <p class="fwhy">${esc(p.why)}</p></div></article>`).join("");
 }
@@ -427,10 +431,11 @@ function card(p){
   const right=graded?`<span class="stamp ${esc(p.status)}">${esc(p.status)}${p.actual?`<small>${esc(p.actual)}</small>`:""}</span>`
     :`<button class="add" type="button" data-add="${esc(p.id)}" aria-pressed="${on}">${on?"On slip ✓":"+ Slip"}</button>`;
   return `<article class="card ${on?"on":""} ${esc(p.status||"")}" data-open="${esc(p.id)}" tabindex="0" aria-label="Open ${esc(p.player)} details">${shot(p)}<div class="cbody">
-    <div class="chead"><div><div class="pname">${esc(p.player)}</div><div class="pmeta">${esc(p.game||"")}${p.gameTime?` · ${esc(p.gameTime)}`:""}</div></div>${pips(p.confidence)}</div>
+    <div class="chead"><div><a class="pname" href="#${esc(p.id)}">${esc(p.player)}</a><div class="pmeta">${esc(p.game||"")}${p.gameTime?` · ${esc(p.gameTime)}`:""}</div></div>${pips(p.confidence)}</div>
     ${prop(p)}
     <p class="why">${esc(p.why)}</p>
     <div class="foot"><div class="chips">${p.condition?`<span class="chip cond">If: ${esc(p.condition)}</span>`:""}${p.newsTag?`<span class="chip">${esc(p.newsTag)}</span>`:""}</div>${right}</div>
+    <a class="more-link" href="#${esc(p.id)}">Full write-up &amp; articles →</a>
   </div></article>`;
 }
 
@@ -501,12 +506,12 @@ function openSheet(id){
   lastFocus=document.activeElement;
   $("sheetBg").hidden=false;document.body.classList.add("locked");
   $("sheet").querySelector(".sh-close").focus();
-  try{history.replaceState(null,"","#"+p.id)}catch(e){}
+  try{if(location.hash.slice(1)!==p.id)history.pushState(null,"","#"+p.id)}catch(e){}
 }
 function closeSheet(){
   if($("sheetBg").hidden)return;
   $("sheetBg").hidden=true;document.body.classList.remove("locked");
-  try{history.replaceState(null,"",location.pathname+location.search)}catch(e){}
+  try{if(location.hash)history.replaceState(null,"",location.pathname+location.search)}catch(e){}
   if(lastFocus&&lastFocus.focus)lastFocus.focus();
 }
 document.addEventListener("click",e=>{
@@ -514,9 +519,11 @@ document.addEventListener("click",e=>{
   const sa=e.target.closest("[data-sheet-add]");if(sa){toggleSlip(sa.dataset.sheetAdd);openSheet(sa.dataset.sheetAdd);return}
   if(e.target.closest("[data-close]")||e.target===$("sheetBg")){closeSheet();return}
   const j=e.target.closest("[data-jump]");if(j){state.sport=j.dataset.jump;save();render();document.getElementById("picks").scrollIntoView({behavior:"smooth"});return}
+  const ia=e.target.closest('a[href^="#"]');if(ia){e.preventDefault();openSheet(ia.getAttribute("href").slice(1));return}
   if(e.target.closest("a"))return;
   const o=e.target.closest("[data-open]");if(o)openSheet(o.dataset.open);
 });
+window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(h&&state.picks.some(x=>x.id===h))openSheet(h);else closeSheet()});
 document.addEventListener("keydown",e=>{
   if(e.key==="Escape")closeSheet();
   if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches("[data-open]")){e.preventDefault();openSheet(e.target.dataset.open)}
