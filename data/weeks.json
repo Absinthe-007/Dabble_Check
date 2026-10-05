@@ -1,30 +1,29 @@
 [
  {
   "id": "2026-10-05",
-  "generatedAt": "2026-10-05T13:20:00Z",
-  "headline": "Quarterback injuries drive the NFL board (Lamar Jackson's ankle MRI Monday, Washington's QB room), Cincinnati has lost both Ja'Marr Chase and Tee Higgins, the Division Series pitching is elite and low-scoring, and Georgia at Alabama and Texas vs. Oklahoma headline college Saturday.",
+  "generatedAt": "2026-10-05T19:30:00Z",
+  "headline": "A full slate this week: every NFL game from Monday night through next Monday, nine big college games, the Division Series, the NHL's first full week and the WNBA semifinals. Quarterback injuries (Lamar Jackson, Baker Mayfield, Caleb Williams, Washington's QB room) shape the NFL board.",
   "label": "Oct 5 – 11, 2026",
   "news": {
    "cfb": {
     "items": [
-     "Heisman odds: Jeremiah Smith (Ohio State WR) +115, Darian Mensah (Miami QB) +460, Keelon Russell (Alabama QB) +750, CJ Carr (Notre Dame QB) +800.",
-     "Miami and Ohio State have byes on Oct 10, so there are no Smith or Mensah props this week.",
-     "Russell threw for 285 and accounted for 4 TDs vs. Mississippi State; now draws Georgia's defense.",
-     "No. 1 Texas (4-0): Arch Manning has thrown an INT in 3 of 4 games and taken 10 sacks.",
-     "Oregon QB Dante Moore is in concussion protocol; Dylan Raiola went 19-for-25 with 2 TDs in relief. Oregon is -12.5 vs. UCLA (total 58.5).",
-     "UCLA RB Wayne Knight has 445 rushing yards and 9 rushing TDs."
+     "Heisman odds: Jeremiah Smith (Ohio State WR) +115, Darian Mensah (Miami QB) +460, Keelon Russell (Alabama QB) +750. Smith leads FBS with 823 yards and 9 TDs.",
+     "Ohio State hosts Maryland Saturday at 4:15 ET (homecoming). Miami has a bye.",
+     "Oklahoma is questioning QB John Mateer (6 turnovers in 3 games) before the Red River game. Texas is favored and the total has fallen to about 39.5.",
+     "Oregon QB Dante Moore is still in concussion protocol. Dylan Raiola went 19-of-25 for 289 yards and 2 TDs in relief. Oregon -12.5 vs UCLA.",
+     "Penn State gave up 413 rushing yards in a 34-13 loss at Northwestern.",
+     "LSU QB Sam Leavitt was limited in practice last week. Missouri RB Ahmad Hardy (leg) is still out."
     ],
-    "summary": "Week 7 lands Saturday, Oct 10. Georgia at Alabama, Texas vs. Oklahoma, UCLA at Oregon and USC at Penn State are the headliners. Miami and Ohio State are both idle."
+    "summary": "Week 7 lands Saturday, Oct 10: Georgia at Alabama, Texas vs. Oklahoma, UCLA at Oregon, USC at Penn State, Maryland at Ohio State, Indiana at Nebraska, Texas A&M at Missouri, Ole Miss at Vanderbilt and LSU at Kentucky. Miami is idle."
    },
    "mlb": {
     "items": [
-     "Rays 1, Yankees 0: Drew Rasmussen took a no-hitter into the 8th.",
-     "White Sox 3, Guardians 0; Brewers 3, Padres 2; Dodgers 5, Braves 3.",
-     "ALDS Game 2 (Mon): Cam Schlittler (NYY, 1.95 ERA) vs. Freddy Peralta (TB, 0.96 ERA in September).",
-     "ALDS Game 2 (Mon): Gavin Williams (CLE, 248 K, 11 double-digit K games) vs. Anthony Kay (CWS) as an opener.",
+     "Rays lead the Yankees 1-0 and the White Sox lead the Guardians 1-0. Both ALDS Game 2s are Monday.",
+     "Brewers lead the Padres 2-0 after Jackson Chourio's walk-off in Game 2. Braves and Dodgers are tied 1-1.",
+     "NLDS Game 3 (Tue): Yamamoto vs. Chris Sale in Atlanta, and Dustin May vs. Nick Pivetta in San Diego.",
      "Aaron Judge (NYY) was left off the ALDS roster on Oct 3 while he recovers from a calf injury."
     ],
-    "summary": "Division Series under way. Game 1s were tight and pitcher-driven."
+    "summary": "Division Series continue all week. NL Game 3s are Tuesday; AL Game 3s are Wednesday."
    },
    "nba": {
     "items": [
@@ -38,11 +37,29 @@
      "Bengals: Ja'Marr Chase (concussion) and Tee Higgins (groin/adductor strain, possibly 2–3 weeks; had 11 catches for 157 yds first) both left the 22-17 loss to Jacksonville.",
      "Washington: Dan Quinn says 'the hope' is Jayden Daniels (elbow) returns in Week 5; Marcus Mariota aggravated his MCL, and rookie Athan Kaliakmanis finished in London.",
      "Justin Jefferson (MIN, ankle sprain) missed Week 4 but the Vikings are hopeful he plays at New Orleans.",
-     "Saquon Barkley (PHI) hamstring, out in the first half; DeVonta Smith and Dallas Goedert were already out.",
-     "Chargers lost Ladd McConkey (foot), Joe Alt (neck) and Rashawn Slater (ankle). Denver lost CBs Patrick Surtain II (ankle) and Riley Moss (ribs) ahead of their meeting.",
-     "Caleb Williams (CHI) and Baker Mayfield (TB) both sat Week 4."
+     "Baker Mayfield (dislocated thumb) is out for Week 5, so undrafted rookie Jalon Daniels starts again on Thursday night.",
+     "Caleb Williams (hamstring) won't play Week 5, so Tyson Bagent starts at Green Bay. De'Von Achane (MIA) tore his ACL and is out for the season.",
+     "Seattle is down to Emanuel Wilson at RB (Charbonnet knee, Price IR). 49ers edge Nick Bosa (calf) is out for multiple weeks. Bills WR DJ Moore re-aggravated his shoulder."
     ],
     "summary": "Week 4 closes tonight with Atlanta at New Orleans. Week 5 opens Thursday with Tampa Bay at Dallas and ends Monday with Buffalo at the Rams. Carolina and Kansas City are on bye."
+   },
+   "nhl": {
+    "items": [
+     "Connor McDavid has 9 points in 3 games, and Edmonton is scoring 5.67 goals a game.",
+     "Philadelphia is allowing a league-worst 40.7 shots a game.",
+     "Boston's Charlie McAvoy is suspended until Oct 13. Anaheim's Troy Terry is out until November after hip surgery.",
+     "Starting goalies aren't confirmed yet for most games, so there are no goalie picks this week."
+    ],
+    "summary": "The 2026-27 regular season opened Sept 29 (84 games this year). Busy week: 4 games Monday, 9 Tuesday, 10 Thursday, 14 Saturday."
+   },
+   "wnba": {
+    "items": [
+     "Game 1s: Atlanta 92, New York 82; Golden State 71, Las Vegas 60.",
+     "Atlanta's Allisha Gray left Game 1 with a left-hand injury, and her Game 2 status is unclear.",
+     "Satou Sabally (NY) and Brionna Jones (ATL) were out for Game 1.",
+     "No. 8 New York swept No. 1 Minnesota in the first round."
+    ],
+    "summary": "Semifinals (best of 5) are under way. Game 2s are Wednesday, Game 3s Friday, Game 4s if needed Sunday. The Finals start Oct 17."
    }
   },
   "sources": [
@@ -133,6 +150,106 @@
    {
     "title": "CBS: Judge left off Yankees' ALDS roster",
     "url": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-injury-update-alds-rays-mlb-playoffs/"
+   },
+   {
+    "title": "FanDuel Research: Falcons vs. Saints props",
+    "url": "https://www.fanduel.com/research/falcons-vs-saints-props-today-3-best-nfl-picks-player-prop-bets-for-mnf"
+   },
+   {
+    "title": "SI: Baker Mayfield injury update",
+    "url": "https://www.si.com/betting/baker-mayfield-injury-update-tanks-bucs-odds-vs-cowboys-in-nfl-week-5-playoff-odds-and-more"
+   },
+   {
+    "title": "NBC Sports: Caleb Williams won't play Week 5",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-05/caleb-williams-hammy-wont-play-in-week-5"
+   },
+   {
+    "title": "NBC Sports: DeVonta Smith questionable at best",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/devonta-smith-questionable-at-very-best-for-week-5"
+   },
+   {
+    "title": "Football Nation: Week 5 game guides",
+    "url": "https://www.footballnationusa.com/post/browns-at-jets-week-5-guide-2026"
+   },
+   {
+    "title": "SI: Lamar Jackson injury and Ravens odds",
+    "url": "https://www.si.com/betting/lamar-jackson-injury-update-causes-massive-shift-to-ravens-vs-falcons-odds-in-nfl-week-5-2026"
+   },
+   {
+    "title": "ESPN: Rams won't limit Puka Nacua",
+    "url": "https://www.espn.com/nfl/story/_/id/50098838/sources-rams-intend-limit-puka-nacua-workload"
+   },
+   {
+    "title": "ESPN: Nick Bosa calf injury",
+    "url": "https://www.espn.com/nfl/story/_/id/50027742/sources-49ers-nick-bosa-injures-calf-miss-multiple-weeks"
+   },
+   {
+    "title": "Covers: Falcons vs Saints picks",
+    "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"
+   },
+   {
+    "title": "Yahoo: Ohio State vs Maryland kickoff",
+    "url": "https://sports.yahoo.com/articles/ohio-state-plays-maryland-kickoff-170000531.html"
+   },
+   {
+    "title": "NCAA.com: AP Top 25",
+    "url": "https://www.ncaa.com/news/football/article/2026-10-04/top-five-holds-alabama-rises-latest-ap-top-25-college-football-rankings"
+   },
+   {
+    "title": "AP: Oklahoma facing QB questions",
+    "url": "https://www.bozemandailychronicle.com/wire/sports/oklahoma-facing-qb-questions-heading-into-rivalry-week-against-no-1-texas/article_c1bcf75b-21ff-5896-a4ea-594c220b21e2.html"
+   },
+   {
+    "title": "SportsBettingDime: USC vs Penn State",
+    "url": "https://www.sportsbettingdime.com/news/college-football/usc-penn-state-prediction-early-spread-best-bet/"
+   },
+   {
+    "title": "ESPN: Indiana's Turbo Richard runs for 204",
+    "url": "https://www.espn.com/college-football/story/_/id/50097725/indiana-richard-returns-top-form-runs-204-yards-rout"
+   },
+   {
+    "title": "MLB.com: Dodgers-Braves NLDS Game 3 matchup",
+    "url": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup"
+   },
+   {
+    "title": "MLB.com: Brewers-Padres NLDS Game 3",
+    "url": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup"
+   },
+   {
+    "title": "Covers: White Sox vs Guardians props",
+    "url": "https://www.covers.com/mlb/white-sox-vs-guardians-props-best-bets-oct-5-2026"
+   },
+   {
+    "title": "TheLines: Yankees vs Rays Game 2 props",
+    "url": "https://www.thelines.com/mlb/picks/yankees-vs-rays-prediction-odds-and-props-for-oct-5-new-york-evens-series/"
+   },
+   {
+    "title": "NHL: 2026-27 schedule",
+    "url": "https://www.nhl.com/news/nhl-announces-2026-27-regular-season-schedule"
+   },
+   {
+    "title": "Covers: NHL prop picks Oct 5",
+    "url": "https://www.covers.com/nhl/player-prop-picks-oct-5-2026"
+   },
+   {
+    "title": "Dimers: NHL player props Oct 5",
+    "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-05-2026-ac"
+   },
+   {
+    "title": "Yahoo: 2026 WNBA semifinals schedule",
+    "url": "https://sports.yahoo.com/articles/2026-wnba-semifinals-schedule-watch-101604709.html"
+   },
+   {
+    "title": "AJC: Allisha Gray hurt in Game 1",
+    "url": "https://www.ajc.com/sports/2026/10/allisha-gray-hurt-dream-beat-liberty-game-1-wnba-semifinals/"
+   },
+   {
+    "title": "Aces: Game 1 recap vs Valkyries",
+    "url": "https://aces.wnba.com/news/game-recap-poor-rebounding-plagued-aces-in-71-60-game-1-semifinals-loss-to-valkyries"
+   },
+   {
+    "title": "SI: Liberty vs Dream prop bet",
+    "url": "https://www.si.com/betting/liberty-vs-dream-prediction-odds-best-prop-bet-wnba-playoffs-semifinals-game-1-2026"
    }
   ],
   "weekStart": "2026-10-05"
