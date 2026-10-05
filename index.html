@@ -104,6 +104,10 @@ h1 em{font-style:normal;color:var(--amber)}
 .group{display:flex;align-items:center;gap:10px;margin:22px 0 10px;font-family:var(--f-display);font-weight:800;font-size:18px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .group:first-child{margin-top:0}
 .group::after{content:"";flex:1;height:1px;background:var(--line)}
+.gcount{font-family:var(--f-mono);font-size:12px;letter-spacing:0;color:var(--muted);order:2}
+.group::after{order:1}
+.gamehdr{display:flex;align-items:baseline;gap:10px;margin:16px 0 8px;font-size:13px;color:var(--muted)}
+.gamehdr b{font-family:var(--f-display);font-weight:800;font-size:17px;letter-spacing:.04em;text-transform:uppercase;color:var(--ink)}
 .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 @media (max-width:720px){.grid{grid-template-columns:minmax(0,1fr)}}
 .card{position:relative;background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:grid;grid-template-columns:92px minmax(0,1fr);transition:border-color .15s,box-shadow .15s,transform .15s}
@@ -224,14 +228,17 @@ details.src a{color:var(--muted);overflow-wrap:anywhere}
 </div>
 
 <script>
-const SPORTS=[["all","All"],["nfl","NFL"],["cfb","College FB"],["mlb","MLB"],["nba","NBA"]];
-const SPORT_NAME={nfl:"NFL",cfb:"College football",mlb:"MLB",nba:"NBA"};
-const LEAGUE={nfl:"nfl",cfb:"college-football",mlb:"mlb",nba:"nba"};
+const SPORTS=[["all","All"],["nfl","NFL"],["cfb","College FB"],["mlb","MLB"],["nhl","NHL"],["nba","NBA"],["wnba","WNBA"]];
+const ORDER=["nfl","cfb","mlb","nhl","nba","wnba"];
+const SPORT_NAME={nfl:"NFL",cfb:"College football",mlb:"MLB",nhl:"NHL",nba:"NBA",wnba:"WNBA"};
+const LEAGUE={nfl:"nfl",cfb:"college-football",mlb:"mlb",nhl:"nhl",nba:"nba",wnba:"wnba"};
 // Team primary colors for the photo panel (keyed sport:ABBR). Unknown teams get a stable generated color.
 const TEAM={
  "nfl:ARI":"#97233F","nfl:ATL":"#A71930","nfl:BAL":"#241773","nfl:BUF":"#00338D","nfl:CAR":"#0085CA","nfl:CHI":"#0B162A","nfl:CIN":"#FB4F14","nfl:CLE":"#311D00","nfl:DAL":"#003594","nfl:DEN":"#FB4F14","nfl:DET":"#0076B6","nfl:GB":"#203731","nfl:HOU":"#03202F","nfl:IND":"#002C5F","nfl:JAX":"#006778","nfl:KC":"#E31837","nfl:LV":"#2b2b2b","nfl:LAC":"#0080C6","nfl:LAR":"#003594","nfl:MIA":"#008E97","nfl:MIN":"#4F2683","nfl:NE":"#002244","nfl:NO":"#9F8958","nfl:NYG":"#0B2265","nfl:NYJ":"#125740","nfl:PHI":"#004C54","nfl:PIT":"#2b2b2b","nfl:SF":"#AA0000","nfl:SEA":"#002244","nfl:TB":"#D50A0A","nfl:TEN":"#0C2340","nfl:WSH":"#5A1414",
  "mlb:ARI":"#A71930","mlb:ATL":"#CE1141","mlb:BAL":"#DF4601","mlb:BOS":"#BD3039","mlb:CHC":"#0E3386","mlb:CWS":"#27251F","mlb:CIN":"#C6011F","mlb:CLE":"#00385D","mlb:COL":"#333366","mlb:DET":"#0C2340","mlb:HOU":"#002D62","mlb:KC":"#004687","mlb:LAA":"#BA0021","mlb:LAD":"#005A9C","mlb:MIA":"#00A3E0","mlb:MIL":"#12284B","mlb:MIN":"#002B5C","mlb:NYM":"#002D72","mlb:NYY":"#0C2340","mlb:ATH":"#003831","mlb:OAK":"#003831","mlb:PHI":"#E81828","mlb:PIT":"#27251F","mlb:SD":"#2F241D","mlb:SF":"#FD5A1E","mlb:SEA":"#0C2C56","mlb:STL":"#C41E3A","mlb:TB":"#092C5C","mlb:TEX":"#003278","mlb:TOR":"#134A8E","mlb:WSH":"#AB0003",
- "cfb:ALABAMA":"#9E1B32","cfb:BAMA":"#9E1B32","cfb:ALA":"#9E1B32","cfb:UGA":"#BA0C2F","cfb:TEX":"#BF5700","cfb:OU":"#841617","cfb:UCLA":"#2D68C4","cfb:ORE":"#154733","cfb:OSU":"#BB0000","cfb:MIA":"#F47321","cfb:USC":"#990000","cfb:PSU":"#041E42","cfb:ND":"#0C2340","cfb:LSU":"#461D7C","cfb:MICH":"#00274C","cfb:CLEM":"#F56600"
+ "cfb:ALABAMA":"#9E1B32","cfb:BAMA":"#9E1B32","cfb:ALA":"#9E1B32","cfb:UGA":"#BA0C2F","cfb:TEX":"#BF5700","cfb:OU":"#841617","cfb:UCLA":"#2D68C4","cfb:ORE":"#154733","cfb:OSU":"#BB0000","cfb:MIA":"#F47321","cfb:USC":"#990000","cfb:PSU":"#041E42","cfb:ND":"#0C2340","cfb:LSU":"#461D7C","cfb:MICH":"#00274C","cfb:CLEM":"#F56600","cfb:IND":"#990000","cfb:NEB":"#E41C38","cfb:TAMU":"#500000","cfb:MIZ":"#F1B82D","cfb:MISS":"#14213D","cfb:VAN":"#866D4B","cfb:UK":"#0033A0","cfb:MD":"#E03A3E",
+ "nhl:ANA":"#F47A38","nhl:BOS":"#3a3a3a","nhl:BUF":"#003087","nhl:CGY":"#C8102E","nhl:CAR":"#CE1126","nhl:CHI":"#CF0A2C","nhl:COL":"#6F263D","nhl:CBJ":"#002654","nhl:DAL":"#006847","nhl:DET":"#CE1126","nhl:EDM":"#041E42","nhl:FLA":"#C8102E","nhl:LAK":"#2b2b2b","nhl:MIN":"#154734","nhl:MTL":"#AF1E2D","nhl:NSH":"#041E42","nhl:NJD":"#CE1126","nhl:NYI":"#00539B","nhl:NYR":"#0038A8","nhl:OTT":"#C52032","nhl:PHI":"#F74902","nhl:PIT":"#2b2b2b","nhl:SJS":"#006D75","nhl:SEA":"#001628","nhl:STL":"#002F87","nhl:TBL":"#002868","nhl:TOR":"#00205B","nhl:UTA":"#4b9cd3","nhl:VAN":"#00205B","nhl:VGK":"#7a6a43","nhl:WSH":"#C8102E","nhl:WPG":"#041E42",
+ "wnba:ATL":"#C8102E","wnba:CHI":"#418FDE","wnba:CONN":"#0A2240","wnba:DAL":"#0C2340","wnba:GS":"#6C4BA6","wnba:IND":"#002D62","wnba:LV":"#3a3a3a","wnba:LA":"#552583","wnba:MIN":"#266092","wnba:NY":"#6ECEB2","wnba:PHX":"#CB6015","wnba:SEA":"#2C5235","wnba:WSH":"#C8102E","wnba:POR":"#B7202E","wnba:TOR":"#1B365D"
 };
 const state={weeks:[],picks:[],week:null,sport:"all",slip:[]};
 const $=id=>document.getElementById(id);
@@ -326,10 +333,15 @@ function renderPicks(){
   const el=$("picks");
   $("count").textContent=list.length?`${list.length} picks · ${list.filter(isOpen).length} open`:"";
   if(!list.length){el.innerHTML=`<div class="empty">${state.sport==="nba"?"NBA picks start once the regular season tips off on Oct 20.":"No picks for this sport this week."}</div>`;return}
-  const order=["nfl","cfb","mlb","nba"];
-  list.sort((a,b)=>order.indexOf(a.sport)-order.indexOf(b.sport)||isOpen(b)-isOpen(a)||(b.confidence||0)-(a.confidence||0));
+  const day=p=>{const m=String(p.gameTime||"").match(/(\d{1,2})\/(\d{1,2})/);return m?(+m[1])*40+(+m[2]):9999};
+  list.sort((a,b)=>ORDER.indexOf(a.sport)-ORDER.indexOf(b.sport)||day(a)-day(b)||String(a.game).localeCompare(String(b.game))||isOpen(b)-isOpen(a)||(b.confidence||0)-(a.confidence||0));
   let html="";
-  for(const s of order){const x=list.filter(p=>p.sport===s);if(!x.length)continue;html+=`<div class="group">${SPORT_NAME[s]}</div><div class="grid">${x.map(card).join("")}</div>`}
+  for(const s of ORDER){
+    const x=list.filter(p=>p.sport===s);if(!x.length)continue;
+    html+=`<div class="group">${SPORT_NAME[s]}<span class="gcount">${x.length}</span></div>`;
+    const games=[...new Set(x.map(p=>p.game||""))];
+    for(const g of games){const y=x.filter(p=>(p.game||"")===g);html+=`<div class="gamehdr"><b>${esc(g)}</b><span>${esc(y[0].gameTime||"")}</span></div><div class="grid">${y.map(card).join("")}</div>`}
+  }
   el.innerHTML=html;
 }
 
@@ -337,7 +349,7 @@ function renderBrief(){
   const w=state.weeks.find(w=>w.id===state.week);
   const el=$("brief");
   if(!w){el.innerHTML="";return}
-  const keys=state.sport==="all"?["nfl","cfb","mlb","nba"]:[state.sport];
+  const keys=state.sport==="all"?ORDER:[state.sport];
   const news=w.news||{};
   el.innerHTML=`<div class="sec-h"><h2>The week's news</h2></div>`+
     (w.headline?`<p class="headline">${esc(w.headline)}</p>`:"")+
