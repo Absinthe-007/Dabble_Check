@@ -9,6 +9,16 @@
   "newsTag": "Matchup",
   "player": "Keelon Russell",
   "side": "Less",
+  "sources": [
+   {
+    "title": "SI: Week 6 opening odds for every top-25 game",
+    "url": "https://www.si.com/betting/college-football-week-6-opening-odds-for-every-top-25-game-georgia-favored-vs-alabama-texas-favored-vs-ou"
+   },
+   {
+    "title": "DawgNation: Georgia-Alabama preview (Gunner Stockton)",
+    "url": "https://www.dawgnation.com/football/georgia-alabama-quickly-turn-focus-sec-showdown-tuscaloosa/2X4W7MLWMZDQJE2O66NIULGEMI/"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing yards",
   "status": "pending",
@@ -26,6 +36,20 @@
   "newsTag": "Turnover trend",
   "player": "Arch Manning",
   "side": "More",
+  "sources": [
+   {
+    "title": "SI: Arch Manning first four games",
+    "url": "https://www.si.com/college/texas/football/is-arch-manning-the-real-deal-evaluating-his-first-four-games-in-2026"
+   },
+   {
+    "title": "AP: Oklahoma facing QB questions",
+    "url": "https://www.bozemandailychronicle.com/wire/sports/oklahoma-facing-qb-questions-heading-into-rivalry-week-against-no-1-texas/article_c1bcf75b-21ff-5896-a4ea-594c220b21e2.html"
+   },
+   {
+    "title": "SportsBettingDime: Oklahoma vs Texas prediction (John Mateer)",
+    "url": "https://www.sportsbettingdime.com/news/college-football/early-oklahoma-texas-prediction-spread-red-river-rivalry-odds/"
+   }
+  ],
   "sport": "cfb",
   "stat": "Interceptions",
   "status": "pending",
@@ -43,6 +67,20 @@
   "newsTag": "Red-zone workhorse",
   "player": "Wayne Knight",
   "side": "More",
+  "sources": [
+   {
+    "title": "Yahoo: UCLA-Oregon odds preview",
+    "url": "https://sports.yahoo.com/articles/betting-odds-preview-oregons-big-160006166.html"
+   },
+   {
+    "title": "SI: Oregon vs UCLA betting preview",
+    "url": "https://www.si.com/college/oregon/oregon-ducks-ucla-bruins-betting-odds-preview-big-ten-clash"
+   },
+   {
+    "title": "Daily Bruin: Oregon a true test for UCLA (Nico Iamaleava)",
+    "url": "https://dailybruin.com/2026/10/04/jacobs-wake-up-call-oregon-matchup-will-be-true-test-of-chesneys-renewed-ucla-football-squad"
+   }
+  ],
   "sport": "cfb",
   "stat": "Rushing TDs",
   "status": "pending",
@@ -59,6 +97,16 @@
   "newsTag": "Heisman favorite",
   "player": "Jeremiah Smith",
   "side": "More",
+  "sources": [
+   {
+    "title": "Yahoo: Heisman odds tracker (Jeremiah Smith)",
+    "url": "https://sports.yahoo.com/articles/heisman-trophy-betting-odds-tracker-113528670.html"
+   },
+   {
+    "title": "Yahoo: Ohio State vs Maryland kickoff",
+    "url": "https://sports.yahoo.com/articles/ohio-state-plays-maryland-kickoff-170000531.html"
+   }
+  ],
   "sport": "cfb",
   "stat": "Receiving yards",
   "status": "pending",
@@ -77,6 +125,16 @@
   "newsTag": "QB job questioned",
   "player": "John Mateer",
   "side": "Less",
+  "sources": [
+   {
+    "title": "SportsBettingDime: Oklahoma vs Texas prediction (John Mateer)",
+    "url": "https://www.sportsbettingdime.com/news/college-football/early-oklahoma-texas-prediction-spread-red-river-rivalry-odds/"
+   },
+   {
+    "title": "AP: Oklahoma facing QB questions",
+    "url": "https://www.bozemandailychronicle.com/wire/sports/oklahoma-facing-qb-questions-heading-into-rivalry-week-against-no-1-texas/article_c1bcf75b-21ff-5896-a4ea-594c220b21e2.html"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing yards",
   "status": "pending",
@@ -94,6 +152,20 @@
   "newsTag": "RB committee",
   "player": "Raleek Brown",
   "side": "Less",
+  "sources": [
+   {
+    "title": "AP: Oklahoma facing QB questions",
+    "url": "https://www.bozemandailychronicle.com/wire/sports/oklahoma-facing-qb-questions-heading-into-rivalry-week-against-no-1-texas/article_c1bcf75b-21ff-5896-a4ea-594c220b21e2.html"
+   },
+   {
+    "title": "SportsBettingDime: Oklahoma vs Texas prediction (John Mateer)",
+    "url": "https://www.sportsbettingdime.com/news/college-football/early-oklahoma-texas-prediction-spread-red-river-rivalry-odds/"
+   },
+   {
+    "title": "SI: Arch Manning first four games",
+    "url": "https://www.si.com/college/texas/football/is-arch-manning-the-real-deal-evaluating-his-first-four-games-in-2026"
+   }
+  ],
   "sport": "cfb",
   "stat": "Rushing yards",
   "status": "pending",
@@ -111,6 +183,20 @@
   "newsTag": "Run-first road spot",
   "player": "Gunner Stockton",
   "side": "Less",
+  "sources": [
+   {
+    "title": "DawgNation: Georgia-Alabama preview (Gunner Stockton)",
+    "url": "https://www.dawgnation.com/football/georgia-alabama-quickly-turn-focus-sec-showdown-tuscaloosa/2X4W7MLWMZDQJE2O66NIULGEMI/"
+   },
+   {
+    "title": "StatMuse: Gunner Stockton 2026 game log",
+    "url": "https://www.statmuse.com/cfb/player/gunner-stockton-71925"
+   },
+   {
+    "title": "SI: Week 6 opening odds for every top-25 game",
+    "url": "https://www.si.com/betting/college-football-week-6-opening-odds-for-every-top-25-game-georgia-favored-vs-alabama-texas-favored-vs-ou"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing yards",
   "status": "pending",
@@ -128,6 +214,20 @@
   "newsTag": "Run-heavy Bruins",
   "player": "Nico Iamaleava",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Daily Bruin: Oregon a true test for UCLA (Nico Iamaleava)",
+    "url": "https://dailybruin.com/2026/10/04/jacobs-wake-up-call-oregon-matchup-will-be-true-test-of-chesneys-renewed-ucla-football-squad"
+   },
+   {
+    "title": "Yahoo: UCLA-Oregon odds preview",
+    "url": "https://sports.yahoo.com/articles/betting-odds-preview-oregons-big-160006166.html"
+   },
+   {
+    "title": "SI: Oregon vs UCLA betting preview",
+    "url": "https://www.si.com/college/oregon/oregon-ducks-ucla-bruins-betting-odds-preview-big-ten-clash"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing yards",
   "status": "pending",
@@ -146,6 +246,20 @@
   "newsTag": "Goal-line back",
   "player": "Jordon Davison",
   "side": "More",
+  "sources": [
+   {
+    "title": "Yahoo: UCLA-Oregon odds preview",
+    "url": "https://sports.yahoo.com/articles/betting-odds-preview-oregons-big-160006166.html"
+   },
+   {
+    "title": "SI: Oregon vs UCLA betting preview",
+    "url": "https://www.si.com/college/oregon/oregon-ducks-ucla-bruins-betting-odds-preview-big-ten-clash"
+   },
+   {
+    "title": "Daily Bruin: Oregon a true test for UCLA (Nico Iamaleava)",
+    "url": "https://dailybruin.com/2026/10/04/jacobs-wake-up-call-oregon-matchup-will-be-true-test-of-chesneys-renewed-ucla-football-squad"
+   }
+  ],
   "sport": "cfb",
   "stat": "Rushing TDs",
   "status": "pending",
@@ -163,6 +277,16 @@
   "newsTag": "PSU D reeling",
   "player": "Jayden Maiava",
   "side": "More",
+  "sources": [
+   {
+    "title": "SportsBettingDime: USC vs Penn State",
+    "url": "https://www.sportsbettingdime.com/news/college-football/usc-penn-state-prediction-early-spread-best-bet/"
+   },
+   {
+    "title": "SI: First look at Penn State vs USC",
+    "url": "https://www.si.com/college/pennstate/football/first-look-at-penn-state-vs-usc-nittany-lions-surprise-as-early-favorites"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing yards",
   "status": "pending",
@@ -180,6 +304,16 @@
   "newsTag": "Run D collapse",
   "player": "King Miller",
   "side": "More",
+  "sources": [
+   {
+    "title": "SportsBettingDime: USC vs Penn State",
+    "url": "https://www.sportsbettingdime.com/news/college-football/usc-penn-state-prediction-early-spread-best-bet/"
+   },
+   {
+    "title": "SI: First look at Penn State vs USC",
+    "url": "https://www.si.com/college/pennstate/football/first-look-at-penn-state-vs-usc-nittany-lions-surprise-as-early-favorites"
+   }
+  ],
   "sport": "cfb",
   "stat": "Rushing yards",
   "status": "pending",
@@ -197,6 +331,16 @@
   "newsTag": "Struggling in B1G",
   "player": "Rocco Becht",
   "side": "Less",
+  "sources": [
+   {
+    "title": "SportsBettingDime: USC vs Penn State",
+    "url": "https://www.sportsbettingdime.com/news/college-football/usc-penn-state-prediction-early-spread-best-bet/"
+   },
+   {
+    "title": "SI: First look at Penn State vs USC",
+    "url": "https://www.si.com/college/pennstate/football/first-look-at-penn-state-vs-usc-nittany-lions-surprise-as-early-favorites"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing yards",
   "status": "pending",
@@ -215,6 +359,12 @@
   "newsTag": "Banged-up, INT-prone",
   "player": "Sam Leavitt",
   "side": "More",
+  "sources": [
+   {
+    "title": "Saturday Down South: Kiffin update on Sam Leavitt",
+    "url": "https://www.saturdaydownsouth.com/news/college-football/lane-kiffin-gives-update-on-sam-leavitts-injury-status-after-week-5/"
+   }
+  ],
   "sport": "cfb",
   "stat": "Interceptions",
   "status": "pending",
@@ -232,6 +382,16 @@
   "newsTag": "TD machine",
   "player": "Josh Hoover",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Indiana's Turbo Richard runs for 204",
+    "url": "https://www.espn.com/college-football/story/_/id/50097725/indiana-richard-returns-top-form-runs-204-yards-rout"
+   },
+   {
+    "title": "Covers: Indiana vs Nebraska picks",
+    "url": "https://www.covers.com/sport/football/ncaaf/matchup/378248/picks"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing TDs",
   "status": "pending",
@@ -249,6 +409,16 @@
   "newsTag": "Alpha WR",
   "player": "Charlie Becker",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Indiana's Turbo Richard runs for 204",
+    "url": "https://www.espn.com/college-football/story/_/id/50097725/indiana-richard-returns-top-form-runs-204-yards-rout"
+   },
+   {
+    "title": "Covers: Indiana vs Nebraska picks",
+    "url": "https://www.covers.com/sport/football/ncaaf/matchup/378248/picks"
+   }
+  ],
   "sport": "cfb",
   "stat": "Receiving yards",
   "status": "pending",
@@ -266,6 +436,16 @@
   "newsTag": "Healthy, 204 last wk",
   "player": "Turbo Richard",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Indiana's Turbo Richard runs for 204",
+    "url": "https://www.espn.com/college-football/story/_/id/50097725/indiana-richard-returns-top-form-runs-204-yards-rout"
+   },
+   {
+    "title": "Covers: Indiana vs Nebraska picks",
+    "url": "https://www.covers.com/sport/football/ncaaf/matchup/378248/picks"
+   }
+  ],
   "sport": "cfb",
   "stat": "Rushing yards",
   "status": "pending",
@@ -283,6 +463,12 @@
   "newsTag": "QB struggling",
   "player": "Marcel Reed",
   "side": "Less",
+  "sources": [
+   {
+    "title": "ESPN: Elko confident in struggling QB Marcel Reed",
+    "url": "https://www.espn.com/college-football/story/_/id/50000378/texas-elko-confidence-remains-struggling-qb-reed"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing yards",
   "status": "pending",
@@ -300,6 +486,12 @@
   "newsTag": "Hardy still out",
   "player": "Jamal Roberts",
   "side": "More",
+  "sources": [
+   {
+    "title": "RotoWire: Ahmad Hardy status (Missouri)",
+    "url": "https://www.rotowire.com/cfootball/player/ahmad-hardy-46918"
+   }
+  ],
   "sport": "cfb",
   "stat": "Rushing yards",
   "status": "pending",
@@ -317,6 +509,12 @@
   "newsTag": "Off bye, Lacy iffy",
   "player": "Trinidad Chambliss",
   "side": "More",
+  "sources": [
+   {
+    "title": "SuperTalk: Ole Miss bye week, Kewan Lacy status",
+    "url": "https://supertalk.fm/ole-miss-football-using-bye-week-to-address-defensive-issues-after-florida-loss"
+   }
+  ],
   "sport": "cfb",
   "stat": "Passing yards",
   "status": "pending",
@@ -334,6 +532,12 @@
   "newsTag": "Top target",
   "player": "Deuce Alexander",
   "side": "More",
+  "sources": [
+   {
+    "title": "SuperTalk: Ole Miss bye week, Kewan Lacy status",
+    "url": "https://supertalk.fm/ole-miss-football-using-bye-week-to-address-defensive-issues-after-florida-loss"
+   }
+  ],
   "sport": "cfb",
   "stat": "Receiving yards",
   "status": "pending",
@@ -351,6 +555,20 @@
   "newsTag": "ALDS probable",
   "player": "Gavin Williams",
   "side": "More",
+  "sources": [
+   {
+    "title": "MLB.com White Sox-Guardians matchups",
+    "url": "https://www.mlb.com/news/white-sox-guardians-pitching-matchups-for-2026-alds"
+   },
+   {
+    "title": "Covers: White Sox vs Guardians props",
+    "url": "https://www.covers.com/mlb/white-sox-vs-guardians-props-best-bets-oct-5-2026"
+   },
+   {
+    "title": "MLB.com: White Sox vs. Guardians ALDS Game 2 lineups",
+    "url": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
+   }
+  ],
   "sport": "mlb",
   "stat": "Strikeouts",
   "status": "pending",
@@ -368,6 +586,20 @@
   "newsTag": "Opener role",
   "player": "Anthony Kay",
   "side": "Less",
+  "sources": [
+   {
+    "title": "MLB.com White Sox-Guardians matchups",
+    "url": "https://www.mlb.com/news/white-sox-guardians-pitching-matchups-for-2026-alds"
+   },
+   {
+    "title": "Covers: White Sox vs Guardians props",
+    "url": "https://www.covers.com/mlb/white-sox-vs-guardians-props-best-bets-oct-5-2026"
+   },
+   {
+    "title": "MLB.com: White Sox vs. Guardians ALDS Game 2 lineups",
+    "url": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
+   }
+  ],
   "sport": "mlb",
   "stat": "Pitching outs",
   "status": "pending",
@@ -385,6 +617,20 @@
   "newsTag": "ALDS probable",
   "player": "Cam Schlittler",
   "side": "More",
+  "sources": [
+   {
+    "title": "Yahoo ALDS Game 2 probables",
+    "url": "https://sports.yahoo.com/articles/probable-starting-pitchers-yankees-rays-220421923.html"
+   },
+   {
+    "title": "CBS: Judge left off Yankees' ALDS roster",
+    "url": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-injury-update-alds-rays-mlb-playoffs/"
+   },
+   {
+    "title": "TheLines: Yankees vs Rays Game 2 props",
+    "url": "https://www.thelines.com/mlb/picks/yankees-vs-rays-prediction-odds-and-props-for-oct-5-new-york-evens-series/"
+   }
+  ],
   "sport": "mlb",
   "stat": "Strikeouts",
   "status": "pending",
@@ -402,6 +648,20 @@
   "newsTag": "ALDS probable",
   "player": "Freddy Peralta",
   "side": "Less",
+  "sources": [
+   {
+    "title": "SI: Yankees vs. Rays Game 2 props (Peralta, Bellinger)",
+    "url": "https://www.si.com/betting/yankees-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-alds-game-2-2026"
+   },
+   {
+    "title": "Bay News 9: Rays send Peralta vs Yankees",
+    "url": "https://baynews9.com/fl/tampa/sports/2026/10/05/tampa-bay-rays--new-york-yankees--alds"
+   },
+   {
+    "title": "Yahoo ALDS Game 2 probables",
+    "url": "https://sports.yahoo.com/articles/probable-starting-pitchers-yankees-rays-220421923.html"
+   }
+  ],
   "sport": "mlb",
   "stat": "Earned runs allowed",
   "status": "pending",
@@ -420,6 +680,20 @@
   "newsTag": "Low-scoring series",
   "player": "Aaron Judge",
   "side": "Less",
+  "sources": [
+   {
+    "title": "CBS: Judge left off Yankees' ALDS roster",
+    "url": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-injury-update-alds-rays-mlb-playoffs/"
+   },
+   {
+    "title": "Yahoo ALDS Game 2 probables",
+    "url": "https://sports.yahoo.com/articles/probable-starting-pitchers-yankees-rays-220421923.html"
+   },
+   {
+    "title": "TheLines: Yankees vs Rays Game 2 props",
+    "url": "https://www.thelines.com/mlb/picks/yankees-vs-rays-prediction-odds-and-props-for-oct-5-new-york-evens-series/"
+   }
+  ],
   "sport": "mlb",
   "stat": "Hits + runs + RBIs",
   "status": "void",
@@ -437,6 +711,20 @@
   "newsTag": "7 straight overs",
   "player": "Freddy Peralta",
   "side": "More",
+  "sources": [
+   {
+    "title": "SI: Yankees vs. Rays Game 2 props (Peralta, Bellinger)",
+    "url": "https://www.si.com/betting/yankees-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-alds-game-2-2026"
+   },
+   {
+    "title": "Bay News 9: Rays send Peralta vs Yankees",
+    "url": "https://baynews9.com/fl/tampa/sports/2026/10/05/tampa-bay-rays--new-york-yankees--alds"
+   },
+   {
+    "title": "Yahoo ALDS Game 2 probables",
+    "url": "https://sports.yahoo.com/articles/probable-starting-pitchers-yankees-rays-220421923.html"
+   }
+  ],
   "sport": "mlb",
   "stat": "Pitching outs",
   "status": "pending",
@@ -454,6 +742,20 @@
   "newsTag": "Owns Peralta matchup",
   "player": "Cody Bellinger",
   "side": "More",
+  "sources": [
+   {
+    "title": "SI: Yankees vs. Rays Game 2 props (Peralta, Bellinger)",
+    "url": "https://www.si.com/betting/yankees-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-alds-game-2-2026"
+   },
+   {
+    "title": "Yahoo ALDS Game 2 probables",
+    "url": "https://sports.yahoo.com/articles/probable-starting-pitchers-yankees-rays-220421923.html"
+   },
+   {
+    "title": "CBS: Judge left off Yankees' ALDS roster",
+    "url": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-injury-update-alds-rays-mlb-playoffs/"
+   }
+  ],
   "sport": "mlb",
   "stat": "Total bases",
   "status": "pending",
@@ -471,6 +773,20 @@
   "newsTag": "Contact leadoff man",
   "player": "Sam Antonacci",
   "side": "More",
+  "sources": [
+   {
+    "title": "MLB.com White Sox-Guardians matchups",
+    "url": "https://www.mlb.com/news/white-sox-guardians-pitching-matchups-for-2026-alds"
+   },
+   {
+    "title": "Covers: White Sox vs Guardians props",
+    "url": "https://www.covers.com/mlb/white-sox-vs-guardians-props-best-bets-oct-5-2026"
+   },
+   {
+    "title": "MLB.com: White Sox vs. Guardians ALDS Game 2 lineups",
+    "url": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
+   }
+  ],
   "sport": "mlb",
   "stat": "Hits",
   "status": "pending",
@@ -488,6 +804,20 @@
   "newsTag": "Owns Williams",
   "player": "Miguel Vargas",
   "side": "More",
+  "sources": [
+   {
+    "title": "MLB.com White Sox-Guardians matchups",
+    "url": "https://www.mlb.com/news/white-sox-guardians-pitching-matchups-for-2026-alds"
+   },
+   {
+    "title": "Covers: White Sox vs Guardians props",
+    "url": "https://www.covers.com/mlb/white-sox-vs-guardians-props-best-bets-oct-5-2026"
+   },
+   {
+    "title": "MLB.com: White Sox vs. Guardians ALDS Game 2 lineups",
+    "url": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
+   }
+  ],
   "sport": "mlb",
   "stat": "Hits",
   "status": "pending",
@@ -505,6 +835,20 @@
   "newsTag": "Hot September",
   "player": "Travis Bazzana",
   "side": "More",
+  "sources": [
+   {
+    "title": "MLB.com White Sox-Guardians matchups",
+    "url": "https://www.mlb.com/news/white-sox-guardians-pitching-matchups-for-2026-alds"
+   },
+   {
+    "title": "Covers: White Sox vs Guardians props",
+    "url": "https://www.covers.com/mlb/white-sox-vs-guardians-props-best-bets-oct-5-2026"
+   },
+   {
+    "title": "MLB.com: White Sox vs. Guardians ALDS Game 2 lineups",
+    "url": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
+   }
+  ],
   "sport": "mlb",
   "stat": "Hits",
   "status": "pending",
@@ -522,6 +866,20 @@
   "newsTag": "Whiff leader, extra rest",
   "player": "Chris Sale",
   "side": "More",
+  "sources": [
+   {
+    "title": "RotoWire: Chris Sale lined up for Game 3",
+    "url": "https://www.rotowire.com/baseball/headlines/chris-sale-news-lined-up-for-game-3-1027747"
+   },
+   {
+    "title": "MLB.com: Dodgers-Braves NLDS Game 3 matchup",
+    "url": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup"
+   },
+   {
+    "title": "MLB.com: Braves-Dodgers NLDS Game 2 takeaways (Michael Harris II)",
+    "url": "https://www.mlb.com/news/braves-dodgers-nlds-game-2-takeaways"
+   }
+  ],
   "sport": "mlb",
   "stat": "Strikeouts",
   "status": "pending",
@@ -539,6 +897,20 @@
   "newsTag": "Elite WHIP",
   "player": "Yoshinobu Yamamoto",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Dodger Blue: Dodgers NLDS rotation order (Yamamoto)",
+    "url": "https://dodgerblue.com/dodgers-starting-rotation-order-nlds-games/2026/10/03/"
+   },
+   {
+    "title": "MLB.com: Dodgers-Braves NLDS Game 3 matchup",
+    "url": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup"
+   },
+   {
+    "title": "MLB.com: Braves-Dodgers NLDS Game 2 takeaways (Michael Harris II)",
+    "url": "https://www.mlb.com/news/braves-dodgers-nlds-game-2-takeaways"
+   }
+  ],
   "sport": "mlb",
   "stat": "Earned runs allowed",
   "status": "pending",
@@ -556,6 +928,16 @@
   "newsTag": "Postseason hot streak",
   "player": "Michael Harris II",
   "side": "More",
+  "sources": [
+   {
+    "title": "MLB.com: Braves-Dodgers NLDS Game 2 takeaways (Michael Harris II)",
+    "url": "https://www.mlb.com/news/braves-dodgers-nlds-game-2-takeaways"
+   },
+   {
+    "title": "MLB.com: Dodgers-Braves NLDS Game 3 matchup",
+    "url": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup"
+   }
+  ],
   "sport": "mlb",
   "stat": "Hits + runs + RBIs",
   "status": "pending",
@@ -573,6 +955,20 @@
   "newsTag": "Short leash likely",
   "player": "Dustin May",
   "side": "Less",
+  "sources": [
+   {
+    "title": "MLB.com: Dustin May to start NLDS Game 3",
+    "url": "https://mlb.com/news/dustin-may-to-start-nlds-game-3-brewers-padres"
+   },
+   {
+    "title": "MLB.com: Brewers-Padres NLDS Game 3",
+    "url": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup"
+   },
+   {
+    "title": "Yahoo: NLDS Game 2 probable starters",
+    "url": "https://sports.yahoo.com/articles/probable-starting-pitchers-brewers-padres-045356582.html"
+   }
+  ],
   "sport": "mlb",
   "stat": "Pitching outs",
   "status": "pending",
@@ -590,6 +986,20 @@
   "newsTag": "Walk-off hero",
   "player": "Jackson Chourio",
   "side": "More",
+  "sources": [
+   {
+    "title": "CBS: NLDS Game 2 winners and losers (Jackson Chourio)",
+    "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/"
+   },
+   {
+    "title": "MLB.com: Brewers-Padres NLDS Game 3",
+    "url": "https://www.mlb.com/news/brewers-padres-nl-division-series-game-3-starting-lineups-and-pitching-matchup"
+   },
+   {
+    "title": "Yahoo: NLDS Game 2 probable starters",
+    "url": "https://sports.yahoo.com/articles/probable-starting-pitchers-brewers-padres-045356582.html"
+   }
+  ],
   "sport": "mlb",
   "stat": "Hits",
   "status": "pending",
@@ -607,6 +1017,20 @@
   "newsTag": "Saints front-seven injuries",
   "player": "Bijan Robinson",
   "side": "More",
+  "sources": [
+   {
+    "title": "FanDuel Research: Falcons vs. Saints props",
+    "url": "https://www.fanduel.com/research/falcons-vs-saints-props-today-3-best-nfl-picks-player-prop-bets-for-mnf"
+   },
+   {
+    "title": "Covers: Falcons vs Saints picks",
+    "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"
+   },
+   {
+    "title": "Bettors Insider: Falcons vs. Saints player props",
+    "url": "https://bettorsinsider.com/nfl/2026/10/04/falcons-vs-saints-3-skill-position-props-to-back-on-monday-night-football/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -624,6 +1048,20 @@
   "newsTag": "Bucs injuries",
   "player": "CeeDee Lamb",
   "side": "More",
+  "sources": [
+   {
+    "title": "SI: Baker Mayfield injury update",
+    "url": "https://www.si.com/betting/baker-mayfield-injury-update-tanks-bucs-odds-vs-cowboys-in-nfl-week-5-playoff-odds-and-more"
+   },
+   {
+    "title": "SI: Buccaneers vs. Cowboys prediction, odds, injuries",
+    "url": "https://www.si.com/betting/buccaneers-vs-cowboys-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   },
+   {
+    "title": "Football Nation: Cowboys 34, Texans 30 recap",
+    "url": "https://www.footballnationusa.com/post/cowboys-34-texans-30-week-4-recap-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -641,6 +1079,20 @@
   "newsTag": "Usage trend",
   "player": "George Kittle",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: 49ers at Seahawks Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/49ers-seahawks-week-5-guide-2026"
+   },
+   {
+    "title": "Dimers: 49ers vs Seahawks early prediction",
+    "url": "https://www.dimers.com/nfl/news/san-francisco-49ers-vs-seattle-seahawks-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "ESPN: Nick Bosa calf injury",
+    "url": "https://www.espn.com/nfl/story/_/id/50027742/sources-49ers-nick-bosa-injures-calf-miss-multiple-weeks"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -659,6 +1111,20 @@
   "newsTag": "Lamar Jackson ankle",
   "player": "Derrick Henry",
   "side": "More",
+  "sources": [
+   {
+    "title": "SI: Lamar Jackson injury and Ravens odds",
+    "url": "https://www.si.com/betting/lamar-jackson-injury-update-causes-massive-shift-to-ravens-vs-falcons-odds-in-nfl-week-5-2026"
+   },
+   {
+    "title": "Yahoo: Lamar Jackson ankle MRI",
+    "url": "https://sports.yahoo.com/articles/ravens-qb-lamar-jackson-undergo-120540271.html"
+   },
+   {
+    "title": "Ravens.com: Recap vs Titans (Zay Flowers, Lamar Jackson)",
+    "url": "https://www.baltimoreravens.com/news/game-recap-ravens-titans-week-4-game-recap-injuries-lamar-jackson"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing attempts",
   "status": "pending",
@@ -677,6 +1143,20 @@
   "newsTag": "Bengals WRs hurt",
   "player": "Mike Gesicki",
   "side": "More",
+  "sources": [
+   {
+    "title": "Yahoo: Gesicki on Higgins injury",
+    "url": "https://sports.yahoo.com/articles/mike-gesicki-explained-tee-higgins-003055539.html"
+   },
+   {
+    "title": "A to Z Sports: Dolphins catching a break vs. Bengals",
+    "url": "https://atozsports.com/nfl/miami-dolphins-news/the-miami-dolphins-may-be-catching-a-break-bengals-week-5-jamarr-chase-tee-higgins/"
+   },
+   {
+    "title": "Yahoo: Bengals announce Tee Higgins injury",
+    "url": "https://sports.yahoo.com/articles/bengals-announce-brutal-tee-higgins-000352054.html"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receptions",
   "status": "pending",
@@ -694,6 +1174,12 @@
   "newsTag": "McConkey + Broncos CB injuries",
   "player": "Quentin Johnston",
   "side": "More",
+  "sources": [
+   {
+    "title": "Fox13: Seahawks beat Chargers 30-23 (Emanuel Wilson)",
+    "url": "https://www.fox13seattle.com/sports/seahawks-survive-penalty-mess-beat-chargers-30-23"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -711,6 +1197,16 @@
   "newsTag": "Volume trend",
   "player": "Drake Maye",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Football Nation: Raiders at Patriots Week 5 guide (Kirk Cousins, Ashton Jeanty)",
+    "url": "https://www.footballnationusa.com/post/raiders-at-patriots-week-5-guide-2026"
+   },
+   {
+    "title": "Yahoo: Winners and losers, Bills vs Patriots",
+    "url": "https://sports.yahoo.com/articles/two-winners-three-losers-bills-015606127.html"
+   }
+  ],
   "sport": "nfl",
   "stat": "Pass attempts",
   "status": "pending",
@@ -729,6 +1225,16 @@
   "newsTag": "Rachaad White shoulder",
   "player": "Austin Ekeler",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Giants at Commanders Week 5 guide (Jameis Winston)",
+    "url": "https://www.footballnationusa.com/post/giants-at-commanders-week-5-guide-2026"
+   },
+   {
+    "title": "CBS: Jayden Daniels Week 5 update",
+    "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rush + rec yards",
   "status": "pending",
@@ -746,6 +1252,16 @@
   "newsTag": "Commanders QB injuries",
   "player": "Washington starting QB",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Football Nation: Giants at Commanders Week 5 guide (Jameis Winston)",
+    "url": "https://www.footballnationusa.com/post/giants-at-commanders-week-5-guide-2026"
+   },
+   {
+    "title": "CBS: Jayden Daniels Week 5 update",
+    "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -764,6 +1280,20 @@
   "newsTag": "Justin Jefferson injury",
   "player": "Jordan Addison",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Vikings at Saints Week 5 guide (Aaron Jones)",
+    "url": "https://www.footballnationusa.com/post/vikings-at-saints-week-5-guide-2026"
+   },
+   {
+    "title": "Yahoo: 5 takeaways from Dolphins' loss to Vikings (Malik Willis, Ollie Gordon)",
+    "url": "https://sports.yahoo.com/articles/5-takeaways-dolphins-15-10-003605260.html"
+   },
+   {
+    "title": "CBS Minnesota: Vikings beat Dolphins (Hockenson, Aaron Jones)",
+    "url": "https://www.cbsnews.com/minnesota/news/minnesota-vikings-win-over-miami-dolphins-week-4/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receptions",
   "status": "pending",
@@ -782,6 +1312,20 @@
   "newsTag": "Coming off 194 yards",
   "player": "Drake London",
   "side": "More",
+  "sources": [
+   {
+    "title": "FanDuel Research: Falcons vs. Saints props",
+    "url": "https://www.fanduel.com/research/falcons-vs-saints-props-today-3-best-nfl-picks-player-prop-bets-for-mnf"
+   },
+   {
+    "title": "Covers: Falcons vs Saints picks",
+    "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"
+   },
+   {
+    "title": "Bettors Insider: Falcons vs. Saints player props",
+    "url": "https://bettorsinsider.com/nfl/2026/10/04/falcons-vs-saints-3-skill-position-props-to-back-on-monday-night-football/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -799,6 +1343,20 @@
   "newsTag": "A.J. Terrell out",
   "player": "Chris Olave",
   "side": "More",
+  "sources": [
+   {
+    "title": "FanDuel Research: Falcons vs. Saints props",
+    "url": "https://www.fanduel.com/research/falcons-vs-saints-props-today-3-best-nfl-picks-player-prop-bets-for-mnf"
+   },
+   {
+    "title": "Covers: Falcons vs Saints picks",
+    "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"
+   },
+   {
+    "title": "Bettors Insider: Falcons vs. Saints player props",
+    "url": "https://bettorsinsider.com/nfl/2026/10/04/falcons-vs-saints-3-skill-position-props-to-back-on-monday-night-football/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -816,6 +1374,20 @@
   "newsTag": "Elite ATL run D",
   "player": "Alvin Kamara",
   "side": "Less",
+  "sources": [
+   {
+    "title": "FanDuel Research: Falcons vs. Saints props",
+    "url": "https://www.fanduel.com/research/falcons-vs-saints-props-today-3-best-nfl-picks-player-prop-bets-for-mnf"
+   },
+   {
+    "title": "Covers: Falcons vs Saints picks",
+    "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"
+   },
+   {
+    "title": "Bettors Insider: Falcons vs. Saints player props",
+    "url": "https://bettorsinsider.com/nfl/2026/10/04/falcons-vs-saints-3-skill-position-props-to-back-on-monday-night-football/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -833,6 +1405,20 @@
   "newsTag": "QB scramble volume",
   "player": "Tyler Shough",
   "side": "More",
+  "sources": [
+   {
+    "title": "FanDuel Research: Falcons vs. Saints props",
+    "url": "https://www.fanduel.com/research/falcons-vs-saints-props-today-3-best-nfl-picks-player-prop-bets-for-mnf"
+   },
+   {
+    "title": "Covers: Falcons vs Saints picks",
+    "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"
+   },
+   {
+    "title": "Bettors Insider: Falcons vs. Saints player props",
+    "url": "https://bettorsinsider.com/nfl/2026/10/04/falcons-vs-saints-3-skill-position-props-to-back-on-monday-night-football/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -851,6 +1437,20 @@
   "newsTag": "Rookie QB starting",
   "player": "Jalon Daniels",
   "side": "More",
+  "sources": [
+   {
+    "title": "Yahoo: How Jalon Daniels did in his first NFL start",
+    "url": "https://sports.yahoo.com/articles/did-buccaneers-qb-jalon-daniels-110000387.html"
+   },
+   {
+    "title": "SI: Baker Mayfield injury update",
+    "url": "https://www.si.com/betting/baker-mayfield-injury-update-tanks-bucs-odds-vs-cowboys-in-nfl-week-5-playoff-odds-and-more"
+   },
+   {
+    "title": "SI: Buccaneers vs. Cowboys prediction, odds, injuries",
+    "url": "https://www.si.com/betting/buccaneers-vs-cowboys-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -869,6 +1469,20 @@
   "newsTag": "148-yd debut",
   "player": "Jalon Daniels",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Yahoo: How Jalon Daniels did in his first NFL start",
+    "url": "https://sports.yahoo.com/articles/did-buccaneers-qb-jalon-daniels-110000387.html"
+   },
+   {
+    "title": "SI: Baker Mayfield injury update",
+    "url": "https://www.si.com/betting/baker-mayfield-injury-update-tanks-bucs-odds-vs-cowboys-in-nfl-week-5-playoff-odds-and-more"
+   },
+   {
+    "title": "SI: Buccaneers vs. Cowboys prediction, odds, injuries",
+    "url": "https://www.si.com/betting/buccaneers-vs-cowboys-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -886,6 +1500,20 @@
   "newsTag": "Big favorite script",
   "player": "Javonte Williams",
   "side": "More",
+  "sources": [
+   {
+    "title": "SI: Baker Mayfield injury update",
+    "url": "https://www.si.com/betting/baker-mayfield-injury-update-tanks-bucs-odds-vs-cowboys-in-nfl-week-5-playoff-odds-and-more"
+   },
+   {
+    "title": "SI: Buccaneers vs. Cowboys prediction, odds, injuries",
+    "url": "https://www.si.com/betting/buccaneers-vs-cowboys-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   },
+   {
+    "title": "Football Nation: Cowboys 34, Texans 30 recap",
+    "url": "https://www.footballnationusa.com/post/cowboys-34-texans-30-week-4-recap-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -904,6 +1532,16 @@
   "newsTag": "Depleted PHI WR room",
   "player": "Jalen Hurts",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Eagles.com: Rams 24, Eagles 20 recap (Jalen Hurts)",
+    "url": "https://www.philadelphiaeagles.com/news/rams-vs-eagles-game-recap-october-4-2026-nfl-week-4-regular-season-jalen-hurts-matthew-stafford"
+   },
+   {
+    "title": "Bleacher Report: Rams beat Eagles (Stafford, Puka Nacua)",
+    "url": "https://bleacherreport.com/articles/25506557-rams-beat-eagles-box-score-stats-highlights-stafford-hurts-saquon-puka-top-players"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -921,6 +1559,12 @@
   "newsTag": "Lead-back volume",
   "player": "Bhayshul Tuten",
   "side": "More",
+  "sources": [
+   {
+    "title": "Jaguars.com: Jaguars 22, Bengals 17 game report (Tuten)",
+    "url": "https://www.jaguars.com/news/game-report-2026-week-4-jaguars-22-bengals-17"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -938,6 +1582,20 @@
   "newsTag": "85-yd passing game",
   "player": "Malik Willis",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Yahoo: 5 takeaways from Dolphins' loss to Vikings (Malik Willis, Ollie Gordon)",
+    "url": "https://sports.yahoo.com/articles/5-takeaways-dolphins-15-10-003605260.html"
+   },
+   {
+    "title": "A to Z Sports: Dolphins catching a break vs. Bengals",
+    "url": "https://atozsports.com/nfl/miami-dolphins-news/the-miami-dolphins-may-be-catching-a-break-bengals-week-5-jamarr-chase-tee-higgins/"
+   },
+   {
+    "title": "CBS Minnesota: Vikings beat Dolphins (Hockenson, Aaron Jones)",
+    "url": "https://www.cbsnews.com/minnesota/news/minnesota-vikings-win-over-miami-dolphins-week-4/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -955,6 +1613,20 @@
   "newsTag": "Achane out for season",
   "player": "Ollie Gordon II",
   "side": "More",
+  "sources": [
+   {
+    "title": "Yahoo: 5 takeaways from Dolphins' loss to Vikings (Malik Willis, Ollie Gordon)",
+    "url": "https://sports.yahoo.com/articles/5-takeaways-dolphins-15-10-003605260.html"
+   },
+   {
+    "title": "A to Z Sports: Dolphins catching a break vs. Bengals",
+    "url": "https://atozsports.com/nfl/miami-dolphins-news/the-miami-dolphins-may-be-catching-a-break-bengals-week-5-jamarr-chase-tee-higgins/"
+   },
+   {
+    "title": "CBS Minnesota: Vikings beat Dolphins (Hockenson, Aaron Jones)",
+    "url": "https://www.cbsnews.com/minnesota/news/minnesota-vikings-win-over-miami-dolphins-week-4/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -973,6 +1645,20 @@
   "newsTag": "Bagent's top target",
   "player": "Rome Odunze",
   "side": "More",
+  "sources": [
+   {
+    "title": "Bleacher Report: Bears beat Jets (Bagent, Swift, Odunze)",
+    "url": "https://bleacherreport.com/articles/25506584-bears-beat-jets-box-score-stats-highlights-bagent-swift-odunze-top-players"
+   },
+   {
+    "title": "Football Nation: Bears at Packers Week 5 guide (Tucker Kraft)",
+    "url": "https://www.footballnationusa.com/post/bears-at-packers-week-5-guide-2026"
+   },
+   {
+    "title": "SI: Kyle Monangai injury casts doubt on Week 5",
+    "url": "https://www.si.com/nfl/bears/onsi/kyle-monangai-injury-update-from-ben-johnson-casts-doubt-on-bears-rb-s-week-5-status"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -991,6 +1677,20 @@
   "newsTag": "Monangai thumb injury",
   "player": "D'Andre Swift",
   "side": "More",
+  "sources": [
+   {
+    "title": "Bleacher Report: Bears beat Jets (Bagent, Swift, Odunze)",
+    "url": "https://bleacherreport.com/articles/25506584-bears-beat-jets-box-score-stats-highlights-bagent-swift-odunze-top-players"
+   },
+   {
+    "title": "Football Nation: Bears at Packers Week 5 guide (Tucker Kraft)",
+    "url": "https://www.footballnationusa.com/post/bears-at-packers-week-5-guide-2026"
+   },
+   {
+    "title": "SI: Kyle Monangai injury casts doubt on Week 5",
+    "url": "https://www.si.com/nfl/bears/onsi/kyle-monangai-injury-update-from-ben-johnson-casts-doubt-on-bears-rb-s-week-5-status"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -1008,6 +1708,20 @@
   "newsTag": "Jayden Reed out",
   "player": "Tucker Kraft",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Bears at Packers Week 5 guide (Tucker Kraft)",
+    "url": "https://www.footballnationusa.com/post/bears-at-packers-week-5-guide-2026"
+   },
+   {
+    "title": "Yardbarker: Bucs vs. Packers snap counts",
+    "url": "https://www.yardbarker.com/nfl/articles/week_4_snap_count_analysis_bucs_vs_packers/s1_17102_44389441"
+   },
+   {
+    "title": "Football Nation: Packers 17, Buccaneers 14 recap",
+    "url": "https://www.footballnationusa.com/post/packers-17-buccaneers-14-week-4-recap-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receptions",
   "status": "pending",
@@ -1025,6 +1739,20 @@
   "newsTag": "Jets offense stalled",
   "player": "Geno Smith",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Last Word on Sports: Jets vs Bears Week 4 (Geno Smith)",
+    "url": "https://lastwordonsports.com/nfl/2026/10/04/week-4-new-york-jets-vs-bears-with-key-pieces-out/"
+   },
+   {
+    "title": "Football Nation: Week 5 game guides",
+    "url": "https://www.footballnationusa.com/post/browns-at-jets-week-5-guide-2026"
+   },
+   {
+    "title": "Bleacher Report: Bears beat Jets (Bagent, Swift, Odunze)",
+    "url": "https://bleacherreport.com/articles/25506584-bears-beat-jets-box-score-stats-highlights-bagent-swift-odunze-top-players"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -1041,6 +1769,16 @@
   "newsTag": "Jets D gashed",
   "player": "Deshaun Watson",
   "side": "More",
+  "sources": [
+   {
+    "title": "Bleacher Report: Browns beat Steelers (Deshaun Watson)",
+    "url": "https://bleacherreport.com/articles/25505793-browns-beat-steelers-box-score-stats-highlights-aaron-rodgers-deshaun-watson-top-performers"
+   },
+   {
+    "title": "Football Nation: Week 5 game guides",
+    "url": "https://www.footballnationusa.com/post/browns-at-jets-week-5-guide-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -1058,6 +1796,16 @@
   "newsTag": "Texans pass rush",
   "player": "Cam Ward",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Football Nation: Texans at Titans Week 5 guide (Cam Ward, Nico Collins)",
+    "url": "https://www.footballnationusa.com/post/texans-at-titans-week-5-guide-2026"
+   },
+   {
+    "title": "Ravens.com: Recap vs Titans (Zay Flowers, Lamar Jackson)",
+    "url": "https://www.baltimoreravens.com/news/game-recap-ravens-titans-week-4-game-recap-injuries-lamar-jackson"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -1076,6 +1824,20 @@
   "newsTag": "Back from hamstring",
   "player": "Nico Collins",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Texans at Titans Week 5 guide (Cam Ward, Nico Collins)",
+    "url": "https://www.footballnationusa.com/post/texans-at-titans-week-5-guide-2026"
+   },
+   {
+    "title": "PFT: Cowboys beat Texans 34-30 (Nico Collins)",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/cowboys-touchdown-with-40-seconds-left-beats-texans-34-30"
+   },
+   {
+    "title": "Football Nation: Cowboys 34, Texans 30 recap",
+    "url": "https://www.footballnationusa.com/post/cowboys-34-texans-30-week-4-recap-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -1094,6 +1856,16 @@
   "newsTag": "WRs banged up",
   "player": "Daniel Jones",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Football Nation: Colts at Steelers Week 5 guide (Daniel Jones, DK Metcalf)",
+    "url": "https://www.footballnationusa.com/post/colts-at-steelers-week-5-guide-2026"
+   },
+   {
+    "title": "Steelers Depot: Steelers open as Week 5 favorites",
+    "url": "https://steelersdepot.com/2026/10/despite-colts-victory-steelers-open-up-as-favorites-in-week-5/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -1111,6 +1883,20 @@
   "newsTag": "Target funnel",
   "player": "Tyler Warren",
   "side": "More",
+  "sources": [
+   {
+    "title": "RotoWire: Tyler Warren five grabs in Week 4",
+    "url": "https://www.rotowire.com/football/headlines/tyler-warren-news-five-grabs-in-week-4-win-640595"
+   },
+   {
+    "title": "Football Nation: Colts at Steelers Week 5 guide (Daniel Jones, DK Metcalf)",
+    "url": "https://www.footballnationusa.com/post/colts-at-steelers-week-5-guide-2026"
+   },
+   {
+    "title": "Steelers Depot: Steelers open as Week 5 favorites",
+    "url": "https://steelersdepot.com/2026/10/despite-colts-victory-steelers-open-up-as-favorites-in-week-5/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receptions",
   "status": "pending",
@@ -1128,6 +1914,20 @@
   "newsTag": "Rested Steelers",
   "player": "DK Metcalf",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Colts at Steelers Week 5 guide (Daniel Jones, DK Metcalf)",
+    "url": "https://www.footballnationusa.com/post/colts-at-steelers-week-5-guide-2026"
+   },
+   {
+    "title": "Steelers Depot: Steelers open as Week 5 favorites",
+    "url": "https://steelersdepot.com/2026/10/despite-colts-victory-steelers-open-up-as-favorites-in-week-5/"
+   },
+   {
+    "title": "Bleacher Report: Browns beat Steelers (Deshaun Watson)",
+    "url": "https://bleacherreport.com/articles/25505793-browns-beat-steelers-box-score-stats-highlights-aaron-rodgers-deshaun-watson-top-performers"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -1145,6 +1945,16 @@
   "newsTag": "Elite TE volume",
   "player": "Brock Bowers",
   "side": "More",
+  "sources": [
+   {
+    "title": "RotoWire: Brock Bowers scores again",
+    "url": "https://www.rotowire.com/football/headlines/brock-bowers-news-scores-again-in-week-4-loss-640772"
+   },
+   {
+    "title": "Football Nation: Raiders at Patriots Week 5 guide (Kirk Cousins, Ashton Jeanty)",
+    "url": "https://www.footballnationusa.com/post/raiders-at-patriots-week-5-guide-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receptions",
   "status": "pending",
@@ -1162,6 +1972,16 @@
   "newsTag": "Inefficient rushing",
   "player": "Ashton Jeanty",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Football Nation: Raiders at Patriots Week 5 guide (Kirk Cousins, Ashton Jeanty)",
+    "url": "https://www.footballnationusa.com/post/raiders-at-patriots-week-5-guide-2026"
+   },
+   {
+    "title": "NBC Sports: Ashton Jeanty totals 126 yards",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/jeanty-totals-126-yards-in-loss-to-chiefs"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -1180,6 +2000,12 @@
   "newsTag": "Pats secondary hurt",
   "player": "Kirk Cousins",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Raiders at Patriots Week 5 guide (Kirk Cousins, Ashton Jeanty)",
+    "url": "https://www.footballnationusa.com/post/raiders-at-patriots-week-5-guide-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -1197,6 +2023,20 @@
   "newsTag": "Saints LBs out",
   "player": "Aaron Jones Sr.",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Vikings at Saints Week 5 guide (Aaron Jones)",
+    "url": "https://www.footballnationusa.com/post/vikings-at-saints-week-5-guide-2026"
+   },
+   {
+    "title": "Yahoo: 5 takeaways from Dolphins' loss to Vikings (Malik Willis, Ollie Gordon)",
+    "url": "https://sports.yahoo.com/articles/5-takeaways-dolphins-15-10-003605260.html"
+   },
+   {
+    "title": "CBS Minnesota: Vikings beat Dolphins (Hockenson, Aaron Jones)",
+    "url": "https://www.cbsnews.com/minnesota/news/minnesota-vikings-win-over-miami-dolphins-week-4/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -1215,6 +2055,20 @@
   "newsTag": "Jefferson-out funnel",
   "player": "T.J. Hockenson",
   "side": "More",
+  "sources": [
+   {
+    "title": "CBS Minnesota: Vikings beat Dolphins (Hockenson, Aaron Jones)",
+    "url": "https://www.cbsnews.com/minnesota/news/minnesota-vikings-win-over-miami-dolphins-week-4/"
+   },
+   {
+    "title": "Football Nation: Vikings at Saints Week 5 guide (Aaron Jones)",
+    "url": "https://www.footballnationusa.com/post/vikings-at-saints-week-5-guide-2026"
+   },
+   {
+    "title": "Yahoo: 5 takeaways from Dolphins' loss to Vikings (Malik Willis, Ollie Gordon)",
+    "url": "https://sports.yahoo.com/articles/5-takeaways-dolphins-15-10-003605260.html"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receptions",
   "status": "pending",
@@ -1232,6 +2086,20 @@
   "newsTag": "Nabers breakout",
   "player": "Malik Nabers",
   "side": "More",
+  "sources": [
+   {
+    "title": "Giants.com: Week 4 game balls (Malik Nabers)",
+    "url": "https://www.giants.com/news/game-balls-key-performances-from-week-4-deonte-banks-arvell-reese-malik-nabers-tremaine-edmunds-abdul-carter-dominic-zvada"
+   },
+   {
+    "title": "Football Nation: Giants at Commanders Week 5 guide (Jameis Winston)",
+    "url": "https://www.footballnationusa.com/post/giants-at-commanders-week-5-guide-2026"
+   },
+   {
+    "title": "Yardbarker: Jayden Daniels, Marcus Mariota Week 5 updates",
+    "url": "https://www.yardbarker.com/nfl/articles/updates_emerge_on_jayden_daniels_marcus_mariota_for_week_5_game_vs_giants/s1_13132_44388827"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -1249,6 +2117,20 @@
   "newsTag": "Weak WSH defense",
   "player": "Jameis Winston",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Giants at Commanders Week 5 guide (Jameis Winston)",
+    "url": "https://www.footballnationusa.com/post/giants-at-commanders-week-5-guide-2026"
+   },
+   {
+    "title": "Giants.com: Week 4 game balls (Malik Nabers)",
+    "url": "https://www.giants.com/news/game-balls-key-performances-from-week-4-deonte-banks-arvell-reese-malik-nabers-tremaine-edmunds-abdul-carter-dominic-zvada"
+   },
+   {
+    "title": "Yardbarker: Jayden Daniels, Marcus Mariota Week 5 updates",
+    "url": "https://www.yardbarker.com/nfl/articles/updates_emerge_on_jayden_daniels_marcus_mariota_for_week_5_game_vs_giants/s1_13132_44388827"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -1266,6 +2148,16 @@
   "newsTag": "Committee + OL injuries",
   "player": "Omarion Hampton",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Draft Sharks: Things got worse for Omarion Hampton",
+    "url": "https://draftsharks.com/fantasy-football-news/83173/things-just-got-even-worse-for-omarion-hampton"
+   },
+   {
+    "title": "Fox13: Seahawks beat Chargers 30-23 (Emanuel Wilson)",
+    "url": "https://www.fox13seattle.com/sports/seahawks-survive-penalty-mess-beat-chargers-30-23"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing yards",
   "status": "pending",
@@ -1284,6 +2176,16 @@
   "newsTag": "McConkey, Surtain out",
   "player": "Tre' Harris",
   "side": "More",
+  "sources": [
+   {
+    "title": "FantasyPros: Tre' Harris profile",
+    "url": "https://www.fantasypros.com/nfl/players/tre-harris.php"
+   },
+   {
+    "title": "Fox13: Seahawks beat Chargers 30-23 (Emanuel Wilson)",
+    "url": "https://www.fox13seattle.com/sports/seahawks-survive-penalty-mess-beat-chargers-30-23"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -1301,6 +2203,16 @@
   "newsTag": "Passing-down RB role",
   "player": "RJ Harvey",
   "side": "More",
+  "sources": [
+   {
+    "title": "NBC Sports: RJ Harvey piles up 10 catches",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/harvey-piles-up-10-catches-in-week-4-loss"
+   },
+   {
+    "title": "CBS: Broncos' Patrick Surtain likely to miss time",
+    "url": "https://www.cbssports.com/fantasy/football/news/broncos-patrick-surtain-likely-to-miss-time-with-ankle-injury/"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receptions",
   "status": "pending",
@@ -1318,6 +2230,16 @@
   "newsTag": "Soft ARI secondary",
   "player": "Jared Goff",
   "side": "More",
+  "sources": [
+   {
+    "title": "CBS: Jared Goff massive passing total",
+    "url": "https://www.cbssports.com/fantasy/football/news/lions-jared-goff-massive-passing-yardage-total-in-loss/"
+   },
+   {
+    "title": "Football Nation: Lions at Cardinals Week 5 guide (Jacoby Brissett)",
+    "url": "https://www.footballnationusa.com/post/lions-at-cardinals-week-5-guide-detroit-s-offense-owns-the-early-edge"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -1335,6 +2257,16 @@
   "newsTag": "DET pass D leaks",
   "player": "Jacoby Brissett",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: Lions at Cardinals Week 5 guide (Jacoby Brissett)",
+    "url": "https://www.footballnationusa.com/post/lions-at-cardinals-week-5-guide-detroit-s-offense-owns-the-early-edge"
+   },
+   {
+    "title": "SI: Cardinals Week 4 report card (Brissett)",
+    "url": "https://www.si.com/nfl/cardinals/onsi/arizona-cardinals-report-card-grading-every-position-week-4-loss"
+   }
+  ],
   "sport": "nfl",
   "stat": "Passing yards",
   "status": "pending",
@@ -1352,6 +2284,20 @@
   "newsTag": "Target hog vs thin rush",
   "player": "Jaxon Smith-Njigba",
   "side": "More",
+  "sources": [
+   {
+    "title": "Football Nation: 49ers at Seahawks Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/49ers-seahawks-week-5-guide-2026"
+   },
+   {
+    "title": "Dimers: 49ers vs Seahawks early prediction",
+    "url": "https://www.dimers.com/nfl/news/san-francisco-49ers-vs-seattle-seahawks-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "Fox13: Seahawks beat Chargers 30-23 (Emanuel Wilson)",
+    "url": "https://www.fox13seattle.com/sports/seahawks-survive-penalty-mess-beat-chargers-30-23"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -1369,6 +2315,20 @@
   "newsTag": "Bell-cow by attrition",
   "player": "Emanuel Wilson",
   "side": "More",
+  "sources": [
+   {
+    "title": "Fox13: Seahawks beat Chargers 30-23 (Emanuel Wilson)",
+    "url": "https://www.fox13seattle.com/sports/seahawks-survive-penalty-mess-beat-chargers-30-23"
+   },
+   {
+    "title": "Football Nation: 49ers at Seahawks Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/49ers-seahawks-week-5-guide-2026"
+   },
+   {
+    "title": "Dimers: 49ers vs Seahawks early prediction",
+    "url": "https://www.dimers.com/nfl/news/san-francisco-49ers-vs-seattle-seahawks-early-prediction-nfl-week-5-2026-ac"
+   }
+  ],
   "sport": "nfl",
   "stat": "Rushing attempts",
   "status": "pending",
@@ -1387,6 +2347,20 @@
   "newsTag": "Penix-London chemistry",
   "player": "Drake London",
   "side": "More",
+  "sources": [
+   {
+    "title": "SI: Lamar Jackson injury and Ravens odds",
+    "url": "https://www.si.com/betting/lamar-jackson-injury-update-causes-massive-shift-to-ravens-vs-falcons-odds-in-nfl-week-5-2026"
+   },
+   {
+    "title": "FanDuel Research: Falcons vs. Saints props",
+    "url": "https://www.fanduel.com/research/falcons-vs-saints-props-today-3-best-nfl-picks-player-prop-bets-for-mnf"
+   },
+   {
+    "title": "Covers: Falcons vs Saints picks",
+    "url": "https://www.covers.com/nfl/falcons-vs-saints-prediction-picks-oct-5-2026"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -1405,6 +2379,20 @@
   "newsTag": "Huntley downgrade",
   "player": "Zay Flowers",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Ravens.com: Recap vs Titans (Zay Flowers, Lamar Jackson)",
+    "url": "https://www.baltimoreravens.com/news/game-recap-ravens-titans-week-4-game-recap-injuries-lamar-jackson"
+   },
+   {
+    "title": "SI: Lamar Jackson injury and Ravens odds",
+    "url": "https://www.si.com/betting/lamar-jackson-injury-update-causes-massive-shift-to-ravens-vs-falcons-odds-in-nfl-week-5-2026"
+   },
+   {
+    "title": "Yahoo: Lamar Jackson ankle MRI",
+    "url": "https://sports.yahoo.com/articles/ravens-qb-lamar-jackson-undergo-120540271.html"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -1422,6 +2410,20 @@
   "newsTag": "Full workload return",
   "player": "Puka Nacua",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Rams won't limit Puka Nacua",
+    "url": "https://www.espn.com/nfl/story/_/id/50098838/sources-rams-intend-limit-puka-nacua-workload"
+   },
+   {
+    "title": "Bleacher Report: Rams beat Eagles (Stafford, Puka Nacua)",
+    "url": "https://bleacherreport.com/articles/25506557-rams-beat-eagles-box-score-stats-highlights-stafford-hurts-saquon-puka-top-players"
+   },
+   {
+    "title": "Dimers: Bills vs Rams early prediction",
+    "url": "https://www.dimers.com/nfl/news/buffalo-bills-vs-los-angeles-rams-early-prediction-nfl-week-5-2026-ac"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receptions",
   "status": "pending",
@@ -1439,6 +2441,20 @@
   "newsTag": "High-total volume",
   "player": "Matthew Stafford",
   "side": "More",
+  "sources": [
+   {
+    "title": "Eagles.com: Rams 24, Eagles 20 recap (Jalen Hurts)",
+    "url": "https://www.philadelphiaeagles.com/news/rams-vs-eagles-game-recap-october-4-2026-nfl-week-4-regular-season-jalen-hurts-matthew-stafford"
+   },
+   {
+    "title": "Bleacher Report: Rams beat Eagles (Stafford, Puka Nacua)",
+    "url": "https://bleacherreport.com/articles/25506557-rams-beat-eagles-box-score-stats-highlights-stafford-hurts-saquon-puka-top-players"
+   },
+   {
+    "title": "Dimers: Bills vs Rams early prediction",
+    "url": "https://www.dimers.com/nfl/news/buffalo-bills-vs-los-angeles-rams-early-prediction-nfl-week-5-2026-ac"
+   }
+  ],
   "sport": "nfl",
   "stat": "Pass attempts",
   "status": "pending",
@@ -1457,6 +2473,20 @@
   "newsTag": "DJ Moore shoulder",
   "player": "Keon Coleman",
   "side": "More",
+  "sources": [
+   {
+    "title": "Buffalo Wdown: DJ Moore injury update (Keon Coleman)",
+    "url": "https://buffalowdown.com/dj-moore-injury-update-leaves-bills-with-no-room-to-overthink-week-5-approach-01m44q8hp1xt"
+   },
+   {
+    "title": "Dimers: Bills vs Rams early prediction",
+    "url": "https://www.dimers.com/nfl/news/buffalo-bills-vs-los-angeles-rams-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "Yahoo: Winners and losers, Bills vs Patriots",
+    "url": "https://sports.yahoo.com/articles/two-winners-three-losers-bills-015606127.html"
+   }
+  ],
   "sport": "nfl",
   "stat": "Receiving yards",
   "status": "pending",
@@ -1474,6 +2504,12 @@
   "newsTag": "Hot shot volume",
   "player": "Leon Draisaitl",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Leon Draisaitl game log",
+    "url": "https://www.espn.com/nhl/player/gamelog/_/id/3114727/leon-draisaitl"
+   }
+  ],
   "sport": "nhl",
   "stat": "Shots on goal",
   "status": "pending",
@@ -1491,6 +2527,12 @@
   "newsTag": "9 pts in 3 GP",
   "player": "Connor McDavid",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Connor McDavid",
+    "url": "https://www.espn.com/nhl/player/_/id/3895074/connor-mcdavid"
+   }
+  ],
   "sport": "nhl",
   "stat": "Points",
   "status": "pending",
@@ -1508,6 +2550,12 @@
   "newsTag": "Avs offense rolling",
   "player": "Nathan MacKinnon",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Nathan MacKinnon",
+    "url": "https://www.espn.com/nhl/player/_/id/3041969/nathan-mackinnon"
+   }
+  ],
   "sport": "nhl",
   "stat": "Shots on goal",
   "status": "pending",
@@ -1525,6 +2573,12 @@
   "newsTag": "Volume, not finishing",
   "player": "Auston Matthews",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Auston Matthews",
+    "url": "https://www.espn.com/nhl/player/_/id/4024123/auston-matthews"
+   }
+  ],
   "sport": "nhl",
   "stat": "Shots on goal",
   "status": "pending",
@@ -1542,6 +2596,16 @@
   "newsTag": "Due, high volume",
   "player": "David Pastrnak",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: David Pastrnak",
+    "url": "https://www.espn.com/nhl/player/_/id/3114778/david-pastrnak"
+   },
+   {
+    "title": "FanDuel Research: NHL picks Oct 5 (Pastrnak)",
+    "url": "https://www.fanduel.com/research/nhl-picks-today-nhl-best-bets-predictions-and-props-for-monday-october-5"
+   }
+  ],
   "sport": "nhl",
   "stat": "Shots on goal",
   "status": "pending",
@@ -1559,6 +2623,12 @@
   "newsTag": "Flyers leak shots",
   "player": "Brandon Hagel",
   "side": "More",
+  "sources": [
+   {
+    "title": "ESPN: Brandon Hagel",
+    "url": "https://www.espn.com/nhl/player/_/id/4065019/brandon-hagel"
+   }
+  ],
   "sport": "nhl",
   "stat": "Shots on goal",
   "status": "pending",
@@ -1576,6 +2646,12 @@
   "newsTag": "Soft matchup",
   "player": "Nikita Kucherov",
   "side": "More",
+  "sources": [
+   {
+    "title": "Dimers: NHL player props 10/5/2026",
+    "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-05-2026-ac"
+   }
+  ],
   "sport": "nhl",
   "stat": "Points",
   "status": "pending",
@@ -1593,6 +2669,12 @@
   "newsTag": "Bounce-back spot",
   "player": "Mikko Rantanen",
   "side": "More",
+  "sources": [
+   {
+    "title": "Covers: NHL player prop picks Oct. 5",
+    "url": "https://www.covers.com/nhl/player-prop-picks-oct-5-2026"
+   }
+  ],
   "sport": "nhl",
   "stat": "Assists",
   "status": "pending",
@@ -1627,6 +2709,20 @@
   "newsTag": "Bounce-back usage",
   "player": "Breanna Stewart",
   "side": "More",
+  "sources": [
+   {
+    "title": "Bleacher Nation: Dream vs Liberty player props (Breanna Stewart, Jonquel Jones)",
+    "url": "https://www.bleachernation.com/picks/2026/10/03/dream-vs-liberty-best-bets-player-props-computer-picks-game-1-wnba-semifinals/"
+   },
+   {
+    "title": "AJC: Allisha Gray hurt in Game 1",
+    "url": "https://www.ajc.com/sports/2026/10/allisha-gray-hurt-dream-beat-liberty-game-1-wnba-semifinals/"
+   },
+   {
+    "title": "SI: Liberty vs Dream prop bet",
+    "url": "https://www.si.com/betting/liberty-vs-dream-prediction-odds-best-prop-bet-wnba-playoffs-semifinals-game-1-2026"
+   }
+  ],
   "sport": "wnba",
   "stat": "Points",
   "status": "pending",
@@ -1645,6 +2741,20 @@
   "newsTag": "Gray hand injury",
   "player": "Jordin Canada",
   "side": "More",
+  "sources": [
+   {
+    "title": "FOX 5 Atlanta: Dream beat Liberty despite losing Allisha Gray (Jordin Canada)",
+    "url": "https://www.fox5atlanta.com/sports/atlanta-dream-beat-new-york-liberty-92-82-despite-losing-allisha-gray"
+   },
+   {
+    "title": "AJC: Allisha Gray hurt in Game 1",
+    "url": "https://www.ajc.com/sports/2026/10/allisha-gray-hurt-dream-beat-liberty-game-1-wnba-semifinals/"
+   },
+   {
+    "title": "SI: Liberty vs Dream prop bet",
+    "url": "https://www.si.com/betting/liberty-vs-dream-prediction-odds-best-prop-bet-wnba-playoffs-semifinals-game-1-2026"
+   }
+  ],
   "sport": "wnba",
   "stat": "Points",
   "status": "pending",
@@ -1662,6 +2772,20 @@
   "newsTag": "Liberty size",
   "player": "Angel Reese",
   "side": "Less",
+  "sources": [
+   {
+    "title": "Bleacher Report: Dream beat Liberty in Game 1 (Angel Reese, Ionescu)",
+    "url": "https://bleacherreport.com/articles/25506591-angel-reese-ionescus-box-score-stats-highlights-dream-beat-liberty-wnba-playoffs-game-1"
+   },
+   {
+    "title": "AJC: Allisha Gray hurt in Game 1",
+    "url": "https://www.ajc.com/sports/2026/10/allisha-gray-hurt-dream-beat-liberty-game-1-wnba-semifinals/"
+   },
+   {
+    "title": "SI: Liberty vs Dream prop bet",
+    "url": "https://www.si.com/betting/liberty-vs-dream-prediction-odds-best-prop-bet-wnba-playoffs-semifinals-game-1-2026"
+   }
+  ],
   "sport": "wnba",
   "stat": "Rebounds",
   "status": "pending",
@@ -1679,6 +2803,20 @@
   "newsTag": "Frontcourt edge",
   "player": "Jonquel Jones",
   "side": "More",
+  "sources": [
+   {
+    "title": "Bleacher Nation: Dream vs Liberty player props (Breanna Stewart, Jonquel Jones)",
+    "url": "https://www.bleachernation.com/picks/2026/10/03/dream-vs-liberty-best-bets-player-props-computer-picks-game-1-wnba-semifinals/"
+   },
+   {
+    "title": "AJC: Allisha Gray hurt in Game 1",
+    "url": "https://www.ajc.com/sports/2026/10/allisha-gray-hurt-dream-beat-liberty-game-1-wnba-semifinals/"
+   },
+   {
+    "title": "SI: Liberty vs Dream prop bet",
+    "url": "https://www.si.com/betting/liberty-vs-dream-prediction-odds-best-prop-bet-wnba-playoffs-semifinals-game-1-2026"
+   }
+  ],
   "sport": "wnba",
   "stat": "Rebounds",
   "status": "pending",
@@ -1696,6 +2834,20 @@
   "newsTag": "Rebounding regression",
   "player": "A'ja Wilson",
   "side": "More",
+  "sources": [
+   {
+    "title": "CBS: Aces vs Valkyries Game 1 recap (A'ja Wilson)",
+    "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20261004_LVA@GS/"
+   },
+   {
+    "title": "Aces: Game 1 recap vs Valkyries",
+    "url": "https://aces.wnba.com/news/game-recap-poor-rebounding-plagued-aces-in-71-60-game-1-semifinals-loss-to-valkyries"
+   },
+   {
+    "title": "Mission Local: Valkyries take Game 1 vs Aces (Kiah Stokes)",
+    "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
+   }
+  ],
   "sport": "wnba",
   "stat": "Rebounds",
   "status": "pending",
@@ -1713,6 +2865,20 @@
   "newsTag": "Must-win usage",
   "player": "A'ja Wilson",
   "side": "More",
+  "sources": [
+   {
+    "title": "CBS: Aces vs Valkyries Game 1 recap (A'ja Wilson)",
+    "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20261004_LVA@GS/"
+   },
+   {
+    "title": "Aces: Game 1 recap vs Valkyries",
+    "url": "https://aces.wnba.com/news/game-recap-poor-rebounding-plagued-aces-in-71-60-game-1-semifinals-loss-to-valkyries"
+   },
+   {
+    "title": "Mission Local: Valkyries take Game 1 vs Aces (Kiah Stokes)",
+    "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
+   }
+  ],
   "sport": "wnba",
   "stat": "Points",
   "status": "pending",
@@ -1730,6 +2896,20 @@
   "newsTag": "Glass dominance",
   "player": "Kiah Stokes",
   "side": "More",
+  "sources": [
+   {
+    "title": "Mission Local: Valkyries take Game 1 vs Aces (Kiah Stokes)",
+    "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
+   },
+   {
+    "title": "Aces: Game 1 recap vs Valkyries",
+    "url": "https://aces.wnba.com/news/game-recap-poor-rebounding-plagued-aces-in-71-60-game-1-semifinals-loss-to-valkyries"
+   },
+   {
+    "title": "CBS: Aces vs Valkyries Game 1 recap (A'ja Wilson)",
+    "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20261004_LVA@GS/"
+   }
+  ],
   "sport": "wnba",
   "stat": "Rebounds",
   "status": "pending",
