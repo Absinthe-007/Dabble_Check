@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
 <style>
-/* Layout: stadium-board header with record strip → "Top leans" row of large player cards → two columns: pick grid (left) and news rail (right); slip bar pinned bottom. */
+/* Layout: stadium-board header with record strip → "Top leans" row of large player cards → two columns: pick grid (left) and news rail (right) */
 :root{
   --bg:#EEF1F5; --surface:#FFFFFF; --surface-2:#F6F8FB; --ink:#0D1626; --muted:#5B6678; --line:#D9DFE8;
   --board:#0D1626; --board-ink:#F4F6FA; --board-muted:#9AA6BA;
@@ -138,7 +138,6 @@ h1 em{font-style:normal;color:var(--amber)}
 .chip.cond{border-color:color-mix(in srgb,var(--amber) 70%,transparent);background:var(--amber-soft);color:var(--amber-ink)}
 .add{font-size:12.5px;font-weight:700;border:1px solid var(--ink);background:transparent;border-radius:999px;padding:3px 12px;cursor:pointer;transition:background .15s,color .15s}
 .add:hover{background:var(--ink);color:var(--bg)}
-.card.on .add{background:var(--amber);border-color:var(--amber);color:#1b1300}
 .stamp{font-family:var(--f-display);font-weight:900;font-size:15px;letter-spacing:.12em;text-transform:uppercase;padding:1px 10px;border-radius:6px;border:2px solid currentColor;transform:rotate(-3deg)}
 .stamp.hit{color:var(--more)}.stamp.miss{color:var(--less)}.stamp.push,.stamp.void{color:var(--push)}
 .stamp small{font-family:var(--f-mono);font-size:11px;letter-spacing:0;font-weight:500;margin-left:4px;text-transform:none}
@@ -230,14 +229,6 @@ a.pname:hover,a.fname:hover,a.tg-p:hover{text-decoration:underline;text-underlin
 .sh-note{font-size:12px;color:var(--muted);margin:0}
 body.locked{overflow:hidden}
 
-/* ---------- Slip ---------- */
-.slip{position:fixed;left:0;right:0;bottom:0;z-index:6;background:var(--board);color:var(--board-ink);padding:12px 16px calc(12px + env(safe-area-inset-bottom,0px));box-shadow:0 -10px 30px -10px rgba(0,0,0,.4)}
-.slip-in{max-width:1240px;margin:0 auto;display:flex;gap:10px 18px;align-items:center;flex-wrap:wrap}
-.slip b{font-family:var(--f-display);font-weight:900;font-size:22px;letter-spacing:.04em;text-transform:uppercase;color:var(--amber)}
-.slip .list{flex:1;min-width:0;font-size:13px;color:var(--board-muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.slip .avg{font-family:var(--f-mono);font-size:12px;color:var(--board-muted)}
-.slip button{font-size:13px;font-weight:600;border:1px solid rgba(255,255,255,.3);background:transparent;color:var(--board-ink);border-radius:999px;padding:4px 14px;cursor:pointer}
-.slip button.primary{background:var(--amber);border-color:var(--amber);color:#1b1300}
 @media (max-width:620px){
   .scores{display:flex;overflow-x:auto;scrollbar-width:none;border-radius:12px 12px 0 0}
   .score{flex:0 0 auto;min-width:92px}
@@ -291,16 +282,6 @@ body.locked{overflow:hidden}
 
 <div class="sheet-bg" id="sheetBg" hidden><div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="shName"></div></div>
 
-<div class="slip" id="slip" hidden>
-  <div class="slip-in">
-    <b id="slipCount">0 picks</b>
-    <span class="list" id="slipList"></span>
-    <span class="avg" id="slipConf"></span>
-    <button id="slipCopy" class="primary" type="button">Copy slip</button>
-    <button id="slipClear" type="button">Clear</button>
-  </div>
-</div>
-
 <script>
 const SPORTS=[["all","All"],["nfl","NFL"],["cfb","College FB"],["mlb","MLB"],["nhl","NHL"],["nba","NBA"],["wnba","WNBA"]];
 const ORDER=["nfl","cfb","mlb","nhl","nba","wnba"];
@@ -314,11 +295,11 @@ const TEAM={
  "nhl:ANA":"#F47A38","nhl:BOS":"#3a3a3a","nhl:BUF":"#003087","nhl:CGY":"#C8102E","nhl:CAR":"#CE1126","nhl:CHI":"#CF0A2C","nhl:COL":"#6F263D","nhl:CBJ":"#002654","nhl:DAL":"#006847","nhl:DET":"#CE1126","nhl:EDM":"#041E42","nhl:FLA":"#C8102E","nhl:LAK":"#2b2b2b","nhl:MIN":"#154734","nhl:MTL":"#AF1E2D","nhl:NSH":"#041E42","nhl:NJD":"#CE1126","nhl:NYI":"#00539B","nhl:NYR":"#0038A8","nhl:OTT":"#C52032","nhl:PHI":"#F74902","nhl:PIT":"#2b2b2b","nhl:SJS":"#006D75","nhl:SEA":"#001628","nhl:STL":"#002F87","nhl:TBL":"#002868","nhl:TOR":"#00205B","nhl:UTA":"#4b9cd3","nhl:VAN":"#00205B","nhl:VGK":"#7a6a43","nhl:WSH":"#C8102E","nhl:WPG":"#041E42",
  "wnba:ATL":"#C8102E","wnba:CHI":"#418FDE","wnba:CONN":"#0A2240","wnba:DAL":"#0C2340","wnba:GS":"#6C4BA6","wnba:IND":"#002D62","wnba:LV":"#3a3a3a","wnba:LA":"#552583","wnba:MIN":"#266092","wnba:NY":"#6ECEB2","wnba:PHX":"#CB6015","wnba:SEA":"#2C5235","wnba:WSH":"#C8102E","wnba:POR":"#B7202E","wnba:TOR":"#1B365D"
 };
-const state={weeks:[],picks:[],week:null,sport:"all",slip:[]};
+const state={weeks:[],picks:[],week:null,sport:"all"};
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-try{state.sport=localStorage.getItem("sport")||"all";state.slip=JSON.parse(localStorage.getItem("slip")||"[]")}catch(e){}
-function save(){try{localStorage.setItem("sport",state.sport);localStorage.setItem("slip",JSON.stringify(state.slip))}catch(e){}}
+try{state.sport=localStorage.getItem("sport")||"all";localStorage.removeItem("slip")}catch(e){}
+function save(){try{localStorage.setItem("sport",state.sport)}catch(e){}}
 
 function teamColor(p){
   const k=`${p.sport}:${String(p.team||"").toUpperCase()}`;
@@ -429,11 +410,10 @@ function renderFeatured(){
 }
 
 function card(p){
-  const on=state.slip.includes(p.id);
   const graded=!isOpen(p);
   const right=graded?`<span class="stamp ${esc(p.status)}">${esc(p.status)}${p.actual?`<small>${esc(p.actual)}</small>`:""}</span>`
-    :`<button class="add" type="button" data-add="${esc(p.id)}" aria-pressed="${on}">${on?"On slip ✓":"+ Slip"}</button>`;
-  return `<article class="card ${on?"on":""} ${esc(p.status||"")}" data-open="${esc(p.id)}" tabindex="0" aria-label="Open ${esc(p.player)} details">${shot(p)}<div class="cbody">
+    :`<a class="add" href="#${esc(p.id)}">Research →</a>`;
+  return `<article class="card ${esc(p.status||"")}" data-open="${esc(p.id)}" tabindex="0" aria-label="Open ${esc(p.player)} details">${shot(p)}<div class="cbody">
     <div class="chead"><div><a class="pname" href="#${esc(p.id)}">${esc(p.player)}</a><div class="pmeta">${esc(p.game||"")}${p.gameTime?` · ${esc(p.gameTime)}`:""}</div></div>${pips(p.confidence)}</div>
     ${prop(p)}
     <p class="why">${esc(p.why)}</p>
@@ -471,23 +451,12 @@ function renderBrief(){
     ((w.sources||[]).length?`<details class="src"><summary>${w.sources.length} sources</summary><ul>${w.sources.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join("")}</ul></details>`:"");
 }
 
-function renderSlip(){
-  const picks=state.slip.map(id=>state.picks.find(p=>p.id===id)).filter(Boolean);
-  $("slip").hidden=!picks.length;
-  if(!picks.length)return;
-  $("slipCount").textContent=`${picks.length} pick${picks.length>1?"s":""}`;
-  $("slipList").textContent=(picks.length<2?"Add at least one more · ":"")+picks.map(p=>`${p.player} ${p.side} ${p.line??""} ${p.stat}`).join("  |  ");
-  const avg=picks.reduce((s,p)=>s+(p.confidence||0),0)/picks.length;
-  $("slipConf").textContent=`avg conf ${avg.toFixed(1)}/5`;
-}
-function toggleSlip(id){state.slip=state.slip.includes(id)?state.slip.filter(x=>x!==id):[...state.slip,id];save();renderPicks();renderSlip()}
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,"")}catch(e){return ""}};
 let lastFocus=null;
 function openSheet(id){
   const p=state.picks.find(x=>x.id===id);if(!p)return;
   const w=state.weeks.find(x=>x.id===p.week)||{};
   const reads=(p.sources||[]).filter(s=>s&&s.url);
-  const on=state.slip.includes(p.id);
   const facts=[["Pick",`${p.side} ${p.line??"line TBD"}`],["Stat",p.stat],...(p.projection&&p.projection.value?[["Our projection",p.projection.value]]:[]),["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
   if(!isOpen(p))facts.splice(0,0,["Result",`${p.status}${p.actual?` · ${p.actual}`:""}`]);
   $("sheet").innerHTML=`<div class="sh-top">${shot(p)}<div class="sh-head">
@@ -503,7 +472,7 @@ function openSheet(id){
         ${reads.length?`<ul class="reads">${reads.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener"><span>${esc(s.title||host(s.url))}</span><em>${esc(host(s.url))} ↗</em></a></li>`).join("")}</ul>`:`<p class="sh-note">This pick's articles are in the week's source list below.</p>`}
         ${(w.sources||[]).length?`<details class="sh-more"${reads.length?"":" open"}><summary>All ${w.sources.length} sources this week</summary><ul>${w.sources.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join("")}</ul></details>`:""}
       </section>
-      ${isOpen(p)?`<div class="sh-actions"><button type="button" class="${on?"":"primary"}" data-sheet-add="${esc(p.id)}">${on?"Remove from slip":"Add to slip"}</button><button type="button" data-close>Close</button></div>`:""}
+      ${isOpen(p)?`<div class="sh-actions"><button type="button" data-close>Close</button></div>`:""}
       <p class="sh-note">Articles open on the publisher's site. Lines are reference lines; check Dabble's number before you add a pick.</p>
     </div>`;
   lastFocus=document.activeElement;
@@ -518,8 +487,6 @@ function closeSheet(){
   if(lastFocus&&lastFocus.focus)lastFocus.focus();
 }
 document.addEventListener("click",e=>{
-  const a=e.target.closest("[data-add]");if(a){toggleSlip(a.dataset.add);return}
-  const sa=e.target.closest("[data-sheet-add]");if(sa){toggleSlip(sa.dataset.sheetAdd);openSheet(sa.dataset.sheetAdd);return}
   if(e.target.closest("[data-close]")||e.target===$("sheetBg")){closeSheet();return}
   const j=e.target.closest("[data-jump]");if(j){state.sport=j.dataset.jump;save();render();document.getElementById("picks").scrollIntoView({behavior:"smooth"});return}
   const ia=e.target.closest('a[href^="#"]');if(ia){e.preventDefault();openSheet(ia.getAttribute("href").slice(1));return}
@@ -531,14 +498,8 @@ document.addEventListener("keydown",e=>{
   if(e.key==="Escape")closeSheet();
   if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches("[data-open]")){e.preventDefault();openSheet(e.target.dataset.open)}
 });
-$("slipClear").addEventListener("click",()=>{state.slip=[];save();renderPicks();renderSlip()});
-$("slipCopy").addEventListener("click",async()=>{
-  const txt=state.slip.map(id=>state.picks.find(p=>p.id===id)).filter(Boolean).map(p=>`${p.player} (${p.team}) ${p.side} ${p.line??"TBD"} ${p.stat}`).join("\n");
-  try{await navigator.clipboard.writeText(txt);$("slipCopy").textContent="Copied"}catch(err){$("slipCopy").textContent="Copy failed"}
-  setTimeout(()=>$("slipCopy").textContent="Copy slip",1500);
-});
 
-function render(){renderWeeks();renderTabs();renderRecord();renderToday();renderFeatured();renderPicks();renderBrief();renderSlip()}
+function render(){renderWeeks();renderTabs();renderRecord();renderToday();renderFeatured();renderPicks();renderBrief()}
 
 (async()=>{
   try{
@@ -546,7 +507,6 @@ function render(){renderWeeks();renderTabs();renderRecord();renderToday();render
     const [w,p]=await Promise.all([fetch("data/weeks.json"+bust).then(r=>r.json()),fetch("data/picks.json"+bust).then(r=>r.json())]);
     state.weeks=[...w].sort((a,b)=>String(b.weekStart||b.id).localeCompare(String(a.weekStart||a.id)));
     state.picks=p;
-    state.slip=state.slip.filter(id=>state.picks.some(x=>x.id===id));
   }catch(e){$("updated").textContent="Couldn't load picks. Refresh to try again."}
   render();
   const h=location.hash.slice(1);if(h&&state.picks.some(x=>x.id===h))openSheet(h);
