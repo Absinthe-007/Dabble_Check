@@ -1,27 +1,26 @@
 [
  {
   "id": "2026-10-05",
-  "generatedAt": "2026-10-05T19:30:00Z",
-  "headline": "A full slate this week: every NFL game from Monday night through next Monday, nine big college games, the Division Series, the NHL's first full week and the WNBA semifinals. Quarterback injuries (Lamar Jackson, Baker Mayfield, Caleb Williams, Washington's QB room) shape the NFL board.",
+  "generatedAt": "2026-10-05T22:15:00Z",
+  "headline": "Monday-night refresh: Falcons at Saints closes Week 4 tonight, ALDS Game 2s are today, and the NLDS returns Tuesday. Week 5 hinges on Lamar Jackson's ankle MRI, Bengals WRs Chase and Higgins (both questionable), and Saquon Barkley's hamstring before Eagles-Jaguars in London.",
   "label": "Oct 5 – 11, 2026",
   "news": {
    "cfb": {
     "items": [
-     "Heisman odds: Jeremiah Smith (Ohio State WR) +115, Darian Mensah (Miami QB) +460, Keelon Russell (Alabama QB) +750. Smith leads FBS with 823 yards and 9 TDs.",
-     "Ohio State hosts Maryland Saturday at 4:15 ET (homecoming). Miami has a bye.",
-     "Oklahoma is questioning QB John Mateer (6 turnovers in 3 games) before the Red River game. Texas is favored and the total has fallen to about 39.5.",
-     "Oregon QB Dante Moore is still in concussion protocol. Dylan Raiola went 19-of-25 for 289 yards and 2 TDs in relief. Oregon -12.5 vs UCLA.",
-     "Penn State gave up 413 rushing yards in a 34-13 loss at Northwestern.",
-     "LSU QB Sam Leavitt was limited in practice last week. Missouri RB Ahmad Hardy (leg) is still out."
+     "Kickoffs (ET): Indiana-Nebraska and Texas A&M-Missouri noon; Texas-Oklahoma, UCLA-Oregon and Ole Miss-Vanderbilt 3:30; Maryland-Ohio State 4:15; LSU-Kentucky 7:00; Georgia-Alabama and USC-Penn State 7:30.",
+     "Opening lines: Georgia -2.5 at Alabama (56.5), Texas -7.5 vs Oklahoma (total down to 39.5), Oregon -12.5, Penn State -1.5, Ohio State -35.5, Indiana -7.5.",
+     "Heisman odds: Jeremiah Smith (Ohio State WR) +115, Darian Mensah (Miami QB) +460, Keelon Russell (Alabama QB) +750. Miami has a bye.",
+     "Oregon QB Dante Moore (concussion) could return vs UCLA, but no starter has been named; Dylan Raiola went 19-of-25 for 289 yards in relief.",
+     "Brent Venables calls John Mateer Oklahoma's starter, though backups took a lot of practice reps after Mateer's 6 turnovers in 3 games.",
+     "Missouri RB Ahmad Hardy is out until about Oct 17, so Jamal Roberts leads the backfield. Ole Miss RB Kewan Lacy is expected back after the bye."
     ],
     "summary": "Week 7 lands Saturday, Oct 10: Georgia at Alabama, Texas vs. Oklahoma, UCLA at Oregon, USC at Penn State, Maryland at Ohio State, Indiana at Nebraska, Texas A&M at Missouri, Ole Miss at Vanderbilt and LSU at Kentucky. Miami is idle."
    },
    "mlb": {
     "items": [
-     "Rays lead the Yankees 1-0 and the White Sox lead the Guardians 1-0. Both ALDS Game 2s are Monday.",
-     "Brewers lead the Padres 2-0 after Jackson Chourio's walk-off in Game 2. Braves and Dodgers are tied 1-1.",
-     "NLDS Game 3 (Tue): Yamamoto vs. Chris Sale in Atlanta, and Dustin May vs. Nick Pivetta in San Diego.",
-     "Aaron Judge (NYY) was left off the ALDS roster on Oct 3 while he recovers from a calf injury."
+     "ALDS Game 2s are Monday: White Sox at Guardians 5:00 PM ET (CWS leads 1-0), Yankees at Rays 8:00 PM ET (TB leads 1-0). Aaron Judge is off the Yankees' ALDS roster (calf).",
+     "NLDS Game 3s Tuesday: Dodgers at Braves 6:00 PM ET (Yamamoto vs Sale, series 1-1) and Brewers at Padres 9:30 PM ET (May vs Pivetta; MIL leads 2-0).",
+     "The Dodgers have lined up Glasnow for Game 4. ALDS Game 3 starters had not been announced as of Monday afternoon."
     ],
     "summary": "Division Series continue all week. NL Game 3s are Tuesday; AL Game 3s are Wednesday."
    },
@@ -33,31 +32,31 @@
    },
    "nfl": {
     "items": [
-     "Lamar Jackson (BAL) left Week 4 in a walking boot and has an ankle MRI Monday. Tyler Huntley went 8-of-9 in relief. Baltimore visits Atlanta Sunday night.",
-     "Bengals: Ja'Marr Chase (concussion) and Tee Higgins (groin/adductor strain, possibly 2–3 weeks; had 11 catches for 157 yds first) both left the 22-17 loss to Jacksonville.",
-     "Washington: Dan Quinn says 'the hope' is Jayden Daniels (elbow) returns in Week 5; Marcus Mariota aggravated his MCL, and rookie Athan Kaliakmanis finished in London.",
-     "Justin Jefferson (MIN, ankle sprain) missed Week 4 but the Vikings are hopeful he plays at New Orleans.",
-     "Baker Mayfield (dislocated thumb) is out for Week 5, so undrafted rookie Jalon Daniels starts again on Thursday night.",
-     "Caleb Williams (hamstring) won't play Week 5, so Tyson Bagent starts at Green Bay. De'Von Achane (MIA) tore his ACL and is out for the season.",
-     "Seattle is down to Emanuel Wilson at RB (Charbonnet knee, Price IR). 49ers edge Nick Bosa (calf) is out for multiple weeks. Bills WR DJ Moore re-aggravated his shoulder."
+     "Lamar Jackson (BAL, ankle) had an MRI scheduled Monday; no result yet. Reports split between day-to-day and week-to-week, and BAL moved from -6 to about -3.5 at Atlanta (Sunday night).",
+     "Bengals: Ja'Marr Chase (concussion) and Tee Higgins (groin) are both questionable for Miami; Colbie Young (knee) is out.",
+     "Eagles: Saquon Barkley left Week 4 after two carries with a hamstring injury, and DeVonta Smith was inactive. Philadelphia plays Jacksonville in London.",
+     "Baker Mayfield (thumb) is expected out 3–6 weeks, so rookie Jalon Daniels starts Thursday at Dallas (DAL -10).",
+     "Caleb Williams (grade 2 hamstring) won't play Week 5; Tyson Bagent starts at Green Bay. Kyle Monangai (thumb) is in doubt.",
+     "Washington: Jayden Daniels (elbow) hopes to return; Marcus Mariota (knee) is being evaluated. Justin Jefferson (ankle) and Nico Collins (hamstring, limited) are uncertain.",
+     "Seattle is down to Emanuel Wilson at RB; 49ers edge rushers Bosa, Mykel Williams and James Thompson Jr. all sat Week 4. Bills WR DJ Moore has an AC joint sprain."
     ],
-    "summary": "Week 4 closes tonight with Atlanta at New Orleans. Week 5 opens Thursday with Tampa Bay at Dallas and ends Monday with Buffalo at the Rams. Carolina and Kansas City are on bye."
+    "summary": "Week 4 closes tonight with Atlanta at New Orleans (8:15 ET). Week 5 opens Thursday with Tampa Bay at Dallas, has Eagles-Jaguars in London at 9:30 a.m. ET Sunday, and ends Monday with Buffalo at the Rams. Carolina and Kansas City are on bye."
    },
    "nhl": {
     "items": [
-     "Connor McDavid has 9 points in 3 games, and Edmonton is scoring 5.67 goals a game.",
-     "Philadelphia is allowing a league-worst 40.7 shots a game.",
-     "Boston's Charlie McAvoy is suspended until Oct 13. Anaheim's Troy Terry is out until November after hip surgery.",
-     "Starting goalies aren't confirmed yet for most games, so there are no goalie picks this week."
+     "Connor McDavid has 9 points in 3 games and Edmonton is scoring 5.67 goals a game. Macklin Celebrini has 5 points in 2 games for San Jose.",
+     "Monday: Flyers at Lightning 7:00 ET, Senators at Bruins 7:30, Sharks at Stars 8:00. Philadelphia is allowing a league-worst 40.7 shots a game.",
+     "Boston's Charlie McAvoy is suspended until Oct 13; Ottawa D Jake Sanderson left the opener with an undisclosed injury. Anaheim's Troy Terry is out until November.",
+     "Starting goalies aren't confirmed for most games, so there are still no goalie picks."
     ],
     "summary": "The 2026-27 regular season opened Sept 29 (84 games this year). Busy week: 4 games Monday, 9 Tuesday, 10 Thursday, 14 Saturday."
    },
    "wnba": {
     "items": [
-     "Game 1s: Atlanta 92, New York 82; Golden State 71, Las Vegas 60.",
-     "Atlanta's Allisha Gray left Game 1 with a left-hand injury, and her Game 2 status is unclear.",
-     "Satou Sabally (NY) and Brionna Jones (ATL) were out for Game 1.",
-     "No. 8 New York swept No. 1 Minnesota in the first round."
+     "Game 1s: Atlanta 92, New York 82 (Jordin Canada 25, Sabrina Ionescu 27); Golden State 71, Las Vegas 60 (Gabby Williams 25, A'ja Wilson 24; GS won the boards 52-25).",
+     "Allisha Gray (ATL) left Game 1 after 11 minutes with a left-hand injury; her Game 2 status hasn't been announced.",
+     "Satou Sabally (NY) and Brionna Jones (ATL) sat out Game 1, with no Game 2 update yet.",
+     "Game 2s Wednesday: Liberty at Dream 7:30 PM ET, Aces at Valkyries 9:30 PM ET (6:30 PT). Game 3s Friday."
     ],
     "summary": "Semifinals (best of 5) are under way. Game 2s are Wednesday, Game 3s Friday, Game 4s if needed Sunday. The Finals start Oct 17."
    }
@@ -250,6 +249,302 @@
    {
     "title": "SI: Liberty vs Dream prop bet",
     "url": "https://www.si.com/betting/liberty-vs-dream-prediction-odds-best-prop-bet-wnba-playoffs-semifinals-game-1-2026"
+   },
+   {
+    "title": "AmericanTV: Week 6 CFB TV schedule 2026",
+    "url": "https://www.americantv.com/week-6-college-football-2026-tv-schedule-on-directv.php"
+   },
+   {
+    "title": "SI: Week 6 opening odds for top-25 games",
+    "url": "https://www.si.com/betting/college-football-week-6-opening-odds-for-every-top-25-game-georgia-favored-vs-alabama-texas-favored-vs-ou"
+   },
+   {
+    "title": "SportsBettingDime: Oklahoma vs Texas prediction",
+    "url": "https://www.sportsbettingdime.com/news/college-football/early-oklahoma-texas-prediction-spread-red-river-rivalry-odds/"
+   },
+   {
+    "title": "EssentiallySports: Lanning update on Dante Moore",
+    "url": "https://www.essentiallysports.com/ncaa-college-football-news-dan-lanning-gives-fresh-update-on-dante-moores-injury-ahead-of-ucla-game/"
+   },
+   {
+    "title": "Daily Bruin: Oregon a true test for UCLA",
+    "url": "https://dailybruin.com/2026/10/04/jacobs-wake-up-call-oregon-matchup-will-be-true-test-of-chesneys-renewed-ucla-football-squad"
+   },
+   {
+    "title": "Covers: Indiana vs Nebraska",
+    "url": "https://www.covers.com/sport/football/ncaaf/matchup/378248/picks"
+   },
+   {
+    "title": "Saturday Down South: Kiffin on Sam Leavitt",
+    "url": "https://www.saturdaydownsouth.com/news/college-football/lane-kiffin-gives-update-on-sam-leavitts-injury-status-after-week-5/"
+   },
+   {
+    "title": "RotoWire: Ahmad Hardy status",
+    "url": "https://www.rotowire.com/cfootball/player/ahmad-hardy-46918"
+   },
+   {
+    "title": "SuperTalk: Ole Miss bye week, Lacy status",
+    "url": "https://supertalk.fm/ole-miss-football-using-bye-week-to-address-defensive-issues-after-florida-loss"
+   },
+   {
+    "title": "DawgNation: Georgia-Alabama preview",
+    "url": "https://www.dawgnation.com/football/georgia-alabama-quickly-turn-focus-sec-showdown-tuscaloosa/2X4W7MLWMZDQJE2O66NIULGEMI/"
+   },
+   {
+    "title": "ESPN: Jeremiah Smith player page",
+    "url": "https://www.espn.com/college-football/player/_/id/5079720/jeremiah-smith"
+   },
+   {
+    "title": "MLB.com: White Sox vs. Guardians ALDS Game 2",
+    "url": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-2-starting-lineups-and-pitching-matchup"
+   },
+   {
+    "title": "SI: Yankees vs Rays Game 2 props",
+    "url": "https://www.si.com/betting/yankees-vs-rays-prediction-odds-probable-pitchers-prop-bets-for-alds-game-2-2026"
+   },
+   {
+    "title": "SportsGrid: Dodgers vs Braves Oct 6",
+    "url": "https://www.sportsgrid.com/mlb/game/los-angeles-dodgers-atlanta-braves-scores-odds-picks-props-october-06-2026/836a89f8-d584-47e9-85c8-a81e651184cd"
+   },
+   {
+    "title": "SportsGrid: Brewers vs Padres Oct 6",
+    "url": "https://www.sportsgrid.com/mlb/game/milwaukee-brewers-san-diego-padres-scores-odds-picks-props-october-06-2026/93a19f87-b4f0-4ac5-93f0-8ba2326df266"
+   },
+   {
+    "title": "BetMGM: Dodgers vs Braves Game 3 prediction",
+    "url": "https://sports.betmgm.com/en/blog/mlb/dodgers-vs-braves-prediction-game-3-nlds-2026-bm23/"
+   },
+   {
+    "title": "Baseball-Reference: Chris Sale",
+    "url": "https://www.baseball-reference.com/players/s/salech01.shtml"
+   },
+   {
+    "title": "Baseball-Reference: Yoshinobu Yamamoto",
+    "url": "https://www.baseball-reference.com/players/y/yamamyo01.shtml"
+   },
+   {
+    "title": "Baseball-Reference: Nick Pivetta",
+    "url": "https://www.baseball-reference.com/players/p/pivetni01.shtml"
+   },
+   {
+    "title": "MLB.com: Dustin May to start NLDS Game 3",
+    "url": "https://mlb.com/news/dustin-may-to-start-nlds-game-3-brewers-padres"
+   },
+   {
+    "title": "Dodger Blue: Dodgers NLDS rotation order",
+    "url": "https://dodgerblue.com/dodgers-starting-rotation-order-nlds-games/2026/10/03/"
+   },
+   {
+    "title": "Bettors Insider: Falcons vs. Saints player props",
+    "url": "https://bettorsinsider.com/nfl/2026/10/04/falcons-vs-saints-3-skill-position-props-to-back-on-monday-night-football/"
+   },
+   {
+    "title": "SI: Buccaneers vs. Cowboys prediction, odds, injuries",
+    "url": "https://www.si.com/betting/buccaneers-vs-cowboys-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   },
+   {
+    "title": "Football Nation: Cowboys 34, Texans 30 recap",
+    "url": "https://www.footballnationusa.com/post/cowboys-34-texans-30-week-4-recap-2026"
+   },
+   {
+    "title": "Football Nation: Packers 17, Buccaneers 14 recap",
+    "url": "https://www.footballnationusa.com/post/packers-17-buccaneers-14-week-4-recap-2026"
+   },
+   {
+    "title": "DAZN: Eagles vs Jaguars London 2026 (Tottenham Hotspur Stadium)",
+    "url": "https://www.dazn.com/en-US/news/american-football/eagles-vs-jaguars-london-2026-tottenham-hotspur-stadium/17ytgqwf0xydx1sku3r4bb6l6b"
+   },
+   {
+    "title": "Eagles.com: Rams 24, Eagles 20 recap",
+    "url": "https://www.philadelphiaeagles.com/news/rams-vs-eagles-game-recap-october-4-2026-nfl-week-4-regular-season-jalen-hurts-matthew-stafford"
+   },
+   {
+    "title": "Bleacher Report: Rams beat Eagles",
+    "url": "https://bleacherreport.com/articles/25506557-rams-beat-eagles-box-score-stats-highlights-stafford-hurts-saquon-puka-top-players"
+   },
+   {
+    "title": "Jaguars.com: Jaguars 22, Bengals 17 game report",
+    "url": "https://www.jaguars.com/news/game-report-2026-week-4-jaguars-22-bengals-17"
+   },
+   {
+    "title": "A to Z Sports: Dolphins catching a break vs. Bengals",
+    "url": "https://atozsports.com/nfl/miami-dolphins-news/the-miami-dolphins-may-be-catching-a-break-bengals-week-5-jamarr-chase-tee-higgins/"
+   },
+   {
+    "title": "Yahoo: 5 takeaways from Dolphins' loss to Vikings",
+    "url": "https://sports.yahoo.com/articles/5-takeaways-dolphins-15-10-003605260.html"
+   },
+   {
+    "title": "Week 5 pick'em odds sheet (lines as of Sept 7, preseason)",
+    "url": "https://sportsbrackets.net/wp-content/uploads/2026/09/nfl-week5-pickem-odds-sheet.pdf"
+   },
+   {
+    "title": "Football Nation: Bears at Packers Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/bears-at-packers-week-5-guide-2026"
+   },
+   {
+    "title": "Bleacher Report: Bears beat Jets",
+    "url": "https://bleacherreport.com/articles/25506584-bears-beat-jets-box-score-stats-highlights-bagent-swift-odunze-top-players"
+   },
+   {
+    "title": "SI: Kyle Monangai injury casts doubt on Week 5",
+    "url": "https://www.si.com/nfl/bears/onsi/kyle-monangai-injury-update-from-ben-johnson-casts-doubt-on-bears-rb-s-week-5-status"
+   },
+   {
+    "title": "Yahoo: How Jalon Daniels did in his first NFL start",
+    "url": "https://sports.yahoo.com/articles/did-buccaneers-qb-jalon-daniels-110000387.html"
+   },
+   {
+    "title": "Yardbarker: Bucs vs. Packers snap counts",
+    "url": "https://www.yardbarker.com/nfl/articles/week_4_snap_count_analysis_bucs_vs_packers/s1_17102_44389441"
+   },
+   {
+    "title": "A to Z Sports: Caleb Williams injury update",
+    "url": "https://atozsports.com/?p=497374"
+   },
+   {
+    "title": "Football Nation: Texans at Titans Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/texans-at-titans-week-5-guide-2026"
+   },
+   {
+    "title": "Football Nation: Colts at Steelers Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/colts-at-steelers-week-5-guide-2026"
+   },
+   {
+    "title": "Football Nation: Raiders at Patriots Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/raiders-at-patriots-week-5-guide-2026"
+   },
+   {
+    "title": "Football Nation: Vikings at Saints Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/vikings-at-saints-week-5-guide-2026"
+   },
+   {
+    "title": "Football Nation: Giants at Commanders Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/giants-at-commanders-week-5-guide-2026"
+   },
+   {
+    "title": "Yardbarker: Daniels, Mariota Week 5 updates",
+    "url": "https://www.yardbarker.com/nfl/articles/updates_emerge_on_jayden_daniels_marcus_mariota_for_week_5_game_vs_giants/s1_13132_44388827"
+   },
+   {
+    "title": "Steelers Depot: Week 5 favorites",
+    "url": "https://steelersdepot.com/2026/10/despite-colts-victory-steelers-open-up-as-favorites-in-week-5/"
+   },
+   {
+    "title": "NBC Sports: Jeanty totals 126 yards",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/jeanty-totals-126-yards-in-loss-to-chiefs"
+   },
+   {
+    "title": "CBS Minnesota: Vikings beat Dolphins",
+    "url": "https://www.cbsnews.com/minnesota/news/minnesota-vikings-win-over-miami-dolphins-week-4/"
+   },
+   {
+    "title": "Dimers: Broncos vs Chargers early prediction",
+    "url": "https://www.dimers.com/nfl/news/denver-broncos-vs-los-angeles-chargers-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "Dimers: 49ers vs Seahawks early prediction",
+    "url": "https://www.dimers.com/nfl/news/san-francisco-49ers-vs-seattle-seahawks-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "Dimers: Bills vs Rams early prediction",
+    "url": "https://www.dimers.com/nfl/news/buffalo-bills-vs-los-angeles-rams-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "StatSniper: Ravens vs Falcons Week 5",
+    "url": "https://statsniper.com/leagues/nfl/game/2026/week-5/bal-vs-atl/"
+   },
+   {
+    "title": "Football Nation: Lions at Cardinals Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/lions-at-cardinals-week-5-guide-detroit-s-offense-owns-the-early-edge"
+   },
+   {
+    "title": "Football Nation: 49ers at Seahawks Week 5 guide",
+    "url": "https://www.footballnationusa.com/post/49ers-seahawks-week-5-guide-2026"
+   },
+   {
+    "title": "Ravens.com: Recap vs Titans",
+    "url": "https://www.baltimoreravens.com/news/game-recap-ravens-titans-week-4-game-recap-injuries-lamar-jackson"
+   },
+   {
+    "title": "CBS: Jared Goff massive passing total",
+    "url": "https://www.cbssports.com/fantasy/football/news/lions-jared-goff-massive-passing-yardage-total-in-loss/"
+   },
+   {
+    "title": "Buffalo Wdown: DJ Moore injury update",
+    "url": "https://buffalowdown.com/dj-moore-injury-update-leaves-bills-with-no-room-to-overthink-week-5-approach-01m44q8hp1xt"
+   },
+   {
+    "title": "Fox13: Seahawks beat Chargers 30-23",
+    "url": "https://www.fox13seattle.com/sports/seahawks-survive-penalty-mess-beat-chargers-30-23"
+   },
+   {
+    "title": "NBC Sports: RJ Harvey piles up 10 catches",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/harvey-piles-up-10-catches-in-week-4-loss"
+   },
+   {
+    "title": "Hockey-Reference: 2026-27 skater stats",
+    "url": "https://www.hockey-reference.com/leagues/NHL_2027_skaters.html"
+   },
+   {
+    "title": "Daily Faceoff: NHL schedule 06",
+    "url": "https://www.dailyfaceoff.com/nhl-daily-schedule/2026-10-06"
+   },
+   {
+    "title": "Daily Faceoff: NHL schedule 07",
+    "url": "https://www.dailyfaceoff.com/nhl-daily-schedule/2026-10-07"
+   },
+   {
+    "title": "Daily Faceoff: NHL schedule 10",
+    "url": "https://www.dailyfaceoff.com/nhl-daily-schedule/2026-10-10"
+   },
+   {
+    "title": "FanDuel Research: NHL picks Oct 5",
+    "url": "https://www.fanduel.com/research/nhl-picks-today-nhl-best-bets-predictions-and-props-for-monday-october-5"
+   },
+   {
+    "title": "Bleacher Report: Dream beat Liberty Game 1 box score",
+    "url": "https://bleacherreport.com/articles/25506591-angel-reese-ionescus-box-score-stats-highlights-dream-beat-liberty-wnba-playoffs-game-1"
+   },
+   {
+    "title": "Bleacher Nation: Dream vs Liberty Game 1 props",
+    "url": "https://www.bleachernation.com/picks/2026/10/03/dream-vs-liberty-best-bets-player-props-computer-picks-game-1-wnba-semifinals/"
+   },
+   {
+    "title": "Covers: Liberty vs Dream Game 1 picks",
+    "url": "https://www.covers.com/wnba/liberty-vs-dream-prediction-picks-sunday-oct-4-2026"
+   },
+   {
+    "title": "Mission Local: Valkyries take Game 1 vs Aces",
+    "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
+   },
+   {
+    "title": "FOX 5 Atlanta: Dream beat Liberty 92-82",
+    "url": "https://www.fox5atlanta.com/sports/atlanta-dream-beat-new-york-liberty-92-82-despite-losing-allisha-gray"
+   },
+   {
+    "title": "CBS: Aces vs Valkyries Game 1 recap",
+    "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20261004_LVA@GS/"
+   },
+   {
+    "title": "StatSniper: Bengals at Dolphins Week 5",
+    "url": "https://statsniper.com/leagues/nfl/game/2026/week-5/cin-vs-mia/"
+   },
+   {
+    "title": "FantasyData: Bengals 2026 schedule",
+    "url": "https://fantasydata.com/nfl/cincinnati-bengals-schedule"
+   },
+   {
+    "title": "FantasyPros: Jaxon Smith-Njigba game log",
+    "url": "https://www.fantasypros.com/nfl/games/jaxon-smith-njigba.php"
+   },
+   {
+    "title": "FantasyPros: Jacoby Brissett game log",
+    "url": "https://www.fantasypros.com/nfl/games/jacoby-brissett.php"
+   },
+   {
+    "title": "Yahoo Sports: 2026 WNBA semifinals schedule",
+    "url": "https://sports.yahoo.com/articles/2026-wnba-semifinals-schedule-watch-101604709.html"
    }
   ],
   "weekStart": "2026-10-05"
