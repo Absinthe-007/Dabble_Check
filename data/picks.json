@@ -1107,6 +1107,322 @@
   "why": "Alexander leads Ole Miss with 27 catches for 429 yards (about 107 a game) and 4 TDs."
  },
  {
+  "id": "2026-10-05-cfb-22",
+  "week": "2026-10-05",
+  "sport": "cfb",
+  "player": "Raylen Wilson",
+  "team": "UGA",
+  "position": "LB",
+  "espnId": null,
+  "game": "UGA @ BAMA",
+  "gameTime": "Sat 10/10",
+  "startTime": "2026-10-10T19:30:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": null,
+  "projection": {
+   "value": "5 tkl",
+   "basis": "No posted line; vs season avg ~4.8 tkl/g (24 tackles, 3 sacks through 5 games)"
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Fourth-year starting LB with 11 tackles vs Oklahoma and 7 vs Vanderbilt in his last two. He should see volume in a Top-10 road game.",
+  "analysis": "Wilson has 24 tackles, 5 tackles for loss and 3 sacks through five games, with game logs of 3 at Arkansas, 11 vs Oklahoma and 7 vs Vanderbilt in his last three. He is the leader of Georgia's linebacker group, which PFF ranks third nationally. Alabama is a true test but Georgia is a slim road favorite, so he should stay on the field most of the night. His average is dragged down by a quiet 3-tackle opener against Tennessee State, so the recent two-game form of 11 and 7 is the better guide. I did not find a posted line, so the side is measured against his season per-game average. The risk is a game where edge players and safeties take the tackles instead.",
+  "history": "No stat line for Wilson against Alabama found. Georgia beat Alabama 28-7 in the 2025 SEC Championship Game; Wilson's individual numbers from that game were not verified. He enters this year with a team-leading 136 career tackles.",
+  "historySources": [
+   {
+    "title": "CBS Sports: Georgia 28-7 Alabama, 2025 SEC Championship box score",
+    "url": "https://www.cbssports.com/college-football/gametracker/boxscore/NCAAF_20251206_UGA@BAMA"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Georgia Athletics: Raylen Wilson",
+    "url": "https://georgiadogs.com/sports/football/roster/raylen-wilson/10702"
+   },
+   {
+    "title": "Red & Black: Career days for linebackers power Georgia past Oklahoma",
+    "url": "https://www.redandblack.com/sports/career-days-for-linebackers-power-the-georgia-defense-past-oklahoma/article_73bc8784-d8d4-41a2-9174-d2c1304ed4f6.html"
+   },
+   {
+    "title": "Georgia Athletics: Georgia visits Alabama for top-10 matchup",
+    "url": "https://georgiadogs.com/news/2026/10/5/football-georgia-visits-alabama-for-top-10-matchup"
+   }
+  ],
+  "newsTag": "Matchup",
+  "status": "pending",
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": "Senior (fourth season at Georgia)",
+   "college": null,
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-cfb-23",
+  "week": "2026-10-05",
+  "sport": "cfb",
+  "player": "Colin Simmons",
+  "team": "TEX",
+  "position": "DL",
+  "espnId": null,
+  "game": "TEX vs OU (Dallas)",
+  "gameTime": "Sat 10/10",
+  "startTime": "2026-10-10T15:30:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": null,
+  "projection": {
+   "value": "1.0 sacks",
+   "basis": "No posted line; vs season avg 1.5 sacks/g (7.5 sacks in 5 games, inflated by a 5.5-sack game at Tennessee)"
+  },
+  "side": "Less",
+  "confidence": 2,
+  "why": "Leads the nation with 7.5 sacks, but 5.5 came in one game. Oklahoma has allowed 9 sacks in 4 games with its left tackle out, so he still has a strong spot.",
+  "analysis": "Simmons went into the Red River game leading the country in sacks with 7.5 and set a Texas record with 5.5 against Tennessee. Strip out that game and he had about 2.0 in the other four, roughly 0.5 per game, so his 1.5 average overstates a typical night. Oklahoma has given up 44 pressures and nine sacks through four games, and left tackle Michael Fasusi is out, which pushes the expected number up from 0.5. Texas is a 9.5-point favorite, so a lead should keep the pass rush on the field. I project one sack, below the inflated average. I did not find a posted line, so the side is measured against his season per-game average.",
+  "history": "No Simmons-versus-Oklahoma stat line was verified. In 2025 he led the SEC with 12 sacks, and he has been at his best against ranked opponents per Sports Illustrated.",
+  "historySources": [
+   {
+    "title": "SI: What wins and what loses the game for Texas vs Oklahoma",
+    "url": "https://www.si.com/college/texas/football/what-wins-and-what-loses-the-game-for-texas-vs-oklahoma-in-2026"
+   }
+  ],
+  "sources": [
+   {
+    "title": "SI: Sizing up the Red River Rivalry streak",
+    "url": "https://www.si.com/college/texas/football/sizing-up-whether-texas-will-extend-its-red-river-rivalry-winning-streak-in-2026"
+   },
+   {
+    "title": "ABC News: Simmons ties record with 5 sacks vs Tennessee",
+    "url": "https://www-cdn.abcnews.com/Sports/wireStory/colin-simmons-ties-program-record-5-sacks-1-136787118"
+   },
+   {
+    "title": "Burnt Orange Nation: No. 1 Texas favored over Oklahoma",
+    "url": "https://www.burntorangenation.com/general/105457/no-1-texas-favored-over-oklahoma-in-red-river"
+   }
+  ],
+  "newsTag": "Matchup",
+  "status": "pending",
+  "bio": {
+   "height": "6'3\"",
+   "weight": "240 lbs",
+   "age": null,
+   "exp": null,
+   "college": null,
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-cfb-26",
+  "week": "2026-10-05",
+  "sport": "cfb",
+  "player": "Sammy Omosigho",
+  "team": "UCLA",
+  "position": "LB",
+  "espnId": 4899483,
+  "game": "UCLA @ ORE",
+  "gameTime": "Sat 10/10",
+  "startTime": "2026-10-10T15:30:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": null,
+  "projection": {
+   "value": "9 tkl",
+   "basis": "No posted line; vs season avg 10.0 tkl/g (40 tackles, 3.0 sacks, 4 FF in 4 games)"
+  },
+  "side": "Less",
+  "confidence": 2,
+  "why": "Oklahoma transfer with 40 tackles in four games, and 7 last time out vs Maryland. Oregon is a bigger offense than his average implies.",
+  "analysis": "Omosigho has 40 tackles, 7.5 tackles for loss, 3.0 sacks and four forced fumbles through four games, including 14 tackles in his debut against Cal. His last logged game was 7 tackles (6 solo) and a TFL in the 54-3 blowout of Maryland, a lower-volume script. UCLA is a heavy underdog at Oregon, which should mean more snaps and tackles, but his season average already includes a 14-tackle game. I project nine, a little below the average. I did not find a posted line, so the side is measured against his season per-game average.",
+  "history": "Omosigho played three seasons at Oklahoma (96 tackles, 2.0 sacks) and has no verified line against Oregon. This is his first year at UCLA.",
+  "historySources": [
+   {
+    "title": "UCLA Athletics: Omosigho added to Bednarik watch list",
+    "url": "https://uclabruins.com/news/2026/09/30/omosigho-added-to-bednarik-award-watch-list"
+   }
+  ],
+  "sources": [
+   {
+    "title": "UCLA Athletics: Omosigho added to Bednarik watch list",
+    "url": "https://uclabruins.com/news/2026/09/30/omosigho-added-to-bednarik-award-watch-list"
+   },
+   {
+    "title": "ESPN: Sammy Omosigho 2026 game log",
+    "url": "https://www.espn.com/college-football/player/gamelog/_/id/4899483/samuel-omosigho"
+   },
+   {
+    "title": "ESPN: UCLA 54-3 Maryland",
+    "url": "https://www.espn.com/college-football/game/_/gameId/401858462/ucla-maryland"
+   }
+  ],
+  "newsTag": "Matchup",
+  "status": "pending",
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": "Transfer from Oklahoma",
+   "college": null,
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-cfb-29",
+  "week": "2026-10-05",
+  "sport": "cfb",
+  "player": "Princewill Umanmielen",
+  "team": "LSU",
+  "position": "DL",
+  "espnId": 4917971,
+  "game": "LSU @ UK",
+  "gameTime": "Sat 10/10",
+  "startTime": "2026-10-10T19:00:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": null,
+  "projection": {
+   "value": "1.0 sacks",
+   "basis": "No posted line; vs season avg 1.6 sacks/g (8 sacks in 5 games, SEC lead; 1 in each of last 2 games)"
+  },
+  "side": "Less",
+  "confidence": 2,
+  "why": "Ole Miss transfer leads the SEC with 8 sacks, but just 1 in each of his last two. LSU leads the nation in sacks.",
+  "analysis": "Umanmielen has 8 sacks through five games, six of them before Texas A&M, then one against the Aggies and one against McNeese. That makes his recent pace about one per game, below the season average of 1.6. LSU leads the nation in sacks and the pass rush is described as the biggest advantage against Kentucky. I did not find Kentucky's sacks-allowed numbers, so I stay near his recent pace at one sack. I did not find a posted line, so the side is measured against his season per-game average.",
+  "history": "He had 9.0 sacks at Ole Miss last year and has no verified line vs Kentucky.",
+  "historySources": [
+   {
+    "title": "SI: The biggest LSU advantage Kentucky will have to solve",
+    "url": "https://www.si.com/college/lsu/football/the-biggest-lsu-advantage-kentucky-will-have-to-solve"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Yahoo Sports: The biggest LSU advantage Kentucky will have to solve",
+    "url": "https://sports.yahoo.com/articles/biggest-lsu-advantage-kentucky-solve-210005073.html"
+   },
+   {
+    "title": "ESPN: Princewill Umanmielen",
+    "url": "https://www.espn.com/college-football/player/_/id/4917971/princewill-umanmielen"
+   }
+  ],
+  "newsTag": "Matchup",
+  "status": "pending",
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": "Senior, Ole Miss transfer",
+   "college": null,
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-cfb-31",
+  "week": "2026-10-05",
+  "sport": "cfb",
+  "player": "Isaiah Jones",
+  "team": "IND",
+  "position": "LB",
+  "espnId": 4819232,
+  "game": "IND @ NEB",
+  "gameTime": "Sat 10/10",
+  "startTime": "2026-10-10T12:00:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": null,
+  "projection": {
+   "value": "8 tkl",
+   "basis": "No posted line; vs season avg 7.4 tkl/g (37 tackles in 5 games per IU coverage; another snippet showed 29 earlier)"
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Preseason All-American LB with 37 tackles in five games. Nebraska runs for 231 yards per game, so his volume should hold.",
+  "analysis": "Jones leads Indiana with 37 tackles through five games, up from 29 in an earlier snippet, and had 78 tackles and 7 sacks in 2025. Indiana's defense ranks fourth in total defense and has 15 sacks, but Nebraska is a run-heavy team averaging 231 rushing yards and allowing just 1.0 sacks per game. That favors a linebacker's tackle count over an edge sack prop. I lean slightly above his 7.4 average. I did not find a posted line, so the side is measured against his season per-game average.",
+  "history": "No Nebraska-specific line for Jones. Indiana won the 2025 national title and Jones was Third-team All-Big Ten.",
+  "historySources": [
+   {
+    "title": "Hoosier Huddle: IU-Nebraska first glance preview",
+    "url": "https://hoosierhuddle.com/2026/08/03/2026-indiana-football-first-glance-preview-nebraska-trip-starts-defining-stretch-for-iu/"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Inside the Hall: IU dominates Rutgers",
+    "url": "https://www.insidethehall.com/2026/10/04/hard-football-iu-football-owns-the-line-of-scrimmage-in-domination-of-rutgers/"
+   },
+   {
+    "title": "HuskerMax: Nebraska-Indiana stats matchup",
+    "url": "https://www.huskermax.com/2026-nebraska-indiana-football-stats-matchup/"
+   },
+   {
+    "title": "Indiana Athletics: Isaiah Jones",
+    "url": "https://iuhoosiers.com/sports/football/roster/isaiah-jones/20943"
+   }
+  ],
+  "newsTag": "Matchup",
+  "status": "pending",
+  "bio": {
+   "height": "6'2\"",
+   "weight": "227 lbs",
+   "age": null,
+   "exp": "Redshirt Senior",
+   "college": "London, Ohio (London HS)",
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-cfb-32",
+  "week": "2026-10-05",
+  "sport": "cfb",
+  "player": "Nicholas Rodriguez",
+  "team": "MIZ",
+  "position": "LB",
+  "espnId": 5079582,
+  "game": "TAMU @ MIZ",
+  "gameTime": "Sat 10/10",
+  "startTime": "2026-10-10T12:00:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": null,
+  "projection": {
+   "value": "11 tkl",
+   "basis": "No posted line; vs season avg 10.0 tkl/g (50 tackles in 5 games)"
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "SEC Defensive Player of the Week with four straight double-digit games (12, 11, 13, 11). Texas A&M leans on volume at 71 snaps a game.",
+  "analysis": "Rodriguez has 50 tackles in five games, with logs of 11 vs Troy, 13 at Mississippi State and 11 vs Florida over his last three. Only the opener against Arkansas-Pine Bluff (3) kept the average down. Texas A&M is 3-2, averaging 71 snaps, so there should be plenty of plays to defend. The Aggies protect quarterback Marcel Reed well, which suggests a sack prop is worse than tackles. I did not find a posted line, so the side is measured against his season per-game average.",
+  "history": "One result snippet credits him with six tackles against Texas A&M, but I could not confirm which season.",
+  "historySources": [
+   {
+    "title": "Missouri Athletics: Simmons, Rodriguez named SEC Players of the Week",
+    "url": "https://mutigers.com/news/2026/10/5/simmons-rodriguez-named-sec-players-of-the-week"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Missouri Athletics: Simmons, Rodriguez named SEC Players of the Week",
+    "url": "https://mutigers.com/news/2026/10/5/simmons-rodriguez-named-sec-players-of-the-week"
+   },
+   {
+    "title": "SI: 2026 Mizzou early opponent preview, Texas A&M",
+    "url": "https://www.si.com/college/missouri/football/2026-mizzou-football-early-opponent-preview-texas-am"
+   }
+  ],
+  "newsTag": "Matchup",
+  "status": "pending",
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": null,
+   "college": null,
+   "hand": null
+  }
+ },
+ {
   "id": "2026-10-05-mlb-01",
   "analysis": "Gavin Williams led MLB with 248 strikeouts and had 11 double-digit strikeout starts, so the raw ability is there. He was rusty in his final regular-season outing on Sept 25, allowing four runs in 3.1 innings. Chicago won Game 1 3-0 and its lineup leans contact, with Antonacci posting a 5.6% strikeout rate in September, which trims strikeout upside. No book line showed up on the pages I could open, so the side rests on a projection of about 7 K from his season rate and a 5-6 inning outing with Cleveland needing a win. The main risk is that rust and an early hook if Chicago strings contact together.",
   "bio": {
@@ -3343,6 +3659,160 @@
   "why": "London went 9-194 against Green Bay and averages 91.3 yards a game with Michael Penix Jr. at QB. New Orleans allows 211.7 passing yards a game."
  },
  {
+  "id": "2026-10-05-nfl-116",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Akeem Davis-Gaither",
+  "team": "IND",
+  "position": "LB",
+  "espnId": "3917142",
+  "game": "IND @ PIT",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "9.5 tkl",
+   "basis": "Tackles = solo + assists. Reported 37 total (20 solo, 17 ast) through 4 games = 9.25/g; side is vs that season average (no book line seen); small bump for pass-heavy Steelers game script"
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "He leads Indianapolis in tackles and now wears the green dot, and Pittsburgh's offense is throwing a lot with Aaron Rodgers.",
+  "analysis": "Davis-Gaither is reported at 37 combined tackles through four games (20 solo, 17 assisted), well clear of Bryce Boettcher's 22, and he took over defensive play-calling duties from Cam Bynum. Pittsburgh's Rodgers has completed 41 of 74 passes over his last two games, which gives an off-ball linebacker plenty of short-throw tackle chances. LB Jaylon Carlies left the London win with a rib injury, which could push more snaps his way. The 9.5 projection is just his 9.25 average plus a small nudge for volume, so I treat it as a modest lean. I could not find a posted prop line, and the 37-tackle total came from a single search summary I could not open the source for, so confidence stays at 2. The Steelers are -2.5 at home with a 44.5 total, a game that should stay competitive.",
+  "sources": [
+   {
+    "title": "Colts vs Steelers Week 5 2026 prediction, odds, injuries (search listing)",
+    "url": "https://www.dimers.com/nfl/news/indianapolis-colts-vs-pittsburgh-steelers-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "Colts overcome sluggish start to thump Commanders in London",
+    "url": "https://www.colts.com/news/colts-overcome-sluggish-start-to-thump-commanders-in-london"
+   }
+  ],
+  "newsTag": "Carlies ribs",
+  "status": "pending",
+  "history": "No head-to-head data for this player vs this opponent was retrieved. Colts vs Steelers is the Week 5 meeting at Acrisure Stadium; Davis-Gaither's 2026 role as green-dot linebacker is new this year.",
+  "historySources": [
+   {
+    "title": "Colts vs Steelers Week 5 2026 prediction, odds, injuries (search listing)",
+    "url": "https://www.dimers.com/nfl/news/indianapolis-colts-vs-pittsburgh-steelers-early-prediction-nfl-week-5-2026-ac"
+   }
+  ],
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": null,
+   "college": null,
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-nfl-117",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Laiatu Latu",
+  "team": "IND",
+  "position": "DL",
+  "espnId": "4426473",
+  "game": "IND @ PIT",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "0.4 sacks",
+   "basis": "1 sack in 4 games = 0.25/g (reported); side is vs that season average (no book line seen); bumped for Steelers allowing 13 sacks on Rodgers in 4 games (3.25/g) and Latu's 2 QB hits in Wk4"
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Pittsburgh has let Rodgers be sacked 13 times in four weeks, and Latu is Indianapolis's top rusher coming off a high-pressure game in London.",
+  "analysis": "Latu has one sack so far in 2026 (about 0.25 per game), but he is the player who led the Colts with 8.5 sacks last season. Against Washington he blew up a fourth-and-one with pressure, added two QB hits, and shared a sack with Adetomiwa Adebawore that knocked Marcus Mariota out. Pittsburgh's quarterback has gone down 13 times through four weeks, so protection is a real weak spot. The counterweight is that the Colts rank near the bottom in pressure rate, and the Colts list DEs Samson Ebukam and Tyquan Lewis as questionable, so the rush rotation could be thinner. I project 0.4 sacks, above his average but well under a full sack. No prop line was found.",
+  "sources": [
+   {
+    "title": "Colts overcome sluggish start to thump Commanders in London",
+    "url": "https://www.colts.com/news/colts-overcome-sluggish-start-to-thump-commanders-in-london"
+   },
+   {
+    "title": "Colts vs Steelers Week 5 2026 prediction, odds, injuries (search listing)",
+    "url": "https://www.dimers.com/nfl/news/indianapolis-colts-vs-pittsburgh-steelers-early-prediction-nfl-week-5-2026-ac"
+   }
+  ],
+  "newsTag": "Colts DE injuries",
+  "status": "pending",
+  "history": "No head-to-head data for this player vs this opponent was retrieved.",
+  "historySources": [
+   {
+    "title": "Colts vs Steelers Week 5 2026 prediction, odds, injuries (search listing)",
+    "url": "https://www.dimers.com/nfl/news/indianapolis-colts-vs-pittsburgh-steelers-early-prediction-nfl-week-5-2026-ac"
+   }
+  ],
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": null,
+   "college": null,
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-nfl-119",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "T.J. Watt",
+  "team": "PIT",
+  "position": "DL",
+  "espnId": "3045282",
+  "game": "IND @ PIT",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "1.2 sacks",
+   "basis": "4.5 sacks through 4 games = 1.125/g (reported); career vs IND 5.5 sacks in 5 games = 1.1/g; side is vs season average (no book line seen)"
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Watt has 4.5 sacks through four games and has historically hurt the Colts, with 5.5 sacks in five career meetings.",
+  "analysis": "Watt had a sack, two tackles for loss, a forced fumble and a pass defense against Cleveland, pushing him to a reported 4.5 sacks (about 1.1 per game). Across five career games against Indianapolis he has 5.5 sacks and 15 tackles, so the matchup history matches his current pace. The Colts offense is built around Jonathan Taylor, but Daniel Jones has fumbled and thrown three interceptions this season, and pressure is described as especially effective against him. Watt has said publicly he was frustrated with the defense after the Browns loss, which suggests he stays focused on making plays. Risks are a Colts game script that leans on the run and quick throws. I project 1.2 sacks, only slightly above his average. No prop line was found.",
+  "sources": [
+   {
+    "title": "T.J. Watt: Steelers made it too easy for Browns to go downfield (NBC Sports)",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/t-j-watt-steelers-made-it-too-easy-for-browns-to-go-downfield-at-the-end-of-the-game"
+   },
+   {
+    "title": "Steelers Defense Struggles Again In Week 4 Loss To Browns - Last Word On NFL",
+    "url": "https://lastwordonsports.com/nfl/2026/10/02/steelers-defense-struggles/"
+   },
+   {
+    "title": "Colts vs Steelers Week 5 2026 prediction, odds, injuries (search listing)",
+    "url": "https://www.dimers.com/nfl/news/indianapolis-colts-vs-pittsburgh-steelers-early-prediction-nfl-week-5-2026-ac"
+   }
+  ],
+  "newsTag": "Watt frustrated",
+  "status": "pending",
+  "history": "In five career games against Indianapolis, Watt has 15 tackles, 5.5 sacks and two forced fumbles, and Pittsburgh has won four of them (per a search summary of ESPN stats).",
+  "historySources": [
+   {
+    "title": "T.J. Watt career stats (ESPN)",
+    "url": "https://www.espn.com/nfl/player/stats/_/id/3045282/t.j.-watt"
+   }
+  ],
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": null,
+   "college": null,
+   "hand": null
+  }
+ },
+ {
   "id": "2026-10-05-nfl-12",
   "analysis": "Olave leads the NFL at 125 receiving yards a game on 27 catches and 36 targets through three games, including 13 targets last week. Atlanta ranks 29th against the pass (263 yards a game) and is without cornerback A.J. Terrell Jr. FanDuel Research lists 85.5 at -113; I did not find other books. Three games is a small sample, so I regressed the 125 average to roughly 98 rather than using it raw. The line leaves a cushion of about 12 yards over that. Risk is Tyler Shough's passing volume dropping if Alvin Kamara and the run game keep it close, or Atlanta's offense controlling the clock.",
   "bio": {
@@ -3411,6 +3881,164 @@
   "team": "NO",
   "week": "2026-10-05",
   "why": "Olave has 27 catches for 375 yards on 36 targets through 3 games, including 13 targets last week. Atlanta ranks 29th against the pass and is without CB A.J. Terrell (groin)."
+ },
+ {
+  "id": "2026-10-05-nfl-121",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Aidan Hutchinson",
+  "team": "DET",
+  "position": "DL",
+  "espnId": "4372099",
+  "game": "DET @ ARI",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T16:25:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "0.9 sacks",
+   "basis": "3.5 sacks in 4 games = 0.875/g (reported); side is vs that season average (no book line seen); Lions defense has 12 team sacks"
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Hutchinson has a sack in six straight games, a Lions record, and Arizona is trying to protect Jacoby Brissett.",
+  "analysis": "Hutchinson has 3.5 sacks in four games, with two against New Orleans, one against Buffalo, a half-sack against the Jets and none at Carolina. His six-game sack streak, which runs back into 2025, set a Lions franchise record. Detroit's defense has 12 team sacks. The Cardinals will start Brissett again after his three-interception game, and he faces a pass rush they cannot afford to give extra chances. The streak broke the pattern in Week 4 only in the sense that he had no sack against Carolina, so there is some risk the pace is cooling. I project 0.9, just above his 0.875 average. No prop line found, so the side is relative to his average, and confidence is 2.",
+  "sources": [
+   {
+    "title": "Aidan Hutchinson sack streak sets Lions record (Detroit Sports Nation)",
+    "url": "https://detroitsportsnation.com/aidan-hutchinson-sack-streak-lions-record/gkaplan/detroit-lions/09/18/2026/494784/"
+   },
+   {
+    "title": "Observations from the Detroit Lions' Week 4 loss to the Carolina Panthers",
+    "url": "https://www.detroitlions.com/news/detroit-lions-week-4-observations-goff-hutchinson-mcneill"
+   },
+   {
+    "title": "Lions at Cardinals Week 5 preview (Athlon, Cardinals QB plan)",
+    "url": "https://athlonsports.com/nfl/arizona-cardinals/cardinals-jacoby-brissett-interceptions-backup"
+   }
+  ],
+  "newsTag": "Brissett starts",
+  "status": "pending",
+  "history": "No head-to-head data for Hutchinson vs Arizona was retrieved.",
+  "historySources": [
+   {
+    "title": "Observations from the Detroit Lions' Week 4 loss to the Carolina Panthers",
+    "url": "https://www.detroitlions.com/news/detroit-lions-week-4-observations-goff-hutchinson-mcneill"
+   }
+  ],
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": null,
+   "college": null,
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-nfl-122",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Jack Gibbens",
+  "team": "ARI",
+  "position": "LB",
+  "espnId": "",
+  "game": "DET @ ARI",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T16:25:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "8.5 tkl",
+   "basis": "Tackles = solo + assists. 24 through 3 games (8/g), 8 in Wk4 = 32 in 4 = 8.0/g; side is vs that season average (no book line seen); 55 snaps (90%) in Wk4"
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Gibbens has been Arizona's most productive linebacker, with eight tackles in each of the last two games.",
+  "analysis": "Gibbens had 24 tackles (10 solo, 14 assisted) through three games and added eight more against the Giants on 55 snaps, a 90 percent snap share. His tackle rate is 14.8 percent against Mack Wilson's 12.2 percent, and Wilson wears the green dot. Detroit is a 4.5-point road favorite with a strong offense, so Arizona should spend long stretches defending. The cap on this projection is that Arizona's pass defense has allowed big plays, and long completions reduce tackle counts. I project 8.5, a bit above his 8.0 average. No prop line seen, so the lean is against his own average and confidence is 2.",
+  "sources": [
+   {
+    "title": "Cardinals Report Card: Grading Every Position After Week 4 Loss",
+    "url": "https://www.si.com/nfl/cardinals/onsi/arizona-cardinals-report-card-grading-every-position-week-4-loss"
+   },
+   {
+    "title": "Lions at Cardinals Week 5 preview (Athlon, Cardinals QB plan)",
+    "url": "https://athlonsports.com/nfl/arizona-cardinals/cardinals-jacoby-brissett-interceptions-backup"
+   }
+  ],
+  "newsTag": "Beck/Love injuries",
+  "status": "pending",
+  "history": "No head-to-head data for Gibbens vs Detroit was retrieved.",
+  "historySources": [
+   {
+    "title": "Cardinals Report Card: Grading Every Position After Week 4 Loss",
+    "url": "https://www.si.com/nfl/cardinals/onsi/arizona-cardinals-report-card-grading-every-position-week-4-loss"
+   }
+  ],
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": null,
+   "college": null,
+   "hand": null
+  }
+ },
+ {
+  "id": "2026-10-05-nfl-125",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Greg Rousseau",
+  "team": "BUF",
+  "position": "DL",
+  "espnId": "4362506",
+  "game": "BUF @ LAR",
+  "gameTime": "Mon 10/12",
+  "startTime": "2026-10-12T20:15:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "1.2 sacks",
+   "basis": "6 sacks through 4 games = 1.5/g (2 sacks in each of first 3 games, 0 in Wk4 despite 8 pressures); side is vs that season average (no book line seen)"
+  },
+  "side": "Less",
+  "confidence": 2,
+  "why": "Rousseau leads the NFL with six sacks, but two-per-game is hard to keep up, so I lean under his average.",
+  "analysis": "Rousseau had two sacks in each of the first three games, then none against New England even though he generated eight pressures and four QB hits. That means his production is excellent but not guaranteed to show up in the sack column. I found no Rams pass-protection numbers, so I could not adjust for the matchup. I project 1.2, below his 1.5 average, because regression from a perfect two-per-game pace is likely. No prop line was found.",
+  "sources": [
+   {
+    "title": "Greg Rousseau taking game to new heights early in 2026 (Buffalo Rumblings)",
+    "url": "https://www.buffalorumblings.com/buffalo-bills-analysis/140849/greg-rousseau-taking-game-to-new-heights-early-in-2026-season-for-buffalo-bills"
+   },
+   {
+    "title": "Capaccio: Arrow Up/Arrow Down: Patriots at Bills",
+    "url": "https://www.audacy.com/wgr550/sports/bills/capaccio-arrow-up-arrow-down-patriots-at-bills-10-04-2026"
+   },
+   {
+    "title": "Bills at Rams Week 5 Guide",
+    "url": "https://www.footballnationusa.com/post/bills-at-rams-week-5-guide-buffalo-s-efficiency-meets-los-angeles-defense"
+   }
+  ],
+  "newsTag": "Rousseau hot start",
+  "status": "pending",
+  "history": "The teams last met December 8, 2024, a 44-42 Rams win at SoFi Stadium (Josh Allen 342 yards, Matthew Stafford 320). Player-level defensive stats for that game were not retrieved.",
+  "historySources": [
+   {
+    "title": "Rams 44, Bills 42 final score (Bills.com)",
+    "url": "https://www.buffalobills.com/news/rams-44-bills-42-final-score-stats-to-know-game-highlights"
+   }
+  ],
+  "bio": {
+   "height": null,
+   "weight": null,
+   "age": null,
+   "exp": null,
+   "college": null,
+   "hand": null
+  }
  },
  {
   "id": "2026-10-05-nfl-13",
@@ -6704,6 +7332,425 @@
   "team": "DEN",
   "week": "2026-10-05",
   "why": "Nix threw 42 times in a Week 4 loss, but Denver is a 3.5-point favorite on a 42.5 total, a lower-volume script."
+ },
+ {
+  "id": "2026-10-05-nfl-84",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Alex Singleton",
+  "team": "DEN",
+  "position": "LB",
+  "espnId": null,
+  "game": "DEN @ LAC",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T16:05:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "11.0 tkl",
+   "basis": "Solo+assist total. 47 tackles in 4 games = 11.75/g (14 in Wk4 at SF); trimmed slightly for regression. No line seen, so side is vs his season per-game average."
+  },
+  "side": "Less",
+  "confidence": 2,
+  "why": "Singleton leads the NFL with 47 combined tackles, but a 14-tackle night at San Francisco is hard to repeat every week. Linebackers Drew Sanders and Dondrea Tillman are both questionable, which keeps his snaps secure.",
+  "analysis": "Singleton is the NFL tackle leader through four games with 47 (about 11.75 per game), including 14 against the 49ers. With Sanders and Tillman questionable on the Broncos injury report, he should again play nearly every down. The Chargers are 0-4 and their line has been gutted by Slater, Alt and Penning injuries, so Los Angeles may lean on quick throws and checkdowns that LBs clean up. I trim the projection to 11.0 because the 14-tackle game inflates the average and Denver could protect a lead on the ground. No posted line was found, so the side compares to his own season average. Main risk is a game that slows down and leaves fewer plays.",
+  "sources": [
+   {
+    "title": "Denver Gazette: Healthy Broncos LB Alex Singleton leading NFL in tackles",
+    "url": "https://www.denvergazette.com/2026/10/05/broncos-alex-singleton-leads-nfl-tackles-notebook/"
+   },
+   {
+    "title": "Broncos at Chargers Week 5 Guide, Prediction and Fantasy",
+    "url": "https://www.footballnationusa.com/post/broncos-at-chargers-week-5-guide-2026"
+   }
+  ],
+  "newsTag": "Singleton leads NFL in tackles",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read. This season he has 47 tackles through four games.",
+  "historySources": [
+   {
+    "title": "Denver Gazette: Singleton leads NFL in tackles",
+    "url": "https://www.denvergazette.com/2026/10/05/broncos-alex-singleton-leads-nfl-tackles-notebook/"
+   }
+  ],
+  "bio": {}
+ },
+ {
+  "id": "2026-10-05-nfl-85",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Nik Bonitto",
+  "team": "DEN",
+  "position": "DL",
+  "espnId": 4360259,
+  "game": "DEN @ LAC",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T16:05:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "0.5 sacks",
+   "basis": "2026: 1 sack in 4 games (0.25/g; his only sack came Wk3 vs LAR). 2025: 14.0 sacks in 17 games (0.82/g). Blended to 0.5; LAC allowed 8 sacks to Herbert in 4 games. No line seen, side is vs 2026 per-game average."
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Bonitto has only one sack so far after a 14-sack 2025, and the Chargers offensive line lost Slater, Alt and Penning to injury. Regression toward his 2025 rate plus a battered line makes the number worth leaning on.",
+  "analysis": "Bonitto went 0 sacks in Weeks 1, 2 and 4 and recorded his only sack in Week 3 against the Rams, which is well below the 14.0 he posted last year. Los Angeles has surrendered 8 sacks on Herbert through four games and came out of the Seattle loss with Slater, Alt and Penning all hurt, so the matchup is as good as pass rushers get. Denver's pass rush went quiet at San Francisco and the recap criticized it, which adds some chance of another dud. I blend his 2026 rate (0.25 per game) with last year's 0.82 to get 0.5 sacks. No book line was seen, so More is relative to his 2026 per-game average. Surtain being doubtful could shift coverage, but that matters less than the line injuries.",
+  "sources": [
+   {
+    "title": "Mile High Report: Winners and losers, Broncos 24-14 loss to 49ers",
+    "url": "https://milehighreport.com/denver-broncos-news/187657/winners-losers-broncos-49ers-week-4-nfl"
+   },
+   {
+    "title": "Chargers 0-4 preview, Herbert sacks, OL injuries",
+    "url": "https://www.chargers.com/news/mike-mcdaniel-jim-harbaugh-broncos-week-5"
+   },
+   {
+    "title": "Denver Gazette: Bonitto sets career high in sacks vs Chargers",
+    "url": "https://www.denvergazette.com/2026/01/04/broncos-star-nik-bonitto-sets-new-career-high-in-sacks-in-win-over-chargers-cheers-and-boos/"
+   }
+  ],
+  "newsTag": "Chargers OL injuries",
+  "status": "pending",
+  "history": "Bonitto set a then career-high in sacks in the Jan 4, 2026 win over the Chargers (exact count not retrieved); he finished 2025 with 14.0 sacks and 46 tackles.",
+  "historySources": [
+   {
+    "title": "Denver Gazette: Bonitto sets career high in sacks in win over Chargers",
+    "url": "https://www.denvergazette.com/2026/01/04/broncos-star-nik-bonitto-sets-new-career-high-in-sacks-in-win-over-chargers-cheers-and-boos/"
+   }
+  ],
+  "bio": {}
+ },
+ {
+  "id": "2026-10-05-nfl-86",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Daiyan Henley",
+  "team": "LAC",
+  "position": "LB",
+  "espnId": 4241597,
+  "game": "DEN @ LAC",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T16:05:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "7.0 tkl",
+   "basis": "Solo+assist total. 26 tackles in 4 games = 6.5/g, team leader; 5 in Wk4. Projection nudged up for a Denver offense that checks down. No line seen, side vs season per-game average."
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Henley leads the Chargers with 26 tackles through four games and plays every down at linebacker. Denver's offense has been checking down, which feeds his tackle total.",
+  "analysis": "Henley's 26 tackles through four games average 6.5 and lead the team, and he had five (four solo) in Week 4 plus a forced fumble. Denver's Week 4 recap described Bo Nix checking the ball down all day, a profile that sends short targets into linebacker range. Los Angeles is a home underdog at 0-4 with missing defensive pieces, so he should stay on the field. I set 7.0 as a small bump over his average. I found no injury designation for him. No posted line was found, so the side is relative to his own average. Risk is Denver sitting on a lead and running, which would hand tackles to the front.",
+  "sources": [
+   {
+    "title": "Chargers Week 4 game recap vs. Seahawks",
+    "url": "https://chargers.com/news/game-recap-seahawks-week-4-2026"
+   },
+   {
+    "title": "Yardbarker: Bo Nix had to check down all day",
+    "url": "https://yardbarker.com/nfl/articles/bo_nix_had_to_check_down_all_day_and_3_other_takeaways_from_broncos_loss_to_49ers/s1_17615_44390404"
+   }
+  ],
+  "newsTag": "Chargers 0-4",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read.",
+  "historySources": [],
+  "bio": {}
+ },
+ {
+  "id": "2026-10-05-nfl-88",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Nakobe Dean",
+  "team": "LV",
+  "position": "LB",
+  "espnId": null,
+  "game": "LV @ NE",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "7.5 tkl",
+   "basis": "Solo+assist total. 32 tackles in 4 games (25 solo, 7 ast) = 8.0/g; 5 in Wk4. Trimmed for a possibly lower-volume game. No line seen, side vs season per-game average."
+  },
+  "side": "Less",
+  "confidence": 2,
+  "why": "Dean leads the Raiders with 32 tackles through four games, but he only had 5 in the Week 4 loss to Kansas City. He played through a shoulder scare earlier this month.",
+  "analysis": "Dean is the Raiders' tackle leader with 32 (8.0 per game) and has been central to the defense with several forced fumbles. He logged five tackles against the Chiefs and had a limited practice week earlier after a possible shoulder injury, yet he played. New England just beat Buffalo 29-26 behind a strong Drake Maye game, so the Patriots should move the ball, but Raiders defenders may be on the field mostly chasing in space. I project 7.5, a notch under his average. No posted line was found, so the side is against his own average. Jeremy Chinn (30 tackles) shares the workload.",
+  "sources": [
+   {
+    "title": "ESPN: How has Nakobe Dean reshaped the Raiders' defense?",
+    "url": "https://www.espn.com/nfl/story/_/id/50017164/las-vegas-raiders-defense-nakobe-dean-2026-season"
+   },
+   {
+    "title": "Raiders Week 4 game recap vs Chiefs",
+    "url": "https://www.raiders.com/news/game-recap-raiders-drop-thriller-to-the-chiefs-week-4-2026"
+   }
+  ],
+  "newsTag": "Dean tackle leader",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read.",
+  "historySources": [],
+  "bio": {}
+ },
+ {
+  "id": "2026-10-05-nfl-89",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Maxx Crosby",
+  "team": "LV",
+  "position": "DL",
+  "espnId": 3916655,
+  "game": "LV @ NE",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "0.7 sacks",
+   "basis": "2 sacks in 4 games (0.5/g); 0.5 sack and 5 QB hits in Wk4. NE has allowed Maye 9 sacks in the first 3 games. No line seen, side vs season per-game average."
+  },
+  "side": "More",
+  "confidence": 3,
+  "why": "Crosby had five hits on Mahomes in Week 4 and faces a Patriots line that gave up nine sacks in the first three games. Pressure is there, the sack total should follow.",
+  "analysis": "Crosby has two sacks across four games and added half a sack with five quarterback hits against Kansas City, which suggests he is getting home more often than the box score shows. Drake Maye was sacked nine times in the first three games, and left tackle Will Campbell gave up six pressures against Buffalo, including a strip sack. The Patriots did clean things up against the Bills, so I do not assume a repeat, and I project 0.7 against a 0.5 per-game average. No book line was found; More is relative to his own average.",
+  "sources": [
+   {
+    "title": "Raiders Week 4 game recap vs Chiefs",
+    "url": "https://www.raiders.com/news/game-recap-raiders-drop-thriller-to-the-chiefs-week-4-2026"
+   },
+   {
+    "title": "Patriots.com: After Further Review, Week 4 win vs Bills",
+    "url": "https://www.patriots.com/news/after-further-review-drake-maye-film-breakdown-defense-outlasts-josh-allen-and-quick-hit-film-notes-from-week-4-win-vs-bills"
+   },
+   {
+    "title": "Digital Sports Desk: Maye sacked nine",
+    "url": "https://digitalsportsdesk.com/patriots-maye-sacked-nine/"
+   }
+  ],
+  "newsTag": "Patriots OL sacks",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read.",
+  "historySources": [],
+  "bio": {}
+ },
+ {
+  "id": "2026-10-05-nfl-90",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Robert Spillane",
+  "team": "NE",
+  "position": "LB",
+  "espnId": 3129446,
+  "game": "LV @ NE",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "8.5 tkl",
+   "basis": "Solo+assist total. Wk3: 15 (10 solo); Wk4: 8 (5 solo, 3 ast). 2025: 97 tackles in 13 games (7.5/g). No line seen, side vs his 2025 per-game average since I lack a verified 2026 total."
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Spillane had 15 tackles in Week 3 and 8 more in Week 4 and plays all defensive snaps. Las Vegas throws a lot (52 passes against KC), which keeps linebackers involved.",
+  "analysis": "Spillane led the Patriots with 15 tackles and an interception in Week 3 and 8 tackles with a forced fumble in the Bills win. He is the defensive captain and was reported playing every defensive snap. Raiders QB Kirk Cousins threw 52 times for 365 yards in Week 4, so the volume should again keep Spillane around the ball. I could not verify his full-season total, so the 8.5 projection leans on those two games and his 2025 average of 7.5 per game. No posted line was found, so the side compares to the 2025 per-game average. Harold Landry was on the PUP list for Week 4.",
+  "sources": [
+   {
+    "title": "CBS Sports: Spillane massive impact in Week 3",
+    "url": "https://www.cbssports.com/fantasy/football/news/patriots-robert-spillane-massive-impact-in-week-3"
+   },
+   {
+    "title": "Boston Globe: Patriots defense shows renewed sense of purpose",
+    "url": "https://www.bostonglobe.com/2026/10/04/sports/patriots-bills-locker-room-report/"
+   },
+   {
+    "title": "Raiders offense Cousins 365 yards (Draft Sharks)",
+    "url": "https://www.draftsharks.com/fantasy-football-news/83155/kirk-cousins-throws-for-a-season-high-365-yards"
+   }
+  ],
+  "newsTag": "Spillane steady volume",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read.",
+  "historySources": [],
+  "bio": {}
+ },
+ {
+  "id": "2026-10-05-nfl-92",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Arvell Reese",
+  "team": "NYG",
+  "position": "LB",
+  "espnId": null,
+  "game": "NYG @ WSH",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "6.5 tkl",
+   "basis": "Solo+assist total. 24 tackles (17 solo, 7 ast) in 4 games = 6.0/g; 9 in Wk4. No line seen, side vs season per-game average."
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Reese, the fifth overall pick, has 24 tackles through four games and had nine with an interception against Arizona. He is the Giants' every-down inside linebacker next to Tremaine Edmunds.",
+  "analysis": "Reese had a team-high nine tackles, a tackle for loss, an interception and three pass breakups in the Week 4 win and sits at 24 tackles on the year. Edmunds (23 tackles) shares the middle, which caps the ceiling a little. Washington expects Jayden Daniels back from his elbow injury and is a 3-point favorite in a game with a 43.5 total, which supports a normal number of snaps. Burns' torn ACL leaves a thin pass rush, so more plays may end in short completions that Reese tackles. I project 6.5 over a 6.0 average. No line was posted where I looked.",
+  "sources": [
+   {
+    "title": "Giants.com Game Balls Week 4",
+    "url": "https://www.giants.com/news/game-balls-key-performances-from-week-4-deonte-banks-arvell-reese-malik-nabers-tremaine-edmunds-abdul-carter-dominic-zvada"
+   },
+   {
+    "title": "SI: Giants-Commanders Week 5 odds",
+    "url": "https://www.si.com/betting/giants-vs-commanders-prediction-odds-spread-injuries-trends-for-nfl-week-5-01m46vkvp152"
+   }
+  ],
+  "newsTag": "Daniels returning",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read.",
+  "historySources": [],
+  "bio": {
+   "exp": "rookie (fifth overall pick, 2026)"
+  }
+ },
+ {
+  "id": "2026-10-05-nfl-96",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Blake Cashman",
+  "team": "MIN",
+  "position": "LB",
+  "espnId": 3728281,
+  "game": "MIN @ NO",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Tackles",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "8.5 tkl",
+   "basis": "Solo+assist total. Wk1 7, Wk2 10, Wk3 8, Wk4 8 = 33 in 4 games (8.25/g); 7+ tackles in 15 straight games. No line seen, side vs season per-game average."
+  },
+  "side": "More",
+  "confidence": 3,
+  "why": "Cashman has logged 7 or more tackles in 15 straight games and played 38 of 39 defensive snaps last week. New Orleans is a pass-heavy offense that trails often.",
+  "analysis": "Cashman has 33 tackles in four games (7, 10, 8, 8) and extended a streak of 7-plus tackle games to 15. He played 38 of the Vikings' 39 defensive snaps against Miami. The Saints just threw 48 times in a 21-point loss, and their offense is built around volume against a defense that shuffles attackers, so there should be plenty of tackles to mop up. Minnesota's long possessions (39:11 vs Miami) also leave the defense with more snaps in a game that is not a blowout. I set 8.5 against a 8.25 average. No posted line was seen.",
+  "sources": [
+   {
+    "title": "Dallas Turner & Blake Cashman team on takeaway (Vikings.com)",
+    "url": "https://www.vikings.com/news/dallas-turner-blake-cashman-team-on-takeaway-dolphins-win"
+   },
+   {
+    "title": "Vikings Week 4 Stock Market Report",
+    "url": "https://www.dailynorseman.com/minnesota-vikings-analysis/100055/vikings-week-4-stock-market-report"
+   }
+  ],
+  "newsTag": "Cashman 15-game streak",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read.",
+  "historySources": [],
+  "bio": {}
+ },
+ {
+  "id": "2026-10-05-nfl-97",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Dallas Turner",
+  "team": "MIN",
+  "position": "DL",
+  "espnId": 4565190,
+  "game": "MIN @ NO",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "1.4 sacks",
+   "basis": "5.5 sacks in 4 games (1.375/g); 2 in Wk4 on 33 snaps. Saints' line has allowed 10 sacks in 4 games (2.5/g), second most. No line seen, side vs season per-game average."
+  },
+  "side": "More",
+  "confidence": 3,
+  "why": "Turner has 5.5 sacks in four games and faces a Saints line that has allowed 10 sacks, second most in the NFL. Even if a posted line is high, the matchup supports the pace.",
+  "analysis": "Turner has 5.5 sacks and two forced fumbles through four games, including both Minnesota sacks against Miami on 33 snaps. New Orleans has let Tyler Shough get sacked 10 times, and they dropped to 1-3 after the Falcons loss. Minnesota ranked first in pressure rate last season. I project 1.4 sacks, roughly his average, because his pace is hard to exceed. No book line was seen, so the side is versus his 1.375 per-game rate; a posted line would likely sit well below that. Risk is the Saints getting the ball out quickly.",
+  "sources": [
+   {
+    "title": "Vikings Dolphins Week 4 recap (Vikings.com)",
+    "url": "https://www.vikings.com/news/dallas-turner-blake-cashman-team-on-takeaway-dolphins-win"
+   },
+   {
+    "title": "Vikings at Saints Week 5 Guide",
+    "url": "https://www.footballnationusa.com/post/vikings-at-saints-week-5-guide-2026"
+   },
+   {
+    "title": "Sharp Football: Minnesota Vikings 2026 Defense",
+    "url": "https://www.sharpfootballanalysis.com/analysis/minnesota-vikings-defense/amp/"
+   }
+  ],
+  "newsTag": "Saints OL 10 sacks",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read. He led the 2025 Vikings with 8 sacks.",
+  "historySources": [
+   {
+    "title": "Sharp Football: Minnesota Vikings 2026 Defense",
+    "url": "https://www.sharpfootballanalysis.com/analysis/minnesota-vikings-defense/amp/"
+   }
+  ],
+  "bio": {
+   "exp": "third-year edge rusher"
+  }
+ },
+ {
+  "id": "2026-10-05-nfl-99",
+  "week": "2026-10-05",
+  "sport": "nfl",
+  "player": "Chase Young",
+  "team": "NO",
+  "position": "DL",
+  "espnId": null,
+  "game": "MIN @ NO",
+  "gameTime": "Sun 10/11",
+  "startTime": "2026-10-11T13:00:00-04:00",
+  "stat": "Sacks",
+  "line": null,
+  "lines": [],
+  "projection": {
+   "value": "0.9 sacks",
+   "basis": "3.5 sacks in 4 games (0.875/g; 2 in Wk3 vs LV, none in Wk4 - Tyree Wilson had the team's only sack). Vikings gave up 4 sacks to MIA with backup LT. No line seen, side vs season per-game average."
+  },
+  "side": "More",
+  "confidence": 2,
+  "why": "Young leads the Saints with 3.5 sacks and a 90.3 pass-rush grade, though he did not get home against Atlanta. Minnesota's line took four sacks against Miami with a backup left tackle.",
+  "analysis": "Young had 3.5 sacks in the first three games, tied his career-high with two against Las Vegas and was blanked in the Monday night loss, when Tyree Wilson had the only Saints sack. The Vikings gave up four sacks to Miami with Ryan Van Demark replacing Christian Darrisaw and Donovan Jackson getting hurt. Minnesota's offense has struggled to score touchdowns, which could keep the Saints in obvious pass-rush spots if they fall behind. Carl Granderson and Anfernee Jennings were out last week, which would lift Young's snap share if they remain out. I project 0.9 versus a 0.875 average. No posted line found.",
+  "sources": [
+   {
+    "title": "Louisiana Sports: Chase Young bringing heat for Saints",
+    "url": "https://www.louisianasports.net/2026/09/25/new-orleans-saints-chase-young-off-to-great-start/latest-stories/"
+   },
+   {
+    "title": "Saints defensive head-to-head preview (Yahoo)",
+    "url": "https://sports.yahoo.com/articles/defensive-head-head-preview-saints-134500470.html"
+   },
+   {
+    "title": "Kevin O'Connell updates Donovan Jackson injury (Vikings.com)",
+    "url": "https://www.vikings.com/news/kevin-oconnell-updates-donovan-jackson-injury-dolphins"
+   }
+  ],
+  "newsTag": "Vikings OL shuffled",
+  "status": "pending",
+  "history": "I did not find his stat line against this opponent in prior seasons from the pages I could read.",
+  "historySources": [],
+  "bio": {}
  },
  {
   "id": "2026-10-05-nhl-01",
