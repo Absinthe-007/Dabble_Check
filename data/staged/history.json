@@ -1,0 +1,2194 @@
+{
+ "stagedAt": "2026-10-06",
+ "note": "id -> {history, sources}. Merge into picks as p.history and p.historySources at the next scheduled run. Unverified/thin; see CLAUDE.md.",
+ "picks": {
+  "2026-10-05-nfl-24": {
+   "history": "The only Kraft-versus-Chicago line I found is 3 catches on 3 targets for 31 yards in a 17-9 Packers win over the Bears; the snippet did not give the date, and I found no other meeting lines. He tore his ACL in November 2025 after 32 catches, 489 yards and 6 touchdowns in 8 games that year, so his sample against Chicago is thin. This week he caught 6 for 42 and a touchdown against Tampa Bay in Week 4, and Jayden Reed is out for the season, which funnels short targets to him. Chicago plays at Lambeau in a 1 p.m. Sunday game, and no reception line was posted when checked.",
+   "sources": [
+    {
+     "title": "Acme Packing Company: Kraft ACL",
+     "url": "https://www.acmepackingcompany.com/green-bay-packers-injuries/73859/tucker-kraft-injury-update-torn-acl-confirmed-for-packers-tight-end"
+    },
+    {
+     "title": "NFL.com: Kraft 2025 logs",
+     "url": "https://www.nfl.com/players/tucker-kraft/stats/logs/2025/"
+    }
+   ]
+  },
+  "2026-10-05-nfl-25": {
+   "history": "I found one real Geno Smith start against Cleveland: October 29, 2023 with Seattle, when he went 23 of 37 for 254 yards, 2 touchdowns and 2 interceptions in a 24-20 win, after struggling against a top-ranked Browns defense for most of the game. I found no 2024 or 2025 regular-season meeting. This week Smith went 8 of 15 for 119 yards in the Jets' Week 4 loss to Chicago (157 total yards), with Breece Hall, Adonai Mitchell and Mason Taylor out. The game total is a low 40.5, and Cleveland had 5 sacks against Pittsburgh.",
+   "sources": [
+    {
+     "title": "PFF: Seahawks 24, Browns 20 recap",
+     "url": "https://pff.com/news/nfl-week-8-game-recap-seattle-seahawks-24-cleveland-browns-20"
+    },
+    {
+     "title": "CBS Sports: CLE@SEA 2024 preseason",
+     "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20240824_CLE@SEA/"
+    }
+   ]
+  },
+  "2026-10-05-nfl-26": {
+   "history": "I could not find Watson's game lines against the Jets; a search only confirmed a December 2018 Texans-Jets game and that he threw for 4,823 yards in 2020, with no per-game stats. He missed all of 2021, so there are few modern meetings to cite. This week he has 855 yards and 6 touchdowns through three games (about 285 a game) and threw for 268 against Pittsburgh. The Jets allowed 492 total yards to Chicago, but the game total is a low 40.5 and Cleveland has Quinshon Judkins running (177 yards on 59 carries), so a run-heavy script is the risk.",
+   "sources": [
+    {
+     "title": "Sportskeeda: Watson passing yards",
+     "url": "https://www.sportskeeda.com/nfl/deshaun-watson-passing-yards"
+    },
+    {
+     "title": "4for4: Watson scouting report",
+     "url": "https://www.4for4.com/scouting-reports/deshaun-watson?page=5"
+    }
+   ]
+  },
+  "2026-10-05-nfl-27": {
+   "history": "Ward's one meeting I found with Houston was Week 4 of 2025 (September 28), a 26-0 Texans win where he completed 10 of 26 passes for 108 yards, no touchdowns and an interception, the worst game of his young career; C.J. Stroud had 233 yards and 2 touchdowns. I did not find a line for the second 2025 meeting. This year Tennessee is scoring about 12.3 points a game and Ward is in the 159 to 190 yard range. Houston has 11 sacks through three games and is a roughly 6.5-point favorite on a total near 39, though trailing could add attempts.",
+   "sources": [
+    {
+     "title": "FantasyData: Titans vs Texans Week 4 2025",
+     "url": "https://fantasydata.com/nfl/boxscore/19119-tennessee-titans-vs-houston-texans-week-4-2025"
+    },
+    {
+     "title": "SI: Ward on 0-4 start",
+     "url": "https://www.si.com/nfl/cam-ward-held-nothing-back-with-brutal-assessment-of-titans-0-4-start"
+    }
+   ]
+  },
+  "2026-10-05-nfl-28": {
+   "history": "Collins has two Titans lines I found. In Week 18 of 2024 he caught 4 passes for 32 yards and a 2-yard touchdown on the opening drive to pass 1,000 yards for the season (his full-game line was not shown). In a 2025 meeting he had 7 catches on 8 targets for 80 yards and a 7-yard rush in a 26-3 Texans win. This week he returned from a hamstring injury with 7 catches for 117 yards against Dallas and is listed as limited. Houston is a roughly 6.5-point road favorite, and its run game is weak (Montgomery has 103 yards on 37 carries).",
+   "sources": [
+    {
+     "title": "Texans: Collins eclipses 1,000 yards",
+     "url": "https://www.houstontexans.com/news/nico-collins-catches-td-to-eclipse-1-000-receiving-yards-in-2024"
+    },
+    {
+     "title": "Fantasy Points: Nico Collins",
+     "url": "https://www.fantasypoints.com/nfl/players/21756/nico-collins"
+    }
+   ]
+  },
+  "2026-10-05-nfl-29": {
+   "history": "Jones' only Pittsburgh game I found is November 2, 2025, a 27-20 Colts loss where he threw for 342 yards but had 3 interceptions and 2 fumbles (5 turnovers) and was sacked 5 times. A separate search snippet listed a 264-yard, 7-of-38 line against Pittsburgh but gave no date, so I do not trust it. This year he has 611 yards, 3 touchdowns and 3 interceptions through three games and threw only 143 yards in the win over Washington, with Alec Pierce (heel) and Keenan Allen (groin) out. Pittsburgh is a home favorite of about 1.5 to 2.5 points with extra rest on a total near 44.5.",
+   "sources": [
+    {
+     "title": "SI: Jones remains confident after Steelers loss",
+     "url": "https://www.si.com/nfl/colts/onsi/news/colts-daniel-jones-remains-confident-steelers-defeat"
+    },
+    {
+     "title": "Altoona Mirror: Jones delivers dud",
+     "url": "https://www.altoonamirror.com/sports/professional-sports/steelers/2025/11/colts-jones-delivers-dud/"
+    }
+   ]
+  },
+  "2026-10-05-nfl-30": {
+   "history": "In the November 2, 2025 meeting with Pittsburgh, Warren caught 5 passes on 7 targets for 26 yards in a 27-20 loss; his longest gain was 9 yards and it was his lowest yardage output of his rookie year, though the catch count matches this week's line. This season he has 23 catches on 27 targets through four games and went 5 for 5 in Week 4. With Pierce on injured reserve and Keenan Allen banged up, he is Indianapolis' top option. The risk is a run-heavy plan around Jonathan Taylor in a game with a 44.5 total.",
+   "sources": [
+    {
+     "title": "Steelers Now: Warren vs Colts",
+     "url": "https://steelersnow.com/depleted-steelers-must-watch-tyler-warren-closely-vs-colts/"
+    },
+    {
+     "title": "Colts: Warren career",
+     "url": "https://www.colts.com/team/players-roster/tyler-warren/career"
+    }
+   ]
+  },
+  "2026-10-05-nfl-31": {
+   "history": "Metcalf's only recent meeting I found with Indianapolis came on November 2, 2025 with Pittsburgh: 2 catches on 4 targets for 6 yards in a 27-20 win, tied for his season-low target count. I did not find his earlier lines against the Colts from his Seattle years. This week he had 5 catches for 115 yards in the Thursday night loss to Cleveland while Aaron Rodgers threw 39 times. Pittsburgh has extra rest and is a small home favorite on a 44.5 total, and targets are shared with Roman Wilson, Pat Freiermuth and Darnell Washington.",
+   "sources": [
+    {
+     "title": "CBS Sports: Metcalf quiet against Colts",
+     "url": "https://www.cbssports.com/fantasy/football/news/steelers-dk-metcalf-very-quiet-against-colts"
+    },
+    {
+     "title": "Steelers: Metcalf logs",
+     "url": "https://www.steelers.com/team/players-roster/dk-metcalf/logs"
+    }
+   ]
+  },
+  "2026-10-05-nfl-32": {
+   "history": "In the 2025 season opener (September 7, 2025) Bowers had 5 catches for 103 yards on 8 targets in a 20-13 Raiders win over the Patriots, despite playing only 32 of 63 snaps with a knee issue. I did not find lines from other meetings. This year he has 16 catches for 202 yards and 2 touchdowns in two games since returning from a knee procedure, including 11 targets against Kansas City. Las Vegas is a road underdog of about 3.5 and Kirk Cousins threw 52 times last week, so volume is high; the risk is New England taking away the middle.",
+   "sources": [
+    {
+     "title": "FanDuel Research: Bowers Week 1 vs Patriots",
+     "url": "https://www.fanduel.com/research/brock-bowers-nfl-fantasy-week-1-vs-patriots-2025"
+    },
+    {
+     "title": "Rotowire: Brock Bowers",
+     "url": "https://googlenews.rotowire.com/football/player/brock-bowers-17693"
+    }
+   ]
+  },
+  "2026-10-05-nfl-33": {
+   "history": "Jeanty's one meeting with New England was the 2025 opener, where he ran 19 times for 38 yards (2.0 per carry) and a touchdown, plus 2 catches for 2 yards in a 20-13 Raiders win, on an 86% snap share. He has not faced them since in anything I found. This season he has 206 rushing yards at 3.3 per carry and ran 15 times for 58 yards against Kansas City while adding 6 catches for 68. Las Vegas is a road underdog of about 3.5, which tends to cut carries; New England's run-defense strength was not assessed in what I saw.",
+   "sources": [
+    {
+     "title": "SI Raiders Today: Jeanty vs Patriots",
+     "url": "https://www.si.com/nfl/raiders/las-vegas-new-england-patriots-ashton-jeanty-pete-carroll-geno-smith"
+    },
+    {
+     "title": "Draft Sharks: Jeanty",
+     "url": "https://www.draftsharks.com/shark-bites/78870/ashton-jeanty-doesnt-do-much-outside-of-td"
+    }
+   ]
+  },
+  "2026-10-05-nfl-34": {
+   "history": "I could not verify any Cousins game line against New England; the search results mixed up Vikings and Patriots opponents and returned nothing I can reliably cite. For context, his career line is 44,700 passing yards, and Week 5 of a prior Falcons season produced a 509-yard game against Tampa Bay. This year he has 661 yards and 9 touchdowns and threw 52 times for 365 yards at Kansas City. New England cornerback Christian Gonzalez was out in Week 4 with a shoulder injury and his Week 5 status was unclear, and the Raiders are road underdogs, which supports volume.",
+   "sources": [
+    {
+     "title": "CBS Sports: Cousins 509 yards",
+     "url": "https://www.cbssports.com/nfl/news/kirk-cousins-threw-for-more-passing-yards-in-falcons-win-than-one-nfl-team-has-all-season/"
+    },
+    {
+     "title": "NFL.com: Cousins career",
+     "url": "https://amp.nfl.com/players/kirk-cousins/stats/career"
+    }
+   ]
+  },
+  "2026-10-05-nfl-35": {
+   "history": "One Aaron Jones game against New Orleans that I found: 131 rushing yards and a 46-yard touchdown on the first drive in a 26-17 Packers loss to the Saints at Lambeau (the snippet did not give the year). I did not find his Vikings-era lines against them. This year he has 203 yards on 52 carries through four games and ran 20 times for 94 yards plus 4 catches against Miami. New Orleans is missing linebacker Kaden Elliss and edges Carl Granderson and Anfernee Jennings; Minnesota is a roughly 1.5-point favorite on a 45.5 total, and Jordan Mason also takes carries.",
+   "sources": [
+    {
+     "title": "Packers.com: Jones run to history",
+     "url": "https://www.packers.com/news/game-notes-aaron-jones-run-to-history-paces-packers-offense"
+    },
+    {
+     "title": "Vikings: Aaron Jones logs",
+     "url": "https://www.vikings.com/team/players-roster/aaron-jones/logs/"
+    }
+   ]
+  },
+  "2026-10-05-nfl-36": {
+   "history": "Hockenson's best Saints game that I found was 11 catches on 15 targets for 134 yards and a touchdown in a 27-19 Vikings win, including 10 catches for 128 yards before halftime, the first 10-125-1 half by a tight end in NFL history; the snippet did not give the year. I did not find other meetings. In Week 4 with Justin Jefferson out he caught all 13 targets for 119 yards against Miami. Jefferson's status this week was uncertain and his return would cut Hockenson's targets, while New Orleans is thin at linebacker and Minnesota is a road favorite on a 45.5 total.",
+   "sources": [
+    {
+     "title": "CBS Sports: Hockenson racks up 134 yards",
+     "url": "https://www.cbssports.com/fantasy/football/news/vikings-t-j-hockenson-racks-up-134-yards"
+    },
+    {
+     "title": "Vikings: Hockenson hangs tough vs Saints",
+     "url": "https://www.vikings.com/news/tj-hockenson-hangs-tough-posts-monster-half-win-saints"
+    }
+   ]
+  },
+  "2026-10-05-nfl-37": {
+   "history": "Against Washington, Nabers had 10 catches on 18 targets for 127 yards and a touchdown in Week 2 of 2024, then 9 catches on 11 targets for 59 yards in Week 9 of 2024, and 5 catches for 71 yards in a Week 1 2025 loss. That is 24 catches for 257 yards across three meetings. This week he broke out with 6 catches for 112 yards and a touchdown against Arizona after 12 catches for 96 yards in the first three games. Washington allowed about 362 yards a game through Week 3 and is favored by about 2.5 on a 43.5 total.",
+   "sources": [
+    {
+     "title": "Draft Sharks: Nabers dominates targets vs Commanders",
+     "url": "https://draftsharks.com/shark-bites/76377/malik-nabers-dominates-targets-vs-commanders"
+    },
+    {
+     "title": "Giants: Nabers logs",
+     "url": "https://www.giants.com/team/players-roster/malik-nabers/logs"
+    }
+   ]
+  },
+  "2026-10-05-nfl-38": {
+   "history": "I found no meaningful Winston passing line against Washington; the only game in the search was the October 6, 2024 Browns-Commanders game, where he played one snap, going 1 of 1 for 16 yards behind Deshaun Watson. His career passing line against the Buccaneers is 304 yards, 2 touchdowns and 4 interceptions in 4 games, which is not relevant here. This week he threw for 250 yards and 3 touchdowns against Arizona and is the Giants' starter after Jaxson Dart's season-ending injury. Washington has allowed about 362 yards a game, and Andrew Thomas' groin injury is a protection risk on a 43.5 total.",
+   "sources": [
+    {
+     "title": "Pro Football Reference: Browns at Commanders 2024",
+     "url": "https://www.pro-football-reference.com/boxscores/202410060was.htm"
+    },
+    {
+     "title": "FantasyData: Browns vs Commanders",
+     "url": "https://fantasydata.com/nfl/boxscore/18744-cleveland-browns-vs-washington-commanders-week-5-2024"
+    }
+   ]
+  },
+  "2026-10-05-nfl-39": {
+   "history": "In the 2025 meeting at Denver (a 23-20 Chargers win), Hampton ran 19 times for 70 yards and a touchdown and caught 6 of 7 targets for 59 yards, averaging 3.7 per carry, after Najee Harris went down. I did not find his line from the January 4, 2026 game, which Denver won 19-3. This year he ran 12 for 43, 23 for 94 and 15 for 56 in his first three games, then his carry share fell to a season-low 28% in Week 4. The Chargers' line is depleted (Slater out with a high ankle sprain, Alt and Penning also reported out) and Denver is about a 3.5-point favorite on a 42.5 total.",
+   "sources": [
+    {
+     "title": "Rotowire: Hampton, nearly 130 total yards",
+     "url": "https://www-sss-gov-phwww.rotowire.com/football/headlines/omarion-hampton-news-nearly-130-total-yards-in-win-606829"
+    },
+    {
+     "title": "Draft Sharks: Hampton",
+     "url": "https://www.draftsharks.com/fantasy-football-news/79059/omarion-hampton-loses-fumble-and-playing-time"
+    }
+   ]
+  },
+  "2026-10-05-nfl-40": {
+   "history": "Harris faced Denver twice in 2025: in a 23-20 Chargers win in Week 3 he did not catch his lone target, and in the January 4, 2026 loss (19-3) he saw a career-high 6 targets, though the yardage was not in the snippet. He finished 2025 with 30 catches for 324 yards and 1 touchdown. This year he went 3-20, 1-53 and 6-76 in Weeks 1 to 3, about 50 yards a game with rising targets. Ladd McConkey's foot injury could add targets, and Denver lost cornerbacks Patrick Surtain II and Riley Moss, but the total is a low 42.5 and Herbert threw only 189 yards in Week 4.",
+   "sources": [
+    {
+     "title": "CBS Sports: Tre Harris",
+     "url": "https://www.cbssports.com/nfl/players/3162525/tre-harris"
+    },
+    {
+     "title": "Rotowire: Tre' Harris",
+     "url": "https://rotowire.com/football/player/tre-harris-18478"
+    }
+   ]
+  },
+  "2026-10-05-nfl-41": {
+   "history": "Harvey's one meeting with the Chargers that I found was January 4, 2026, a 19-3 Broncos win where he ran 15 times for 28 yards and caught 1 of 4 targets for 5 yards. As a rookie he had 47 catches for 356 yards and 146 carries for 540 yards over 17 games. This week he caught 10 passes for 68 yards in Week 4, out-snapping J.K. Dobbins, on Bo Nix's 42 attempts. Denver is a road favorite on a 42.5 total, so a more balanced script could cut his checkdown volume, and his catches against the Chargers last year were low.",
+   "sources": [
+    {
+     "title": "Wikipedia: RJ Harvey",
+     "url": "https://en.wikipedia.org/wiki/RJ_Harvey"
+    },
+    {
+     "title": "Broncos: RJ Harvey",
+     "url": "https://www.denverbroncos.com/team/players-roster/rj-harvey/index"
+    }
+   ]
+  },
+  "2026-10-05-nfl-42": {
+   "history": "Goff's meeting with Arizona I found was September 22, 2024: 18 of 23 for 196 yards and 2 touchdowns in a 20-13 Lions win at Arizona, in a game where Detroit slowed Kyler Murray. I did not find his other meetings. This week he threw 32 of 52 for 412 yards at Carolina in a trailing script, which is an outlier. Arizona allowed 9.3 yards per attempt through three games and has given up 31 or more points three straight times, and Detroit is missing lineman Ben Bartch; the game is at Arizona.",
+   "sources": [
+    {
+     "title": "Fox 10 Phoenix: Goff 20-13 win over Cardinals",
+     "url": "https://www.fox10phoenix.com/sports/jared-goff-throws-2-td-passes-lions-defense-slows-kyler-murray-20-13-win-over-cardinals"
+    },
+    {
+     "title": "CBS Sports: DET@ARI 2024",
+     "url": "https://www.cbssports.com/nfl/gametracker/live/NFL_20240922_DET@ARI/"
+    }
+   ]
+  },
+  "2026-10-05-nfl-43": {
+   "history": "I found no Brissett game line against Detroit. He is new to Arizona's roster in 2025 and had 3,366 yards and 23 touchdowns over 14 games that year, with a career-high 452 yards against San Francisco on November 16, 2025. This year he has thrown for 277, 95, 280 and 166 yards through four games (about 204.5 a game) and had 3 interceptions at the Giants. Detroit allows about 299 yards a game and lost cornerback Rock Ya-Sin to a hamstring injury, and a Lions offense that scores should push Arizona into a passing script; the risk is a pass rush and a run-heavy plan.",
+   "sources": [
+    {
+     "title": "Wikipedia: Jacoby Brissett",
+     "url": "https://en.wikipedia.org/wiki/Jacoby_Brissett"
+    },
+    {
+     "title": "Cardinals: Brissett splits",
+     "url": "https://www.azcardinals.com/team/players-roster/jacoby-brissett-x1804/splits"
+    }
+   ]
+  },
+  "2026-10-05-nfl-44": {
+   "history": "Smith-Njigba had 9 catches for 124 yards in the Week 1 2025 game against San Francisco, then 3 catches on 4 targets for 19 yards and a touchdown in the 41-6 divisional playoff win on January 17, 2026, when Seattle threw only 17 times. A snippet put his career average against the 49ers at 92.8 yards over 4 games with no touchdowns before that playoff score. This year he has 481 yards and six touchdowns through four games (120 a game) with 76 in Week 4. San Francisco was missing Nick Bosa (calf), Mykel Williams and James Thompson Jr., and Seattle is a 2.5-point home favorite on a 47.5 total.",
+   "sources": [
+    {
+     "title": "Rip City Radio: JSN divisional preview vs 49ers",
+     "url": "https://ripcityradio.iheart.com/content/2026-01-16-jaxon-smith-njigba-divisional-round-preview-vs-the-49ers/"
+    },
+    {
+     "title": "Seahawks: JSN splits",
+     "url": "https://www.seahawks.com/team/players-roster/jaxon-smith-njigba/splits"
+    }
+   ]
+  },
+  "2026-10-05-nfl-45": {
+   "history": "Wilson played in the Packers' divisional playoff game at San Francisco on January 20, 2024, but I could not find his rushing line from it, and I found no regular-season meeting with the 49ers. This year he ran 21 times for 81 yards and a touchdown and had 3 catches for 39 yards and a score against the Chargers after Zach Charbonnet's injury, with Jadarian Price on injured reserve. Seattle is a 2.5-point home favorite on a 47.5 total, which supports carries. The risk is more passing or another back getting work.",
+   "sources": [
+    {
+     "title": "Packers: Emanuel Wilson",
+     "url": "https://www.packers.com/team/players-roster/emanuel-wilson"
+    },
+    {
+     "title": "Channel 3000: Packers lose Wilson to Seahawks",
+     "url": "https://www.channel3000.com/news/top-stories/packers-lose-emanuel-wilson-to-super-bowl-champion-seahawks-and-might-regret-not-keeping-him/article_aae92b05-4ea2-4021-955b-a0e0e9e94861.html"
+    }
+   ]
+  },
+  "2026-10-05-nfl-46": {
+   "history": "I found only one Baltimore game for London: December 2022, his rookie year, when he caught 7 of 9 targets for 96 yards in a 17-9 Falcons loss to the Ravens. I did not find a 2025 meeting. He finished 2025 with 68 catches, 919 yards and 7 touchdowns in 12 games, and a Covers citation says he topped 100 yards in 6 of his last 7 games with Penix. Baltimore lost cornerback Marlon Humphrey to a calf injury and tight end Durham Smythe to an Achilles injury in Week 4. Atlanta is a roughly 3.5-point home underdog on a 46.5 total, and Lamar Jackson's injury status was moving the line.",
+   "sources": [
+    {
+     "title": "Falcons: Drake London page",
+     "url": "https://www.atlantafalcons.com/team/players-roster/drake-london"
+    },
+    {
+     "title": "SI: Lamar Jackson injury shifts Ravens-Falcons odds",
+     "url": "https://www.si.com/betting/lamar-jackson-injury-update-causes-massive-shift-to-ravens-vs-falcons-odds-in-nfl-week-5-2026"
+    }
+   ]
+  },
+  "2026-10-05-wnba-01": {
+   "history": "Against Atlanta this year Stewart had 27 points and 14 rebounds in the September 95-84 loss, and 19 points, 2 rebounds, 3 assists, 3 blocks and 3 steals in Game 1 of this series. In 2025 she scored 23 (June 17 win), 21 with 9 rebounds (June 29 loss) and 18 with 10 rebounds (July 13 win); I did not find her August 23 line, and in the 2024 sweep she had 20 points and 11 rebounds in Game 1 (Game 2 line not found). Series context: Atlanta leads 1-0 after a 92-82 Game 1 win; Game 2 is Wednesday in Atlanta. Sabally is out for New York, Xu Han was questionable, Gray hurt her left hand in Game 1 (status unconfirmed) and Brionna Jones is out for Atlanta. Atlanta has allowed about 74 points a game over its last five, per earlier research that I did not verify. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Dream close in on top-4 seed with 95-84 win over Liberty (AJC)",
+     "url": "https://www.ajc.com/sports/2026/09/dream-close-in-on-a-top-4-seed-with-95-84-win-over-liberty/"
+    },
+    {
+     "title": "Ionescu scores 34, Liberty rally past Dream 86-81 (CBS, June 17 2025)",
+     "url": "https://www.cbssports.com/wnba/gametracker/playbyplay/WNBA_20250617_ATL@NYL"
+    },
+    {
+     "title": "Liberty beat Dream 83-69 in 2024 Game 1 (Atlanta News First)",
+     "url": "https://www.atlantanewsfirst.com/2024/09/22/liberty-beat-dream-83-69-game-1-leonie-fiebich-scores-career-high-21/"
+    }
+   ]
+  },
+  "2026-10-05-wnba-02": {
+   "history": "Canada had 19 points in the September 95-84 win over New York and 25 points (13-of-20) with 4 assists and 5 steals in Game 1, her fifth straight double-digit game. In 2025 she had 15 points and 8 assists in the June 29 win over New York; with the Sparks in 2024 she had 11 points, 4 rebounds and 7 assists against New York. Series context: Atlanta leads 1-0 after a 92-82 Game 1 win; Game 2 is Wednesday in Atlanta. Gray played only 11 minutes (7 points) before the hand injury, so her minutes and shots could rise if Gray is out; Brionna Jones is also out for Atlanta. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Dream beat Liberty 95-84 (ESPN recap)",
+     "url": "https://www.espn.com/wnba/recap/_/gameId/401857206"
+    },
+    {
+     "title": "Jones, Gray combine for 41 as Dream beat Liberty (theScore)",
+     "url": "https://www.thescore.com/wnba/news/3305803/jones-gray-combine-for-41-as-dream-beat-liberty"
+    },
+    {
+     "title": "Liberty @ Sparks (ESPN)",
+     "url": "https://www.espn.com/wnba/game/_/gameId/401507283"
+    }
+   ]
+  },
+  "2026-10-05-wnba-03": {
+   "history": "Reese had 18 points and 10 rebounds in the September 95-84 win over New York, then 17 points, 7 rebounds, 3 blocks and 4 steals in Game 1 (Game 1 rebound line was 12.5). With the Sky in 2025 she had 21 points and 10 rebounds against New York on August 21. Series context: Atlanta leads 1-0 after a 92-82 Game 1 win; Game 2 is Wednesday in Atlanta. Jonquel Jones had 11 rebounds and 5 blocks in Game 1, and Brionna Jones is out for Atlanta, which keeps Reese's minutes heavy. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Dream beat Liberty 95-84 (ESPN recap)",
+     "url": "https://www.espn.com/wnba/recap/_/gameId/401857206"
+    },
+    {
+     "title": "Liberty unable to contain Cardoso, Reese in 91-85 loss to Sky (SNY)",
+     "url": "https://sny.tv/articles/liberty-sky-wnba-recap-8-21-25"
+    },
+    {
+     "title": "Bleacher Report: Dream beat Liberty Game 1 box score",
+     "url": "https://bleacherreport.com/articles/25506591-angel-reese-ionescus-box-score-stats-highlights-dream-beat-liberty-wnba-playoffs-game-1"
+    }
+   ]
+  },
+  "2026-10-05-wnba-04": {
+   "history": "Jonquel Jones had 18 points and 12 rebounds in the September loss at Atlanta and 12 points, 11 rebounds, 4 assists and 5 blocks in Game 1 (Game 1 rebound line 9.5). In 2025 she had 10 points and 10 rebounds on June 17 and missed the July 13 game with an ankle injury; in the 2024 sweep she had 20 points and 13 rebounds in Game 2 (Game 1 line not found). Series context: Atlanta leads 1-0 after a 92-82 Game 1 win; Game 2 is Wednesday in Atlanta. Sabally is out, which thins New York's frontcourt. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Dream close in on top-4 seed with 95-84 win over Liberty (AJC)",
+     "url": "https://www.ajc.com/sports/2026/09/dream-close-in-on-a-top-4-seed-with-95-84-win-over-liberty/"
+    },
+    {
+     "title": "Ionescu scores 34, Liberty rally past Dream 86-81 (CBS, June 17 2025)",
+     "url": "https://www.cbssports.com/wnba/gametracker/playbyplay/WNBA_20250617_ATL@NYL"
+    },
+    {
+     "title": "Ionescu scores 36, Liberty advance with 91-82 win over Dream (CBS)",
+     "url": "https://www.cbssports.com/wnba/news/ionescu-scores-36-points-and-liberty-advance-to-wnba-semifinals-with-91-82-win-over-dream"
+    }
+   ]
+  },
+  "2026-10-05-wnba-05": {
+   "history": "Wilson's rebounds against Golden State: 15 (May 31, 2026, with 28 points and 4 blocks), 14 (June 6, 2026, with 28 points) and 16 (July 12, 2025, with 34 points); I did not find her lines from the other regular-season games, and she had 4 in Game 1 as Las Vegas lost the boards 52-25. This season Las Vegas beat Golden State three times in the regular season: 91-81 on May 31, 84-79 on June 6 and 92-73 on June 21. In 2025: Golden State won 95-68 on June 7 (Aces individual lines not found), Las Vegas won 104-102 on July 12 (Wilson 34 and 16 rebounds, Young 30) and 78-72 on August 6 (Wilson 27 on 8-of-11, Young 14, Loyd 14). Series context: Golden State leads 1-0 after a 71-60 Game 1 win; Game 2 is Wednesday at Chase Center. Jewell Loyd left Game 1 with a left leg injury (being evaluated) and Stephanie Talbot is out. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Wilson's 28 points and 15 rebounds, Young's 23 points and 9 assists power Aces past Valkyries (AP)",
+     "url": "https://www.messenger-inquirer.com/ap/sports/wilsons-28-points-and-15-rebounds-youngs-23-points-and-9-assists-power-aces-past/article_1642d83e-5a63-5ce2-ad13-e1bd6b55a3dc.html"
+    },
+    {
+     "title": "Wilson's double-double, Young's 27 points help Aces beat Valkyries 84-79 (AP/WTOP)",
+     "url": "https://wtop.com/news/2026/06/aja-wilsons-double-double-jackie-youngs-27-points-with-6-3s-help-aces-beat-the-valkyries-84-79/"
+    },
+    {
+     "title": "Jackie Young scores final 10 points for Aces in 104-102 win (CBS)",
+     "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20250712_GS@LVA"
+    }
+   ]
+  },
+  "2026-10-05-wnba-06": {
+   "history": "Wilson's points against Golden State: 28 (May 31, 2026), 28 (June 6, 2026), 27 (August 6, 2025) and 34 (July 12, 2025); she scored 24 in Game 1 of this series. I did not find her June 21, 2026 or June 7, 2025 lines. Series context: Golden State leads 1-0 after a 71-60 Game 1 win; Game 2 is Wednesday at Chase Center. Jewell Loyd left Game 1 with a left leg injury (being evaluated) and Stephanie Talbot is out. Las Vegas scored only 60 in Game 1 on 33.9% shooting. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Wilson's 28 points and 15 rebounds, Young's 23 points and 9 assists power Aces past Valkyries (AP)",
+     "url": "https://www.messenger-inquirer.com/ap/sports/wilsons-28-points-and-15-rebounds-youngs-23-points-and-9-assists-power-aces-past/article_1642d83e-5a63-5ce2-ad13-e1bd6b55a3dc.html"
+    },
+    {
+     "title": "Wilson's double-double, Young's 27 points help Aces beat Valkyries 84-79 (AP/WTOP)",
+     "url": "https://wtop.com/news/2026/06/aja-wilsons-double-double-jackie-youngs-27-points-with-6-3s-help-aces-beat-the-valkyries-84-79/"
+    },
+    {
+     "title": "A'ja Wilson scores 27, Aces defeat Valkyries (CBS News)",
+     "url": "https://www.cbsnews.com/amp/sanfrancisco/news/valkyries-aces-ballhalla-aja-wilson-27-points"
+    }
+   ]
+  },
+  "2026-10-05-wnba-07": {
+   "history": "Stokes had 7 rebounds in 24 minutes on May 31 and 3 rebounds in 21 minutes on June 21 against the Aces this season, per box-score summaries, which makes her 11 rebounds in Game 1 well above that. I found no 2025 or earlier lines against Las Vegas. Series context: Golden State leads 1-0 after a 71-60 Game 1 win; Game 2 is Wednesday at Chase Center. Golden State won Game 1's boards 52-25 with 17 offensive rebounds, and Las Vegas will likely stress rebounding in a must-win game. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Kiah Stokes (Rotowire)",
+     "url": "https://www.rotowire.com/wnba/player.php?id=376"
+    },
+    {
+     "title": "Valkyries at Aces, June 21 2026 (Basketball Reference)",
+     "url": "https://www.basketball-reference.com/wnba/boxscores/pbp/202606210LVA.html"
+    },
+    {
+     "title": "Aces: Game 1 recap vs Valkyries",
+     "url": "https://aces.wnba.com/news/game-recap-poor-rebounding-plagued-aces-in-71-60-game-1-semifinals-loss-to-valkyries"
+    }
+   ]
+  },
+  "2026-10-05-wnba-08": {
+   "history": "Howard scored 16 in the September 95-84 win over New York and 16 points, 8 rebounds and 8 assists in Game 1 (Game 1 points line 18.5). In 2025 she had 5 points in 24 minutes on June 29 before leaving with an upper-body injury, and in 2024 she scored 24 in a 110-80 loss, 13 in a 78-67 win on September 19 and 14 in Game 1 of the playoff sweep. Series context: Atlanta leads 1-0 after a 92-82 Game 1 win; Game 2 is Wednesday in Atlanta. Sabally is out for New York, Xu Han was questionable, Gray hurt her left hand in Game 1 (status unconfirmed) and Brionna Jones is out for Atlanta. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Dream close in on top-4 seed with 95-84 win over Liberty (AJC)",
+     "url": "https://www.ajc.com/sports/2026/09/dream-close-in-on-a-top-4-seed-with-95-84-win-over-liberty/"
+    },
+    {
+     "title": "Dream allow 110 points in loss to Liberty (AJC, 2024)",
+     "url": "https://ajc.com/sports/dream-allow-110-points-in-loss-to-liberty/7DQMXIYMLBF7LCOBWYBNBXWZ2A"
+    },
+    {
+     "title": "Rhyne Howard clinches playoff spot (Kentucky Kernel, 2024)",
+     "url": "https://kykernel.com/105428/sports/cats-in-the-pros-atlanta-dream-star-rhyne-howard-clinch-wnba-playoff-spot/"
+    }
+   ]
+  },
+  "2026-10-05-wnba-09": {
+   "history": "Howard had 8 assists in Game 1 against a 3.5 line. I found her assist totals only for the September 2024 game (4 assists in the 78-67 win); I did not find her assist lines from the 2025 and 2026 meetings with New York. Series context: Atlanta leads 1-0 after a 92-82 Game 1 win; Game 2 is Wednesday in Atlanta. If Gray is limited, Howard may handle more creation, though Canada is also a main passer. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Bleacher Report: Dream beat Liberty Game 1 box score",
+     "url": "https://bleacherreport.com/articles/25506591-angel-reese-ionescus-box-score-stats-highlights-dream-beat-liberty-wnba-playoffs-game-1"
+    },
+    {
+     "title": "Rhyne Howard clinches playoff spot (Kentucky Kernel, 2024)",
+     "url": "https://kykernel.com/105428/sports/cats-in-the-pros-atlanta-dream-star-rhyne-howard-clinch-wnba-playoff-spot/"
+    },
+    {
+     "title": "Bleacher Nation: Dream vs Liberty Game 1 props",
+     "url": "https://www.bleachernation.com/picks/2026/10/03/dream-vs-liberty-best-bets-player-props-computer-picks-game-1-wnba-semifinals/"
+    }
+   ]
+  },
+  "2026-10-05-wnba-10": {
+   "history": "Ionescu had 27 points, 4 rebounds and 1 assist in Game 1 (line 15.5). Against Atlanta in 2025 she scored 34 (June 17) and 14 on 5-of-15 (June 29), missed the August 23 game, and in 2024 had 14 in Game 1 and a career-high 36 with five threes in Game 2 of the sweep. She was listed as playing at least part of 2026 (13.3 points in the 12 games covered by the game notes I saw) and I did not find whether she played the September 95-84 game. Series context: Atlanta leads 1-0 after a 92-82 Game 1 win; Game 2 is Wednesday in Atlanta. Sabally is out for New York, Xu Han was questionable, Gray hurt her left hand in Game 1 (status unconfirmed) and Brionna Jones is out for Atlanta. Covers noted she made 3+ threes in only two of her last five games. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Ionescu scores 34, Liberty rally past Dream 86-81 (CBS, June 17 2025)",
+     "url": "https://www.cbssports.com/wnba/gametracker/playbyplay/WNBA_20250617_ATL@NYL"
+    },
+    {
+     "title": "Ionescu scores 36, Liberty advance with 91-82 win over Dream (CBS)",
+     "url": "https://www.cbssports.com/wnba/news/ionescu-scores-36-points-and-liberty-advance-to-wnba-semifinals-with-91-82-win-over-dream"
+    },
+    {
+     "title": "Covers: Liberty vs Dream Game 1 picks",
+     "url": "https://www.covers.com/wnba/liberty-vs-dream-prediction-picks-sunday-oct-4-2026"
+    }
+   ]
+  },
+  "2026-10-05-wnba-11": {
+   "history": "Canada had 4 assists with her 25 points in Game 1 against a 7.5 assist line, and Covers had her at 8+ in four of her previous five games. Against New York in 2025 she had 8 assists (June 29) and in 2024 with the Sparks 7 assists; I did not find her assist total from the September 2026 meeting (19 points). Series context: Atlanta leads 1-0 after a 92-82 Game 1 win; Game 2 is Wednesday in Atlanta. If Gray is out she may keep scoring more, or return to the passer role. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Covers: Liberty vs Dream Game 1 picks",
+     "url": "https://www.covers.com/wnba/liberty-vs-dream-prediction-picks-sunday-oct-4-2026"
+    },
+    {
+     "title": "Jones, Gray combine for 41 as Dream beat Liberty (theScore)",
+     "url": "https://www.thescore.com/wnba/news/3305803/jones-gray-combine-for-41-as-dream-beat-liberty"
+    },
+    {
+     "title": "Liberty @ Sparks (ESPN)",
+     "url": "https://www.espn.com/wnba/game/_/gameId/401507283"
+    }
+   ]
+  },
+  "2026-10-05-wnba-12": {
+   "history": "Chelsea Gray had 12 points, 6 rebounds and 6 assists in the May 31, 2026 win at Golden State and 16 points, 4 rebounds and 3 assists in Game 1; I did not find her other 2026 or 2025 lines against the Valkyries. This season Las Vegas beat Golden State three times in the regular season: 91-81 on May 31, 84-79 on June 6 and 92-73 on June 21. Series context: Golden State leads 1-0 after a 71-60 Game 1 win; Game 2 is Wednesday at Chase Center. Jewell Loyd left Game 1 with a left leg injury (being evaluated) and Stephanie Talbot is out. If Loyd misses time, more guard usage could go to Gray. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Wilson's 28 points and 15 rebounds, Young's 23 points and 9 assists power Aces past Valkyries (AP)",
+     "url": "https://www.messenger-inquirer.com/ap/sports/wilsons-28-points-and-15-rebounds-youngs-23-points-and-9-assists-power-aces-past/article_1642d83e-5a63-5ce2-ad13-e1bd6b55a3dc.html"
+    },
+    {
+     "title": "Aces: Game 1 recap vs Valkyries",
+     "url": "https://aces.wnba.com/news/game-recap-poor-rebounding-plagued-aces-in-71-60-game-1-semifinals-loss-to-valkyries"
+    },
+    {
+     "title": "Valkyries deal Aces Game 1 loss (Loyd injury)",
+     "url": "https://www.rawchili.com/5115475/"
+    }
+   ]
+  },
+  "2026-10-05-wnba-13": {
+   "history": "Young's points against Golden State: 23 with 9 assists (May 31, 2026), 27 on 6-of-8 threes (June 6, 2026), 30 (July 12, 2025, 11-of-11 at the line) and 14 (August 6, 2025); she had 11 points, 5 assists, 4 rebounds and 3 steals in Game 1. Series context: Golden State leads 1-0 after a 71-60 Game 1 win; Game 2 is Wednesday at Chase Center. Jewell Loyd left Game 1 with a left leg injury (being evaluated) and Stephanie Talbot is out. A Loyd absence would likely raise her shots. I could not reproduce the 23.7 average cited in earlier research from the games I found. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Wilson's 28 points and 15 rebounds, Young's 23 points and 9 assists power Aces past Valkyries (AP)",
+     "url": "https://www.messenger-inquirer.com/ap/sports/wilsons-28-points-and-15-rebounds-youngs-23-points-and-9-assists-power-aces-past/article_1642d83e-5a63-5ce2-ad13-e1bd6b55a3dc.html"
+    },
+    {
+     "title": "Wilson's double-double, Young's 27 points help Aces beat Valkyries 84-79 (AP/WTOP)",
+     "url": "https://wtop.com/news/2026/06/aja-wilsons-double-double-jackie-youngs-27-points-with-6-3s-help-aces-beat-the-valkyries-84-79/"
+    },
+    {
+     "title": "Jackie Young scores final 10 points for Aces in 104-102 win (CBS)",
+     "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20250712_GS@LVA"
+    }
+   ]
+  },
+  "2026-10-05-wnba-14": {
+   "history": "Gabby Williams scored 20 on May 31, 2026 and a career-high 27 on 10-of-17 shooting on June 6, 2026 against Las Vegas, so Game 1's 25 is close to her best against this team rather than a one-off. I did not find her 2025 or earlier lines against the Aces, or her season average. Series context: Golden State leads 1-0 after a 71-60 Game 1 win; Game 2 is Wednesday at Chase Center. Las Vegas lost the boards badly in Game 1 and will adjust. Game 2 lines were not posted when I checked.",
+   "sources": [
+    {
+     "title": "Wilson's 28 points and 15 rebounds, Young's 23 points and 9 assists power Aces past Valkyries (AP)",
+     "url": "https://www.messenger-inquirer.com/ap/sports/wilsons-28-points-and-15-rebounds-youngs-23-points-and-9-assists-power-aces-past/article_1642d83e-5a63-5ce2-ad13-e1bd6b55a3dc.html"
+    },
+    {
+     "title": "Wilson's double-double, Young's 27 points help Aces beat Valkyries 84-79 (AP/WTOP)",
+     "url": "https://wtop.com/news/2026/06/aja-wilsons-double-double-jackie-youngs-27-points-with-6-3s-help-aces-beat-the-valkyries-84-79/"
+    },
+    {
+     "title": "Mission Local: Valkyries take Game 1 vs Aces",
+     "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
+    }
+   ]
+  },
+  "2026-10-05-wnba-15": {
+   "history": "Stewart's history against Atlanta: 27 points and 14 rebounds (September 2026 loss), 19 in Game 1 of this series, 23, 21 and 18 in three 2025 meetings, and 20 and 11 in Game 1 of the 2024 sweep. Series context: Atlanta leads 1-0 after Game 1; Game 2 is Wednesday and Game 3 is Friday in New York (time unconfirmed), so the series score going in is unknown. Sabally is out for New York, Xu Han was questionable, Gray hurt her left hand in Game 1 (status unconfirmed) and Brionna Jones is out for Atlanta. No Game 3 line was found.",
+   "sources": [
+    {
+     "title": "Dream close in on top-4 seed with 95-84 win over Liberty (AJC)",
+     "url": "https://www.ajc.com/sports/2026/09/dream-close-in-on-a-top-4-seed-with-95-84-win-over-liberty/"
+    },
+    {
+     "title": "Ionescu scores 34, Liberty rally past Dream 86-81 (CBS, June 17 2025)",
+     "url": "https://www.cbssports.com/wnba/gametracker/playbyplay/WNBA_20250617_ATL@NYL"
+    },
+    {
+     "title": "Bleacher Report: Dream beat Liberty Game 1 box score",
+     "url": "https://bleacherreport.com/articles/25506591-angel-reese-ionescus-box-score-stats-highlights-dream-beat-liberty-wnba-playoffs-game-1"
+    }
+   ]
+  },
+  "2026-10-05-wnba-16": {
+   "history": "Wilson's points against Golden State: 28 (May 31, 2026), 28 (June 6, 2026), 27 (August 6, 2025), 34 (July 12, 2025), and 24 in Game 1 of this series. Series context: Golden State leads 1-0 after Game 1; Game 2 is Wednesday and Game 3 is Friday in Las Vegas (time unconfirmed), where Las Vegas won the home games I found against the Valkyries (84-79 and 92-73 in 2026, 104-102 in 2025). Jewell Loyd left Game 1 with a left leg injury (being evaluated) and Stephanie Talbot is out. No Game 3 line was found.",
+   "sources": [
+    {
+     "title": "Wilson's 28 points and 15 rebounds, Young's 23 points and 9 assists power Aces past Valkyries (AP)",
+     "url": "https://www.messenger-inquirer.com/ap/sports/wilsons-28-points-and-15-rebounds-youngs-23-points-and-9-assists-power-aces-past/article_1642d83e-5a63-5ce2-ad13-e1bd6b55a3dc.html"
+    },
+    {
+     "title": "Wilson's double-double, Young's 27 points help Aces beat Valkyries 84-79 (AP/WTOP)",
+     "url": "https://wtop.com/news/2026/06/aja-wilsons-double-double-jackie-youngs-27-points-with-6-3s-help-aces-beat-the-valkyries-84-79/"
+    },
+    {
+     "title": "A'ja Wilson scores 27, Aces defeat Valkyries (CBS News)",
+     "url": "https://www.cbsnews.com/amp/sanfrancisco/news/valkyries-aces-ballhalla-aja-wilson-27-points"
+    }
+   ]
+  },
+  "2026-10-05-wnba-17": {
+   "history": "Canada's history against New York: 19 points (September 2026 win), 25 in Game 1 of this series, 15 points and 8 assists (June 29, 2025), and 11 points, 4 rebounds and 7 assists with the Sparks in 2024. Series context: Atlanta leads 1-0 after Game 1; Game 2 is Wednesday and Game 3 is Friday in New York (time unconfirmed). Gray's hand injury status is unconfirmed. No Game 3 line was found.",
+   "sources": [
+    {
+     "title": "Dream beat Liberty 95-84 (ESPN recap)",
+     "url": "https://www.espn.com/wnba/recap/_/gameId/401857206"
+    },
+    {
+     "title": "Jones, Gray combine for 41 as Dream beat Liberty (theScore)",
+     "url": "https://www.thescore.com/wnba/news/3305803/jones-gray-combine-for-41-as-dream-beat-liberty"
+    },
+    {
+     "title": "Liberty @ Sparks (ESPN)",
+     "url": "https://www.espn.com/wnba/game/_/gameId/401507283"
+    }
+   ]
+  },
+  "2026-10-05-wnba-18": {
+   "history": "Young's points against Golden State: 23 (May 31, 2026), 27 (June 6, 2026), 30 (July 12, 2025) and 14 (August 6, 2025), and 11 in Game 1 of this series; I could not reproduce the 23.7 average from earlier research. Series context: Golden State leads 1-0 after Game 1; Game 3 is Friday in Las Vegas (time unconfirmed). Jewell Loyd left Game 1 with a left leg injury (being evaluated) and Stephanie Talbot is out. Lineups listed her at 18.5 points before Game 1; no Game 3 line was found.",
+   "sources": [
+    {
+     "title": "Wilson's double-double, Young's 27 points help Aces beat Valkyries 84-79 (AP/WTOP)",
+     "url": "https://wtop.com/news/2026/06/aja-wilsons-double-double-jackie-youngs-27-points-with-6-3s-help-aces-beat-the-valkyries-84-79/"
+    },
+    {
+     "title": "Wilson's 28 points and 15 rebounds, Young's 23 points and 9 assists power Aces past Valkyries (AP)",
+     "url": "https://www.messenger-inquirer.com/ap/sports/wilsons-28-points-and-15-rebounds-youngs-23-points-and-9-assists-power-aces-past/article_1642d83e-5a63-5ce2-ad13-e1bd6b55a3dc.html"
+    },
+    {
+     "title": "Lineups: WNBA playoff props (Oct 3)",
+     "url": "https://www.lineups.com/articles/best-wnba-playoffs-props-today-breanna-stewart-allisha-gray-and-jackie-young-best-bets/"
+    }
+   ]
+  },
+  "2026-10-05-nhl-01": {
+   "history": "Draisaitl's most recent meetings with Anaheim came in the 2026 first-round series, which the Ducks won in six games. He was the Oilers' best skater there, with 3 goals and 10 points and a point in every game, including four multi-point games (2 assists in a 4-3 Game 1 win, 1 goal and 1 assist in a 6-4 Game 2 loss, 2 goals in a 4-1 Game 5 win). I did not find his shot totals from the series, and I found nothing from earlier seasons against the Ducks. This game is Wednesday 10/7 at Anaheim, 10 PM ET, and Edmonton then plays at San Jose Saturday. Board notes have him at 15 shots in 3 games this season; I could not confirm goalies or injuries, and three games is a very small sample.",
+   "sources": [
+    {
+     "title": "Draisaitl scores twice as Oilers beat Ducks to force Game 6 (TSN)",
+     "url": "https://www.tsn.ca/nhl/article/draisaitl-scores-twice-as-oilers-beat-ducks-to-force-game-6/"
+    },
+    {
+     "title": "Ducks finish off 2-time conference champ Oilers in G6",
+     "url": "https://abc7.com/post/ducks-finish-off-2-time-conference-champ-oilers-g6-reach-2nd-round/19011667/"
+    },
+    {
+     "title": "Oilers 3 stars of the playoffs (The Hockey Writers)",
+     "url": "https://thehockeywriters.com/oilers-3-stars-of-the-playoffs/"
+    }
+   ]
+  },
+  "2026-10-05-nhl-02": {
+   "history": "In the 2026 first-round loss to Anaheim, McDavid was quiet: reports say he and Evan Bouchard each scored one goal in the series while Draisaitl led the team with 10 points. I did not find McDavid's full series point total or shots, and nothing from earlier years against the Ducks. McDavid still led the league with 138 points last season. Board notes have him at 9 points (2 goals, 7 assists) in 3 games this season. The game is Wednesday 10/7 in Anaheim at 10 PM ET; goalies and injuries were not confirmed, and the early-season sample is tiny.",
+   "sources": [
+    {
+     "title": "Draisaitl scores twice as Oilers beat Ducks to force Game 6 (TSN)",
+     "url": "https://www.tsn.ca/nhl/article/draisaitl-scores-twice-as-oilers-beat-ducks-to-force-game-6/"
+    },
+    {
+     "title": "Ducks finish off 2-time conference champ Oilers in G6",
+     "url": "https://abc7.com/post/ducks-finish-off-2-time-conference-champ-oilers-g6-reach-2nd-round/19011667/"
+    },
+    {
+     "title": "Oilers 3 stars of the playoffs (The Hockey Writers)",
+     "url": "https://thehockeywriters.com/oilers-3-stars-of-the-playoffs/"
+    }
+   ]
+  },
+  "2026-10-05-nhl-03": {
+   "history": "MacKinnon scored twice (his 47th and 48th goals of the season) in Colorado's 3-2 win at Winnipeg on March 26, 2026, where Connor Hellebuyck made 32 saves. I did not find his shot totals for that game or any other 2025-26 meeting, and I found nothing from 2024-25 or earlier. Board notes have him at 12 shots, 2 goals and 3 assists in 2 games this season. This game is Wednesday 10/7 at Winnipeg, 7:30 PM ET, and Colorado plays at Calgary the next night, so it is the first game of a back-to-back. Goalies and injuries were not confirmed, and two games is a very small sample.",
+   "sources": [
+    {
+     "title": "MacKinnon inches closer to 50-goal mark as Avalanche defeat Jets 3-2",
+     "url": "https://www.dailygazette.com/ap/sports/mackinnon-inches-closer-to-50-goal-mark-as-avalanche-defeat-jets-3-2/article_1ffb3b52-0303-5099-a2ac-174b664026a5.html"
+    }
+   ]
+  },
+  "2026-10-05-nhl-04": {
+   "history": "On December 4, 2024, Matthews scored twice early in the third period as Toronto beat Nashville 3-2, with Juuse Saros making 25 saves and Joseph Woll 22; those were his third and fourth goals in three games after an upper-body injury, though the recap I saw did not list his shots. I did not find his 2025-26 meetings with the Predators. Board notes have him at 10 shots in 3 games this season (3.3 per game) with 1 goal. The game is Tuesday 10/6 at 7 PM ET in Toronto, and the Leafs play at Vegas Thursday, so there is a day of rest after. Goalies and injuries were not confirmed, and three games is a small sample.",
+   "sources": [
+    {
+     "title": "Matthews scores twice early in third period, Leafs come back to down Predators 3-2",
+     "url": "https://cfjctoday.com/?p=995304"
+    },
+    {
+     "title": "Predators at Maple Leafs recap, Dec. 4 (NHL.com)",
+     "url": "https://nhl.com/news/nashville-predators-toronto-maple-leafs-game-recap-december-4"
+    }
+   ]
+  },
+  "2026-10-05-nhl-05": {
+   "history": "In a 2025-26 game against Ottawa that Boston lost 5-3, Pastrnak scored a power-play goal and had an even-strength assist; he finished that season with 100 points (71 assists). I did not find the date of that game or his shot count in it, and I found nothing on earlier seasons. Board notes have him at 13 shots in 3 games this season without a goal, and say Ottawa's Jake Sanderson left the opener hurt and Charlie McAvoy was out for Boston; I did not confirm either. The game was Monday 10/5 at 7:30 PM ET in Boston. Goalies were not confirmed, and three games is a small sample.",
+   "sources": [
+    {
+     "title": "David Pastrnak news (CBS Sports)",
+     "url": "https://www.cbssports.com/nhl/players/playerpage/2147475/david-pastrnak"
+    },
+    {
+     "title": "Season rewind: David Pastrnak delivers dominance (Bruins)",
+     "url": "https://frontend.d3.nhle.com/bruins/news/season-rewind-david-pastrnak-delivers-dominance"
+    }
+   ]
+  },
+  "2026-10-05-nhl-06": {
+   "history": "In Tampa's 7-2 win over Philadelphia in January 2026, Hagel scored a goal; the recap I saw gave no shot count and I found no other 2025-26 or earlier meeting lines. Board notes have him at 9 shots in 2 games this season at about 23 minutes a night, with the Flyers allowing 40.7 shots a game early. The game was Monday 10/5 at 7 PM ET in Tampa. Goalies and injuries were not confirmed, and a two-game opponent average is very noisy.",
+   "sources": [
+    {
+     "title": "Kucherov scores on 1st 2 shots, Lightning beat Flyers 7-2 for 9th straight win",
+     "url": "https://www.smdailyjournal.com/sports/kucherov-scores-on-1st-2-shots-lightning-beat-flyers-7-2-for-9th-straight-win/article_d16e37a3-8bc4-5400-8f88-2f1e1aaaa1d9.html"
+    },
+    {
+     "title": "Lightning vs Flyers January 12, 2026 box score (FantasyData)",
+     "url": "https://fantasydata.com/nhl/boxscore/24689-tampa-bay-lightning-vs-philadelphia-flyers-jan-12-2026"
+    }
+   ]
+  },
+  "2026-10-05-nhl-07": {
+   "history": "In the 7-2 Lightning win over Philadelphia in January 2026, Kucherov scored on each of his first two shots and assisted on two Gage Goncalves goals, a four-point night. I did not find his lines from the other meetings that season or any earlier seasons. He had 130 points last season, and board notes have him at 2 points in 2 games this season with the Flyers giving up 4.33 goals a game. The game was Monday 10/5 at 7 PM ET in Tampa. Goalies and injuries were not confirmed, and two games is a tiny sample.",
+   "sources": [
+    {
+     "title": "Kucherov scores on 1st 2 shots, Lightning beat Flyers 7-2 for 9th straight win",
+     "url": "https://www.smdailyjournal.com/sports/kucherov-scores-on-1st-2-shots-lightning-beat-flyers-7-2-for-9th-straight-win/article_d16e37a3-8bc4-5400-8f88-2f1e1aaaa1d9.html"
+    },
+    {
+     "title": "Lightning vs Flyers January 12, 2026 box score (FantasyData)",
+     "url": "https://fantasydata.com/nhl/boxscore/24689-tampa-bay-lightning-vs-philadelphia-flyers-jan-12-2026"
+    }
+   ]
+  },
+  "2026-10-05-nhl-08": {
+   "history": "On December 5, 2025, Rantanen had a goal and two assists in Dallas's 4-1 win over San Jose, where Yaroslav Askarov made 20 saves. I found no other lines from his meetings with the Sharks. The board's own notes cite 19 career assists in 25 games against San Jose and assists in 21 of 31 home games last season, but I could not source those. The game was Monday 10/5 at 8 PM ET in Dallas. Goalies and injuries were not confirmed.",
+   "sources": [
+    {
+     "title": "Rantanen has goal and 2 assists as Stars beat Sharks 4-1",
+     "url": "https://cfjctoday.com/?p=1048323"
+    }
+   ]
+  },
+  "2026-10-05-nhl-09": {
+   "history": "Dorofeyev is new to the Rangers, acquired from Vegas in June 2026 after a 37-goal season, so he has no Rangers meetings against the Islanders. I found one Vegas-era game: he scored a tying goal with 14 seconds left in a Vegas-Islanders game that Vegas lost 5-4 in a shootout, but I did not find the date, his shots or any other meeting. Board notes have him at 15 shots in 4 games this season at about 16 minutes a night. The game is Tuesday 10/6 at Madison Square Garden. Goalies and injuries were not confirmed, and he is still building chemistry with new linemates.",
+   "sources": [
+    {
+     "title": "Golden Knights' Pavel Dorofeyev: Buries game-tying goal (CBS Sports)",
+     "url": "https://www.cbssports.com/fantasy/hockey/news/golden-knights-pavel-dorofeyev-buries-game-tying-goal"
+    },
+    {
+     "title": "Golden Knights trade F Dorofeyev to Rangers (TSN)",
+     "url": "https://www.tsn.ca/nhl/article/golden-knights-trade-f-dorofeyev-to-rangers/"
+    }
+   ]
+  },
+  "2026-10-05-nhl-10": {
+   "history": "In a 2025-26 Sharks-Oilers game, Celebrini scored a power-play goal 4:05 into the first period, his 42nd of that season, but Edmonton won it with a McDavid hat trick. I did not find his shots or assists in that game, the date, or any other meetings. Board notes have him at 5 assists and 9 shots in 2 games this season after a 115-point year. The game is Saturday 10/10 at 4 PM ET in San Jose. Goalies and injuries were not confirmed, and the game is days away, so status could change.",
+   "sources": [
+    {
+     "title": "Sharks vs Oilers 2025-26 recap (NBC Bay Area, Celebrini/McDavid)",
+     "url": "https://www.nbcbayarea.com/news/sports/nhl/san-jose-sharks/macklin-celebrini-connor-mcdavid/4066019/"
+    },
+    {
+     "title": "McDavid vs Celebrini is the new McDavid vs Crosby (The Hockey News)",
+     "url": "https://thehockeynews.com/nhl/san-jose-sharks/players/mcdavid-vs-celebrini-is-the-new-mcdavid-vs-crosby"
+    }
+   ]
+  },
+  "2026-10-05-nhl-11": {
+   "history": "Celebrini scored a power-play goal 4:05 into the first period of a 2025-26 game against Edmonton, his 42nd goal of that season, in a game Edmonton won with a McDavid hat trick. I did not find his shot total for that game, the date, or lines from other meetings. Board notes have him at 9 shots in 2 games this season and 287 shots last season. The game is Saturday 10/10 at 4 PM ET in San Jose. Goalies and injuries were not confirmed, and the two-game sample is very small.",
+   "sources": [
+    {
+     "title": "Sharks vs Oilers 2025-26 recap (NBC Bay Area, Celebrini/McDavid)",
+     "url": "https://www.nbcbayarea.com/news/sports/nhl/san-jose-sharks/macklin-celebrini-connor-mcdavid/4066019/"
+    },
+    {
+     "title": "McDavid vs Celebrini is the new McDavid vs Crosby (The Hockey News)",
+     "url": "https://thehockeynews.com/nhl/san-jose-sharks/players/mcdavid-vs-celebrini-is-the-new-mcdavid-vs-crosby"
+    }
+   ]
+  },
+  "2026-10-05-nhl-12": {
+   "history": "I did not find a sourced stat line for MacKinnon against Toronto from last season or earlier, since game logs were not reachable. Board notes have him at 2 goals, 3 assists and 12 shots in 2 games this season. The game is Saturday 10/10 at 7 PM ET in Colorado; Colorado plays at Winnipeg and at Calgary on 10/7 and 10/8, so it has a day of rest before this one. Toronto plays at Vegas on 10/8. Goalies and injuries were not confirmed, and two games is a tiny sample.",
+   "sources": [
+    {
+     "title": "Nathan MacKinnon (CBS Sports player page)",
+     "url": "https://www.cbssports.com/nhl/players/2076027/nathan-mackinnon"
+    }
+   ]
+  },
+  "2026-10-05-nhl-13": {
+   "history": "In a 2025-26 game at San Jose, McDavid scored three goals, including a power-play goal that gave him his 129th point of the season, and the Oilers won. I did not find his assists in that game, the date, or lines from other meetings or earlier seasons. He finished with a league-high 138 points, and board notes have him at 7 assists in 3 games this season. The game is Saturday 10/10 at 4 PM ET in San Jose, after Edmonton plays at Anaheim on 10/7. Goalies and injuries were not confirmed.",
+   "sources": [
+    {
+     "title": "Sharks vs Oilers 2025-26 recap (NBC Bay Area, Celebrini/McDavid)",
+     "url": "https://www.nbcbayarea.com/news/sports/nhl/san-jose-sharks/macklin-celebrini-connor-mcdavid/4066019/"
+    },
+    {
+     "title": "McDavid vs Celebrini is the new McDavid vs Crosby (The Hockey News)",
+     "url": "https://thehockeynews.com/nhl/san-jose-sharks/players/mcdavid-vs-celebrini-is-the-new-mcdavid-vs-crosby"
+    }
+   ]
+  },
+  "2026-10-05-nhl-14": {
+   "history": "On January 17, 2026, Kaprizov had three assists, one on the power play, in Minnesota's 5-4 overtime win over Buffalo. I found no other meeting lines or earlier seasons. He finished 2025-26 with 45 goals, 44 assists and 89 points in 78 games, with 268 shots. Board notes have him at 3 goals and 6 shots in 2 games this season. The game is Tuesday 10/6, about 7 PM ET, listed as Minnesota at Buffalo, which I did not verify. Goalies and injuries were not confirmed.",
+   "sources": [
+    {
+     "title": "Kirill Kaprizov game log (ESPN Africa)",
+     "url": "https://africa.espn.com/nhl/player/gamelog/_/id/3942335"
+    },
+    {
+     "title": "Kirill Kaprizov (RotoWire)",
+     "url": "https://www.rotowire.com/hockey/player/kaprizov-5278"
+    }
+   ]
+  },
+  "2026-10-05-nhl-15": {
+   "history": "I did not find a sourced Kucherov stat line against Minnesota for 2025-26 or 2024-25. Searches only surfaced undated older games, including a 7-3 Lightning win in which he reached 500 career assists, which I could not date. He won the Hart with 44 goals and 130 points last season, and board notes have a point in each of his last two games. The game is Thursday 10/8 at 7 PM ET in Tampa. Goalies and injuries were not confirmed.",
+   "sources": [
+    {
+     "title": "Nikita Kucherov reaches 500 assists as Lightning ease past Wild 7-3",
+     "url": "https://www.cbsnews.com/amp/minnesota/news/nikita-kucherov-reaches-500-assists-as-lightning-ease-past-wild-7-3/"
+    },
+    {
+     "title": "Kucherov game log (ESPN Africa)",
+     "url": "https://africa.espn.com/nhl/player/gamelog/_/id/2563060/nikita-kucherov"
+    }
+   ]
+  },
+  "2026-10-05-nhl-16": {
+   "history": "Matthews scored in the first period of Vegas's 6-5 overtime win over Toronto on January 15, 2026, where Joseph Woll made 28 saves, but I did not find his shot total. I also found his December 4, 2024 two-goal game against Nashville, which is a different opponent. Board notes have him at 227 shots in 60 games last season and 6 shots against Ottawa on Oct. 3. The game is Thursday 10/8 at 10 PM ET in Vegas, with a day of rest after Tuesday's home game. Goalies and injuries were not confirmed.",
+   "sources": [
+    {
+     "title": "Eichel scores in OT as Golden Knights rally to beat Maple Leafs 6-5",
+     "url": "https://www.smdailyjournal.com/sports/eichel-scores-in-ot-as-golden-knights-rally-to-beat-maple-leafs-6-5/article_8bd540e2-15b4-50e4-891e-f96f5ea23932.html"
+    },
+    {
+     "title": "TOR at LV box score, Jan. 15 2026 (CBS Sports)",
+     "url": "https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20260115_TOR@LV"
+    }
+   ]
+  },
+  "2026-10-05-nhl-17": {
+   "history": "Eichel had four points and scored the overtime winner at 2:44 in Vegas's 6-5 win over Toronto on January 15, 2026, and set up Tomas Hertl's tying goal with 7 seconds left. Adin Hill made 23 saves for Vegas in that game. I did not find lines from other meetings or earlier seasons. Board notes have him at 63 assists in 74 games last season and 5 assists in his last 3 games. The game is Thursday 10/8 at 10 PM ET in Vegas, and Toronto will have a day of rest after Tuesday. Goalies and injuries were not confirmed.",
+   "sources": [
+    {
+     "title": "Eichel scores in OT as Golden Knights rally to beat Maple Leafs 6-5",
+     "url": "https://www.smdailyjournal.com/sports/eichel-scores-in-ot-as-golden-knights-rally-to-beat-maple-leafs-6-5/article_8bd540e2-15b4-50e4-891e-f96f5ea23932.html"
+    },
+    {
+     "title": "TOR at LV box score, Jan. 15 2026 (CBS Sports)",
+     "url": "https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20260115_TOR@LV"
+    }
+   ]
+  },
+  "2026-10-05-nhl-18": {
+   "history": "Bedard scored the go-ahead goal with 54 seconds left in Chicago's 5-3 win over the Islanders in mid-December 2025, a one-timer past Ilya Sorokin; Arvid Soderblom made 30 saves. I did not find his shots or assists in that game, and I did not find earlier-season lines. He had 30 goals, 45 assists and 75 points in 69 games last season. The game is Thursday 10/8 at 7:30 PM ET at UBS Arena, a road game for Chicago. Goalies and injuries were not confirmed.",
+   "sources": [
+    {
+     "title": "Bedard scores in 3rd period as the Blackhawks beat the Islanders 5-3",
+     "url": "https://www.cbsnews.com/amp/chicago/news/blackhawks-vs-islanders-dec-15"
+    },
+    {
+     "title": "Islanders at Blackhawks recap (NHL.com)",
+     "url": "https://nhl.com/news/new-york-islanders-chicago-blackhawks-game-recap-december-15"
+    }
+   ]
+  },
+  "2026-10-05-nhl-19": {
+   "history": "Makar had three assists in Colorado's 9-2 win over Calgary on March 30, 2026, but left with an upper-body injury after the second period, when Colorado led 6-1. I did not find his shots or other meetings with the Flames. Board notes have him at 79 points in 75 games last season and 3 points in his last 2 games. By the board's schedule, Colorado plays at Winnipeg on Wednesday, so Thursday 10/8 at Calgary (9 PM ET) is the second night of a back-to-back. Goalies and current injury status were not confirmed.",
+   "sources": [
+    {
+     "title": "Cale Makar injury update vs Calgary Flames, March 30 (Daily Faceoff)",
+     "url": "https://dailyfaceoff.com/news/colorado-avalanche-cale-makar-injury-update-calgary-flames-march-30"
+    },
+    {
+     "title": "Avalanche game recap 03-28-26",
+     "url": "https://www.nhl.com/avalanche/news/game-recap-03-28-26"
+    }
+   ]
+  },
+  "2026-10-05-nfl-47": {
+   "history": "I could not find a sourced Flowers line against Atlanta from 2024 or 2025 or a career total against them, so there is no verified past-meeting number. The Ravens play at Mercedes-Benz Stadium (a dome) on Sunday night, and the season-opening note on this prop is that Flowers's 6-119 first half in Week 4 came with Lamar Jackson throwing. Reports cited on the board say Jackson's ankle MRI result was not public Monday and coach Jesse Minter did not expect a long-term issue, though one general search I ran found no injury listed, so his status is unsettled. If Tyler Huntley starts, the passing volume likely drops and Derrick Henry absorbs more touches, which is what the Less side is built on.",
+   "sources": [
+    {
+     "title": "Ravens.com: Week 4 recap vs Titans",
+     "url": "https://www.baltimoreravens.com/news/game-recap-ravens-titans-week-4-game-recap-injuries-lamar-jackson"
+    },
+    {
+     "title": "PFT: Minter unsure of Jackson for Week 5",
+     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jesse-minter-unsure-of-lamar-jacksons-availability-for-week-5-vs-falcons"
+    }
+   ]
+  },
+  "2026-10-05-nfl-48": {
+   "history": "Nacua's most recent sourced meeting with Buffalo was December 2024, when he caught 12 passes for 162 yards and a touchdown and added a rushing touchdown in the Rams' 44-42 home win. I could not find a 2025 line or a career total against the Bills. He then had 129 catches for 1,715 yards in 2025 and returned last week from a hip injury with 9 catches for 125 yards. The Rams reportedly do not plan to limit his workload, and the game is a Monday-night home game with a total near 53.5 and Los Angeles a small favorite. Buffalo's DJ Moore is banged up, which could push the game toward a shootout and keep Nacua's target share high.",
+   "sources": [
+    {
+     "title": "Rams.com: Nacua dominant performance vs Bills",
+     "url": "https://www.therams.com/news/puka-nacua-dominant-performance-helps-rams-top-bills-in-huge-home-win-week-14"
+    },
+    {
+     "title": "ESPN: Rams intend not to limit Nacua workload",
+     "url": "https://www.espn.com/nfl/story/_/id/50098838/sources-rams-intend-limit-puka-nacua-workload"
+    },
+    {
+     "title": "Bleacher Report: Rams beat Eagles box score",
+     "url": "https://bleacherreport.com/articles/25506557-rams-beat-eagles-box-score-stats-highlights-stafford-hurts-saquon-puka-top-players"
+    }
+   ]
+  },
+  "2026-10-05-nfl-49": {
+   "history": "In the December 2024 meeting with Buffalo, Stafford completed 23 of 30 passes for 320 yards and two touchdowns in a 44-42 Rams win, on just 30 attempts in a shootout where he did not need to throw more. I found no 2025 line against the Bills or a career total. In the Week 4 comeback at Philadelphia he threw 51 passes, but that came from a trailing script. This week the Rams are home on Monday night as roughly 2.5-point favorites on a total around 53.5, one of the higher numbers of the week, which supports healthy volume. The risk to the More side is Los Angeles building a lead and leaning on the run late.",
+   "sources": [
+    {
+     "title": "Rams.com: Nacua dominant performance vs Bills",
+     "url": "https://www.therams.com/news/puka-nacua-dominant-performance-helps-rams-top-bills-in-huge-home-win-week-14"
+    },
+    {
+     "title": "Eagles.com: Rams vs Eagles Week 4 recap",
+     "url": "https://www.philadelphiaeagles.com/news/rams-vs-eagles-game-recap-october-4-2026-nfl-week-4-regular-season-jalen-hurts-matthew-stafford"
+    },
+    {
+     "title": "Dimers: Bills vs Rams early prediction",
+     "url": "https://www.dimers.com/nfl/news/buffalo-bills-vs-los-angeles-rams-early-prediction-nfl-week-5-2026-ac"
+    }
+   ]
+  },
+  "2026-10-05-nfl-50": {
+   "history": "I could not find a sourced Coleman line against the Rams from 2024 or 2025 or a career total, but Buffalo scored 42 in the December 2024 loss at Los Angeles (Josh Allen threw for 342 yards on 37 attempts), which shows how that matchup can play out. His breakout came last week when he went 6-111 with the go-ahead touchdown after DJ Moore left with a re-aggravated AC joint sprain. Moore has been unable to finish two of four games, and Adam Schefter reported it is not considered long term, but his Week 5 status was still unclear. The game is on the road in Los Angeles with a total near 53.5, which favors passing, so Coleman's target share depends heavily on whether Moore is out or limited.",
+   "sources": [
+    {
+     "title": "Rams.com: Nacua dominant performance vs Bills",
+     "url": "https://www.therams.com/news/puka-nacua-dominant-performance-helps-rams-top-bills-in-huge-home-win-week-14"
+    },
+    {
+     "title": "CBS Sports: Moore injury not considered long term",
+     "url": "https://www.cbssports.com/fantasy/football/news/bills-dj-moore-injury-not-considered-long-term/"
+    },
+    {
+     "title": "Buffalo Down: DJ Moore injury update",
+     "url": "https://buffalowdown.com/dj-moore-injury-update-leaves-bills-with-no-room-to-overthink-week-5-approach-01m44q8hp1xt"
+    }
+   ]
+  },
+  "2026-10-05-nfl-51": {
+   "history": "I found no sourced Prescott passing line against Tampa Bay from 2024 or 2025 and no career total, so there is no verified past-meeting number. Dallas hosts Thursday night at AT&T Stadium (a roof stadium) with both teams on four days of rest, and the Cowboys opened as roughly 9.5 to 10-point favorites over an 0-4 Buccaneers team. Prescott went 32 of 45 for 335 yards in the 34-30 win over Houston, but that was while Dallas chased a halftime deficit. Tampa Bay is starting undrafted rookie Jalon Daniels with Baker Mayfield out, so a lead and a run-heavy second half could trim Prescott's volume.",
+   "sources": [
+    {
+     "title": "Covers: Week 5 opening lines",
+     "url": "https://www.covers.com/nfl/week-5-odds-opening-lines-2026"
+    },
+    {
+     "title": "Football Nation: Cowboys 34, Texans 30 recap",
+     "url": "https://www.footballnationusa.com/post/cowboys-34-texans-30-week-4-recap-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-52": {
+   "history": "Egbuka is in his second year and I found no sourced 2025 line against Dallas, so there is no verified past meeting; his 2025 debut was 2 touchdown catches in a 23-20 win at Atlanta, which is not this opponent. He played 94% of Tampa Bay's snaps in Week 4 but caught only two passes for 13 yards with Jalon Daniels throwing for 148 yards, a touchdown and two interceptions. Baker Mayfield is reportedly out 3 to 6 weeks with a thumb injury, so the quarterback downgrade is the main driver. Dallas's defense has been poor, which could force Tampa to throw in catch-up mode, but the Cowboys are about 10-point home favorites on a short week.",
+   "sources": [
+    {
+     "title": "Buccaneers.com: Egbuka debut",
+     "url": "https://www.buccaneers.com/news/emeka-egbuka-makes-history-nfl-debut-data-crunch"
+    },
+    {
+     "title": "Yardbarker: Week 4 snap count analysis",
+     "url": "https://www.yardbarker.com/nfl/articles/week_4_snap_count_analysis_bucs_vs_packers/s1_17102_44389441"
+    },
+    {
+     "title": "Covers: Week 5 opening lines",
+     "url": "https://www.covers.com/nfl/week-5-odds-opening-lines-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-53": {
+   "history": "The one sourced past meeting with Philadelphia is October 2, 2022, when Lawrence completed 11 of 23 passes for 174 yards, 2 touchdowns and an interception. I found no 2024 or 2025 line against the Eagles, and no career total. He was 18 of 23 for 227 yards and a touchdown in the 22-17 win at Cincinnati. This game is in London at Tottenham Hotspur Stadium with a 9:30 a.m. ET kickoff, a neutral-site early start that can affect rhythm. Philadelphia went 0-for-12 on third down in Week 4 and may be without DeVonta Smith and Saquon Barkley, which could shorten Eagles drives, but a Jacksonville lead could also tilt it toward the run.",
+   "sources": [
+    {
+     "title": "FantasyData: Jaguars vs Eagles box score 2022",
+     "url": "https://fantasydata.com/nfl/boxscore/18267-jacksonville-jaguars-vs-philadelphia-eagles-week-4-2022"
+    },
+    {
+     "title": "Jaguars.com: Week 4 game report",
+     "url": "https://www.jaguars.com/news/game-report-2026-week-4-jaguars-22-bengals-17"
+    },
+    {
+     "title": "DAZN: Eagles vs Jaguars London preview",
+     "url": "https://www.dazn.com/en-US/news/american-football/eagles-vs-jaguars-london-2026-tottenham-hotspur-stadium/17ytgqwf0xydx1sku3r4bb6l6b"
+    }
+   ]
+  },
+  "2026-10-05-nfl-54": {
+   "history": "In the December 21, 2025 game against Miami, Burrow completed 25 of 32 passes for 309 yards and 4 touchdowns with no interceptions. I found no 2024 line against the Dolphins or a career total. Last week he went 39 of 54 for 428 yards, one touchdown and two interceptions in the 22-17 loss to Jacksonville. Ja'Marr Chase is in concussion protocol and Tee Higgins has a groin strain, leaving Cincinnati thin at receiver, and Colbie Young is out. Miami's offense reportedly runs through Ollie Gordon II after De'Von Achane's ACL tear, which could limit possessions, so volume may stay high but with weaker targets.",
+   "sources": [
+    {
+     "title": "Bengals.com: Burrow game logs",
+     "url": "https://www.bengals.com/team/players-roster/joe-burrow/logs/2025/pre/"
+    },
+    {
+     "title": "Jaguars.com: Week 4 game report",
+     "url": "https://www.jaguars.com/news/game-report-2026-week-4-jaguars-22-bengals-17"
+    },
+    {
+     "title": "SI: Zac Taylor on Chase and Higgins injuries",
+     "url": "https://www.si.com/nfl/bengals/onsi/zac-taylor-updates-injuries-to-ja-marr-chase-and-tee-higgins-after-bengals-loss-01m45vrpdk39"
+    }
+   ]
+  },
+  "2026-10-05-nfl-55": {
+   "history": "Bigsby has no sourced past meeting with Jacksonville that I could find; he was on a different team in prior seasons and I could not locate his earlier lines against the Jaguars. Barkley carried twice for 8 yards before leaving with a hamstring injury in Week 4, and Bigsby took 14 carries for 55 yards. Ian Rapoport reported the hamstring is not viewed as overly serious, so the Barkley-out condition now leans less likely. The game is the London neutral-site contest, and Philadelphia was also without DeVonta Smith, so the role only matters if Barkley sits.",
+   "sources": [
+    {
+     "title": "Inquirer: Eagles injury report, Barkley",
+     "url": "https://www.inquirer.com/eagles/live/eagles-news-injury-report-next-game-saquon-barkley-lane-johnson-20261005.html"
+    },
+    {
+     "title": "Eagles.com: Rams vs Eagles recap",
+     "url": "https://www.philadelphiaeagles.com/news/rams-vs-eagles-game-recap-october-4-2026-nfl-week-4-regular-season-jalen-hurts-matthew-stafford"
+    }
+   ]
+  },
+  "2026-10-05-nfl-56": {
+   "history": "On December 7, 2025, Love completed 17 of 25 passes for 234 yards, 3 touchdowns and an interception against Chicago, and in the January 2026 wild-card loss to the Bears he went 24 of 46 for 323 yards and 4 touchdowns. I found no 2024 line or career total against them. He averaged 266.7 passing yards through three games, then threw for 198 on 22 of 30 with two touchdowns and an interception against Tampa Bay. Jayden Reed is out for the season with a neck injury and the offensive line has been shuffled. Chicago may be on Tyson Bagent if Caleb Williams (grade 2 hamstring) is out, which would let Green Bay play from ahead and trim pass volume, with the Packers about 2.5-point home favorites.",
+   "sources": [
+    {
+     "title": "FanDuel Research: Love Week 14 vs Bears 2025",
+     "url": "https://www.fanduel.com/research/jordan-love-nfl-fantasy-week-14-vs-bears-2025"
+    },
+    {
+     "title": "Football Nation: Bears at Packers guide",
+     "url": "https://www.footballnationusa.com/post/bears-at-packers-week-5-guide-2026"
+    },
+    {
+     "title": "Football Nation: Packers 17, Buccaneers 14 recap",
+     "url": "https://www.footballnationusa.com/post/packers-17-buccaneers-14-week-4-recap-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-57": {
+   "history": "Judkins has no sourced past meeting with the Jets; he is a young back and I could not find any earlier line against New York. He has 177 rushing yards on 59 carries through three games with Jaleel McLaughlin behind him. New York allowed 492 total yards to Chicago last week and is missing Breece Hall on offense, which could give Cleveland more time of possession. The total sits near 40.5, a low-scoring script that favors the run, though trailing would cut carries.",
+   "sources": [
+    {
+     "title": "Football Nation: Browns at Jets guide",
+     "url": "https://www.footballnationusa.com/post/browns-at-jets-week-5-guide-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-58": {
+   "history": "Wilson's sourced meeting is Week 10 of 2025 against Cleveland: 0 catches on 3 targets in a 27-20 Jets win, and he played only 19 snaps after returning from a knee injury. I could not find his 2024 line or a career total against the Browns. This week he had 10 catches for 107 yards and a touchdown against Detroit and is the clear target leader with Adonai Mitchell and Mason Taylor out. Cleveland had five sacks last week but the secondary has not been tested in this matchup. The total is low at about 40.5, which is the main risk to yardage.",
+   "sources": [
+    {
+     "title": "FanDuel Research: Wilson vs Browns, Week 10 2025",
+     "url": "https://www.fanduel.com/research/garrett-wilson-nfl-fantasy-week-10-vs-browns-2025"
+    },
+    {
+     "title": "Football Nation: Browns at Jets guide",
+     "url": "https://www.footballnationusa.com/post/browns-at-jets-week-5-guide-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-59": {
+   "history": "I found no sourced Montgomery line against Tennessee, and I could not verify his earlier games against the Titans or a career total. He has 103 yards and two touchdowns on 37 carries through three games, about 2.8 yards a carry. Houston is roughly a 6.5-point favorite on a total near 39, which could raise late-game carries, but the efficiency has been poor and the run game has struggled. The Less lean rests on that weak efficiency, with a positive script producing 20 carries as the main risk.",
+   "sources": [
+    {
+     "title": "Football Nation: Texans at Titans guide",
+     "url": "https://www.footballnationusa.com/post/texans-at-titans-week-5-guide-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-60": {
+   "history": "The sourced meeting with Houston is the Week 18 game at the end of 2024, when Pollard rushed 22 times for 62 yards in a 23-14 loss and 11 of those carries went for one yard or less. I found no 2025 line or career total against the Texans. He has 173 yards on 38 carries, about 58 a game, and Tyjae Spears is questionable with an ankle, which could raise Pollard's share. Tennessee is a 6.5-point home underdog on a total around 39, so the Titans may have to pass more. The Less side is a game-script bet, and a Spears absence is the main risk.",
+   "sources": [
+    {
+     "title": "SI All Titans: Pollard",
+     "url": "https://www.si.com/nfl/titans/news/tennessee-titans-tony-pollard-could-lead-nfl-rushing"
+    },
+    {
+     "title": "Football Nation: Texans at Titans guide",
+     "url": "https://www.footballnationusa.com/post/texans-at-titans-week-5-guide-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-61": {
+   "history": "Rodgers's sourced history against the Colts is from earlier teams: one report has him at 1-4 in five meetings, averaging 243 passing yards with 12 touchdowns and 3 interceptions, and another has 1,416 yards, 13 touchdowns and 3 interceptions in 6 regular-season games. That is career data, not a 2024 or 2025 game, and I found no recent-season line against Indianapolis. He has 999 yards, 7 touchdowns and 4 interceptions on 153 attempts through four games, about 250 a game, and threw 39 times against Cleveland. Pittsburgh hosts as a small favorite with a total near 44.5, and the Steelers have a rest advantage. The Colts' secondary has been prone to big plays, but Rodgers has been sacked 13 times and a strong Colts run game could shorten the game.",
+   "sources": [
+    {
+     "title": "BetMGM: Rodgers stats vs Colts",
+     "url": "https://sports.betmgm.com/en/blog/nfl/aaron-rodgers-stats-vs-indianapolis-colts-bm10/"
+    },
+    {
+     "title": "Football Nation: Colts at Steelers guide",
+     "url": "https://www.footballnationusa.com/post/colts-at-steelers-week-5-guide-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-62": {
+   "history": "In the September 29, 2024 game against the Steelers, Taylor produced 108 scrimmage yards and a touchdown in a 27-24 Colts win, though I could not find his rushing-only line. I found no 2025 line or career total against Pittsburgh. He ran for 1,585 yards on 323 carries in 2025 (4.9 a carry), and this season he has 258 yards and four rushing touchdowns on 66 carries, about 3.9 a carry. With Alec Pierce on injured reserve and a weak passing game, Indianapolis leans on him. Pittsburgh is without Rico Dowdle on offense and a small home favorite, so the script looks neutral, with the Steelers' pass-rush-first defense the main risk.",
+   "sources": [
+    {
+     "title": "SI Horseshoe Huddle: Taylor vs Steelers",
+     "url": "https://www.si.com/nfl/colts/news/jonathan-taylor-colts-steelers-steichen-tomlin-rushing"
+    },
+    {
+     "title": "Football Nation: Colts at Steelers guide",
+     "url": "https://www.footballnationusa.com/post/colts-at-steelers-week-5-guide-2026"
+    },
+    {
+     "title": "SI: Jonathan Taylor outlook",
+     "url": "https://www.si.com/onsi/fantasy/nfl/why-jonathan-taylor-will-dominate-fantasy-football-over-the-next-few-weeks"
+    }
+   ]
+  },
+  "2026-10-05-nfl-63": {
+   "history": "Stevenson's sourced meeting with the Raiders is Week 1 of 2025, when he had 7 carries for 15 yards. I found no 2024 line or career total against Las Vegas. He has 116 rushing yards on 31 carries, about 3.7 a carry, and New England has leaned on the run with Drake Maye throwing only 22 to 33 times. The Patriots are roughly 3.5-point home favorites, which supports a run-heavy script. The sample is small and a back-and-forth game would cut his carries.",
+   "sources": [
+    {
+     "title": "ESPN: Stevenson game log",
+     "url": "https://africa.espn.com/nfl/player/gamelog/_/id/4569173/rhamondre-stevenson"
+    },
+    {
+     "title": "Football Nation: Raiders at Patriots guide",
+     "url": "https://www.footballnationusa.com/post/raiders-at-patriots-week-5-guide-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-64": {
+   "history": "The sourced Olave meeting with Minnesota is Week 10 of 2023, when he caught 6 passes for 94 yards and a touchdown in a 27-19 Saints loss. I could not find a 2024 or 2025 line against the Vikings or a career total. This season he has 27 catches for 375 yards through three games, about 125 a game, with Tyler Shough at quarterback. Minnesota's defense is strong, allowing about 13.7 points a game with a heavy pass rush. The Saints are home underdogs with a total near 45.5, so the volume is likely there but the matchup is tough.",
+   "sources": [
+    {
+     "title": "Pro Football Reference: Olave game logs",
+     "url": "https://www.pro-football-reference.com/players/O/OlavCh00.htm"
+    },
+    {
+     "title": "Football Nation: Vikings at Saints guide",
+     "url": "https://www.footballnationusa.com/post/vikings-at-saints-week-5-guide-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-65": {
+   "history": "Skattebo is in his second season and I found no sourced line against Washington, so there is no verified past meeting. He has 50 carries at 3.5 yards a carry through four games, and Tyrone Tracy was a full participant in Week 4 and shares the work. Washington is about a 2.5-point home favorite on a total near 43.5. Carry volume is uncertain, with one outlet suggesting 16.5 attempts or fewer as a playable number.",
+   "sources": [
+    {
+     "title": "Football Nation: Giants at Commanders guide",
+     "url": "https://www.footballnationusa.com/post/giants-at-commanders-week-5-guide-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-66": {
+   "history": "I found no sourced Gibbs rushing line against Arizona from 2024 or 2025 or a career total; his 2025 season was 243 carries for 1,223 yards and 13 touchdowns overall. He had 65 carries for 307 yards and four rushing touchdowns through three games, and Detroit's offense averages about 31 points. In the Week 4 loss at Carolina, Goff threw 52 passes, a pass-heavy script. Arizona allowed about 9.3 yards per pass attempt, which could keep Detroit throwing, and the Lions are favored on the road in most previews.",
+   "sources": [
+    {
+     "title": "Detroit Lions: Gibbs splits",
+     "url": "https://detroitlions.com/team/players-roster/jahmyr-gibbs/splits"
+    },
+    {
+     "title": "Football Nation: Lions at Cardinals guide",
+     "url": "https://www.footballnationusa.com/post/lions-at-cardinals-week-5-guide-detroit-s-offense-owns-the-early-edge"
+    },
+    {
+     "title": "CBS Sports: Goff passing total in loss",
+     "url": "https://www.cbssports.com/fantasy/football/news/lions-jared-goff-massive-passing-yardage-total-in-loss/"
+    }
+   ]
+  },
+  "2026-10-05-nfl-67": {
+   "history": "In the late-2025 regular-season win over the Chargers, Nix threw 23 passes (14 completions) for 141 yards and no touchdowns in a 19-3 Denver win, and rushed for 49 yards. That sourced line suggests a low-volume script is possible in this matchup, and I found no earlier meeting line or career total. He threw 42 passes in Denver's Week 4 loss, feeding RJ Harvey's 10 catches. This week Denver is about a 3.5-point favorite against a Chargers team missing Ladd McConkey, with a total near 42.5. A favorite in a low-total game usually throws less, though falling behind again would push the attempts up.",
+   "sources": [
+    {
+     "title": "SI Mile High Huddle: Nix and Chargers",
+     "url": "https://www.si.com/nfl/broncos/onsi/news/bo-nix-closing-in-rare-territory-broncos-qbs-chargers"
+    },
+    {
+     "title": "NBC Sports: Harvey piles up 10 catches",
+     "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/harvey-piles-up-10-catches-in-week-4-loss"
+    },
+    {
+     "title": "Dimers: Broncos vs Chargers prediction",
+     "url": "https://www.dimers.com/nfl/news/denver-broncos-vs-los-angeles-chargers-early-prediction-nfl-week-5-2026-ac"
+    }
+   ]
+  },
+  "2026-10-05-nfl-01": {
+   "history": "Past meetings with New Orleans: 2024 Week 10, 20 carries for 116 yards and 2 TDs in a 20-17 loss; 2025 Week 12, 17 carries for 72 yards in a Falcons win (PFF's recap lists 24-15, though another summary gave a different score); and 2025 Week 18, 15 carries for 33 yards in a 19-17 win. That is roughly 74 yards a game across the three meetings I found, with only one over 85. This year he comes off 29 carries for 194 yards and two TDs at Green Bay on Thursday, so Monday night is a short week on a heavy workload. The game is indoors at the Superdome, and Atlanta is missing CB A.J. Terrell, DT Da'Shawn Hand and OL Cameron Williams (all IR); the Saints' linebacker absences were noted in previews that I could not open.",
+   "sources": [
+    {
+     "title": "Atlanta Falcons: Bijan Robinson scrimmage yards vs Saints (Week 10)",
+     "url": "https://www.atlantafalcons.com/news/bijan-robinson-scrimmage-yards-week-10-saints"
+    },
+    {
+     "title": "CBS Sports: Falcons' Bijan Robinson bottled up in season-ending win",
+     "url": "https://www.cbssports.com/fantasy/football/news/falcons-bijan-robinson-bottled-up-in-season-ending-win"
+    },
+    {
+     "title": "PFF: NFL Week 12 game recap, Falcons vs Saints (2025)",
+     "url": "https://www.pff.com/news/nfl-week-12-game-recap-atlanta-falcons-24-new-orleans-saints-15"
+    }
+   ]
+  },
+  "2026-10-05-nfl-02": {
+   "history": "Past meeting with Tampa Bay: the January 2023 wild-card game, 4 catches on 6 targets for 68 yards and a TD in a 31-14 Dallas win (he was quiet until an 18-yard fourth-quarter TD). A December 2024 Cowboys-Buccaneers game also happened, but I could not retrieve his stat line. Last year he finished 75-1,077-3 in 14 games and this year had an underwhelming Week 1, saved by a one-yard TD. The game is Friday October 9 at AT&T Stadium (indoors) on Prime Video, and one model gives Dallas an 88 percent win probability, with Tampa starting a rookie QB.",
+   "sources": [
+    {
+     "title": "Cowboys' CeeDee Lamb: finds end zone in wild-card win (CBS Sports)",
+     "url": "https://www.cbssports.com/fantasy/football/news/cowboys-ceedee-lamb-finds-end-zone-in-wild-card-win"
+    },
+    {
+     "title": "Tampa Bay Buccaneers vs Dallas Cowboys, Week 5 2026",
+     "url": "https://nflplayoffpass.com/?p=10905"
+    },
+    {
+     "title": "NBC Sports: One-yard TD salvages underwhelming day for CeeDee",
+     "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-13/one-yard-td-salvages-underwhelming-day-for-ceedee"
+    }
+   ]
+  },
+  "2026-10-05-nfl-03": {
+   "history": "Past meetings with Seattle: 2025 Week 1, 4 catches on 4 targets for 25 yards and a 5-yard TD before a hamstring injury ended his day in a 17-13 win; 2025 Week 18, 5 catches on 7 targets for 29 yards in a 13-3 loss to Seattle. That is 54 yards across two games, well under this 64.5 line, though the first was cut short. A report also says he has seven TD catches over his last five games against Seattle, and he is second on the 49ers' receptions list with 595. This Week 5 game is in Seattle (outdoors) around October 11, and I could not confirm his current health.",
+   "sources": [
+    {
+     "title": "49ers star TE George Kittle exits vs Seahawks (National Football Post)",
+     "url": "https://www.nationalfootballpost.com/nfl/49ers-star-te-george-kittle-hamstring-exits-vs-seahawks/"
+    },
+    {
+     "title": "George Kittle 2025 game logs (NFL.com)",
+     "url": "https://www.nfl.com/players/george-kittle/stats/logs/2025/"
+    },
+    {
+     "title": "SI: George Kittle creates even more 49ers history against Seahawks",
+     "url": "https://www.si.com/nfl/49ers/onsi/news/george-kittle-creates-even-more-49ers-history-against-seahawks"
+    }
+   ]
+  },
+  "2026-10-05-nfl-04": {
+   "history": "Past meeting with Atlanta: 2023 Week 8 with the Titans, 22 carries for 101 yards plus 4 catches for 21 yards, his 39th career 100-yard game. I found no Ravens-era Falcons game, and I could not retrieve his other career carries against Atlanta. He ran 307 times for 1,595 yards and 16 TDs in 17 starts in 2025, and new coach Jesse Minter wants a downhill run game, while Henry is also expected to see more passing-game work. This Week 5 game is Monday October 12 at Mercedes-Benz Stadium (indoors) on NBC/Peacock.",
+   "sources": [
+    {
+     "title": "Titans Derrick Henry, Falcons: FedEx Ground Player of the Week (Titans)",
+     "url": "https://www.tennesseetitans.com/news/vote-derrick-henry-the-week-8-fedex-ground-player-of-the-week"
+    },
+    {
+     "title": "Falcons analysis: run defense vs Titans, Henry and Spears",
+     "url": "https://www.atlantafalcons.com/news/analysis-run-defense-week-8-tennessee-titans-derrick-henry-tyjae-spears"
+    },
+    {
+     "title": "Wolf Sports: 2026 fantasy football preview, Baltimore Ravens",
+     "url": "https://wolfsports.com/fantasy/2026-fantasy-football-preview-baltimore-ravens/"
+    }
+   ]
+  },
+  "2026-10-05-nfl-05": {
+   "history": "Past meeting with Miami: 2025 Week 16 at Miami, 3 catches for 35 yards and a TD on 4 targets in a 45-21 Bengals win, with Tee Higgins active. He played for Miami from 2018 to 2022, but I could not retrieve his career lines against them. He had 65 catches for 665 yards in 2024 and 28 for 307 yards in 13 games in 2025 (Joe Burrow missed eight games and Gesicki had a pectoral injury). Preview coverage says Chase and Higgins dominate targets, and the game is Sunday October 11 at 1 PM ET at Hard Rock Stadium (outdoors).",
+   "sources": [
+    {
+     "title": "Bengals: Mike Gesicki game logs",
+     "url": "https://www.bengals.com/team/players-roster/mike-gesicki/logs"
+    },
+    {
+     "title": "Mike Gesicki (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Mike_Gesicki"
+    },
+    {
+     "title": "RotoBaller: Mike Gesicki faces uncertain role entering 2026",
+     "url": "https://www.rotoballer.com/player-news/mike-gesicki-faces-uncertain-role-entering-2026/1905049"
+    }
+   ]
+  },
+  "2026-10-05-nfl-06": {
+   "history": "Past meetings with Denver: he did not play in the 2025 Week 18 loss to Denver (19-3) because the Chargers rested starters. One summary attributed 5 catches, 79 yards and 2 TDs to a Week 1 game, but that game label looks unreliable, so I am not treating it as verified. He finished 2025 with 51 catches for 735 yards and 8 TDs on 84 targets in 14 games. He was reported as fully healthy after a lower-body injury in August, and I found no Denver defense rank against receivers.",
+   "sources": [
+    {
+     "title": "CBS Sports: Quentin Johnston fantasy page",
+     "url": "https://www.cbssports.com/nfl/players/3162609/quentin-johnston/fantasy"
+    },
+    {
+     "title": "NBC Sports: Quentin Johnston totally fine (Aug 2026)",
+     "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-18/quentin-johnston-totally-fine"
+    }
+   ]
+  },
+  "2026-10-05-nfl-07": {
+   "history": "Past meeting with Las Vegas: 2025 Week 1 at New England, 30 of 46 for 287 yards, 1 TD and 1 INT, a career-high 46 attempts in a 20-13 loss; he was sacked four times, and much of the yardage came in garbage time. He is the QB of a team projected for a 54.8 percent pass rate in 2026, after a 4,394-yard, 31-TD season. The 46 attempts came in a trailing script, which matters for this Under 30.5 pick. The game is Sunday October 11 at 1 PM ET in Foxborough (outdoors).",
+   "sources": [
+    {
+     "title": "NBC Sports Boston: Drake Maye grade vs Raiders",
+     "url": "https://www.nbcsportsboston.com/nfl/new-england-patriots/drake-maye-grade-raiders-performance/730149/?amp=1"
+    },
+    {
+     "title": "NESN: How Drake Maye responded to Patriots season-opening loss",
+     "url": "https://nesn.com/2025/09/how-drake-maye-responded-to-patriots-season-opening-loss"
+    },
+    {
+     "title": "Fantasy Six Pack: 2026 Patriots fantasy preview",
+     "url": "https://fantasysixpack.net/2026-new-england-patriots-fantasy-football-preview-can-drake-maye-break-out-further-with-a-j-brown/"
+    }
+   ]
+  },
+  "2026-10-05-nfl-08": {
+   "history": "Past meeting with the Giants: 2024 Week 9, filling in for the injured Brian Robinson, he had 83 total yards and a 1-yard rushing TD in a 27-22 win. I did not find his lines from the 2025 meetings. He is on a Washington team where Jayden Daniels was recovering from an elbow injury with Marcus Mariota starting, so offensive volume is uncertain. This Week 5 game is at Washington (outdoors), and I could not confirm his current snap share.",
+   "sources": [
+    {
+     "title": "CBS Sports: Commanders-Giants 2024 Week 9 recap",
+     "url": "https://fantasy-api.cbssports.com/nfl/gametracker/recap/NFL_20241103_WAS@NYG/"
+    },
+    {
+     "title": "CBS Sports: Daniels leads Commanders to 27-22 win over Giants",
+     "url": "https://secure-www.cbssports.com/nfl/gametracker/recap/NFL_20241103_WAS@NYG"
+    },
+    {
+     "title": "RotoBaller: Jayden Daniels officially traveling to London with Commanders",
+     "url": "https://www.rotoballer.com/?p=1954091"
+    }
+   ]
+  },
+  "2026-10-05-nfl-09": {
+   "history": "Past meetings with the Giants: 2024 Week 9, 15 of 22 for 209 yards and 2 TDs to McLaurin in a 27-22 win; 2025 Week 1, 19 of 30 for 233 yards and 1 TD plus 11 rushes for 68 yards in a 21-6 win. He has therefore stayed in the 209-233 range in the two lines I found, and both games were low-volume wins. Reports in late September described an elbow injury with Marcus Mariota starting, so his availability is uncertain. This Week 5 game is at Washington (outdoors).",
+   "sources": [
+    {
+     "title": "ESPN: Washington Commanders @ New York Giants recap",
+     "url": "https://africa.espn.com/nfl/recap/_/gameId/401671711"
+    },
+    {
+     "title": "CBS Sports: Daniels leads Commanders to 27-22 win over Giants",
+     "url": "https://secure-www.cbssports.com/nfl/gametracker/recap/NFL_20241103_WAS@NYG"
+    },
+    {
+     "title": "RotoBaller: Jayden Daniels officially traveling to London with Commanders",
+     "url": "https://www.rotoballer.com/?p=1954091"
+    }
+   ]
+  },
+  "2026-10-05-nfl-10": {
+   "history": "I found no past game between Addison and New Orleans. In 2025 he caught 42 passes for 610 yards and 3 TDs in 14 games (career lows) after a suspension and injuries, and 2026 is his fifth-year option season. Minnesota's QB situation was open in camp (Kyler Murray was said to have a good chance to win over J.J. McCarthy), so volume is uncertain. The game is at the Superdome (indoors), and one preview ranked New Orleans' pass defense 25th, which I could not verify.",
+   "sources": [
+    {
+     "title": "Roundtable: Jordan Addison given high praise in 2026 Vikings preview",
+     "url": "https://roundtable.io/sports/nfl/vikings/news/jordan-addison-given-high-praise-in-2026-vikings-preview"
+    },
+    {
+     "title": "Viking Age: Saints Olave / Addison new wrinkle",
+     "url": "https://thevikingage.com/new-orleans-saints-chris-olave-jordan-addison-new-wrinkle-minnesota-vikings"
+    },
+    {
+     "title": "Drake London Fantasy Projections: Week 4 vs. the Saints",
+     "url": "https://selmatimesjournal.com/?p=337490"
+    }
+   ]
+  },
+  "2026-10-05-nfl-11": {
+   "history": "Past meetings with New Orleans: 2025 Week 12, 8 catches for 129 yards and 2 TDs (the second-hand summary I saw did not give the target count); 2025 Week 18, 4 catches on 8 targets for 78 yards and a 15-yard TD in the 19-17 win, while managing a knee issue. He missed four games in 2025 but still finished 68-919-7 in 12 games. This season he is Atlanta's WR1 with a 27.6 percent target share and 2.24 yards per route run through three weeks, and had 9 targets, 6 catches and 67 yards plus a TD in Week 3 against Kansas City. The game is Monday night in the Superdome after a Thursday game, and one preview listed New Orleans 25th against the pass, which I could not verify.",
+   "sources": [
+    {
+     "title": "SI: Is Drake London playing today? (Falcons vs Saints)",
+     "url": "https://www.si.com/betting/drake-london-injury-update-betting-impact-for-falcons-vs-saints"
+    },
+    {
+     "title": "SI: Is Drake London playing today? (Saints vs Falcons, Week 18)",
+     "url": "https://www.si.com/betting/drake-london-injury-update-betting-impact-for-saints-vs-falcons-week-18"
+    },
+    {
+     "title": "Drake London Fantasy Projections: Week 4 vs. the Saints",
+     "url": "https://selmatimesjournal.com/?p=337490"
+    }
+   ]
+  },
+  "2026-10-05-nfl-12": {
+   "history": "Past meetings with Atlanta: 2025 Week 12, 7 catches on 9 targets for 114 yards before he left injured (a blood-clot issue was only found later, in Week 18); he sat out the 2025 Week 18 meeting after a blood clot in his lung was found. He finished 2025 with 100 catches for 1,163 yards and nine TDs, a career high. This year, through three games, one preview shows 14 targets, 12 catches and 178 yards, so his workload is lighter than last year's pace. Atlanta is without CB A.J. Terrell (IR), the game is indoors Monday night, and New Orleans is coming off a 35-27 loss to Las Vegas where it threw 42 times.",
+   "sources": [
+    {
+     "title": "SI: Is Chris Olave playing today? (Saints vs Falcons)",
+     "url": "https://www.si.com/betting/chris-olave-injury-update-betting-impact-for-saints-vs-falcons-week-18"
+    },
+    {
+     "title": "Chris Olave Fantasy Projections: Week 4 vs. the Falcons",
+     "url": "https://lobservateur.com/?p=173290"
+    },
+    {
+     "title": "SI: Falcons vs Saints prediction, odds, injuries, trends (Week 4 2026)",
+     "url": "https://www.si.com/betting/falcons-vs-saints-prediction-odds-spread-injuries-trends-for-nfl-week-4-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-13": {
+   "history": "Past meetings with Atlanta: in 2025 Week 12 he suffered a sprained MCL in the game and then missed the next five games, including the Week 18 rematch; I could not find his carries or yards for Week 12. He was limited to 11 games in 2025 and ran 131 times for 471 yards and one TD. This year he had nine carries for 36 yards against Las Vegas in Week 3, right around this 37.5 line, in a game where the Saints threw 42 times while trailing. The Monday night game is indoors, and game script (a Saints lead helps, a deficit hurts) is the main variable.",
+   "sources": [
+    {
+     "title": "Last Word on Sports: Alvin Kamara injury report, Saints-Falcons",
+     "url": "https://lastwordonsports.com/nfl/2025/11/23/alvin-kamara-injury-report-star-rbs-status-revealed-for-saints-falcons/"
+    },
+    {
+     "title": "Saints: Alvin Kamara 2025 season recap",
+     "url": "https://www.neworleanssaints.com/news/alvin-kamara-2025-season-recap"
+    },
+    {
+     "title": "FantasyData: Raiders vs Saints Week 3 2026 boxscore",
+     "url": "https://fantasydata.com/nfl/boxscore/19499-las-vegas-raiders-vs-new-orleans-saints-week-3-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-14": {
+   "history": "I found no past stat lines for Shough against Atlanta. This season his only rushing data point is one carry for 36 yards against Las Vegas in Week 3, which would clear the 16.5 line alone; he also threw 29 of 42 for 255 yards and four TDs with two lost fumbles in that game. That is a sample of one scramble, so his rushing line is mostly outlier-driven. The game is indoors at the Superdome on Monday night.",
+   "sources": [
+    {
+     "title": "NBC Sports: Tyler Shough leans on Saints TEs in Week 3 loss",
+     "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-27/tyler-shough-leans-on-saints-tes-in-week-3-loss"
+    },
+    {
+     "title": "Fantasy Footballers: Shough fires four TDs in tough Week 3 loss",
+     "url": "https://www.thefantasyfootballers.com/news/639605/tyler-shough-fires-four-tds-in-tough-week-3-loss/"
+    },
+    {
+     "title": "FantasyData: Raiders vs Saints Week 3 2026 boxscore",
+     "url": "https://fantasydata.com/nfl/boxscore/19499-las-vegas-raiders-vs-new-orleans-saints-week-3-2026"
+    }
+   ]
+  },
+  "2026-10-05-nfl-15": {
+   "history": "I found no prior games for Daniels against Dallas; he is an undrafted rookie from Kansas whose only NFL action before Week 4 was one rush for nine yards (and 0 of 3 passing with an interception) in relief against Minnesota. He made his first start in Week 4 against Green Bay after Baker Mayfield dislocated his thumb, and one report says Tampa will lean on him for three weeks. I could not retrieve his Week 4 rushing total. The game is Friday October 9 at AT&T Stadium (indoors).",
+   "sources": [
+    {
+     "title": "SI: Who is Jalon Daniels? Four things to know about the Buccaneers rookie starting QB",
+     "url": "https://www.si.com/nfl/who-is-jalon-daniels-four-things-to-know-about-the-buccaneers-rookie-starting-quarterback"
+    },
+    {
+     "title": "Bucs to Lean on Jalon Daniels for the Next Three Weeks (RotoBaller)",
+     "url": "https://www.rotoballer.com/?p=1953007"
+    },
+    {
+     "title": "Tampa Bay Buccaneers vs Dallas Cowboys, Week 5 2026",
+     "url": "https://nflplayoffpass.com/?p=10905"
+    }
+   ]
+  },
+  "2026-10-05-nfl-16": {
+   "history": "I found no prior games for Daniels against Dallas, and no earlier NFL passing history beyond going 0 of 3 with an interception in relief against Minnesota in Week 3. He started Week 4 for the 0-3 Buccaneers because Baker Mayfield dislocated his thumb, and I could not retrieve those passing totals. One model gives Dallas an 88 percent win probability (projected 35-17), which could lead to trailing and more attempts or a conservative plan. The game is Friday October 9 at AT&T Stadium (indoors).",
+   "sources": [
+    {
+     "title": "SI: Who is Jalon Daniels? Four things to know about the Buccaneers rookie starting QB",
+     "url": "https://www.si.com/nfl/who-is-jalon-daniels-four-things-to-know-about-the-buccaneers-rookie-starting-quarterback"
+    },
+    {
+     "title": "Buccaneers.com: Packers-Bucs top storylines, Week 4",
+     "url": "https://www.buccaneers.com/news/packers-buccaneers-top-storylines-key-matchups-in-week-four"
+    },
+    {
+     "title": "Tampa Bay Buccaneers vs Dallas Cowboys, Week 5 2026",
+     "url": "https://nflplayoffpass.com/?p=10905"
+    }
+   ]
+  },
+  "2026-10-05-nfl-17": {
+   "history": "I found no past game for Williams against Tampa Bay (he played for Denver before joining Dallas). Last year under Brian Schottenheimer he gave the Cowboys balance, and simulations project about 5.4 yards a carry. One model gives Dallas an 88 percent win probability, which usually brings late-game rushing volume against a team starting a rookie QB. The game is Friday October 9 at AT&T Stadium (indoors) on a short week.",
+   "sources": [
+    {
+     "title": "Tampa Bay Buccaneers vs Dallas Cowboys, Week 5 2026",
+     "url": "https://nflplayoffpass.com/?p=10905"
+    },
+    {
+     "title": "NBC Sports: One-yard TD salvages underwhelming day for CeeDee",
+     "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-13/one-yard-td-salvages-underwhelming-day-for-ceedee"
+    }
+   ]
+  },
+  "2026-10-05-nfl-18": {
+   "history": "Past meeting with Jacksonville: 2022 Week 4, 16 of 25 for 204 yards with no passing TD and 1 INT, plus 38 rushing yards and a TD, in a 29-21 win in rainy conditions; the Eagles leaned on Miles Sanders (135 yards, 2 TDs). That is the only meeting I retrieved. This Week 5 game is in London at Tottenham Hotspur Stadium on October 11 at 9:30 AM ET, so travel and a time-zone shift matter. I could not find Jacksonville's pass-defense rank or his current-season passing totals.",
+   "sources": [
+    {
+     "title": "Inquirer: Eagles-Jaguars analysis, Oct 2 2022",
+     "url": "https://www.inquirer.com/eagles/eagles-jaguars-week-4-jalen-hurts-trevor-lawrence-20221002.html"
+    },
+    {
+     "title": "Fantasy Data: Jaguars vs Eagles Week 4 2022 boxscore",
+     "url": "https://fantasydata.com/nfl/boxscore/18267-jacksonville-jaguars-vs-philadelphia-eagles-week-4-2022"
+    },
+    {
+     "title": "Philadelphia Eagles vs Jacksonville Jaguars, Week 5 2026",
+     "url": "https://nflplayoffpass.com/?p=10906"
+    }
+   ]
+  },
+  "2026-10-05-nfl-19": {
+   "history": "I found no prior meeting for Tuten against Philadelphia; he was a rookie in 2025. He had a report that he may need finger surgery, and I could not confirm his current status or his share of Jacksonville's carries. The game is in London at Tottenham Hotspur Stadium on October 11 at 9:30 AM ET. I did not find his 2026 rushing totals or Philadelphia's run-defense rank.",
+   "sources": [
+    {
+     "title": "Fantasy Footballers: Bhayshul Tuten may need finger surgery",
+     "url": "https://www.thefantasyfootballers.com/news/623003/bhayshul-tuten-may-need-finger-surgery/"
+    },
+    {
+     "title": "Philadelphia Eagles vs Jacksonville Jaguars, Week 5 2026",
+     "url": "https://nflplayoffpass.com/?p=10906"
+    },
+    {
+     "title": "DAZN: Eagles vs Jaguars London 2026, Tottenham Hotspur Stadium",
+     "url": "https://www.dazn.com/en-US/news/american-football/eagles-vs-jaguars-london-2026-tottenham-hotspur-stadium/17ytgqwf0xydx1sku3r4bb6l6b"
+    }
+   ]
+  },
+  "2026-10-05-nfl-20": {
+   "history": "I found no prior game for Willis against Cincinnati; his last two seasons were in Green Bay, where he completed about 79 percent of his passes at 10.9 yards per attempt over 11 appearances as a backup. He replaced Tua Tagovailoa under new coach Jeff Hafley, and previews call Miami's offense run-heavy with Achane, with Cincinnati described as having a bad defense, which could lead to leads and fewer passes. The Bengals beat Miami 45-21 in 2025 Week 16, but Willis was not the Miami QB. The game is Sunday October 11 at Hard Rock Stadium (outdoors).",
+   "sources": [
+    {
+     "title": "Cincinnati Bengals vs Miami Dolphins, Week 5 2026",
+     "url": "https://nflplayoffpass.com/?p=10908"
+    },
+    {
+     "title": "PFF: Miami Dolphins 2026 preview",
+     "url": "https://pff.com/news/nfl-miami-dolphins-2026-preview"
+    }
+   ]
+  },
+  "2026-10-05-nfl-21": {
+   "history": "Past meeting with Cincinnati: 2025 Week 16, Gordon had one carry for one yard in a 45-21 Bengals win, while De'Von Achane ran 15 times for 81 yards and a TD and Jaylen Wright 9 times for 35 yards and a TD. His 2025 season totals were 70 carries, 199 yards and 3 TDs (2.8 per carry). Preview coverage has Miami run-heavy but Achane leading, so Gordon looks like a backup role unless that changes. The game is Sunday October 11 at Hard Rock Stadium (outdoors).",
+   "sources": [
+    {
+     "title": "CBS Sports: Ollie Gordon II",
+     "url": "https://secure-www.cbssports.com/nfl/players/28873887/ollie-gordon-ii/"
+    },
+    {
+     "title": "PFF: Miami Dolphins 2026 preview",
+     "url": "https://pff.com/news/nfl-miami-dolphins-2026-preview"
+    },
+    {
+     "title": "Cincinnati Bengals vs Miami Dolphins, Week 5 2026",
+     "url": "https://nflplayoffpass.com/?p=10908"
+    }
+   ]
+  },
+  "2026-10-05-nfl-22": {
+   "history": "Past meetings with Green Bay: in 2025 Week 16 he was ruled out with a foot injury (Bears won 22-16 in overtime), and I could not retrieve his Week 14 line at Green Bay or his 2024 lines. He is expected to have a larger role after DJ Moore was traded, but he is coming off a stress fracture and left practice early on September 3 with an apparent leg injury. The game is at Lambeau Field (outdoors, weather-dependent), and I did not confirm the date or his current status.",
+   "sources": [
+    {
+     "title": "Bears WR Rome Odunze (foot) ruled out vs. Packers (Deadspin)",
+     "url": "https://deadspin.com/bears-wr-rome-odunze-foot-ruled-out-vs-packers/"
+    },
+    {
+     "title": "Fantasy Footballers: Rome Odunze steps into a larger role for 2026",
+     "url": "https://www.thefantasyfootballers.com/news/214655/rome-odunze-rome-odunze-steps-into-a-larger-role-for-2026"
+    },
+    {
+     "title": "Chicago Sun-Times: Bears practice report, Swift and Odunze leave with injuries",
+     "url": "https://chicago.suntimes.com/bears/2026/09/03/bears-practice-report-rb-dandre-swift-wr-rome-odunze-leave-with-injuries"
+    }
+   ]
+  },
+  "2026-10-05-nfl-23": {
+   "history": "Past meeting with Green Bay: 2025 Week 16, 13 carries for 58 yards and 2 catches for 12 yards in a 22-16 overtime win; the Bears were pass-heavy and it was his lowest yardage since Week 12, and Kyle Monangai got 12 touches to his 15. Chicago lost the Week 14 game at Green Bay, and I could not retrieve his line from it. He left practice early on September 3 with an apparent left leg injury. The game is at Lambeau Field (outdoors), and I did not find the date or Green Bay's run-defense rank.",
+   "sources": [
+    {
+     "title": "Chicago Bears: game recap, comeback vs Packers in OT (2025 Week 16)",
+     "url": "https://www.chicagobears.com/news/game-recap-bears-mount-incredible-comeback-to-knock-off-packers-in-ot-2025-week-16"
+    },
+    {
+     "title": "Fantasy Footballers: D'Andre Swift quiet showing in OT win",
+     "url": "https://www.thefantasyfootballers.com/news/624019/dandre-swift-quiet-showing-in-ot-win/"
+    },
+    {
+     "title": "Chicago Sun-Times: Bears practice report, Swift and Odunze leave with injuries",
+     "url": "https://chicago.suntimes.com/bears/2026/09/03/bears-practice-report-rb-dandre-swift-wr-rome-odunze-leave-with-injuries"
+    }
+   ]
+  },
+  "2026-10-05-mlb-01": {
+   "history": "Gavin Williams has four to five career starts against the White Sox: one search result had him 1-1 with a 5.21 ERA and 22 K in 19 IP through late June, and another had a 5.32 career ERA over 5 starts, including a 3-run, 4.2-inning, 6-K outing on July 3, 2026 and a good one on April 10, 2025 (5 IP, 1 ER, win). I found no 2024 or earlier head-to-head lines and no postseason history between him and Chicago. Chicago used an opener 31 times this season, the most in MLB, which tends to put several right-handed contact hitters in the lineup early against him. No book line was available, and I could not retrieve park-factor, umpire or weather data, so the over rests on his season strikeout volume and how long Cleveland lets him go while trailing 0-1.",
+   "sources": [
+    {
+     "title": "Previews: White Sox host Guardians (June 22, 2026)",
+     "url": "https://lasvegassun.com/news/2026/jun/22/white-sox-host-the-guardians-to-open-3-game-series/"
+    },
+    {
+     "title": "Gavin Williams stats vs White Sox",
+     "url": "https://screwball.com/mlb/gavin-williams/stats-vs-chicago-white-sox"
+    },
+    {
+     "title": "Gavin Williams allows three earned runs vs CHW",
+     "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/gavin-williams-allows-three-earned-runs-vs-chw"
+    }
+   ]
+  },
+  "2026-10-05-mlb-02": {
+   "history": "Anthony Kay has barely faced Cleveland: as of June 22, 2026 the Guardians had not scored in three appearances (one start) covering 7.1 innings, and he had no decision. His season line at that point was 6-3 with a 4.50 ERA. I found no 2025 or earlier splits against Cleveland and no postseason history. Chicago used an opener 31 times this year, the most in the majors, so the role is familiar, but I could not confirm his typical outing length in that role or the line, so the Less leans on the short-leash plan and a Cleveland lineup that gets the platoon look.",
+   "sources": [
+    {
+     "title": "MLB.com: White Sox vs Guardians ALDS Game 1 lineups and matchup",
+     "url": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
+    },
+    {
+     "title": "Previews: White Sox host Guardians (June 22, 2026)",
+     "url": "https://lasvegassun.com/news/2026/jun/22/white-sox-host-the-guardians-to-open-3-game-series/"
+    }
+   ]
+  },
+  "2026-10-05-mlb-03": {
+   "history": "Schlittler last pitched at Tampa Bay on July 6, 2026, going 8 innings in a 5-1 Yankees win, and he struck out 10 in the Wild Card clincher over Boston (9-0 Yankees). He also reached 200 strikeouts in 2026 while finishing with a 1.95 ERA. I did not find his 2025 numbers against the Rays or any career strikeout split versus Tampa. Tropicana Field is a domed park, so weather is not a factor, and Freddy Peralta opposes him, which keeps run support low. The ~7.5 line is a strikeout total near his ceiling, so the main risk is a quick hook in a tight game.",
+   "sources": [
+    {
+     "title": "Cam Schlittler pitches 8 innings as Yankees beat Rays 5-1",
+     "url": "https://wtop.com/sports/2026/07/caballero-hits-2-homers-schlittler-pitches-8-innings-as-the-yankees-beat-the-rays-5-1/"
+    },
+    {
+     "title": "Aaron Judge remains unsure for ALDS",
+     "url": "https://abcnews.com/Sports/wireStory/aaron-judge-remains-unsure-alds-after-missing-yankees-136904547"
+    },
+    {
+     "title": "Freddy Peralta stymies former team, Rays beat Mets 6-2",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401816759"
+    }
+   ]
+  },
+  "2026-10-05-mlb-04": {
+   "history": "Peralta was the AL Pitcher of the Month for September, going 4-0 with a 0.96 ERA and 0.89 WHIP over 28 innings in five starts, and he was 5-2 with a 3.25 ERA in 10 games (55.1 IP) for the Rays after arriving from the Mets. Against the Yankees specifically I found no prior-year lines, so history here is a small sample at best. Tropicana Field's roof removes weather, and the Yankees may be without Judge, who went on the IL with a right calf strain on Sept. 19 and was left off the Wild Card roster. The Under on earned runs fits his recent form, but a single mistake pitch in a short series can still produce 2-3 earned runs.",
+   "sources": [
+    {
+     "title": "Cam Schlittler pitches 8 innings as Yankees beat Rays 5-1",
+     "url": "https://wtop.com/sports/2026/07/caballero-hits-2-homers-schlittler-pitches-8-innings-as-the-yankees-beat-the-rays-5-1/"
+    },
+    {
+     "title": "Aaron Judge remains unsure for ALDS",
+     "url": "https://abcnews.com/Sports/wireStory/aaron-judge-remains-unsure-alds-after-missing-yankees-136904547"
+    },
+    {
+     "title": "Freddy Peralta stymies former team, Rays beat Mets 6-2",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401816759"
+    }
+   ]
+  },
+  "2026-10-05-mlb-05": {
+   "history": "I found no Judge-versus-Peralta career line, so there is no sourced history to cite. Judge went on the IL with a right calf strain on Sept. 19, missed the Wild Card round, and his ALDS status was listed as uncertain as of Friday Oct. 2; the pick text says he is out for Game 2, which I could not independently confirm, and if he does not play this prop would be void or moot. Peralta posted a 0.96 ERA in September, and the Yankees managed few hits in Game 1. Tropicana Field is a dome, so weather does not matter.",
+   "sources": [
+    {
+     "title": "Cam Schlittler pitches 8 innings as Yankees beat Rays 5-1",
+     "url": "https://wtop.com/sports/2026/07/caballero-hits-2-homers-schlittler-pitches-8-innings-as-the-yankees-beat-the-rays-5-1/"
+    },
+    {
+     "title": "Aaron Judge remains unsure for ALDS",
+     "url": "https://abcnews.com/Sports/wireStory/aaron-judge-remains-unsure-alds-after-missing-yankees-136904547"
+    },
+    {
+     "title": "Freddy Peralta stymies former team, Rays beat Mets 6-2",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401816759"
+    }
+   ]
+  },
+  "2026-10-05-mlb-06": {
+   "history": "Peralta's regular-season body of work for Tampa Bay is 55.1 innings and a 3.25 ERA, with a 0.96 ERA in five September starts (28 IP, about 5.6 innings per start). I found no 2025 or earlier outing lengths versus the Yankees, and no playoff history for him against New York. The Yankees may lack Judge (calf strain, IL on Sept. 19), which lowers the odds of a long, high-pitch-count inning from the lineup. The risk is postseason bullpen usage: Tampa may pull him around 5 innings with the Yankees turning the lineup over a third time, and 14.5 outs requires reaching the fifth inning plus an out or two.",
+   "sources": [
+    {
+     "title": "Cam Schlittler pitches 8 innings as Yankees beat Rays 5-1",
+     "url": "https://wtop.com/sports/2026/07/caballero-hits-2-homers-schlittler-pitches-8-innings-as-the-yankees-beat-the-rays-5-1/"
+    },
+    {
+     "title": "Aaron Judge remains unsure for ALDS",
+     "url": "https://abcnews.com/Sports/wireStory/aaron-judge-remains-unsure-alds-after-missing-yankees-136904547"
+    },
+    {
+     "title": "Freddy Peralta stymies former team, Rays beat Mets 6-2",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401816759"
+    }
+   ]
+  },
+  "2026-10-05-mlb-07": {
+   "history": "Career Bellinger versus Peralta is a small sample: one search summary of StatMuse reported 7 meetings from 2018 to 2026, 3-for-14 with a double, a homer, 3 RBI and 3 K, including a 3-for-3 game with a homer on July 6, 2023 and an 0-for-3, three-walk game on May 17, 2026. That does not match the .429/1.270 OPS in the pick text, which I could not verify, so treat that as unconfirmed. Bellinger was dealing with a heel bruise before the ALDS but was expected to play. Tropicana Field is a dome, and Peralta's 0.96 September ERA makes total bases a harder over.",
+   "sources": [
+    {
+     "title": "Cam Schlittler pitches 8 innings as Yankees beat Rays 5-1",
+     "url": "https://wtop.com/sports/2026/07/caballero-hits-2-homers-schlittler-pitches-8-innings-as-the-yankees-beat-the-rays-5-1/"
+    },
+    {
+     "title": "Aaron Judge remains unsure for ALDS",
+     "url": "https://abcnews.com/Sports/wireStory/aaron-judge-remains-unsure-alds-after-missing-yankees-136904547"
+    },
+    {
+     "title": "Freddy Peralta stymies former team, Rays beat Mets 6-2",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401816759"
+    }
+   ]
+  },
+  "2026-10-05-mlb-08": {
+   "history": "I found no career line for Antonacci against Gavin Williams, so this is effectively a first-meeting situation with no prior-year numbers. Antonacci delivered a walk-off two-run single against Cleveland in the 9th inning on June 22-23, 2026 in a 6-5 White Sox win, and the pick cites a .359 average against righties in September with a 5.6% K rate; I could not verify those splits. Williams struck out a lot of batters this year but also has a 5.3 career ERA against Chicago, so contact is not unlikely. Cleveland holds a 0-1 deficit and the park/weather factors were not retrievable.",
+   "sources": [
+    {
+     "title": "Previews: White Sox host Guardians (June 22, 2026)",
+     "url": "https://lasvegassun.com/news/2026/jun/22/white-sox-host-the-guardians-to-open-3-game-series/"
+    },
+    {
+     "title": "Gavin Williams stats vs White Sox",
+     "url": "https://screwball.com/mlb/gavin-williams/stats-vs-chicago-white-sox"
+    },
+    {
+     "title": "Gavin Williams allows three earned runs vs CHW",
+     "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/gavin-williams-allows-three-earned-runs-vs-chw"
+    }
+   ]
+  },
+  "2026-10-05-mlb-09": {
+   "history": "Vargas has hit Williams already this year: on July 3, 2026 he hit a two-out, three-run homer off him in a 4.2-inning outing. A separate result noted Vargas drove in five in a 22-run White Sox game on June 27. I could not verify the 6-for-14 career mark in the pick text, and I found no 2024-2025 matchup splits or postseason history. Williams is 1-1 with a 5.21 ERA over 4 career starts against Chicago per a late-June preview, so the White Sox have been getting to him.",
+   "sources": [
+    {
+     "title": "Previews: White Sox host Guardians (June 22, 2026)",
+     "url": "https://lasvegassun.com/news/2026/jun/22/white-sox-host-the-guardians-to-open-3-game-series/"
+    },
+    {
+     "title": "Gavin Williams stats vs White Sox",
+     "url": "https://screwball.com/mlb/gavin-williams/stats-vs-chicago-white-sox"
+    },
+    {
+     "title": "Gavin Williams allows three earned runs vs CHW",
+     "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-03/gavin-williams-allows-three-earned-runs-vs-chw"
+    }
+   ]
+  },
+  "2026-10-05-mlb-10": {
+   "history": "I could not verify the 4-for-11 career line against Kay. One conflicting data point: Kay held Cleveland scoreless across three appearances and 7.1 innings as of June 22, 2026, so any hits came without runs. Bazzana is a rookie, so there are no prior-year numbers. The pick notes Chicago plans to use Kay as an opener with Sean Burke as the bulk arm; Burke allowed one run in 6.1 innings with 6 K against Cleveland in a 2026 regular-season game I found. A short opener means most of Bazzana's at-bats come against Burke.",
+   "sources": [
+    {
+     "title": "MLB.com: White Sox vs Guardians ALDS Game 1 lineups and matchup",
+     "url": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026"
+    },
+    {
+     "title": "Previews: White Sox host Guardians (June 22, 2026)",
+     "url": "https://lasvegassun.com/news/2026/jun/22/white-sox-host-the-guardians-to-open-3-game-series/"
+    }
+   ]
+  },
+  "2026-10-05-mlb-11": {
+   "history": "Sale shut down the Dodgers on Aug. 28, 2026: 11 strikeouts, a 5-hit shutout in a 1-0 win over Yamamoto that completed a Braves sweep, and he carried a 12-9, 2.20 ERA into that series with a 1.97 ERA over his previous 20 starts. Earlier postseason history against LA includes closing Game 5 of the 2018 World Series for Boston with three strikeouts in a perfect ninth. He then saved the Wild Card clincher against Philadelphia. I did not find 2025 head-to-head lines. Playing at home on extra rest, the Over leans on his 2026 strikeout rate, with the risk being a pitch-count cap after a layoff.",
+   "sources": [
+    {
+     "title": "Chris Sale strikes out 11 in 5-hit shutout as Braves beat Yamamoto and Dodgers 1-0",
+     "url": "https://abcnews.com/Sports/wireStory/chris-sale-strikes-11-5-hit-shutout-braves-136020108"
+    },
+    {
+     "title": "Yamamoto, Sale face off in battle of aces in Dodgers-Braves series finale",
+     "url": "https://www.mlb.com/news/yoshinobu-yamamoto-chris-sale-face-off-in-dodgers-braves-series-finale"
+    },
+    {
+     "title": "Braves hit 3 homers and Chris Sale closes out 6-2 win over Phillies",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401907973"
+    }
+   ]
+  },
+  "2026-10-05-mlb-12": {
+   "history": "Yamamoto has a fresh Atlanta data point: on Aug. 27-28, 2026 he allowed just one run to the Braves and lost 1-0 to Sale. He entered that series 12-7 with a 2.61 ERA, ranking second among qualified pitchers over the past calendar year with a 2.28 ERA. I did not find 2025 regular-season or postseason lines for him against Atlanta. Sale is the opposing starter, and the pick text says Atlanta scored 8 runs in two NLDS games, which I could not verify.",
+   "sources": [
+    {
+     "title": "Chris Sale strikes out 11 in 5-hit shutout as Braves beat Yamamoto and Dodgers 1-0",
+     "url": "https://abcnews.com/Sports/wireStory/chris-sale-strikes-11-5-hit-shutout-braves-136020108"
+    },
+    {
+     "title": "Yamamoto, Sale face off in battle of aces in Dodgers-Braves series finale",
+     "url": "https://www.mlb.com/news/yoshinobu-yamamoto-chris-sale-face-off-in-dodgers-braves-series-finale"
+    },
+    {
+     "title": "Braves hit 3 homers and Chris Sale closes out 6-2 win over Phillies",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401907973"
+    }
+   ]
+  },
+  "2026-10-05-mlb-13": {
+   "history": "I found no career Harris-versus-Sale or Harris-versus-Yamamoto line, so there is no prior-year history to cite. Harris hit a three-run homer in the first inning of the Wild Card clincher against Philadelphia (6-2) and is hitting .295 with a team-high 80 RBI in 2026 per one result. The pick says he had a triple, a double and the go-ahead run in Game 2, which I could not verify. Hits plus runs plus RBIs is a 3-event prop, and Yamamoto carried a 2.61 ERA into the August series.",
+   "sources": [
+    {
+     "title": "Chris Sale strikes out 11 in 5-hit shutout as Braves beat Yamamoto and Dodgers 1-0",
+     "url": "https://abcnews.com/Sports/wireStory/chris-sale-strikes-11-5-hit-shutout-braves-136020108"
+    },
+    {
+     "title": "Yamamoto, Sale face off in battle of aces in Dodgers-Braves series finale",
+     "url": "https://www.mlb.com/news/yoshinobu-yamamoto-chris-sale-face-off-in-dodgers-braves-series-finale"
+    },
+    {
+     "title": "Braves hit 3 homers and Chris Sale closes out 6-2 win over Phillies",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401907973"
+    }
+   ]
+  },
+  "2026-10-05-mlb-14": {
+   "history": "May is a tough read: he faced the Padres three times in 2026 and posted a 1.23 ERA over 22 innings, but his Brewers tenure since the trade was rough, including a 7.61 ERA over his final 8 outings per the pick text. He was also hit by a first-pitch comebacker at Citi Field on Aug. 26. Manager Pat Murphy had not named May's role, and left-handers Robert Gasser (1.67 ERA in his last six outings) and Shane Drohan are alternatives, so this could be a bulk or opener plan. I found no 2025 or postseason numbers for May against San Diego. Petco Park and weather factors were not retrieved.",
+   "sources": [
+    {
+     "title": "Padres-Brewers pitching matchups for 2026 NLDS",
+     "url": "https://www.mlb.com/news/padres-brewers-pitching-matchups-for-2026-nlds"
+    },
+    {
+     "title": "Nick Pivetta last 10 games vs Milwaukee Brewers",
+     "url": "https://www.statmuse.com/mlb/ask/nick-pivetta-last-10-games-vs-milwaukee-brewers"
+    },
+    {
+     "title": "Padres to play Brewers in NLDS after eliminating Cubs",
+     "url": "https://thescore.com/mlb/news/3612976"
+    }
+   ]
+  },
+  "2026-10-05-mlb-15": {
+   "history": "I found no Chourio-versus-Pivetta career line, so there is no sourced history; Chourio debuted in 2024. The pitcher side is rough for San Diego: Pivetta is 1-3 with an 8.76 ERA and 24 K in 5 games across his last 10 appearances against Milwaukee, and he was 1-2 with a 9.19 ERA, 5 HR, 16 runs in 15.2 IP in three earlier starts. Yelich is 5-for-14 against him. For postseason context, Chourio hit a three-run homer in Game 2 of the 2025 NLDS against the Cubs after hurting his hamstring in the opener. I could not verify the 2026 NLDS performance cited in the pick.",
+   "sources": [
+    {
+     "title": "Padres-Brewers pitching matchups for 2026 NLDS",
+     "url": "https://www.mlb.com/news/padres-brewers-pitching-matchups-for-2026-nlds"
+    },
+    {
+     "title": "Nick Pivetta last 10 games vs Milwaukee Brewers",
+     "url": "https://www.statmuse.com/mlb/ask/nick-pivetta-last-10-games-vs-milwaukee-brewers"
+    },
+    {
+     "title": "Padres to play Brewers in NLDS after eliminating Cubs",
+     "url": "https://thescore.com/mlb/news/3612976"
+    }
+   ]
+  },
+  "2026-10-05-mlb-16": {
+   "history": "Pivetta's history against Milwaukee is bad: 1-3 with an 8.76 ERA over his last 10 games, and a 9.19 ERA with 5 homers allowed in 15.2 IP across three earlier starts, which hints at contact trouble but also a lot of balls in play. The 24 strikeouts in 5 games against the Brewers in that stretch suggest the K total is still reachable even when the results are poor. I could not retrieve 2025 splits or the park factor at Petco Park. The pick text says he strikes out 10.9 per nine in 2026, which I could not verify.",
+   "sources": [
+    {
+     "title": "Padres-Brewers pitching matchups for 2026 NLDS",
+     "url": "https://www.mlb.com/news/padres-brewers-pitching-matchups-for-2026-nlds"
+    },
+    {
+     "title": "Nick Pivetta last 10 games vs Milwaukee Brewers",
+     "url": "https://www.statmuse.com/mlb/ask/nick-pivetta-last-10-games-vs-milwaukee-brewers"
+    },
+    {
+     "title": "Padres to play Brewers in NLDS after eliminating Cubs",
+     "url": "https://thescore.com/mlb/news/3612976"
+    }
+   ]
+  },
+  "2026-10-05-mlb-17": {
+   "history": "Sale's most recent look at the Dodgers was a 1-0, 5-hit shutout on Aug. 28, 2026 with 11 K, so he has shown he can go deep against them. Over the last 20 starts he had a 1.97 ERA, and in the Wild Card round he saved the clincher in relief. The 18.5 outs line needs about 6.1 innings; the pick says he averaged about 18 outs a start, so the line sits near his typical workload. I found no 2025 head-to-head or postseason pitch-count data. Extra rest argues for length, while a pitch cap and a quick Dodgers lineup flip could shorten it.",
+   "sources": [
+    {
+     "title": "Chris Sale strikes out 11 in 5-hit shutout as Braves beat Yamamoto and Dodgers 1-0",
+     "url": "https://abcnews.com/Sports/wireStory/chris-sale-strikes-11-5-hit-shutout-braves-136020108"
+    },
+    {
+     "title": "Yamamoto, Sale face off in battle of aces in Dodgers-Braves series finale",
+     "url": "https://www.mlb.com/news/yoshinobu-yamamoto-chris-sale-face-off-in-dodgers-braves-series-finale"
+    },
+    {
+     "title": "Braves hit 3 homers and Chris Sale closes out 6-2 win over Phillies",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401907973"
+    }
+   ]
+  },
+  "2026-10-05-mlb-18": {
+   "history": "I could not find a Hernandez-versus-Sale career line, so no sourced prior-year history exists in my results. Hernandez has been with the Dodgers since 2024 and is a two-time World Series champion (2024, 2025) with a .261 career average and 233 homers through Sept. 27, 2026. Sale shut out LA on Aug. 28, 2026 with 11 K on 5 hits. The SportsGrid projection of 1.3 hits is a model figure I could not independently check; the 0.5 line needs one hit, which is plausible for a regular but Sale's strikeout stuff makes it a coin flip.",
+   "sources": [
+    {
+     "title": "Chris Sale strikes out 11 in 5-hit shutout as Braves beat Yamamoto and Dodgers 1-0",
+     "url": "https://abcnews.com/Sports/wireStory/chris-sale-strikes-11-5-hit-shutout-braves-136020108"
+    },
+    {
+     "title": "Yamamoto, Sale face off in battle of aces in Dodgers-Braves series finale",
+     "url": "https://www.mlb.com/news/yoshinobu-yamamoto-chris-sale-face-off-in-dodgers-braves-series-finale"
+    },
+    {
+     "title": "Braves hit 3 homers and Chris Sale closes out 6-2 win over Phillies",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401907973"
+    }
+   ]
+  },
+  "2026-10-05-mlb-19": {
+   "history": "I found no Olson-versus-Yamamoto career numbers. Olson hit a solo homer in the 7th inning of the Wild Card clincher over Philadelphia (6-2), and he has 325 career homers and 888 RBI. Against Yamamoto, Atlanta won 1-0 in August with Sale on the mound, which shows how few runs the matchup produces. An RBI over 0.5 needs a runner in scoring position or a homer, and the 0.7 projection from SportsGrid is a model estimate I could not verify.",
+   "sources": [
+    {
+     "title": "Chris Sale strikes out 11 in 5-hit shutout as Braves beat Yamamoto and Dodgers 1-0",
+     "url": "https://abcnews.com/Sports/wireStory/chris-sale-strikes-11-5-hit-shutout-braves-136020108"
+    },
+    {
+     "title": "Yamamoto, Sale face off in battle of aces in Dodgers-Braves series finale",
+     "url": "https://www.mlb.com/news/yoshinobu-yamamoto-chris-sale-face-off-in-dodgers-braves-series-finale"
+    },
+    {
+     "title": "Braves hit 3 homers and Chris Sale closes out 6-2 win over Phillies",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401907973"
+    }
+   ]
+  },
+  "2026-10-05-mlb-20": {
+   "history": "I found no Bogaerts-versus-Brewers pitcher history for this specific Game 3 matchup, and no starter was confirmed because Milwaukee has not named one (May, Gasser or Drohan). May posted a 1.23 ERA over 22 innings in three starts against San Diego this year, which argues for fewer runs. San Diego eliminated the Cubs in the Wild Card round and Milwaukee is the top seed. The +170 price and 0.8-run projection are from SportsGrid and could not be independently verified.",
+   "sources": [
+    {
+     "title": "Padres-Brewers pitching matchups for 2026 NLDS",
+     "url": "https://www.mlb.com/news/padres-brewers-pitching-matchups-for-2026-nlds"
+    },
+    {
+     "title": "Nick Pivetta last 10 games vs Milwaukee Brewers",
+     "url": "https://www.statmuse.com/mlb/ask/nick-pivetta-last-10-games-vs-milwaukee-brewers"
+    },
+    {
+     "title": "Padres to play Brewers in NLDS after eliminating Cubs",
+     "url": "https://thescore.com/mlb/news/3612976"
+    }
+   ]
+  },
+  "2026-10-05-mlb-21": {
+   "history": "Yelich is 5-for-14 in his career against Pivetta, a small sample. Pivetta has been hit hard by Milwaukee: 1-3 with an 8.76 ERA over his last 10 games against them, and 5 homers allowed in 15.2 IP in three earlier starts. Chourio leads off ahead of him, which helps the run chances. I could not retrieve park-factor data for Petco Park, and the 0.7-run projection and +190 are from SportsGrid, unverified.",
+   "sources": [
+    {
+     "title": "Padres-Brewers pitching matchups for 2026 NLDS",
+     "url": "https://www.mlb.com/news/padres-brewers-pitching-matchups-for-2026-nlds"
+    },
+    {
+     "title": "Nick Pivetta last 10 games vs Milwaukee Brewers",
+     "url": "https://www.statmuse.com/mlb/ask/nick-pivetta-last-10-games-vs-milwaukee-brewers"
+    },
+    {
+     "title": "Padres to play Brewers in NLDS after eliminating Cubs",
+     "url": "https://thescore.com/mlb/news/3612976"
+    }
+   ]
+  },
+  "2026-10-05-mlb-22": {
+   "history": "Fried has handled Tampa Bay before: in 2025 he gave up one hit over seven innings with 6 K in May, followed by 7.2 scoreless innings later in the month, and on July 29, 2025 he struck out nine and allowed two earned runs in 6.2 innings in a 7-5 win. One preview described him as 5-0 with a 0.77 ERA in 5 career starts against the Rays, though I could not date that. His 2025 season was 2.86 ERA with 189 K in 195.1 IP, and in 2026 he struck out 104 in 112.2 IP per the pick. Game 3 is at Yankee Stadium against Nick Martinez, with no line available, and a short workload after a six-inning Wild Card start is the main risk.",
+   "sources": [
+    {
+     "title": "Silenced again by Yankees' Fried, Rays blanked for 5th time",
+     "url": "https://www.mlb.com/news/rays-struggle-again-vs-yankees-max-fried"
+    },
+    {
+     "title": "Max Fried strikes out nine as Yankees hold on to beat Rays, 7-5",
+     "url": "https://sny.tv/articles/yankees-rays-takeaways-7-29-25"
+    },
+    {
+     "title": "Yankees' Max Fried: Electric versus Rays",
+     "url": "https://cbssports.com/fantasy/baseball/news/yankees-max-fried-electric-versus-rays"
+    }
+   ]
+  },
+  "2026-10-05-mlb-23": {
+   "history": "I found no prior starts for Martinez against the Yankees in my results, so there is no sourced history; this would be his first postseason start per the pick text, and the 5.9 innings per start over 30 starts (177.1 IP) figure is from that text, not independently checked. I could not retrieve Yankee Stadium park factors, and Judge's availability was uncertain. The Under needs an early exit, and I found no confirmed Tampa bullpen plan.",
+   "sources": [
+    {
+     "title": "Cam Schlittler pitches 8 innings as Yankees beat Rays 5-1",
+     "url": "https://wtop.com/sports/2026/07/caballero-hits-2-homers-schlittler-pitches-8-innings-as-the-yankees-beat-the-rays-5-1/"
+    },
+    {
+     "title": "Aaron Judge remains unsure for ALDS",
+     "url": "https://abcnews.com/Sports/wireStory/aaron-judge-remains-unsure-alds-after-missing-yankees-136904547"
+    },
+    {
+     "title": "Freddy Peralta stymies former team, Rays beat Mets 6-2",
+     "url": "https://www.espn.com/mlb/recap/_/gameId/401816759"
+    }
+   ]
+  },
+  "2026-10-05-cfb-01": {
+   "history": "Russell has never faced Georgia as a starter, and I found no stat line for him in the series. For context, Georgia won the 2025 SEC Championship Game 28-7; Alabama's Ty Simpson went 19 of 39 for 212 yards, one touchdown and one interception, and Alabama was held to minus-3 rushing yards on 16 carries. Alabama won the first two meetings under Kalen DeBoer (scores not verified here). This year it is in Tuscaloosa on Oct. 10 with Georgia a 2.5-point favorite, total 56.5. I could not verify injuries or Georgia's pass-defense rank.",
+   "sources": [
+    {
+     "title": "CBS Sports: Georgia 28-7 Alabama, 2025 SEC Championship box score",
+     "url": "https://www.cbssports.com/college-football/gametracker/boxscore/NCAAF_20251206_UGA@BAMA"
+    },
+    {
+     "title": "DawgNation: CBS analyst on Georgia-Alabama 2026 meeting",
+     "url": "https://www.dawgnation.com/football/around-the-dawghouse/cbs-sports-analyst-reveals-why-georgia-could-run-away-alabama-2026-meeting/CFSUDPN2J5A2JCNAFE25UX6FHQ/"
+    },
+    {
+     "title": "SI: Week 6 opening odds for every top-25 game",
+     "url": "https://www.si.com/betting/college-football-week-6-opening-odds-for-every-top-25-game-georgia-favored-vs-alabama-texas-favored-vs-ou"
+    }
+   ]
+  },
+  "2026-10-05-cfb-02": {
+   "history": "In the 2025 Red River Rivalry Manning went 21 of 27 for 166 yards, one touchdown and no interceptions in Texas' 23-6 win over No. 6 Oklahoma, and he was sacked once. Texas also beat Oklahoma 34-3 in 2024 at the Cotton Bowl, but Manning was a backup then and I found no line for him. So he has zero interceptions in his one start in this series. The game is at the Cotton Bowl in Dallas on a neutral field, and Oklahoma is coming off a bye after its Georgia game. I could not confirm injuries or Oklahoma's pass-defense rank.",
+   "sources": [
+    {
+     "title": "CBS Sports: Texas 23-6 Oklahoma, 2025 Red River Rivalry",
+     "url": "https://www.cbssports.com/college-football/gametracker/playbyplay/NCAAF_20251011_OKLA@TEXAS/"
+    },
+    {
+     "title": "AOL: Arch Manning stats in Oklahoma win",
+     "url": "https://www.aol.com/articles/arch-manning-stats-today-did-014209239.html"
+    },
+    {
+     "title": "Sequoyah County Times: Sooners drop Red River clash to No. 1 Texas",
+     "url": "https://sequoyahcountytimes.com/2024/10/15/sooners-drop-red-river-clash-no-1-texas"
+    }
+   ]
+  },
+  "2026-10-05-cfb-03": {
+   "history": "Knight has no prior game against Oregon: he played at James Madison, where he ran for 1,373 yards and nine touchdowns in 2025, and I found no JMU-Oregon meeting. I also could not retrieve a verified UCLA-Oregon box score from 2025 or 2024. UCLA visits Eugene on Oct. 10 as a clear underdog under first-year coach Bob Chesney, and one preseason piece picked this as UCLA's first loss. The Bruins' ground game is described as their route to an upset, but a deficit would cut carries and red-zone runs. I could not verify Oregon's run-defense rank or injuries.",
+   "sources": [
+    {
+     "title": "SI: 2 Bold Predictions for Wayne Knight's 2026 UCLA Season",
+     "url": "https://www.si.com/college/ucla/bruins-2-bold-predictions-for-wayne-knight-2026-season"
+    },
+    {
+     "title": "SI: Bruins predicting football first loss 2026 season",
+     "url": "https://www.si.com/college/ucla/bruins-predicting-football-first-loss-2026-season"
+    }
+   ]
+  },
+  "2026-10-05-cfb-04": {
+   "history": "I could not retrieve Jeremiah Smith's receiving lines against Maryland from 2024 or 2025, so I am not quoting any, and I did not confirm the dates and scores of those meetings. His season totals were 76 catches for 1,315 yards and 15 touchdowns in 2024 and 87 catches for 1,243 yards and 12 touchdowns in 2025, and he was a unanimous All-American in 2025. Ohio State hosts Maryland on Oct. 10 and is a large favorite, so blowout game flow is the main risk for the receiving over. I did not find injury reports or Maryland's pass-defense ranking.",
+   "sources": [
+    {
+     "title": "Ohio State: Jeremiah Smith 2026 roster page",
+     "url": "https://ohiostatebuckeyes.com/sports/football/roster/jeremiah-smith/10796"
+    },
+    {
+     "title": "Fox Sports: Jeremiah Smith",
+     "url": "https://www.foxsports.com/college-football/jeremiah-smith-3-player"
+    },
+    {
+     "title": "Wikipedia: Jeremiah Smith (American football)",
+     "url": "https://en.wikipedia.org/wiki/Jeremiah_Smith_(American_football)"
+    }
+   ]
+  },
+  "2026-10-05-cfb-06": {
+   "history": "Brown has no prior game against Oklahoma that I could verify: he flipped from Oklahoma to USC out of high school, then played for Notre Dame and Arizona State, where he ran for 1,141 yards at 6.1 a carry in 2025. Texas beat Oklahoma 23-6 last year and 34-3 in 2024; in the 2024 game Texas ran 30 times for 177 yards while Oklahoma managed 89 yards on 39 carries. I could not find Texas' individual rushing lines from either game. This year's game is at the Cotton Bowl after an Oklahoma bye; I could not verify the Sooners' run-defense rank or injuries.",
+   "sources": [
+    {
+     "title": "Footballdb: Texas vs Oklahoma 2024 box score",
+     "url": "https://www.footballdb.com/college-football/games/boxscore/texas-vs-oklahoma-20241012036"
+    },
+    {
+     "title": "Sequoyah County Times: Sooners drop Red River clash to No. 1 Texas",
+     "url": "https://sequoyahcountytimes.com/2024/10/15/sooners-drop-red-river-clash-no-1-texas"
+    },
+    {
+     "title": "CBS Sports: Texas 23-6 Oklahoma, 2025 Red River Rivalry",
+     "url": "https://www.cbssports.com/college-football/gametracker/playbyplay/NCAAF_20251011_OKLA@TEXAS/"
+    }
+   ]
+  },
+  "2026-10-05-cfb-07": {
+   "history": "Stockton's last game against Alabama was the 2025 SEC Championship Game, a 28-7 Georgia win in which he went 20 of 26 for 156 yards, three touchdowns and no interceptions and was named MVP. Georgia ran 41 times for 141 yards, so passing volume was modest with a lead. Alabama won the first two meetings under Kalen DeBoer and I found no passing line from Stockton in them. This year it is in Tuscaloosa with Georgia a 2.5-point favorite and a total of 56.5. I could not verify injuries or Alabama's pass-defense rank.",
+   "sources": [
+    {
+     "title": "CBS Sports: Georgia 28-7 Alabama, 2025 SEC Championship box score",
+     "url": "https://www.cbssports.com/college-football/gametracker/boxscore/NCAAF_20251206_UGA@BAMA"
+    },
+    {
+     "title": "Wikipedia: 2025 SEC Championship Game",
+     "url": "https://en.wikipedia.org/wiki/2025_SEC_Championship_Game"
+    },
+    {
+     "title": "SI: Week 6 opening odds for every top-25 game",
+     "url": "https://www.si.com/betting/college-football-week-6-opening-odds-for-every-top-25-game-georgia-favored-vs-alabama-texas-favored-vs-ou"
+    }
+   ]
+  },
+  "2026-10-05-cfb-08": {
+   "history": "I could not find a verified UCLA-Oregon box score from 2025 or earlier for Iamaleava, so there is no past passing line to quote. At UCLA in 2025 he finished with 1,928 passing yards, 13 touchdowns and 7 interceptions on 208 of 323, and he rushed for 505 yards. Oregon hosts on Oct. 10 in Eugene, and a preseason piece named this as UCLA's likely first loss. UCLA is expected to lean on Wayne Knight and the run game, which could trim attempts. I could not confirm injuries or Oregon's pass-defense rank.",
+   "sources": [
+    {
+     "title": "Wikipedia: Nico Iamaleava",
+     "url": "https://en.wikipedia.org/wiki/Nico_Iamaleava"
+    },
+    {
+     "title": "SI: Bruins predicting football first loss 2026 season",
+     "url": "https://www.si.com/college/ucla/bruins-predicting-football-first-loss-2026-season"
+    },
+    {
+     "title": "UCLA Bruins: 5 Players to Watch in 2026",
+     "url": "https://thetouchdown.co.uk/ucla-bruins-5-players-to-watch-in-2026/"
+    }
+   ]
+  },
+  "2026-10-05-cfb-09": {
+   "history": "I could not find a verified game line for Davison against UCLA, so none is quoted. In 2025 he ran for 667 yards on 113 carries, 5.9 a carry, with 15 touchdowns, a heavy scoring rate for that volume. Oregon hosts UCLA in Eugene on Oct. 10 and is a clear favorite, which usually means more red-zone runs. The risk is a committee backfield taking goal-line work. I could not verify UCLA's run-defense rank or injuries.",
+   "sources": [
+    {
+     "title": "Cfbtrack: Jordon Davison",
+     "url": "https://cfbtrack.com/players/5141423"
+    },
+    {
+     "title": "SI: Bruins predicting football first loss 2026 season",
+     "url": "https://www.si.com/college/ucla/bruins-predicting-football-first-loss-2026-season"
+    }
+   ]
+  },
+  "2026-10-05-cfb-10": {
+   "history": "Maiava has no verified past game against Penn State. The last meeting was Oct. 12, 2024 in Los Angeles, a 33-30 Penn State overtime win in which USC's Miller Moss, not Maiava, went 20 of 34 for 220 yards, two touchdowns and one interception, while Penn State's Drew Allar threw for 391 yards with three interceptions. Maiava threw for 3,711 yards, 24 touchdowns and 10 interceptions in 2025. This game is at Beaver Stadium on Oct. 10 at 7:30 p.m., Penn State's White Out, the first USC visit there since 1994; DraftKings opened USC a 1.5-point favorite. I could not verify injuries or Penn State's pass-defense rank.",
+   "sources": [
+    {
+     "title": "CBS Sports: Penn State at USC, Oct 12 2024 box score",
+     "url": "https://cbssports.com/college-football/gametracker/boxscore/NCAAF_20241012_PSU@USC"
+    },
+    {
+     "title": "SI: Will Penn State be an underdog for the 2026 White Out",
+     "url": "https://www.si.com/college/pennstate/football/will-penn-state-be-an-underdog-for-the-2026-white-out"
+    },
+    {
+     "title": "Daily Item: Penn State to host USC for White Out",
+     "url": "https://www.dailyitem.com/sports/penn-state-to-host-usc-for-white-out/article_86d67284-c3dd-46ec-b23e-e53c71c48483.html"
+    }
+   ]
+  },
+  "2026-10-05-cfb-11": {
+   "history": "Miller has no verified past game against Penn State: the 2024 meeting was a 33-30 Penn State overtime win in Los Angeles, and I could not find his rushing line from it. He led USC with 972 rushing yards at 6.2 a carry last season and had four 100-yard games. The Oct. 10 game is a White Out night game at Beaver Stadium, the first USC trip there since 1994, with USC a slight favorite. I could not verify Penn State's run-defense rank or injuries.",
+   "sources": [
+    {
+     "title": "CBS Sports: Penn State at USC, Oct 12 2024 box score",
+     "url": "https://cbssports.com/college-football/gametracker/boxscore/NCAAF_20241012_PSU@USC"
+    },
+    {
+     "title": "USC Trojans 2026 Season Preview (NFLDraftBuzz)",
+     "url": "https://nfldraftbuzz.com/Colleges/FBS/BIG-TEN-FBS/usc-trojans/preview"
+    },
+    {
+     "title": "SI: Will Penn State be an underdog for the 2026 White Out",
+     "url": "https://www.si.com/college/pennstate/football/will-penn-state-be-an-underdog-for-the-2026-white-out"
+    }
+   ]
+  },
+  "2026-10-05-cfb-13": {
+   "history": "Leavitt has no verified history against Kentucky, and I found no past LSU-Kentucky football numbers. He is 2-0 with LSU, with 574 passing yards, 2 touchdowns and 4 interceptions, so the interception rate is already elevated. He missed much of 2025 with a foot injury and played seven games. Kentucky is 1-1 and allowing 29 points a game, and the game is at Kroger Field in Lexington on Oct. 10. I could not confirm injuries or the kickoff slot.",
+   "sources": [
+    {
+     "title": "Week 6: LSU vs Kentucky (game page)",
+     "url": "https://surprisesports.com/scores/college-football/lsu-vs-kentucky-401856715/"
+    },
+    {
+     "title": "SI: Latest with Kentucky and Arizona State QB Sam Leavitt",
+     "url": "https://www.si.com/college/kentucky/football/latest-kentucky-top-ranked-transfer-arizona-state-sam-leavitt"
+    }
+   ]
+  },
+  "2026-10-05-cfb-14": {
+   "history": "Hoover has no past game against Nebraska; at TCU in 2025 he threw for 3,472 yards and 29 touchdowns, and I found no TCU-Nebraska meeting. For the programs, Indiana beat Nebraska 56-7 in October 2024 and gained 495 yards, 280 passing and 215 rushing. Indiana is the defending national champion and ranked sixth, visiting Lincoln on Oct. 10 for an 11 a.m. Central kickoff against a Matt Rhule team that went 7-6 last year. I could not verify Nebraska's pass-defense rank or injuries.",
+   "sources": [
+    {
+     "title": "Huskers.com: Huskers falter at No. 16 Indiana (2024)",
+     "url": "https://huskers.com/news/2024/10/19/huskers-falter-at-no-16-indiana"
+    },
+    {
+     "title": "Huskers.com: Huskers-Indiana kickoff time set",
+     "url": "https://huskers.com/news/2026/09/28/huskers-indiana-football-kickoff-time-set"
+    },
+    {
+     "title": "Indiana Hoosiers: 5 Players to Watch in 2026",
+     "url": "https://thetouchdown.co.uk/?p=73483"
+    }
+   ]
+  },
+  "2026-10-05-cfb-15": {
+   "history": "I could not retrieve Becker's line from the 2024 Indiana-Nebraska game or confirm his role in that 56-7 Hoosier win, so no player line is quoted. That game produced 495 total yards for Indiana, 280 passing. Indiana visits Lincoln on Oct. 10 for an 11 a.m. Central FOX kickoff as the ranked-sixth defending champion, and it is the first time Nebraska has hosted a defending champion since 2006. Quarterback Josh Hoover is new from TCU. I could not verify injuries or Nebraska's pass-defense rank.",
+   "sources": [
+    {
+     "title": "Huskers.com: Huskers falter at No. 16 Indiana (2024)",
+     "url": "https://huskers.com/news/2024/10/19/huskers-falter-at-no-16-indiana"
+    },
+    {
+     "title": "Huskers.com: Huskers-Indiana kickoff time set",
+     "url": "https://huskers.com/news/2026/09/28/huskers-indiana-football-kickoff-time-set"
+    },
+    {
+     "title": "Indiana Hoosiers: 5 Players to Watch in 2026",
+     "url": "https://thetouchdown.co.uk/?p=73483"
+    }
+   ]
+  },
+  "2026-10-05-cfb-16": {
+   "history": "I could not retrieve Turbo Richard's rushing line from past Indiana-Nebraska games, so none is quoted. The 2024 meeting was a 56-7 Indiana win in which the Hoosiers rushed for 215 yards in total. Indiana is the ranked-sixth defending champion visiting Lincoln on Oct. 10 for an 11 a.m. Central kickoff against Matt Rhule's Nebraska, which went 7-6 last year. I could not verify his share of carries, Nebraska's run-defense rank or injuries.",
+   "sources": [
+    {
+     "title": "Huskers.com: Huskers falter at No. 16 Indiana (2024)",
+     "url": "https://huskers.com/news/2024/10/19/huskers-falter-at-no-16-indiana"
+    },
+    {
+     "title": "Huskers.com: Huskers-Indiana kickoff time set",
+     "url": "https://huskers.com/news/2026/09/28/huskers-indiana-football-kickoff-time-set"
+    },
+    {
+     "title": "Week 6: Indiana vs Nebraska (game page)",
+     "url": "https://surprisesports.com/scores/college-football/indiana-vs-nebraska-401858481/"
+    }
+   ]
+  },
+  "2026-10-05-cfb-18": {
+   "history": "Roberts ran 17 times for 110 yards and a 4-yard touchdown against Texas A&M on Nov. 8, 2025, a 38-17 loss for Missouri (A&M ranked third, Missouri 19th). I did not find his line from earlier meetings. Last year's game was at Missouri too, and this one is again in Columbia on Oct. 10 in an early window. He shares the backfield with All-American Ahmad Hardy, and Chip Lindsey is the new coordinator. I could not verify A&M's run-defense rank or injuries.",
+   "sources": [
+    {
+     "title": "12thMan: No. 3 Texas A&M 38-17 at No. 19 Missouri",
+     "url": "https://12thman.com/news/2025/11/8/no-3-football-improves-to-9-0-with-38-17-win-at-no-19-missouri"
+    },
+    {
+     "title": "Rotowire: Jamal Roberts",
+     "url": "https://www.rotowire.com/cfootball/player/jamal-roberts-44130"
+    },
+    {
+     "title": "KBTX: SEC Preview: Texas A&M at Missouri",
+     "url": "https://www.kbtx.com/2026/08/02/sec-preview-texas-am-missouri/"
+    }
+   ]
+  },
+  "2026-10-05-cfb-19": {
+   "history": "I could not find any verified Chambliss line against Vanderbilt or a recent Ole Miss-Vanderbilt football result; the searches returned only basketball and baseball. This season he threw for 336 yards and three touchdowns and added a rushing score in a 41-38 win over then No. 24 Louisville. The game is at FirstBank Stadium in Nashville on Oct. 10. I could not verify Vanderbilt's pass-defense rank, injuries or weather.",
+   "sources": [
+    {
+     "title": "Week 6: Ole Miss vs Vanderbilt (game page)",
+     "url": "https://surprisesports.com/scores/college-football/ole-miss-vs-vanderbilt-401856718/"
+    },
+    {
+     "title": "Ole Miss Athletics: win over Louisville 41-38",
+     "url": "https://olemisssports.com/news/2026/9/7/carneiros-48-yard-field-goal-gives-football-41-38-win-over-louisville"
+    },
+    {
+     "title": "SI: Five Ole Miss players who could become national stars",
+     "url": "https://www.si.com/college/olemiss/football/five-ole-miss-players-who-could-become-national-stars-early-in-the-2026-season"
+    }
+   ]
+  },
+  "2026-10-05-cfb-20": {
+   "history": "I could not find a verified Alexander line against Vanderbilt, and no recent football result between the programs surfaced. He caught 44 passes for 684 yards and two touchdowns last year and opened this season with 159 receiving yards and two touchdowns against Louisville. Ole Miss visits Nashville on Oct. 10. I could not verify Vanderbilt's pass-defense rank or injuries.",
+   "sources": [
+    {
+     "title": "Week 6: Ole Miss vs Vanderbilt (game page)",
+     "url": "https://surprisesports.com/scores/college-football/ole-miss-vs-vanderbilt-401856718/"
+    },
+    {
+     "title": "Ole Miss Athletics: win over Louisville 41-38",
+     "url": "https://olemisssports.com/news/2026/9/7/carneiros-48-yard-field-goal-gives-football-41-38-win-over-louisville"
+    },
+    {
+     "title": "SI: Five Ole Miss players who could become national stars",
+     "url": "https://www.si.com/college/olemiss/football/five-ole-miss-players-who-could-become-national-stars-early-in-the-2026-season"
+    }
+   ]
+  }
+ }
+}
