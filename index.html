@@ -58,6 +58,8 @@ h1 em{font-style:normal;color:var(--amber)}
 .grade.C{background:var(--amber-soft);color:var(--amber-ink);border-color:transparent}.grade.D{background:var(--less-soft);color:var(--less);border-color:transparent}.grade.F{background:var(--less-soft);color:var(--less);border-color:var(--less)}
 .gwrap{display:flex;align-items:center;gap:8px}.feel{font-family:var(--f-mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .outlook{margin:14px 0 0;padding:12px 14px;border-radius:10px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);display:flex;gap:12px;align-items:center;color:var(--board-ink)}
+.osp{display:grid;gap:8px;margin-top:10px}.orow{display:flex;gap:10px;align-items:flex-start;padding:8px 10px;border-radius:8px;background:rgba(255,255,255,.05)}.orow p{margin:2px 0 0;font-size:13px}.orow small{display:inline;font-size:10px}.onote{font-size:12px!important;color:var(--board-muted);margin-top:8px!important}
+.outlook{align-items:flex-start}
 .outlook .grade{width:40px;height:40px;font-size:24px}.outlook p{margin:0;font-size:14px}.outlook small{display:block;color:var(--board-muted);font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
 .weekbox{display:flex;flex-direction:column;gap:6px;align-items:flex-end}
 .weekbox label{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--board-muted)}
@@ -366,14 +368,23 @@ function renderOutlook(){
   const open=state.picks.filter(p=>p.week===state.week&&isOpen(p));
   const el=$("outlook");
   if(!open.length){el.hidden=true;return}
-  const gs=open.map(p=>grade(p).letter);
-  const cnt=Object.fromEntries(LETTERS.map(l=>[l,gs.filter(x=>x===l).length]));
-  const pts=gs.reduce((a,l)=>a+(4-LETTERS.indexOf(l)),0)/gs.length;
-  const avg=LETTERS[Math.max(0,Math.min(4,Math.round(4-pts)))];
-  const strong=cnt.A+cnt.B,weak=cnt.D+cnt.F;
-  const msg=strong>=weak*1.5?"Solid board: more picks with real edges than shaky ones. Stick to the A and B grades.":strong>=weak?"Mixed board: a handful of real edges, plenty of coin flips. Be selective.":"Thin board: lots of shaky or line-less picks. Keep stakes small or sit out.";
+  const avgOf=list=>{const gs=list.map(p=>grade(p).letter);const pts=gs.reduce((a,l)=>a+(4-LETTERS.indexOf(l)),0)/gs.length;return {letter:LETTERS[Math.max(0,Math.min(4,Math.round(4-pts)))],cnt:Object.fromEntries(LETTERS.map(l=>[l,gs.filter(x=>x===l).length]))}};
+  const all=avgOf(open);
+  const graded=state.picks.filter(p=>p.status==="hit"||p.status==="miss");
+  const rec=list=>{const h=list.filter(p=>p.status==="hit").length;return list.length?`${h}-${list.length-h} (${Math.round(h/list.length*100)}%)`:null};
+  const overall=rec(graded);
+  const read=(cnt,n)=>{const strong=cnt.A+cnt.B,weak=cnt.D+cnt.F;return strong>=weak*1.5?"Solid slate: real edges outnumber the shaky spots.":strong>=weak?"Mixed: a few real edges, plenty of coin flips. Be selective.":"Thin: mostly shaky or line-less picks. Small stakes or sit out."};
+  const rows=ORDER.map(sp=>{
+    const list=open.filter(p=>p.sport===sp);if(!list.length)return "";
+    const g=avgOf(list);
+    const best=[...list].sort((a,b)=>LETTERS.indexOf(grade(a).letter)-LETTERS.indexOf(grade(b).letter)||(b.confidence||0)-(a.confidence||0))[0];
+    const tbd=list.filter(p=>p.line==null||p.line==="").length;
+    const spRec=rec(graded.filter(p=>p.sport===sp));
+    const bits=[read(g.cnt,list.length),`Best look: ${best.player} ${best.side} ${best.line??"(line TBD)"} ${best.stat} (${grade(best).letter}).`];
+    if(tbd)bits.push(`${tbd} of ${list.length} still have no line.`);
+    return `<div class="orow"><span class="grade ${g.letter}">${g.letter}</span><div><b>${esc(SPORT_NAME[sp]||sp)}</b> <small>${list.length} open · ${LETTERS.map(l=>g.cnt[l]?g.cnt[l]+l:"").filter(Boolean).join(" ")} · my record: ${spRec||"no graded picks yet"}</small><p>${esc(bits.join(" "))}</p></div></div>`}).join("");
   el.hidden=false;
-  el.innerHTML=`<span class="grade ${avg}">${avg}</span><div><small>How I feel about this week's board · ${open.length} open picks</small><p>${msg} (${LETTERS.map(l=>`${cnt[l]} ${l}`).join(" · ")}). Grades blend confidence, projection edge vs the line, and whether the line or a condition is still unsettled.</p></div>`;
+  el.innerHTML=`<span class="grade ${all.letter}">${all.letter}</span><div style="flex:1"><small>How I feel about this week's board · ${open.length} open picks</small><p>${esc(read(all.cnt,open.length))} Track record so far: ${overall?`${overall} on graded picks.`:"no graded picks yet, so nothing to judge my hit rate on. Results post after the first games finish."}</p><div class="osp">${rows}</div><p class="onote">Grades blend confidence, projection edge vs the line, and whether the line or a condition is still unsettled. They are my read, not a guarantee.</p></div>`;
 }
 
 function renderTabs(){
