@@ -97,7 +97,7 @@ h1 em{font-style:normal;color:var(--amber)}
 .shot .abbr{position:absolute;left:8px;top:7px;z-index:2;font-family:var(--f-mono);font-weight:700;font-size:10.5px;letter-spacing:.08em;color:#fff;background:rgba(0,0,0,.32);padding:1px 6px;border-radius:4px}
 
 /* ---------- Featured (top leans) ---------- */
-.feat{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.feat{display:flex;gap:14px;overflow-x:auto;padding-bottom:8px}.feat>*{flex:0 0 330px}
 @media (max-width:960px){.feat{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:620px){.feat{grid-template-columns:minmax(0,1fr)}}
 .fcard{background:var(--surface);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:grid;grid-template-columns:132px minmax(0,1fr);box-shadow:var(--shadow);min-height:172px}
@@ -130,6 +130,12 @@ h1 em{font-style:normal;color:var(--amber)}
 .conf{display:flex;gap:3px;flex:0 0 auto;padding-top:4px}
 .conf i{width:6px;height:16px;border-radius:2px;background:var(--line)}
 .conf i.f{background:var(--amber)}
+.tgrid{display:flex;gap:10px;overflow-x:auto;padding-bottom:8px;scroll-snap-type:x proximity}.tgrid .tcard{flex:0 0 220px;scroll-snap-align:start}
+.tcard{text-align:left;background:var(--surface);border:1px solid var(--line);border-left:5px solid var(--tc,var(--line));border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:3px;cursor:pointer;color:var(--ink)}
+.tcard.on{outline:2px solid var(--amber)}.tcard-h{display:flex;justify-content:space-between;align-items:center}.tcard-h b{font-family:var(--f-display);font-size:20px;letter-spacing:.02em}
+.tcard small{color:var(--muted);font-family:var(--f-mono);font-size:10px;text-transform:uppercase;letter-spacing:.06em}.tcard-c{font-size:12px}.tcard-t{font-size:12px;color:var(--amber-ink)}
+.teams{margin:12px 0}
+.jump{margin-left:auto;font-family:var(--f-mono);font-size:12px;color:var(--amber-ink);text-decoration:none;padding:6px 10px;white-space:nowrap}
 .proprow{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
 .prop{display:inline-flex;align-items:stretch;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface-2);flex:0 0 auto}
 .side{display:flex;align-items:center;gap:5px;padding:5px 10px;font-family:var(--f-display);font-weight:900;font-size:17px;letter-spacing:.06em;text-transform:uppercase}
@@ -173,7 +179,7 @@ details.src a{color:var(--muted);overflow-wrap:anywhere}
 /* ---------- Today ---------- */
 .today{margin-bottom:30px}
 .today .sec-h .when{font-family:var(--f-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--amber-ink);background:var(--amber-soft);padding:2px 8px;border-radius:999px}
-.tgames{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;align-items:start}
+.tgames{display:flex;gap:12px;align-items:flex-start;overflow-x:auto;padding-bottom:8px}.tgames .tgame{flex:0 0 290px;max-height:230px;overflow-y:auto}
 .tgame{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);min-width:0}
 .tg-head{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 14px;background:var(--board);color:var(--board-ink)}
 .tg-head b{font-family:var(--f-display);font-weight:800;font-size:19px;letter-spacing:.04em;text-transform:uppercase}
@@ -267,9 +273,10 @@ body.locked{overflow:hidden}
   </div>
 </header>
 
-<nav class="tabsbar" aria-label="Sport filter"><div class="tabs" id="tabs"></div></nav>
+<nav class="tabsbar" aria-label="Sport filter"><div class="tabs" id="tabs"></div><a class="jump" href="#picks">Players ↓</a></nav>
 
 <div class="wrap">
+  <section class="teams" id="teamsWrap" hidden><div class="sec-h"><h2>Team breakdown</h2><span id="teamsNote"></span></div><div id="teams"></div></section>
   <section class="today" id="todayWrap">
     <div class="sec-h"><h2 id="todayTitle">Today</h2><span class="when" id="todayWhen"></span><span id="todayNote"></span></div>
     <div id="today"></div>
@@ -304,7 +311,8 @@ const TEAM={
  "nhl:ANA":"#F47A38","nhl:BOS":"#3a3a3a","nhl:BUF":"#003087","nhl:CGY":"#C8102E","nhl:CAR":"#CE1126","nhl:CHI":"#CF0A2C","nhl:COL":"#6F263D","nhl:CBJ":"#002654","nhl:DAL":"#006847","nhl:DET":"#CE1126","nhl:EDM":"#041E42","nhl:FLA":"#C8102E","nhl:LAK":"#2b2b2b","nhl:MIN":"#154734","nhl:MTL":"#AF1E2D","nhl:NSH":"#041E42","nhl:NJD":"#CE1126","nhl:NYI":"#00539B","nhl:NYR":"#0038A8","nhl:OTT":"#C52032","nhl:PHI":"#F74902","nhl:PIT":"#2b2b2b","nhl:SJS":"#006D75","nhl:SEA":"#001628","nhl:STL":"#002F87","nhl:TBL":"#002868","nhl:TOR":"#00205B","nhl:UTA":"#4b9cd3","nhl:VAN":"#00205B","nhl:VGK":"#7a6a43","nhl:WSH":"#C8102E","nhl:WPG":"#041E42",
  "wnba:ATL":"#C8102E","wnba:CHI":"#418FDE","wnba:CONN":"#0A2240","wnba:DAL":"#0C2340","wnba:GS":"#6C4BA6","wnba:IND":"#002D62","wnba:LV":"#3a3a3a","wnba:LA":"#552583","wnba:MIN":"#266092","wnba:NY":"#6ECEB2","wnba:PHX":"#CB6015","wnba:SEA":"#2C5235","wnba:WSH":"#C8102E","wnba:POR":"#B7202E","wnba:TOR":"#1B365D"
 };
-const state={weeks:[],picks:[],week:null,sport:"all"};
+const POSNAME={QB:"Quarterback (QB)",RB:"Running back (RB)",WR:"Wide receiver (WR)",TE:"Tight end (TE)",LB:"Linebacker (LB)",DL:"Defensive line (DL)",DB:"Defensive back (DB)",SP:"Starting pitcher (SP)",P:"Pitcher (P)",Hitter:"Hitter",F:"Forward (F)",D:"Defenseman (D)",G:"Guard/Goalie (G)",C:"Center (C)"};
+const state={weeks:[],picks:[],week:null,sport:"all",team:null};
 let TOP25=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -337,9 +345,8 @@ function shot(p){
 }
 const ARROW={More:'<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 1 11 8H1z" fill="currentColor"/></svg>',Less:'<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 11 1 4h10z" fill="currentColor"/></svg>'};
 function prop(p){
-  const tbd=p.line==null||p.line==="";
-  const pj=p.projection&&p.projection.value?`<span class="proj" title="${esc(p.projection.basis||"")}">Proj ${esc(p.projection.value)}</span>`:"";
-  return `<div class="proprow"><div class="prop"><span class="side ${esc(p.side)}">${ARROW[p.side]||""}${esc(p.side)}</span><span class="lnum ${tbd?"tbd":""}">${tbd?"line TBD":esc(p.line)}</span></div><span class="lstat">${esc(p.stat)}</span>${pj}</div>`;
+  const has=p.projection&&p.projection.value;
+  return `<div class="proprow"><div class="prop"><span class="side ${esc(p.side)}">${ARROW[p.side]||""}${esc(p.side)}</span><span class="lnum ${has?"":"tbd"}" title="${esc((p.projection&&p.projection.basis)||"")}">${has?esc(p.projection.value):"projection TBD"}</span></div><span class="lstat">${esc(p.stat)}</span></div>`;
 }
 function pips(c){c=Math.max(1,Math.min(5,c||1));return `<div class="conf" title="Confidence ${c} of 5" aria-label="Confidence ${c} of 5">${Array.from({length:5},(_,i)=>`<i class="${i<c?"f":""}"></i>`).join("")}</div>`}
 const isOpen=p=>!p.status||p.status==="pending";
@@ -352,7 +359,7 @@ const num=v=>{const m=String(v??"").replace(/,/g,"").match(/-?\d+(\.\d+)?/);retu
 function grade(p){
   let i=(5-Math.max(1,Math.min(5,p.confidence||1)))*.8;
   const l=num(p.line),pr=p.projection&&num(p.projection.value);
-  if(l==null)i+=.6;
+  if(l==null){/* lines are hidden; no penalty */}
   else if(pr!=null&&l>0){
     const edge=(pr-l)/l;
     if((p.side==="More"&&edge<0)||(p.side==="Less"&&edge>0))i+=1.2;
@@ -381,18 +388,17 @@ function renderOutlook(){
     const best=[...list].sort((a,b)=>LETTERS.indexOf(grade(a).letter)-LETTERS.indexOf(grade(b).letter)||(b.confidence||0)-(a.confidence||0))[0];
     const tbd=list.filter(p=>p.line==null||p.line==="").length;
     const spRec=rec(graded.filter(p=>p.sport===sp));
-    const bits=[read(g.cnt,list.length),`Best look: ${best.player} ${best.side} ${best.line??"(line TBD)"} ${best.stat} (${grade(best).letter}).`];
-    if(tbd)bits.push(`${tbd} of ${list.length} still have no line.`);
+    const bits=[read(g.cnt,list.length),`Best look: ${best.player} ${best.side} ${best.stat} (proj ${(best.projection&&best.projection.value)||"n/a"}) (${grade(best).letter}).`];
     return `<div class="orow"><span class="grade ${g.letter}">${g.letter}</span><div><b>${esc(SPORT_NAME[sp]||sp)}</b> <small>${list.length} open · ${LETTERS.map(l=>g.cnt[l]?g.cnt[l]+l:"").filter(Boolean).join(" ")} · my record: ${spRec||"no graded picks yet"}</small><p>${esc(bits.join(" "))}</p></div></div>`}).join("");
   el.hidden=false;
-  el.innerHTML=`<span class="grade ${all.letter}">${all.letter}</span><div style="flex:1"><small>How I feel about ${esc(SPORT_NAME[state.sport]||state.sport)} this week · ${open.length} open picks</small><p>${esc(read(all.cnt,open.length))} My record on ${esc(SPORT_NAME[state.sport]||state.sport)} so far: ${overall?`${overall}.`:"no graded picks yet, so nothing to judge my hit rate on. Results post after the first games finish."}</p><div class="osp">${rows}</div><p class="onote">Grades blend confidence, projection edge vs the line, and whether the line or a condition is still unsettled. They are my read, not a guarantee.</p></div>`;
+  el.innerHTML=`<span class="grade ${all.letter}">${all.letter}</span><div style="flex:1"><small>How I feel about ${esc(SPORT_NAME[state.sport]||state.sport)} this week · ${open.length} open picks</small><p>${esc(read(all.cnt,open.length))} My record on ${esc(SPORT_NAME[state.sport]||state.sport)} so far: ${overall?`${overall}.`:"no graded picks yet, so nothing to judge my hit rate on. Results post after the first games finish."}</p><div class="osp">${rows}</div><p class="onote">Grades blend confidence, projection edge vs the line, and whether a condition is still unsettled. They are my read, not a guarantee.</p></div>`;
 }
 
 function renderTabs(){
   const wk=state.picks.filter(p=>p.week===state.week);
   $("tabs").innerHTML=SPORTS.map(([k,l])=>{const n=k==="all"?wk.length:wk.filter(p=>p.sport===k).length;return `<button class="tab" type="button" data-k="${k}" aria-pressed="${state.sport===k}">${l}<span class="n">${n}</span></button>`}).join("");
 }
-$("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(!b)return;state.sport=b.dataset.k;save();render()});
+$("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(!b)return;state.sport=b.dataset.k;state.team=null;save();render();const pk=$("picks");if(pk)pk.scrollIntoView({behavior:"smooth",block:"start"})});
 $("week").addEventListener("change",e=>{state.week=e.target.value;render()});
 
 function renderWeeks(){
@@ -451,11 +457,29 @@ function renderToday(){
     const f=ps[0];const show=ps.slice(0,4);
     return `<article class="tgame"><div class="tg-head"><div><span class="tg-sport">${esc(SPORT_NAME[f.sport]||f.sport)}</span><br><b>${esc(f.game||"")}</b></div><span>${esc(kickoff(f)||f.gameTime||"")}</span></div>
       <ul class="tg-list">${show.map(p=>`<li class="tg-row" data-open="${esc(p.id)}" tabindex="0"><a class="tg-p" href="#${esc(p.id)}">${esc(p.player)}</a><span class="tg-s">${esc(p.stat)}${isOpen(p)?"":` · ${esc(p.status)}`}</span>
-        <span class="tg-side"><span class="tg-pill ${esc(p.side)}">${esc(p.side)}</span><span class="tg-line">${p.line==null||p.line===""?"line TBD":esc(p.line)}</span></span>${p.projection&&p.projection.value?`<span class="tg-proj">Proj ${esc(p.projection.value)}</span>`:""}</li>`).join("")}</ul>
+        <span class="tg-side"><span class="tg-pill ${esc(p.side)}">${esc(p.side)}</span><span class="tg-line">${p.projection&&p.projection.value?esc(p.projection.value):""}</span></span></li>`).join("")}</ul>
       ${ps.length>show.length?`<button class="tg-more" type="button" data-jump="${esc(f.sport)}">+${ps.length-show.length} more in ${esc(SPORT_NAME[f.sport]||f.sport)} →</button>`:""}</article>`}).join("")}</div>`;
 }
 
-function filtered(){return state.picks.filter(p=>p.week===state.week&&(state.sport==="all"||p.sport===state.sport))}
+function filtered(){return state.picks.filter(p=>p.week===state.week&&(state.sport==="all"||p.sport===state.sport)&&(!state.team||(p.sport+"|"+p.team)===state.team))}
+function renderTeams(){
+  const wrap=$("teamsWrap"),el=$("teams");
+  const wk=state.picks.filter(p=>p.week===state.week&&(state.sport==="all"||p.sport===state.sport));
+  if(!wk.length){wrap.hidden=true;return}
+  wrap.hidden=false;
+  const keys=[...new Set(wk.map(p=>p.sport+"|"+p.team))].sort((a,b)=>ORDER.indexOf(a.split("|")[0])-ORDER.indexOf(b.split("|")[0])||a.localeCompare(b));
+  const cards=keys.map(k=>{
+    const [sp,tm]=k.split("|");const list=wk.filter(p=>p.sport===sp&&p.team===tm);
+    const more=list.filter(p=>p.side==="More").length,less=list.length-more;
+    const open=list.filter(isOpen);const g=open.length?(()=>{const pts=open.reduce((a,p)=>a+(4-LETTERS.indexOf(grade(p).letter)),0)/open.length;return LETTERS[Math.max(0,Math.min(4,Math.round(4-pts)))]})():"—";
+    const top=[...list].sort((a,b)=>(b.confidence||0)-(a.confidence||0))[0];
+    const opp=String(list[0].game||"").split(/\s*(?:@|vs\.?)\s*/).map(t=>t.replace(/\(.*\)/,"").trim()).find(t=>t&&t.toUpperCase()!==String(tm).toUpperCase())||"";
+    const posCount=Object.entries(list.reduce((m,p)=>(m[p.position]=(m[p.position]||0)+1,m),{})).map(([a,b])=>`${b} ${a}`).join(" · ");
+    return `<button type="button" class="tcard${state.team===k?" on":""}" data-team="${esc(k)}" style="--tc:${teamColor(list[0])}"><span class="tcard-h"><b>${esc(tm)}</b><span class="grade ${g==="—"?"":g}">${g}</span></span><small>${state.sport==="all"?esc(SPORT_NAME[sp]||sp)+" · ":""}${opp?"vs "+esc(opp)+" · ":""}${esc(list[0].gameTime||"")}</small><span class="tcard-c">${list.length} picks · ${more} More / ${less} Less</span><span class="tcard-t">Top: ${esc(top.player)} ${esc(top.side)} ${esc(top.stat)}${top.projection&&top.projection.value?" (proj "+esc(top.projection.value)+")":""}</span></button>`}).join("");
+  $("teamsNote").textContent=state.team?"Filtered to one team · tap again to clear":`${keys.length} teams`;
+  el.innerHTML=`<div class="tgrid">${cards}</div>`;
+}
+$("teams").addEventListener("click",e=>{const b=e.target.closest(".tcard");if(!b)return;state.team=state.team===b.dataset.team?null:b.dataset.team;render();const pk=$("picks");if(pk)pk.scrollIntoView({behavior:"smooth",block:"start"})});
 
 function renderFeatured(){
   const top=filtered().filter(isOpen).sort((a,b)=>(b.confidence||0)-(a.confidence||0)||(a.line==null)-(b.line==null)).slice(0,3);
@@ -472,7 +496,7 @@ function card(p){
   const right=graded?`<span class="stamp ${esc(p.status)}">${esc(p.status)}${p.actual?`<small>${esc(p.actual)}</small>`:""}</span>`
     :`<a class="add" href="#${esc(p.id)}">Research →</a>`;
   return `<article class="card ${esc(p.status||"")}" data-open="${esc(p.id)}" tabindex="0" aria-label="Open ${esc(p.player)} details">${shot(p)}<div class="cbody">
-    <div class="chead"><div><a class="pname" href="#${esc(p.id)}">${esc(p.player)}</a><div class="pmeta">${esc(p.game||"")}${p.gameTime?` · ${esc(p.gameTime)}`:""}</div></div>${gbadge(p)}${pips(p.confidence)}</div>
+    <div class="chead"><div><a class="pname" href="#${esc(p.id)}">${esc(p.player)}</a><div class="pmeta">${p.position?`<b>${esc(p.position)}</b> · `:""}${esc(p.game||"")}${p.gameTime?` · ${esc(p.gameTime)}`:""}</div></div>${gbadge(p)}${pips(p.confidence)}</div>
     ${prop(p)}
     <p class="why">${esc(p.why)}</p>
     <div class="foot"><div class="chips">${p.condition?`<span class="chip cond">If: ${esc(p.condition)}</span>`:""}${p.newsTag?`<span class="chip">${esc(p.newsTag)}</span>`:""}</div>${right}</div>
@@ -515,10 +539,10 @@ function openSheet(id){
   const p=state.picks.find(x=>x.id===id);if(!p)return;
   const w=state.weeks.find(x=>x.id===p.week)||{};
   const reads=[...(p.sources||[]),...(p.historySources||[])].filter((s,i,a)=>s&&s.url&&a.findIndex(x=>x&&x.url===s.url)===i);
-  const facts=[["Pick",`${p.side} ${p.line??"line TBD"}`],["Stat",p.stat],...(p.projection&&p.projection.value?[["Our projection",p.projection.value]]:[]),["Grade",`${grade(p).letter} · ${grade(p).feel}`],["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
+  const facts=[...(p.position?[["Position",POSNAME[p.position]||p.position]]:[]),["Pick",`${p.side} (projection)`],["Stat",p.stat],...(p.projection&&p.projection.value?[["Our projection",p.projection.value]]:[]),["Grade",`${grade(p).letter} · ${grade(p).feel}`],["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
   if(!isOpen(p))facts.splice(0,0,["Result",`${p.status}${p.actual?` · ${p.actual}`:""}`]);
   $("sheet").innerHTML=`<div class="sh-top">${shot(p)}<div class="sh-head">
-      <span class="rank">${esc(SPORT_NAME[p.sport]||p.sport)} · ${esc(p.team||"")} · ${esc(p.game||"")}</span>
+      <span class="rank">${esc(SPORT_NAME[p.sport]||p.sport)} · ${esc(p.team||"")}${p.position?` · ${esc(POSNAME[p.position]||p.position)}`:""} · ${esc(p.game||"")}</span>
       <div class="sh-name" id="shName">${esc(p.player)}</div>${prop(p)}</div>
       <button class="sh-close" type="button" data-close aria-label="Close">×</button></div>
     <div class="sh-body">
@@ -526,7 +550,6 @@ function openSheet(id){
       <section class="sh-sec"><h4>The case</h4><p class="sh-case">${esc(p.analysis||p.why)}</p></section>
       <section class="sh-sec"><div class="sh-facts">${facts.map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>${p.projection&&p.projection.basis?`<p class="sh-note" style="margin-top:6px">Projection based on: ${esc(p.projection.basis)}</p>`:""}</section>
       ${p.history?`<section class="sh-sec"><h4>History vs ${esc(String(p.game||"").split(/\s*(?:@|vs\.?)\s*/).find(t=>t&&t.trim().toUpperCase()!==String(p.team||"").toUpperCase())||"the opponent")} &amp; what matters</h4><p class="sh-case">${esc(p.history)}</p></section>`:""}
-      ${(p.lines||[]).length?`<section class="sh-sec"><h4>Lines around the market</h4><div class="mkt">${p.lines.map(l=>`<span><b>${esc(l.book)}</b>${esc(l.line)}</span>`).join("")}</div></section>`:""}
       ${p.condition||p.newsTag?`<section class="sh-sec"><div class="chips">${p.condition?`<span class="chip cond">If: ${esc(p.condition)}</span>`:""}${p.newsTag?`<span class="chip">${esc(p.newsTag)}</span>`:""}</div></section>`:""}
       <section class="sh-sec"><h4>${reads.length?"Read the full articles":"Sources"}</h4>
         ${reads.length?`<ul class="reads">${reads.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener"><span>${esc(s.title||host(s.url))}</span><em>${esc(host(s.url))} ↗</em></a></li>`).join("")}</ul>`:`<p class="sh-note">This pick's articles are in the week's source list below.</p>`}
@@ -559,7 +582,7 @@ document.addEventListener("keydown",e=>{
   if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches("[data-open]")){e.preventDefault();openSheet(e.target.dataset.open)}
 });
 
-function render(){renderWeeks();renderTabs();renderRecord();renderOutlook();renderToday();renderFeatured();renderPicks();renderBrief()}
+function render(){renderWeeks();renderTabs();renderRecord();renderOutlook();renderTeams();renderToday();renderFeatured();renderPicks();renderBrief()}
 
 (async()=>{
   try{
