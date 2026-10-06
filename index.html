@@ -66,6 +66,14 @@ h1 em{font-style:normal;color:var(--amber)}
 .rec b.dim{color:var(--board-muted)}
 .rec.lead b{font-size:26px}
 .rec small{font-family:var(--f-mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--board-muted);white-space:nowrap}
+button.rec{font:inherit;color:inherit;text-align:left;border:0;cursor:pointer;transition:background .12s}
+button.rec:hover{background:color-mix(in srgb,var(--board) 88%,#fff)}
+button.rec:focus-visible{outline:2px solid var(--amber);outline-offset:-2px}
+button.rec small::after{content:" ›";opacity:.7}
+.sh-top.rs{grid-template-columns:minmax(0,1fr);min-height:0}
+.rs-sum{font-family:var(--f-mono);font-size:13px;color:var(--muted)}
+.rs-list{border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.rs-sec h4 span{color:var(--ink);font-weight:700}
 
 /* ---------- Filter deck ---------- */
 .deck{position:sticky;top:env(safe-area-inset-top,0px);z-index:6;background:color-mix(in srgb,var(--bg) 90%,transparent);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid var(--line);box-shadow:0 10px 24px -22px rgba(0,0,0,.5)}
@@ -354,8 +362,9 @@ function renderWeeks(){const sel=$("week");if(!state.weeks.length){sel.innerHTML
   const [cur,...prev]=state.weeks;sel.innerHTML=opt(cur,true)+prev.map(w=>opt(w,false)).join("");
   const w=state.weeks.find(w=>w.id===state.week);$("updated").textContent=w&&w.generatedAt?`Updated ${new Date(w.generatedAt).toLocaleString([], {weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})}`:""}
 function renderRecord(){const g=state.picks.filter(p=>p.status==="hit"||p.status==="miss");const rec=x=>{const h=x.filter(p=>p.status==="hit").length;return x.length?`${h}-${x.length-h}`:"—"};const h=g.filter(p=>p.status==="hit").length;
-  const items=[["Hit rate",g.length?Math.round(h/g.length*100)+"%":"—",1],["Record",rec(g)],...ORDER.filter(s=>state.picks.some(p=>p.sport===s)).map(s=>[SPORT_NAME[s]==="College football"?"CFB":SPORT_NAME[s],rec(g.filter(p=>p.sport===s))]),["Open now",weekPicks().filter(isOpen).length]];
-  $("record").innerHTML=items.map(([l,v,lead])=>`<div class="rec${lead?" lead":""}"><b class="${v==="—"?"dim":""}">${v}</b><small>${l}</small></div>`).join("")}
+  const items=[["Hit rate",g.length?Math.round(h/g.length*100)+"%":"—",1,"hits"],["Record",rec(g),0,"all"],...ORDER.filter(s=>state.picks.some(p=>p.sport===s)).map(s=>[SPORT_NAME[s]==="College football"?"CFB":SPORT_NAME[s],rec(g.filter(p=>p.sport===s)),0,s]),["Open now",weekPicks().filter(isOpen).length]];
+  $("record").innerHTML=items.map(([l,v,lead,k])=>k?`<button type="button" class="rec${lead?" lead":""}" data-rec="${esc(k)}" aria-label="${esc(l)} ${esc(String(v))}: show ${k==="hits"?"every hit":"hits and misses"}"><b class="${v==="—"?"dim":""}">${v}</b><small>${l}</small></button>`:`<div class="rec${lead?" lead":""}"><b class="${v==="—"?"dim":""}">${v}</b><small>${l}</small></div>`).join("")}
+$("record").addEventListener("click",e=>{const b=e.target.closest("[data-rec]");if(b)openResults(b.dataset.rec)});
 
 /* ---------- deck ---------- */
 function renderDeck(){
@@ -408,10 +417,10 @@ function renderLeans(){
 }
 
 /* ---------- board ---------- */
-function row(p){
+function row(p,full){
   const right=isOpen(p)?`${pill(p)}${projHtml(p)}${gb(p)}${wasHtml(p)}`:`<span class="stamp ${esc(p.status)}">${esc(p.status)}${p.actual?`<small>${esc(p.actual)}</small>`:""}</span>${projHtml(p)}`;
   return `<li class="prow ${esc(p.status||"")}" data-open="${esc(p.id)}" tabindex="0" role="button" aria-label="${esc(p.player)} ${esc(p.side)} ${esc(p.stat)}">${av(p)}
-    <div class="who"><div class="nm">${esc(p.player)}</div><div class="mt">${p.position?`<b>${esc(p.position)}</b>`:""}${esc(p.team||"")}${state.sort!=="time"?` · ${esc(p.game||"")} · ${esc(p.gameTime||"")}`:""}</div><div class="stl">${esc(p.stat)}</div>${p.condition?`<div class="cond">If: ${esc(p.condition)}</div>`:""}</div>
+    <div class="who"><div class="nm">${esc(p.player)}</div><div class="mt">${p.position?`<b>${esc(p.position)}</b>`:""}${esc(p.team||"")}${full===true||state.sort!=="time"?` · ${esc(p.game||"")} · ${esc(p.gameTime||"")}`:""}</div><div class="stl">${esc(p.stat)}</div>${p.condition?`<div class="cond">If: ${esc(p.condition)}</div>`:""}</div>
     <div class="call">${right}</div></li>`;
 }
 function renderBoard(){
@@ -478,6 +487,25 @@ function openSheet(id){
   lastFocus=document.activeElement;$("sheetBg").hidden=false;$("sheet").scrollTop=0;document.body.classList.add("locked");$("sheet").querySelector(".sh-close").focus();
   try{if(location.hash.slice(1)!==p.id)history.pushState(null,"","#"+p.id)}catch(e){}
 }
+/* ---------- track record sheet: tap Hit rate, Record or a sport ---------- */
+function openResults(key){
+  const sport=ORDER.includes(key)?key:null;
+  const graded=state.picks.filter(p=>p.status&&p.status!=="pending"&&(!sport||p.sport===sport));
+  const by=s=>graded.filter(p=>p.status===s).sort((a,b)=>String(b.startTime||b.week).localeCompare(String(a.startTime||a.week)));
+  const hits=by("hit"),misses=by("miss"),other=[...by("push"),...by("void")];
+  const n=hits.length+misses.length,pct=n?Math.round(hits.length/n*100)+"%":"—";
+  const name=sport?(SPORT_NAME[sport]==="College football"?"CFB":SPORT_NAME[sport]):"";
+  const title=key==="hits"?"Every hit":sport?`${name} record`:"All graded picks";
+  const list=(h,l,empty)=>`<section class="sh-sec rs-sec"><h4>${esc(h)} <span>${l.length}</span></h4>${l.length?`<ul class="rows rs-list">${l.map(p=>row(p,true)).join("")}</ul>`:`<p class="sh-note">${esc(empty)}</p>`}</section>`;
+  $("sheet").innerHTML=`<div class="sh-top rs"><div class="sh-head"><span class="sh-kick">Track record${sport?` · ${esc(SPORT_NAME[sport])}`:""}</span>
+      <div class="sh-name" id="shName">${esc(title)}</div><div class="sh-call"><span class="rs-sum">${hits.length}-${misses.length} · ${pct} hit rate${other.length?` · ${other.length} push/void`:""}</span></div></div>
+      <button class="sh-close" type="button" data-close aria-label="Close">×</button></div>
+    <div class="sh-body">${list("Hits",hits,"No hits yet.")}${key==="hits"?"":list("Misses",misses,"No misses yet.")+(other.length?list("Pushes and voids",other,""):"")}
+      <p class="sh-note">Tap a player to see the full write-up and the result.</p></div>`;
+  if($("sheetBg").hidden)lastFocus=document.activeElement;
+  $("sheetBg").hidden=false;$("sheet").scrollTop=0;document.body.classList.add("locked");$("sheet").querySelector(".sh-close").focus();
+  try{if(location.hash.slice(1)!=="results-"+key)history.pushState(null,"","#results-"+key)}catch(e){}
+}
 function closeSheet(){if($("sheetBg").hidden)return;$("sheetBg").hidden=true;document.body.classList.remove("locked");try{if(location.hash)history.replaceState(null,"",location.pathname+location.search)}catch(e){}if(lastFocus&&lastFocus.focus)lastFocus.focus()}
 document.addEventListener("click",e=>{
   if(e.target.closest("[data-close]")||e.target===$("sheetBg")){closeSheet();return}
@@ -485,7 +513,7 @@ document.addEventListener("click",e=>{
   if(e.target.closest("a,[data-team]"))return;
   const o=e.target.closest("[data-open]");if(o)openSheet(o.dataset.open);
 });
-window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(h&&state.picks.some(x=>x.id===h))openSheet(h);else closeSheet()});
+window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(h.startsWith("results-"))openResults(h.slice(8));else if(h&&state.picks.some(x=>x.id===h))openSheet(h);else closeSheet()});
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeSheet();if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches("[data-open]")){e.preventDefault();openSheet(e.target.dataset.open)}});
 
 function render(){renderWeeks();renderRecord();renderDeck();renderNext();renderLeans();renderBoard();renderRail()}
@@ -495,7 +523,7 @@ function render(){renderWeeks();renderRecord();renderDeck();renderNext();renderL
     state.weeks=[...w].sort((a,b)=>String(b.weekStart||b.id).localeCompare(String(a.weekStart||a.id)));
     try{const t=await fetch("data/cfb_top25.json"+bust).then(r=>r.json());const ok=new Set(t.teams.flatMap(x=>[x.name,...x.aliases]).map(x=>x.toUpperCase()));state.picks=p.filter(x=>x.sport!=="cfb"||ok.has(String(x.team||"").trim().replace(/\.$/,"").toUpperCase()))}catch(e){state.picks=p}
   }catch(e){$("updated").textContent="Couldn't load picks. Refresh to try again."}
-  render();const h=location.hash.slice(1);if(h&&state.picks.some(x=>x.id===h))openSheet(h);
+  render();const h=location.hash.slice(1);if(h.startsWith("results-"))openResults(h.slice(8));else if(h&&state.picks.some(x=>x.id===h))openSheet(h);
 })();
 </script>
 </body>
