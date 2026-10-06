@@ -135,6 +135,12 @@ h1 em{font-style:normal;color:var(--amber)}
 .tcard.on{outline:2px solid var(--amber)}.tcard-h{display:flex;justify-content:space-between;align-items:center}.tcard-h b{font-family:var(--f-display);font-size:20px;letter-spacing:.02em}
 .tcard small{color:var(--muted);font-family:var(--f-mono);font-size:10px;text-transform:uppercase;letter-spacing:.06em}.tcard-c{font-size:12px}.tcard-t{font-size:12px;color:var(--amber-ink)}
 .teams{margin:12px 0}
+.tdetail{margin-top:10px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.tdetail-h{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}.tclose{background:none;border:1px solid var(--line);border-radius:8px;padding:4px 10px;cursor:pointer;color:var(--muted)}
+.tdlist{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.tdrow{display:grid;grid-template-columns:1fr auto auto auto;gap:10px;align-items:center;padding:8px 10px;border-radius:8px;background:var(--surface-2);cursor:pointer}
+.tdname{font-weight:600}.tdname small{display:block;color:var(--muted);font-family:var(--f-mono);font-size:11px;font-weight:400}.tdproj{font-family:var(--f-mono);font-weight:700;color:var(--amber-ink)}
+@media (max-width:620px){.tdrow{grid-template-columns:1fr auto;}}
 .jump{margin-left:auto;font-family:var(--f-mono);font-size:12px;color:var(--amber-ink);text-decoration:none;padding:6px 10px;white-space:nowrap}
 .proprow{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
 .prop{display:inline-flex;align-items:stretch;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface-2);flex:0 0 auto}
@@ -461,7 +467,7 @@ function renderToday(){
       ${ps.length>show.length?`<button class="tg-more" type="button" data-jump="${esc(f.sport)}">+${ps.length-show.length} more in ${esc(SPORT_NAME[f.sport]||f.sport)} →</button>`:""}</article>`}).join("")}</div>`;
 }
 
-function filtered(){return state.picks.filter(p=>p.week===state.week&&(state.sport==="all"||p.sport===state.sport)&&(!state.team||(p.sport+"|"+p.team)===state.team))}
+function filtered(){return state.picks.filter(p=>p.week===state.week&&(state.sport==="all"||p.sport===state.sport))}
 function renderTeams(){
   const wrap=$("teamsWrap"),el=$("teams");
   const wk=state.picks.filter(p=>p.week===state.week&&(state.sport==="all"||p.sport===state.sport));
@@ -477,9 +483,15 @@ function renderTeams(){
     const posCount=Object.entries(list.reduce((m,p)=>(m[p.position]=(m[p.position]||0)+1,m),{})).map(([a,b])=>`${b} ${a}`).join(" · ");
     return `<button type="button" class="tcard${state.team===k?" on":""}" data-team="${esc(k)}" style="--tc:${teamColor(list[0])}"><span class="tcard-h"><b>${esc(tm)}</b><span class="grade ${g==="—"?"":g}">${g}</span></span><small>${state.sport==="all"?esc(SPORT_NAME[sp]||sp)+" · ":""}${opp?"vs "+esc(opp)+" · ":""}${esc(list[0].gameTime||"")}</small><span class="tcard-c">${list.length} picks · ${more} More / ${less} Less</span><span class="tcard-t">Top: ${esc(top.player)} ${esc(top.side)} ${esc(top.stat)}${top.projection&&top.projection.value?" (proj "+esc(top.projection.value)+")":""}</span></button>`}).join("");
   $("teamsNote").textContent=state.team?"Filtered to one team · tap again to clear":`${keys.length} teams`;
-  el.innerHTML=`<div class="tgrid">${cards}</div>`;
+  let detail="";
+  if(state.team&&keys.includes(state.team)){
+    const [sp,tm]=state.team.split("|");
+    const five=wk.filter(p=>p.sport===sp&&p.team===tm).sort((a,b)=>(b.confidence||0)-(a.confidence||0)).slice(0,5);
+    detail=`<div class="tdetail"><div class="tdetail-h"><b>${esc(tm)} · top ${five.length} players</b><button type="button" class="tclose" data-tclose>Close ×</button></div><ul class="tdlist">${five.map(p=>`<li class="tdrow" data-open="${esc(p.id)}" tabindex="0"><span class="tdname">${esc(p.player)}<small>${esc(p.position||"")} · ${esc(p.stat)}</small></span><span class="tg-pill ${esc(p.side)}">${esc(p.side)}</span><span class="tdproj">${p.projection&&p.projection.value?"Proj "+esc(p.projection.value):"projection TBD"}</span>${gbadge(p)}</li>`).join("")}</ul></div>`;
+  }
+  el.innerHTML=`<div class="tgrid">${cards}</div>${detail}`;
 }
-$("teams").addEventListener("click",e=>{const b=e.target.closest(".tcard");if(!b)return;state.team=state.team===b.dataset.team?null:b.dataset.team;render();const pk=$("picks");if(pk)pk.scrollIntoView({behavior:"smooth",block:"start"})});
+$("teams").addEventListener("click",e=>{if(e.target.closest("[data-tclose]")){state.team=null;renderTeams();return}if(e.target.closest("[data-open]"))return;const b=e.target.closest(".tcard");if(!b)return;state.team=state.team===b.dataset.team?null:b.dataset.team;renderTeams()});
 
 function renderFeatured(){
   const top=filtered().filter(isOpen).sort((a,b)=>(b.confidence||0)-(a.confidence||0)||(a.line==null)-(b.line==null)).slice(0,3);
