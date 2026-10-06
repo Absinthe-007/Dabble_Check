@@ -141,7 +141,7 @@ h1 em{font-style:normal;color:var(--amber)}
 .tdrow{display:grid;grid-template-columns:1fr auto auto auto;gap:10px;align-items:center;padding:8px 10px;border-radius:8px;background:var(--surface-2);cursor:pointer}
 .tdname{font-weight:600}.tdname small{display:block;color:var(--muted);font-family:var(--f-mono);font-size:11px;font-weight:400}.tdproj{font-family:var(--f-mono);font-weight:700;color:var(--amber-ink)}
 @media (max-width:620px){.tdrow{grid-template-columns:1fr auto;}}
-.jump{margin-left:auto;font-family:var(--f-mono);font-size:12px;color:var(--amber-ink);text-decoration:none;padding:6px 10px;white-space:nowrap}
+.tabsbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;padding-left:16px;padding-right:16px}.tabsbar .tabs{flex:1 1 auto;min-width:0;overflow-x:auto}.q{margin-left:auto;flex:0 1 280px;min-width:150px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:7px 10px;color:var(--ink);font:inherit;font-size:14px}.jump{font-family:var(--f-mono);font-size:12px;color:var(--amber-ink);text-decoration:none;padding:6px 10px;white-space:nowrap}
 .proprow{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
 .prop{display:inline-flex;align-items:stretch;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface-2);flex:0 0 auto}
 .side{display:flex;align-items:center;gap:5px;padding:5px 10px;font-family:var(--f-display);font-weight:900;font-size:17px;letter-spacing:.06em;text-transform:uppercase}
@@ -279,7 +279,7 @@ body.locked{overflow:hidden}
   </div>
 </header>
 
-<nav class="tabsbar" aria-label="Sport filter"><div class="tabs" id="tabs"></div><a class="jump" href="#picks">Players ↓</a></nav>
+<nav class="tabsbar" aria-label="Sport filter"><div class="tabs" id="tabs"></div><input id="q" class="q" type="search" placeholder="Search any player, team, position or stat" aria-label="Search players" autocomplete="off"><a class="jump" href="#picks">Players ↓</a></nav>
 
 <div class="wrap">
   <section class="teams" id="teamsWrap" hidden><div class="sec-h"><h2>Team breakdown</h2><span id="teamsNote"></span></div><div id="teams"></div></section>
@@ -318,7 +318,7 @@ const TEAM={
  "wnba:ATL":"#C8102E","wnba:CHI":"#418FDE","wnba:CONN":"#0A2240","wnba:DAL":"#0C2340","wnba:GS":"#6C4BA6","wnba:IND":"#002D62","wnba:LV":"#3a3a3a","wnba:LA":"#552583","wnba:MIN":"#266092","wnba:NY":"#6ECEB2","wnba:PHX":"#CB6015","wnba:SEA":"#2C5235","wnba:WSH":"#C8102E","wnba:POR":"#B7202E","wnba:TOR":"#1B365D"
 };
 const POSNAME={QB:"Quarterback (QB)",RB:"Running back (RB)",WR:"Wide receiver (WR)",TE:"Tight end (TE)",LB:"Linebacker (LB)",DL:"Defensive line (DL)",DB:"Defensive back (DB)",SP:"Starting pitcher (SP)",P:"Pitcher (P)",Hitter:"Hitter",F:"Forward (F)",D:"Defenseman (D)",G:"Guard/Goalie (G)",C:"Center (C)"};
-const state={weeks:[],picks:[],week:null,sport:"all",team:null};
+const state={weeks:[],picks:[],week:null,sport:"all",team:null,q:""};
 let TOP25=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -467,7 +467,10 @@ function renderToday(){
       ${ps.length>show.length?`<button class="tg-more" type="button" data-jump="${esc(f.sport)}">+${ps.length-show.length} more in ${esc(SPORT_NAME[f.sport]||f.sport)} →</button>`:""}</article>`}).join("")}</div>`;
 }
 
-function filtered(){return state.picks.filter(p=>p.week===state.week&&(state.sport==="all"||p.sport===state.sport))}
+const hay=p=>[p.player,p.team,p.position,p.stat,p.game,p.sport,(p.bio&&p.bio.college)||""].join(" ").toLowerCase();
+function filtered(){const q=state.q.trim().toLowerCase();const terms=q?q.split(/\s+/):[];
+  return state.picks.filter(p=>p.week===state.week&&(terms.length||state.sport==="all"||p.sport===state.sport)&&terms.every(t=>hay(p).includes(t)))}
+$("q").addEventListener("input",e=>{state.q=e.target.value;renderPicks();renderFeatured();if(state.q.trim()){const pk=$("picks");if(pk&&pk.getBoundingClientRect().top>window.innerHeight*0.6)pk.scrollIntoView({block:"start"})}});
 function renderTeams(){
   const wrap=$("teamsWrap"),el=$("teams");
   const wk=state.picks.filter(p=>p.week===state.week&&(state.sport==="all"||p.sport===state.sport));
@@ -550,7 +553,7 @@ let lastFocus=null;
 function openSheet(id){
   const p=state.picks.find(x=>x.id===id);if(!p)return;
   const w=state.weeks.find(x=>x.id===p.week)||{};
-  const reads=[...(p.sources||[]),...(p.historySources||[])].filter((s,i,a)=>s&&s.url&&a.findIndex(x=>x&&x.url===s.url)===i);
+  const reads=[...(p.sources||[]),...(p.historySources||[]),...(p.matchupSources||[])].filter((s,i,a)=>s&&s.url&&a.findIndex(x=>x&&x.url===s.url)===i);
   const facts=[...(p.position?[["Position",POSNAME[p.position]||p.position]]:[]),["Pick",`${p.side} (projection)`],["Stat",p.stat],...(p.projection&&p.projection.value?[["Our projection",p.projection.value]]:[]),["Grade",`${grade(p).letter} · ${grade(p).feel}`],["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
   if(!isOpen(p))facts.splice(0,0,["Result",`${p.status}${p.actual?` · ${p.actual}`:""}`]);
   $("sheet").innerHTML=`<div class="sh-top">${shot(p)}<div class="sh-head">
@@ -561,6 +564,8 @@ function openSheet(id){
       ${p.bio?`<section class="sh-sec"><h4>Player profile</h4><div class="sh-facts">${[["Height",p.bio.height],["Weight",p.bio.weight],["Age",p.bio.age],["Experience",p.bio.exp],["College / origin",p.bio.college],["Hand",p.bio.hand]].filter(([k,v])=>v).map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div></section>`:""}
       <section class="sh-sec"><h4>The case</h4><p class="sh-case">${esc(p.analysis||p.why)}</p></section>
       <section class="sh-sec"><div class="sh-facts">${facts.map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>${p.projection&&p.projection.basis?`<p class="sh-note" style="margin-top:6px">Projection based on: ${esc(p.projection.basis)}</p>`:""}</section>
+      ${(p.projLine||[]).length?`<section class="sh-sec"><h4>What to expect this game</h4><div class="sh-facts">${p.projLine.map(x=>`<div class="fact"><small>${esc(x.stat)}</small><b>${esc(x.proj)}</b></div>`).join("")}</div>${p.projBasis?`<p class="sh-note" style="margin-top:6px">${esc(p.projBasis)}</p>`:""}</section>`:""}
+      ${p.matchup?`<section class="sh-sec"><h4>Matchup vs the opposing players &amp; defense</h4><p class="sh-case">${esc(p.matchup)}</p>${p.teamOutlook?`<div class="sh-facts" style="margin-top:8px">${[["Team points scored",p.teamOutlook.scored],["Team points allowed",p.teamOutlook.allowed],["Defense",p.teamOutlook.defense]].filter(([k,v])=>v).map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>`:""}</section>`:""}
       ${p.history?`<section class="sh-sec"><h4>History vs ${esc(String(p.game||"").split(/\s*(?:@|vs\.?)\s*/).find(t=>t&&t.trim().toUpperCase()!==String(p.team||"").toUpperCase())||"the opponent")} &amp; what matters</h4><p class="sh-case">${esc(p.history)}</p></section>`:""}
       ${p.condition||p.newsTag?`<section class="sh-sec"><div class="chips">${p.condition?`<span class="chip cond">If: ${esc(p.condition)}</span>`:""}${p.newsTag?`<span class="chip">${esc(p.newsTag)}</span>`:""}</div></section>`:""}
       <section class="sh-sec"><h4>${reads.length?"Read the full articles":"Sources"}</h4>
