@@ -2,6 +2,17 @@
  {
   "id": "2026-10-05-cfb-01",
   "analysis": "Keelon Russell enters at 5-0 after going 16 of 22 for 285 yards and three touchdowns against Mississippi State. That is a big number, so any posted line will likely sit well above his typical output after the Heisman talk. Georgia is a 2.5-point favorite on the opening number, with the total at 56.5, which implies plenty of points and a lot of Alabama possessions. I could not find a posted passing-yards line for Saturday, so the projection (about 240) is built by discounting last week's output toward a more typical game against a top SEC defense. Main risk is a shootout where Alabama is chasing; if the line lands near 250 the edge is thin.",
+  "bio": {
+   "age": 19,
+   "college": "Duncanville, Texas (Duncanville HS)",
+   "exp": "Redshirt Freshman",
+   "height": "6'3\"",
+   "weight": "201 lbs"
+  },
+  "bioSource": {
+   "title": "Keelon Russell - Alabama Football Roster",
+   "url": "https://rolltide.com/sports/football/roster/keelon-russell/17477"
+  },
   "confidence": 2,
   "espnId": "5141629",
   "game": "UGA @ BAMA",
@@ -55,6 +66,16 @@
  {
   "id": "2026-10-05-cfb-02",
   "analysis": "Arch Manning has thrown an interception in every game this season except against UTSA, about 0.75 per game. He has taken 10 sacks, six of them against Tennessee, and the SI evaluation points to holding the ball too long. Oklahoma has one of the stronger defenses in the conference and the game total has dropped to 39.5, which suggests a pressure-heavy, low-scoring game where one mistake matters more. No interception prop line was found, so the projection of 0.8 is the per-game rate nudged up for the opponent; an over 0.5 would likely be the number. Main risk is that a clean game, 25 to 30 attempts with a lead, is entirely plausible.",
+  "bio": {
+   "age": 22,
+   "exp": "Redshirt Junior",
+   "height": "6'4\"",
+   "weight": "222 lbs"
+  },
+  "bioSource": {
+   "title": "Arch Manning - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Arch_Manning"
+  },
   "confidence": 2,
   "espnId": "4870906",
   "game": "TEX vs OU (Dallas)",
@@ -112,6 +133,16 @@
  {
   "id": "2026-10-05-cfb-03",
   "analysis": "Wayne Knight has nine rushing touchdowns, tied for second in the country, and 445 yards, and UCLA runs for 281.5 yards a game. Oregon is a 12.5-point favorite with a 58.5 total, so UCLA could trail and abandon some of the run. UCLA uses three backs (Knight, Anthony Woods, Jaivin Thomas), which tempers his workload, but Knight is the one getting the scoring carries. I did not find a posted touchdown prop; the projection of 1.1 regresses his 2.25-per-game pace for opponent strength and game script. An over 0.5 is likely the market line. Risk is a blowout.",
+  "bio": {
+   "college": "Smyrna, Delaware; transfer from James Madison",
+   "exp": "Redshirt Senior",
+   "height": "5'7\"",
+   "weight": "193 lbs"
+  },
+  "bioSource": {
+   "title": "Wayne Knight - UCLA Football Roster",
+   "url": "https://uclabruins.com/sports/football/roster/wayne-knight/16075"
+  },
   "confidence": 2,
   "espnId": "4912342",
   "game": "UCLA @ ORE",
@@ -165,6 +196,16 @@
  {
   "id": "2026-10-05-cfb-04",
   "analysis": "Jeremiah Smith leads the FBS with 823 receiving yards and nine touchdowns through five games, about 165 a game, including back-to-back 200-yard performances. Ohio State is a 35.5-point favorite on the opening number against Maryland, so the starters may sit in the second half and cap his volume. Even so, he is the offense's top target and gets his production early. No receiving-yards line was posted when I looked, so I projected 135, a haircut of roughly 30 yards from his average for blowout game script. The kickoff is 4:15 p.m. ET on BTN. Risk is the garbage-time cap; his ESPN id is 5079720.",
+  "bio": {
+   "age": 20,
+   "exp": "Junior",
+   "height": "6'4\"",
+   "weight": "223 lbs"
+  },
+  "bioSource": {
+   "title": "Jeremiah Smith - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Smith_(American_football)"
+  },
   "confidence": 3,
   "espnId": "5079720",
   "game": "MD @ OSU",
@@ -222,6 +263,16 @@
  {
   "id": "2026-10-05-cfb-06",
   "analysis": "Raleek Brown leads Texas in rushing but has only 196 yards on 48 carries, about 49 a game, and shares work with Hollywood Smothers. The game total is only 39.5 and Texas is a 7.5-point favorite, so scoring and run volume are limited, though a lead could produce late carries. Oklahoma's defense is strong against the run. No rushing-yards line was found, so the projection of 45 rests on his per-game average. Risk is Texas leaning on the run to protect a lead and Brown getting the bulk of them.",
+  "bio": {
+   "college": "Stockton, California (Mater Dei HS); transfer from Arizona State",
+   "exp": "Senior",
+   "height": "5'9\"",
+   "weight": "191 lbs"
+  },
+  "bioSource": {
+   "title": "Raleek Brown - Texas Football Roster",
+   "url": "https://texaslonghorns.com/sports/football/roster/raleek-brown/16937"
+  },
   "confidence": 2,
   "espnId": "4685268",
   "game": "TEX vs OU (Dallas)",
@@ -275,6 +326,17 @@
  {
   "id": "2026-10-05-cfb-07",
   "analysis": "Gunner Stockton has 13 touchdowns and one interception and averages about 210 passing yards, but his most recent game was 295 yards and three touchdowns against Vanderbilt, so the trend is mixed. Georgia is a small favorite with a 56.5 total on the opening line, which raises the passing ceiling in a back-and-forth game at Bryant-Denny. No line was found; the projection of 215 weights the season average with a small bump for the high total. This is a lower-confidence Less since the last game exceeded most likely lines. Alabama's offense going up and down could force Georgia to throw more.",
+  "bio": {
+   "age": 22,
+   "college": "Tiger, Georgia",
+   "exp": "Fifth year",
+   "height": "6'1\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Gunner Stockton - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gunner_Stockton"
+  },
   "confidence": 2,
   "espnId": "4685578",
   "game": "UGA @ ALA",
@@ -332,6 +394,17 @@
  {
   "id": "2026-10-05-cfb-08",
   "analysis": "Nico Iamaleava has under 1,000 yards and only four touchdown passes through four games, with accuracy described as inconsistent. UCLA runs for 281.5 yards per game, the offense is built around the backs, and senior WR Mikey Matthews is injured. Oregon is a 12.5-point favorite with a 58.5 total, so UCLA could be forced to throw if behind, which is the main risk. Oregon may also be missing QB Dante Moore (concussion), but that does not change UCLA's approach much. No line was found; projected 190 from his average, minus a bit for the short receiver group.",
+  "bio": {
+   "age": 22,
+   "college": "Transfer from Tennessee",
+   "exp": "Redshirt Junior",
+   "height": "6'6\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Nico Iamaleava - UCLA Football Roster",
+   "url": "https://uclabruins.com/sports/football/roster/nico-iamaleava/15286"
+  },
   "confidence": 3,
   "espnId": "4870799",
   "game": "UCLA @ ORE",
@@ -389,6 +462,16 @@
  {
   "id": "2026-10-05-cfb-09",
   "analysis": "Jordon Davison leads Oregon with four rushing touchdowns on 33 carries, a heavy goal-line share. Oregon is a 12.5-point home favorite with a total of 58.5, which should create plenty of scoring chances. Dante Moore suffered a concussion against USC; as of the latest reports he was recovering and could return, and Dylan Raiola played well in relief (19 of 25, 289 yards, two TDs in the 41-27 win). Lanning had not named a starter in anything I found, so the condition is still open. No line was found; the projection of 0.6 is based on his scoring rate and the favorable game script. Risk is that backs share the touchdowns.",
+  "bio": {
+   "college": "Santa Ana, Calif. (Mater Dei HS)",
+   "exp": "Freshman",
+   "height": "6'0\"",
+   "weight": "236 lbs"
+  },
+  "bioSource": {
+   "title": "Jordon Davison - Oregon Football Roster",
+   "url": "https://goducks.com/sports/football/roster/jordon-davison/17365"
+  },
   "condition": "Dante Moore out or limited",
   "confidence": 2,
   "espnId": "5141423",
@@ -443,6 +526,16 @@
  {
   "id": "2026-10-05-cfb-10",
   "analysis": "Jayden Maiava averages 290.7 passing yards with 15 touchdowns and three interceptions, and USC averages 467.8 yards and 6.65 yards a play. Penn State has lost two straight and gave up over 400 rushing yards in a 34-13 loss at Northwestern, which could push USC toward the run, a risk for passing volume. The line is a pick'em type (PSU -1.5) and the total has slipped from 56.5 to 54.5. No passing-yards line found; projection of 295 matches his average with a small matchup bump. Primary risk is Penn State's slow tempo and a ground-heavy USC plan.",
+  "bio": {
+   "age": 23,
+   "exp": "Redshirt Senior",
+   "height": "6'4\"",
+   "weight": "225 lbs"
+  },
+  "bioSource": {
+   "title": "Jayden Maiava - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jayden_Maiava"
+  },
   "confidence": 3,
   "espnId": "4685454",
   "game": "USC @ PSU",
@@ -500,6 +593,16 @@
  {
   "id": "2026-10-05-cfb-11",
   "analysis": "King Miller averages about 82 rushing yards a game for USC. Penn State just allowed over 400 rushing yards to Northwestern, one of the worst run-defense outings in program history, which is a strong matchup sign. USC is a slight underdog or pick'em, so game script should stay competitive and the run should stay in play. I found no rushing-yards line, so the 90-yard projection adds about 10 percent to his average for the soft run defense. Risk is USC leaning on Maiava through the air and a committee approach.",
+  "bio": {
+   "college": "Calabasas, Calif.",
+   "exp": "Redshirt Sophomore",
+   "height": "6'0\"",
+   "weight": "225 lbs"
+  },
+  "bioSource": {
+   "title": "King Miller - USC Football Roster",
+   "url": "https://usctrojans.com/sports/football/roster/king-miller/18739"
+  },
   "confidence": 3,
   "espnId": "5233016",
   "game": "USC @ PSU",
@@ -557,6 +660,17 @@
  {
   "id": "2026-10-05-cfb-13",
   "analysis": "Sam Leavitt has seven interceptions in five games and has been managing injuries; Lane Kiffin said he was better than a week ago but still limited, and he sat out Tuesday practice before playing against McNeese (18 of 23, 176 yards, three TDs, no rushing attempts). LSU ran 53 times for 367 yards in that game, which means a lot of low-risk passing, but Kentucky is a much tougher opponent. No line was found; projection of 1.0 is a blend of his 1.4 per-game season rate and the clean McNeese game. The pick is conditional on him starting, which looks likely but is not confirmed.",
+  "bio": {
+   "age": 21,
+   "college": "Transfer from Arizona State (previously Michigan State)",
+   "exp": "Junior",
+   "height": "6'2\"",
+   "weight": "216 lbs"
+  },
+  "bioSource": {
+   "title": "Sam Leavitt - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sam_Leavitt_(American_football)"
+  },
   "condition": "Leavitt starts",
   "confidence": 3,
   "espnId": "5078810",
@@ -607,6 +721,17 @@
  {
   "id": "2026-10-05-cfb-14",
   "analysis": "Josh Hoover has 15 touchdown passes and no interceptions through five games, about three per game. Indiana is a 7.5-point road favorite and the total is about 51.5 to 52.5, implying around 29 to 30 Indiana points. Nebraska is also 5-0 and ranked second in the Big Ten, so this is a stronger defense than most Indiana has faced. I did not find a prop line; at ~2.1 projected touchdowns the Over would hold only against a 1.5 line, so check that number. Risk is Turbo Richard and the ground game finishing drives.",
+  "bio": {
+   "age": 23,
+   "college": "Transfer from TCU",
+   "exp": "Senior",
+   "height": "6'2\"",
+   "weight": "200 lbs"
+  },
+  "bioSource": {
+   "title": "Josh Hoover - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Josh_Hoover_(American_football)"
+  },
   "confidence": 3,
   "espnId": "4685401",
   "game": "IND @ NEB",
@@ -664,6 +789,16 @@
  {
   "id": "2026-10-05-cfb-15",
   "analysis": "Charlie Becker is Hoover's top target with 27 receptions for 477 yards, about 95 a game, and eight touchdowns. Indiana is a 7.5-point favorite on the road in a total near 52, so there should be enough passing volume. Nebraska is undefeated, so I trimmed the average a bit. No receiving line was found; projected 90. His touchdown-heavy production means yardage can be volatile, with a couple of big plays driving the totals.",
+  "bio": {
+   "college": "Nashville, Tenn. (Father Ryan HS); grew up in Cincinnati",
+   "exp": "Junior",
+   "height": "6'4\"",
+   "weight": "207 lbs"
+  },
+  "bioSource": {
+   "title": "Charlie Becker - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Charlie_Becker_(American_football)"
+  },
   "confidence": 3,
   "espnId": "5146735",
   "game": "IND @ NEB",
@@ -721,6 +856,16 @@
  {
   "id": "2026-10-05-cfb-16",
   "analysis": "Turbo Richard returned from a leg injury to run for 204 yards against Rutgers and is averaging 9.3 yards per carry. Indiana is a 7.5-point favorite, which should keep the ground game involved. Nebraska is 5-0 and a much tougher run defense than Rutgers, so I projected about 90 yards, assuming around 12 to 14 carries at a more normal 6.5 to 7 yards per carry. No line was found. Risk is re-aggravating the leg or a shared workload.",
+  "bio": {
+   "college": "Charlotte, N.C.; transfer from Boston College",
+   "exp": "Junior",
+   "height": "5'8\"",
+   "weight": "207 lbs"
+  },
+  "bioSource": {
+   "title": "Turbo Richard - Inside the Hall",
+   "url": "https://www.insidethehall.com/?p=123916"
+  },
   "confidence": 3,
   "espnId": "5146724",
   "game": "IND @ NEB",
@@ -778,6 +923,16 @@
  {
   "id": "2026-10-05-cfb-18",
   "analysis": "Jamal Roberts has 606 yards on 113 carries, about 121 a game at 5.4 per carry, as the clear lead back. Ahmad Hardy remains out with a leg injury (still not practicing as of late September; estimated return around Oct 17), so Roberts keeps the volume. Missouri is favored, which supports a run-heavy game plan. No line was found; projection of 115 reflects a small discount for a tougher Texas A&M front. The risk is a defense that stuffs the run and shares carries.",
+  "bio": {
+   "college": "St. Louis, Mo. (St. Mary's HS)",
+   "exp": "Redshirt Junior",
+   "height": "6'0\"",
+   "weight": "212 lbs"
+  },
+  "bioSource": {
+   "title": "Jamal Roberts - Missouri Football Roster",
+   "url": "https://mutigers.com/sports/football/roster/jamal-roberts/34431"
+  },
   "confidence": 3,
   "espnId": "4921116",
   "game": "TAMU @ MIZ",
@@ -831,6 +986,17 @@
  {
   "id": "2026-10-05-cfb-19",
   "analysis": "Trinidad Chambliss averages about 305 passing yards and went 25 of 34 for nearly 300 and three total touchdowns against Florida. Ole Miss is off a bye and Kewan Lacy is expected back from a shoulder injury, which could shift some weight to the run. Vanderbilt allowed 295 passing yards to Georgia. No line was found, so I projected 290, a small discount for Lacy's return. The risk is a more balanced attack and a lead that cuts down on attempts. Kickoff is 3:30 p.m. ET on ESPN.",
+  "bio": {
+   "age": 24,
+   "college": "Ferris State (2021-24); Forest Hills Northern HS, Grand Rapids, Mich.",
+   "exp": "Redshirt Senior",
+   "height": "6'1\"",
+   "weight": "205 lbs"
+  },
+  "bioSource": {
+   "title": "Trinidad Chambliss - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Trinidad_Chambliss"
+  },
   "confidence": 3,
   "espnId": "4911529",
   "game": "MISS @ VAN",
@@ -884,6 +1050,16 @@
  {
   "id": "2026-10-05-cfb-20",
   "analysis": "Deuce Alexander leads Ole Miss with 27 catches for 429 yards, about 107 a game, and four touchdowns. Ole Miss is off a bye with its QB averaging roughly 305 yards through the air. Vanderbilt gave up 295 passing yards to Georgia. No line was found, so projection of 95 trims the average since Lacy's return may balance the offense. The risk is that other WRs share the targets in a quiet-passing game.",
+  "bio": {
+   "college": "Douglasville, Ga.; transfer from Wake Forest",
+   "exp": "Junior",
+   "height": "6'0\"",
+   "weight": "180 lbs"
+  },
+  "bioSource": {
+   "title": "Deuce Alexander - ESPN Bio",
+   "url": "https://africa.espn.com/college-football/player/bio/_/id/5152158/deuce-alexander"
+  },
   "confidence": 2,
   "espnId": "5152158",
   "game": "MISS @ VAN",
@@ -933,6 +1109,16 @@
  {
   "id": "2026-10-05-mlb-01",
   "analysis": "Gavin Williams led MLB with 248 strikeouts and had 11 double-digit strikeout starts, so the raw ability is there. He was rusty in his final regular-season outing on Sept 25, allowing four runs in 3.1 innings. Chicago won Game 1 3-0 and its lineup leans contact, with Antonacci posting a 5.6% strikeout rate in September, which trims strikeout upside. No book line showed up on the pages I could open, so the side rests on a projection of about 7 K from his season rate and a 5-6 inning outing with Cleveland needing a win. The main risk is that rust and an early hook if Chicago strings contact together.",
+  "bio": {
+   "age": 27,
+   "hand": "Bats L / Throws R",
+   "height": "6'6\"",
+   "weight": "250 lbs"
+  },
+  "bioSource": {
+   "title": "Gavin Williams - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/4345076"
+  },
   "confidence": 3,
   "espnId": "4345076",
   "game": "CWS @ CLE · ALDS G2",
@@ -986,6 +1172,16 @@
  {
   "id": "2026-10-05-mlb-02",
   "analysis": "Anthony Kay is listed as the White Sox opener, with Sean Burke expected to take the bulk innings after Monday's off-day per MLB.com. Burke has a 1.04 ERA and 21 strikeouts in 17.1 innings against Cleveland this year, which is why Chicago wants him to follow Kay rather than start. Openers in this bullpen-style staff usually go one or two innings, which caps Kay near 3 to 6 outs. I found no posted line, so Less is relative to a likely 3.5 to 4.5 number. Risk is that Kay works a clean 1-2-3 pair of innings and reaches 6 outs, or the line is set at 2.5.",
+  "bio": {
+   "age": 31,
+   "hand": "Bats L / Throws L",
+   "height": "6'0\"",
+   "weight": "225 lbs"
+  },
+  "bioSource": {
+   "title": "Anthony Kay - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/40947"
+  },
   "confidence": 3,
   "espnId": "40947",
   "game": "CWS @ CLE · ALDS G2",
@@ -1035,6 +1231,16 @@
  {
   "id": "2026-10-05-mlb-03",
   "analysis": "Cam Schlittler enters with a 1.95 ERA and a 14-9 record, and he struck out 10 in his last start (Wild Card) while throwing 6.1 scoreless innings. BetMGM has 8+ strikeouts at +130, which prices the 7.5 line as a fairly long shot to clear, and the existing projection of about 8 K sits just above it. Tampa Bay won Game 1 1-0 and the Yankees did not get a hit until the eighth, so the Rays' lineup is the stronger test of contact versus strikeouts. Aaron Judge was left off the Yankees' ALDS roster, which does not change Schlittler's own workload. The main risk is a short outing if the Yankees need bullpen help early or the Rays put the ball in play.",
+  "bio": {
+   "age": 25,
+   "hand": "Bats R / Throws R",
+   "height": "6'6\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Cam Schlittler - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/5134581"
+  },
   "confidence": 3,
   "espnId": "5134581",
   "game": "NYY @ TB · ALDS G2",
@@ -1098,6 +1304,16 @@
  {
   "id": "2026-10-05-mlb-04",
   "analysis": "Freddy Peralta had a 0.96 ERA in September, but his full-season ERA is 4.42 (10-11), so the hot month is doing a lot of the work here. Tampa Bay won Game 1 1-0 and the Yankees went hitless until the eighth, with Judge off the ALDS roster, so the lineup he faces is thin. Cody Bellinger's career numbers against him are strong, which is the main danger. No ER line was found; I project about 1.5 earned runs over roughly five innings, so Less holds if the book sets 2.5 but not if it is posted at 1.5. Treat confidence as modest because of the season-long ERA gap.",
+  "bio": {
+   "age": 30,
+   "hand": "Bats R / Throws R",
+   "height": "6'0\"",
+   "weight": "198 lbs"
+  },
+  "bioSource": {
+   "title": "Freddy Peralta - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/39825"
+  },
   "confidence": 2,
   "espnId": "39825",
   "game": "NYY @ TB · ALDS G2",
@@ -1155,6 +1371,16 @@
  {
   "id": "2026-10-05-mlb-05",
   "actual": "Not on ALDS roster (calf)",
+  "bio": {
+   "age": 34,
+   "hand": "Bats R / Throws R",
+   "height": "6'7\"",
+   "weight": "282 lbs"
+  },
+  "bioSource": {
+   "title": "Aaron Judge - Baseball-Reference Bullpen",
+   "url": "https://www.baseball-reference.com/bullpen/Aaron_Judge"
+  },
   "confidence": 2,
   "espnId": "33192",
   "game": "NYY @ TB · ALDS G2",
@@ -1203,6 +1429,16 @@
  {
   "id": "2026-10-05-mlb-06",
   "analysis": "DraftKings has Peralta at 14.5 outs with the over at +103, per TheLines. The earlier note that he cleared that number in each of his last 7 starts is the core reason for More, backed by a 0.96 ERA in September. Tampa Bay scored just once in Game 1 so a long Peralta outing in a tight game is plausible, while the Yankees are missing Judge. Season ERA is 4.42, which shows how recent the dominance is. The risk is a short hook in a playoff game if he gets into traffic, since the line is only 14.5 outs.",
+  "bio": {
+   "age": 30,
+   "hand": "Bats R / Throws R",
+   "height": "6'0\"",
+   "weight": "198 lbs"
+  },
+  "bioSource": {
+   "title": "Freddy Peralta - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/39825"
+  },
   "confidence": 3,
   "espnId": "39825",
   "game": "NYY @ TB · ALDS G2",
@@ -1266,6 +1502,15 @@
  {
   "id": "2026-10-05-mlb-07",
   "analysis": "Bellinger hit .299 with five homers and an .801 OPS over his last 23 regular-season games and is a career .429 hitter against Peralta, per SI. SI lists his home run prop at +551, and no total bases line was found, so 1.5 is an assumed standard number and not a posted one. With Judge off the ALDS roster, Bellinger is likely to hit in the heart of the order. The Yankees were held hitless through seven innings of Game 1, which is a reminder of the downside. Small career sample against Peralta and a pitcher at 0.96 ERA in September are the main risks.",
+  "bio": {
+   "age": 31,
+   "hand": "Bats L / Throws L",
+   "height": "6'4\""
+  },
+  "bioSource": {
+   "title": "Cody Bellinger - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/33912"
+  },
   "confidence": 2,
   "espnId": "33912",
   "game": "NYY @ TB · ALDS G2",
@@ -1323,6 +1568,16 @@
  {
   "id": "2026-10-05-mlb-08",
   "analysis": "Antonacci hit .359 against right-handers in September with a 5.6% strikeout rate, and he leads off against Gavin Williams. Covers puts his chance of a hit at 63% with its analyst at 65% and the line at 0.5. Chicago was held to a handful of hits in total across the series opener, but its 3-0 win shows the Guardians' pitching can also be beaten by small ball. Williams was rusty in his last start. Risk is that Williams' strikeout stuff beats even a low-strikeout hitter in a four-at-bat sample.",
+  "bio": {
+   "age": 23,
+   "hand": "Bats L / Throws R",
+   "height": "6'0\"",
+   "weight": "193 lbs"
+  },
+  "bioSource": {
+   "title": "Sam Antonacci - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/5207167"
+  },
   "confidence": 3,
   "espnId": "5207167",
   "game": "CWS @ CLE · ALDS G2",
@@ -1382,6 +1637,16 @@
  {
   "id": "2026-10-05-mlb-09",
   "analysis": "Vargas is 6-for-14 against Gavin Williams and had a hit in 12 of 14 games against Cleveland this year, per Covers. Covers lists 58% and its analyst values the over 0.5 hits at 61%. A single-game hit prop is mostly a coin flip with a lean, and Game 1 produced only nine combined hits. Williams' strikeout rate and a possible quick hook of the opener-driven Chicago staff do not change Vargas's plate appearances. Small sample against Williams is the main risk.",
+  "bio": {
+   "age": 26,
+   "hand": "Bats R / Throws R",
+   "height": "6'2\"",
+   "weight": "225 lbs"
+  },
+  "bioSource": {
+   "title": "Miguel Vargas - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/42453"
+  },
   "confidence": 3,
   "espnId": "42453",
   "game": "CWS @ CLE · ALDS G2",
@@ -1441,6 +1706,16 @@
  {
   "id": "2026-10-05-mlb-10",
   "analysis": "Bazzana hit .280 in September with a team-best .415 wOBA and is 4-for-11 against opener Anthony Kay. Covers shows 58% on over 0.5 hits and its analyst likes it to 60%. Kay probably only faces him once, after which Sean Burke (1.04 ERA vs Cleveland this year) takes over, which is the real risk since Burke dominated Cleveland. The cleaner plus is that Kay is a lefty opener. Treat as a lean, not a strong play.",
+  "bio": {
+   "age": 24,
+   "hand": "Bats L / Throws R",
+   "height": "6'0\"",
+   "weight": "199 lbs"
+  },
+  "bioSource": {
+   "title": "Travis Bazzana - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/5007707"
+  },
   "confidence": 2,
   "espnId": "5007707",
   "game": "CWS @ CLE · ALDS G2",
@@ -1496,6 +1771,15 @@
  {
   "id": "2026-10-05-mlb-11",
   "analysis": "Chris Sale has 200 strikeouts in 162.2 innings (about 11 K per nine) with a 2.16 ERA, and he struck out 11 in a five-hit 1-0 shutout of the Dodgers on Aug 27. He worked in relief in the Wild Card round and is on extra rest at home for Game 3. At roughly 18 outs per start his season rate projects to about 6.6 Ks, and the Dodgers' lineup had six hard-hit balls in Game 2, though Ohtani and Freeman are working through nagging injuries. I could not find a posted strikeout line, so More is relative to a probable 6.5 number. Main risk is a quick hook in an elimination-adjacent game.",
+  "bio": {
+   "age": 37,
+   "hand": "Bats L / Throws L",
+   "height": "6'6\""
+  },
+  "bioSource": {
+   "title": "Chris Sale - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/30948"
+  },
   "confidence": 3,
   "espnId": "30948",
   "game": "LAD @ ATL · NLDS G3",
@@ -1559,6 +1843,16 @@
  {
   "id": "2026-10-05-mlb-12",
   "analysis": "Yamamoto finished at 2.53 ERA with a 0.87 WHIP across 185 innings, which scales to about 1.9 earned runs per start. He lost 1-0 to Sale on Aug 27 and took a loss against San Diego on Sept 23, so the offense behind him has not always helped. Atlanta scored eight runs over the first two games, but Game 2 was won by the bullpen against a weaker Dodgers lineup. No line was found; Less is right at a 2.5 number and borderline at 1.5. Dodgers and Braves are both about -104 to +100 on the moneyline with a 6.5 total, which points to a low-scoring game.",
+  "bio": {
+   "age": 28,
+   "hand": "Bats R / Throws R",
+   "height": "5'10\"",
+   "weight": "176 lbs"
+  },
+  "bioSource": {
+   "title": "Yoshinobu Yamamoto - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/4872587"
+  },
   "confidence": 2,
   "espnId": "4872587",
   "game": "LAD @ ATL · NLDS G3",
@@ -1616,6 +1910,16 @@
  {
   "id": "2026-10-05-mlb-13",
   "analysis": "Michael Harris II tripled, doubled for an RBI and scored the go-ahead run in the Game 2 win, and hit .407 over his last 13 regular-season games. No combined hits-runs-RBIs line was found, so 1.5 is the typical number rather than a posted one. He is facing Yamamoto, who allowed one run to Atlanta in 6.1 innings in August and posts an elite 0.87 WHIP. The Braves are a narrow favorite or pick in most models. Risk is a pitcher's duel limiting Atlanta to a few baserunners.",
+  "bio": {
+   "age": 25,
+   "hand": "Bats L / Throws L",
+   "height": "5'11\"",
+   "weight": "195 lbs"
+  },
+  "bioSource": {
+   "title": "Michael Harris II - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/42470"
+  },
   "confidence": 2,
   "espnId": "42470",
   "game": "LAD @ ATL · NLDS G3",
@@ -1669,6 +1973,15 @@
  {
   "id": "2026-10-05-mlb-14",
   "analysis": "Dustin May has a 7.61 ERA over his final eight outings and a 4.70 season ERA, but a 1.23 ERA with 22 K in 22 innings against San Diego across three starts. Milwaukee has rested relievers Gasser, Drohan and Harrison, and the Brewers hold a 2-0 lead, so they can pull May at the first sign of trouble. No outs line was found. I project about 14 outs, so Less depends on a line near 15.5 or higher. The risk is that his strong history against the Padres lets him cruise into the sixth.",
+  "bio": {
+   "age": 29,
+   "hand": "Bats R / Throws R",
+   "height": "6'6\""
+  },
+  "bioSource": {
+   "title": "Dustin May - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/40937"
+  },
   "confidence": 2,
   "espnId": "40937",
   "game": "MIL @ SD · NLDS G3",
@@ -1726,6 +2039,16 @@
  {
   "id": "2026-10-05-mlb-15",
   "analysis": "Chourio has a .958 OPS through two games with a two-run homer in Game 1 and a walk-off single in Game 2. He leads off against Nick Pivetta, whose season ERA is 2.86 but whose strikeouts come at 10.9 per nine, so contact is not guaranteed. No hits line was found; 0.5 is assumed. San Diego is in a win-or-go-home spot at home and the Brewers lead 2-0. A series sweep would still let Milwaukee finish in Game 3.",
+  "bio": {
+   "age": 22,
+   "hand": "Bats R / Throws R",
+   "height": "6'1\"",
+   "weight": "199 lbs"
+  },
+  "bioSource": {
+   "title": "Jackson Chourio - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/4917869"
+  },
   "confidence": 3,
   "espnId": "4917869",
   "game": "MIL @ SD · NLDS G3",
@@ -1783,6 +2106,16 @@
  {
   "id": "2026-10-05-mlb-16",
   "analysis": "Nick Pivetta has 42 strikeouts in 34.2 innings this season (10.9 per nine) with a 2.86 ERA, and is back from injury in September. SportsGrid projects 5.7 strikeouts against a 4.5 line with the over at +116. San Diego faces elimination, so he should be allowed to work deep, but Milwaukee's contact-heavy lineup and a possible short outing, such as 3.1 innings on Sept 30, are the main risks. Milwaukee has also scored late comebacks in both games. Projection is built from his per-nine rate over about 4.5 to 5 innings.",
+  "bio": {
+   "age": 33,
+   "hand": "Bats R / Throws R",
+   "height": "6'5\"",
+   "weight": "220 lbs"
+  },
+  "bioSource": {
+   "title": "Nick Pivetta - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/36071"
+  },
   "confidence": 3,
   "espnId": "36071",
   "game": "MIL @ SD · NLDS G3",
@@ -1842,6 +2175,15 @@
  {
   "id": "2026-10-05-mlb-17",
   "analysis": "BetMGM's analyst backs the over 18.5 outs at +115, noting Sale's extra rest and that this may be his only NLDS start. I lean the other way: Sale logged 162.2 innings over 27 starts, about 18 outs a start, and cleared 19 only eight times all year. He also pitched in relief in the Wild Card round. Atlanta's bullpen was fresh after the off-day and covered four innings in Game 2, so a hook near 90 pitches against a strong Dodgers lineup is likely. Main risk is a shutout-style outing like Aug 27, where he went the distance against LAD.",
+  "bio": {
+   "age": 37,
+   "hand": "Bats L / Throws L",
+   "height": "6'6\""
+  },
+  "bioSource": {
+   "title": "Chris Sale - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/30948"
+  },
   "confidence": 2,
   "espnId": "30948",
   "game": "LAD @ ATL · NLDS G3",
@@ -1901,6 +2243,16 @@
  {
   "id": "2026-10-05-mlb-18",
   "analysis": "SportsGrid's featured prop is Teoscar Hernandez over 0.5 hits with a 1.3-hit projection. Sale is a lefty who allowed five hits in his Aug 27 shutout of the Dodgers, so right-handed bats get more at-bats against him. Los Angeles managed only six hard-hit balls in Game 2, so the offense is not guaranteed. I did not find a posted odds price. Main risk is Sale's strikeout rate of about 11 per nine in a single-game sample.",
+  "bio": {
+   "age": 33,
+   "hand": "Bats R / Throws R",
+   "height": "6'2\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Teoscar Hernandez - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/33377"
+  },
   "confidence": 2,
   "espnId": "33377",
   "game": "LAD @ ATL · NLDS G3",
@@ -1956,6 +2308,16 @@
  {
   "id": "2026-10-05-mlb-19",
   "analysis": "Matt Olson hit 41 home runs this season and anchors Atlanta's lineup, with SportsGrid projecting 0.7 RBIs against a 0.5 line. The Braves scored eight runs in the first two games, and Harris and Baldwin should get on base ahead of him. Yamamoto's 0.87 WHIP limits runners, which is the main risk, along with a low 6.5 total. No price was found. Treat as a modest lean.",
+  "bio": {
+   "age": 32,
+   "hand": "Bats L / Throws R",
+   "height": "6'4\"",
+   "weight": "225 lbs"
+  },
+  "bioSource": {
+   "title": "Matt Olson - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/32767"
+  },
   "confidence": 2,
   "espnId": "32767",
   "game": "LAD @ ATL · NLDS G3",
@@ -2011,6 +2373,16 @@
  {
   "id": "2026-10-05-mlb-20",
   "analysis": "SportsGrid projects Bogaerts for 0.8 runs against a 0.5 line, with the over priced at +170 on FanDuel, which implies roughly a 37% chance. A 0.8 mean run total suggests a higher true probability if he hits near the top of the order. San Diego needs offense at home, and the game total sits at 6.5 to 7. Main risks are Dustin May's 1.23 ERA against the Padres this season and the need for teammates to drive him in.",
+  "bio": {
+   "age": 34,
+   "hand": "Bats R / Throws R",
+   "height": "6'2\"",
+   "weight": "218 lbs"
+  },
+  "bioSource": {
+   "title": "Xander Bogaerts - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/31606"
+  },
   "confidence": 2,
   "espnId": "31606",
   "game": "MIL @ SD · NLDS G3",
@@ -2066,6 +2438,16 @@
  {
   "id": "2026-10-05-mlb-21",
   "analysis": "SportsGrid projects 0.7 runs for Christian Yelich and lists the over 0.5 at +190, an implied probability near 34%. Milwaukee has two comeback wins and Chourio leading off gives Yelich runners to drive in, but Pivetta (2.86 ERA, 10.9 K/9) is tough. The Brewers lead 2-0 and have strong momentum. Main risk is that Pivetta limits traffic. A lean for value, not a lock.",
+  "bio": {
+   "age": 34,
+   "hand": "Bats L / Throws R",
+   "height": "6'4\"",
+   "weight": "220 lbs"
+  },
+  "bioSource": {
+   "title": "Christian Yelich - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/31283"
+  },
   "confidence": 2,
   "espnId": "31283",
   "game": "MIL @ SD · NLDS G3",
@@ -2121,6 +2503,16 @@
  {
   "id": "2026-10-05-mlb-22",
   "analysis": "Aaron Boone said Fried will 'probably' start Game 3 at Yankee Stadium. His season line is a 2.80 ERA and 0.99 WHIP with 8.3 strikeouts per nine over 20 starts. September was up and down: 13 strikeouts against Baltimore, but only 4 over 6.2 innings in his last look at Tampa on Sept. 22. He allowed one run over six innings in the Wild Card round, so he's rested and stretched out. Six innings at about a strikeout per inning gives roughly 5.8. No strikeout line was posted yet, so More only applies if it opens at 5.5 or lower. The main risk is a contact-heavy Rays lineup and an early hook in a tight game.",
+  "bio": {
+   "age": 32,
+   "hand": "Bats L / Throws L",
+   "height": "6'4\"",
+   "weight": "190 lbs"
+  },
+  "bioSource": {
+   "title": "Max Fried - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/32685"
+  },
   "condition": "Fried starts Game 3",
   "confidence": 2,
   "espnId": "32685",
@@ -2170,6 +2562,16 @@
  {
   "id": "2026-10-05-mlb-23",
   "analysis": "Martinez gets Game 3 at Yankee Stadium after a 15-6 season with a 3.10 ERA. He relies on weak contact (108 strikeouts in 177.1 innings), and that approach gets riskier the third time through a lineup like New York's. Tampa has managed its pitching aggressively all series, and postseason managers rarely let a pitch-to-contact starter see a dangerous lineup three times. I project about five innings, or 15.5 outs, against his regular-season average of about 17.7. No outs line was posted yet, so the lean needs a line of 16.5 or higher. The main risk is an efficient, low-pitch outing that lets him finish six.",
+  "bio": {
+   "age": 36,
+   "hand": "Bats L / Throws R",
+   "height": "6'1\"",
+   "weight": "200 lbs"
+  },
+  "bioSource": {
+   "title": "Nick Martinez - ESPN Bio",
+   "url": "https://www.espn.com/mlb/player/bio/_/id/33372"
+  },
   "confidence": 2,
   "game": "TB @ NYY · ALDS G3",
   "gameTime": "Wed 10/7",
@@ -2217,6 +2619,17 @@
  {
   "id": "2026-10-05-nfl-01",
   "analysis": "Robinson ran for 194 yards and two touchdowns last week, and Atlanta's offense is clicking with Michael Penix Jr. back. New Orleans ranks 27th against the run at 128.7 yards a game, and four linebackers (Elliss, Werner, Jennings plus edge Granderson) were listed as non-participants in practice, roughly 62% of the team's linebacker snaps per Covers. Lines I saw sit at 85.5 (Bettors Insider) and 90 (Polymarket). I projected about 96 by blending his big Week 4 with a more modest typical workload and a strong matchup, shaded down for regression after a 194-yard outlier. Main risks are a Saints lead that pulls Atlanta toward the pass and the chance the lines tighten once injury reports finalize. The game is a 2.5-point Saints-favorite, 47.5 total, so script is close to neutral.",
+  "bio": {
+   "age": 24,
+   "college": "Texas",
+   "exp": "4th season (drafted/signed 2023)",
+   "height": "5'11\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Bijan Robinson - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bijan_Robinson"
+  },
   "confidence": 3,
   "espnId": "4430807",
   "game": "ATL @ NO",
@@ -2280,6 +2693,17 @@
  {
   "id": "2026-10-05-nfl-02",
   "analysis": "Lamb caught 17 passes for 189 yards and the game-winning touchdown against Houston, and Dak Prescott threw 45 times in that game. Dallas is a 10-point home favorite against a 0-4 Tampa Bay team, and the Cowboys' offense ranks top five in EPA while their defense is bottom three, so shootout-ish totals (47.5, over 4-for-4 for Dallas) keep volume healthy. Tampa Bay is turning to undrafted rookie Jalon Daniels with Baker Mayfield (thumb) expected out 3-6 weeks. No Lamb line was posted that I could find. My 88-yard projection treats Wk4 as an outlier, expects a fairly normal target share even with George Pickens drawing attention, and trims a little for a possible fourth-quarter lead that cuts passing. Main risk is a blowout where Dallas runs out the clock with Javonte Williams. Monday-evening update: DraftKings opened Dallas -10 with a 47.5 total, and Dallas has gone over in every game. No book prop line had been posted yet.",
+  "bio": {
+   "age": 27,
+   "college": "Oklahoma",
+   "exp": "7th season (drafted/signed 2020)",
+   "height": "6'2\"",
+   "weight": "200 lbs"
+  },
+  "bioSource": {
+   "title": "CeeDee Lamb - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/CeeDee_Lamb"
+  },
   "confidence": 3,
   "espnId": "4241389",
   "game": "TB @ DAL",
@@ -2333,6 +2757,16 @@
  {
   "id": "2026-10-05-nfl-03",
   "analysis": "Kittle posted 80 and 82 receiving yards in his last two games and remains a featured piece of a San Francisco offense scoring about 33 points a game through three weeks. The 49ers are small road underdogs (Seattle -2.5, total 47.5 at Dimers), which tilts toward a pass-heavy script. Seattle's defense has been the league's stingiest in yards allowed through three games, which is the main risk. San Francisco's edge rushers (Bosa, Williams, Thompson) were out in Week 4, so Seattle's pass pressure could be lighter against SF's depleted defense, but SF's own offense is what drives this. The ~64.5 reference line is from his Week 4 market and may move once Week 5 numbers post. I project about 70 yards, a bit above that line, built from his last two games trimmed for Seattle's defense.",
+  "bio": {
+   "age": 32,
+   "college": "Iowa",
+   "height": "6'4\"",
+   "weight": "250 lbs"
+  },
+  "bioSource": {
+   "title": "George Kittle - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/George_Kittle"
+  },
   "confidence": 3,
   "espnId": "3040151",
   "game": "SF @ SEA",
@@ -2386,6 +2820,16 @@
  {
   "id": "2026-10-05-nfl-04",
   "analysis": "Henry ran 23 times for 73 yards and a touchdown against Tennessee, his seventh rushing score in four games. Lamar Jackson left that game after two quarters with an ankle injury and an MRI was scheduled for Monday; no result had been published when I checked, with reports split between day-to-day and week-to-week. The spread moved about three points toward Atlanta at DraftKings (Ravens -3.5 per SI, StatSniper shows 3.5 with a 46.5 total). If Tyler Huntley starts, Baltimore should lean on the ground game, but a lower-scoring or trailing game could trim carries. No carry line was posted that I could find. The pick keeps its condition until Jackson's status is known. Monday-evening update: Jackson's MRI result still wasn't public as of late afternoon; Jesse Minter said he didn't expect it to be long-term but couldn't give Week 5 odds, so the condition stays open until midweek practice reports.",
+  "bio": {
+   "age": 32,
+   "college": "Alabama",
+   "height": "6'3\"",
+   "weight": "252 lbs"
+  },
+  "bioSource": {
+   "title": "Derrick Henry - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Henry"
+  },
   "condition": "Lamar Jackson ruled out",
   "confidence": 3,
   "espnId": "3043078",
@@ -2444,6 +2888,16 @@
  {
   "id": "2026-10-05-nfl-05",
   "analysis": "Gesicki scored a 15-yard touchdown to open the second half against Jacksonville, where Joe Burrow threw 54 times for 428 yards. Both Ja'Marr Chase (entering concussion protocol) and Tee Higgins (groin strain) are listed as questionable for Miami per A to Z Sports, and Cincinnati woke up Sunday with only four healthy receivers (Colbie Young is also out with a knee). The pick only stands if both are out, and that is still unresolved, so it remains conditional. No reception line is posted yet. If the two stars sit I project about 5 catches, driven by a pass-heavy offense and Miami's tight-end-friendly defense, while Miami's defense has otherwise been solid versus wideouts. Risk is simply that one of the two plays, or that Burrow leans on Chase Brown and the slot instead. Monday-evening update: Zac Taylor said Chase will likely be in the concussion protocol for most or all of the week, but Higgins is day-to-day and could play, so the 'both out' condition is still unresolved.",
+  "bio": {
+   "age": 31,
+   "college": "Penn State",
+   "height": "6'6\"",
+   "weight": "245 lbs"
+  },
+  "bioSource": {
+   "title": "Mike Gesicki - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mike_Gesicki"
+  },
   "condition": "Chase and Higgins both out",
   "confidence": 2,
   "espnId": "3116164",
@@ -2502,6 +2956,17 @@
  {
   "id": "2026-10-05-nfl-06",
   "analysis": "Ladd McConkey was ruled out in Week 4 with a foot injury, and Johnston is the beneficiary in the main route tree. He had a 44-yard desperation completion in the Seahawks game, and Herbert threw for only 189 yards that day. Denver lost corners Patrick Surtain II (ankle) and Riley Moss (ribs) in Week 4 per earlier reports. The Broncos are -3.5 road favorites with a low 42.5 total, which limits overall volume. I could not find a posted yardage line or Johnston's season splits, so no numeric projection is given. Main risk is a slow-paced game and McConkey's status changing. Monday-evening update: Johnston's 2026 game log shows 7 catches for 108 yards over four games (27 yards a game) on 19 targets, so I project about 30 yards with a small bump if McConkey sits. That makes More only playable against a low line (under about 28), and confidence drops to 1.",
+  "bio": {
+   "age": 25,
+   "college": "TCU",
+   "exp": "4th season (drafted/signed 2023)",
+   "height": "6'3\"",
+   "weight": "208 lbs"
+  },
+  "bioSource": {
+   "title": "Quentin Johnston - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quentin_Johnston"
+  },
   "confidence": 1,
   "espnId": "4429025",
   "game": "DEN @ LAC",
@@ -2551,6 +3016,17 @@
  {
   "id": "2026-10-05-nfl-07",
   "analysis": "Maye has thrown 33, 22 and 25 passes in the games before this one and New England has leaned on Rhamondre Stevenson and the run game. The Patriots are early 3.5-point home favorites with a total near 44, a script that favors rushing late. Las Vegas has been trading yards with Cousins throwing 52 times in Week 4, so a back-and-forth game could push volume up, which is the main risk. No published line was found for the full board, so the existing 30.5 reference is kept. I project about 29 attempts, slightly under the number, on a game flow that favors New England controlling the clock.",
+  "bio": {
+   "age": 24,
+   "college": "North Carolina",
+   "exp": "3rd season (drafted/signed 2024)",
+   "height": "6'4\"",
+   "weight": "225 lbs"
+  },
+  "bioSource": {
+   "title": "Drake Maye - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Drake_Maye"
+  },
   "confidence": 3,
   "espnId": "4431452",
   "game": "LV @ NE",
@@ -2600,6 +3076,17 @@
  {
   "id": "2026-10-05-nfl-08",
   "analysis": "Ekeler signed mid-week and entered the rotation while Rachaad White was inactive in Week 4, and White's Week 5 availability is still unconfirmed. Jacory Croskey-Merritt struggled, which opens a lead or passing-down role. With Daniels and Mariota both questionable, a backup QB tends to throw short, which helps a pass-catching back. Washington is a small home favorite (-2.5) with a total of 43.5, so the game should stay close. No line was found. The main risk is White returning and splitting snaps, in which case the pick is voided by its condition only if White plays, so watch the injury report. Monday-evening update: Rachaad White (shoulder) is listed questionable after missing Week 4; Ekeler split the work with Croskey-Merritt last week.",
+  "bio": {
+   "age": 31,
+   "college": "Western Colorado",
+   "exp": "10th season (drafted/signed 2017)",
+   "height": "5'10\"",
+   "weight": "200 lbs"
+  },
+  "bioSource": {
+   "title": "Austin Ekeler - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Austin_Ekeler"
+  },
   "condition": "Rachaad White still out",
   "confidence": 2,
   "espnId": "3068267",
@@ -2654,6 +3141,17 @@
  {
   "id": "2026-10-05-nfl-09",
   "analysis": "Jay Glazer reported Washington plans to start Daniels against the Giants after he missed two games with a dislocated left elbow, and Marcus Mariota now has an MCL sprain, so the old backup-QB pick no longer applied. Daniels' passing volume has been light in 2026: 18 of 34 for 164 yards against Philadelphia and 11 of 17 for 96 against Dallas, with much of his production coming as a runner (about 100 rushing yards over those two games). Teams tend to keep the plan simple in a quarterback's first game back from an arm injury. DraftKings has Washington -3 (moneyline -170), so they shouldn't be chasing points. I project about 185 yards, giving a little credit for the softer Giants matchup. No book line was posted yet. The main risk is a soft Giants secondary giving him his best passing day of the season.",
+  "bio": {
+   "age": 25,
+   "college": "LSU",
+   "exp": "3rd season (drafted/signed 2024)",
+   "height": "6'4\"",
+   "weight": "210 lbs"
+  },
+  "bioSource": {
+   "title": "Jayden Daniels - ESPN bio",
+   "url": "https://www.espn.com/nfl/player/bio/_/id/4426348"
+  },
   "condition": "Jayden Daniels starts",
   "confidence": 2,
   "espnId": "4426348",
@@ -2708,6 +3206,17 @@
  {
   "id": "2026-10-05-nfl-10",
   "analysis": "Jefferson missed Week 4 with an ankle injury and his Week 5 status is uncertain, so this pick depends on him sitting again. With him out Minnesota leaned on T.J. Hockenson (13 catches) and Aaron Jones, with Addison not highlighted in the recaps I read. Minnesota is a 1.5-point road favorite with a 45.5 total in the Superdome. No line was found. The main risk is that the targets keep going to Hockenson and Jones rather than Addison.",
+  "bio": {
+   "age": 24,
+   "college": "USC",
+   "exp": "4th season (drafted/signed 2023)",
+   "height": "5'11\"",
+   "weight": "179 lbs"
+  },
+  "bioSource": {
+   "title": "Jordan Addison - ESPN bio",
+   "url": "https://www.espn.com/nfl/player/bio/_/id/4429205"
+  },
   "condition": "Justin Jefferson out again",
   "confidence": 2,
   "espnId": "4429205",
@@ -2762,6 +3271,17 @@
  {
   "id": "2026-10-05-nfl-11",
   "analysis": "London posted 9-194 against Green Bay and has averaged 91.3 yards a game, with Covers noting he topped 100 in six of his last seven with Penix at quarterback. Penix is the listed Atlanta starter on Monday, so the condition is met. New Orleans allows about 211.7 passing yards a game, and its injured linebackers should leave extra room over the middle. FanDuel Research has 78.5 (-113) and Covers shows 79.5, with Covers projecting 86. I used that 86 as my number, consistent with the 91.3 season pace but discounted for Wk4 inflating the average. Main risk is Bijan Robinson dominating touches in a script where Atlanta leads.",
+  "bio": {
+   "age": 25,
+   "college": "USC",
+   "exp": "5th season (drafted/signed 2022)",
+   "height": "6'4\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Drake London - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Drake_London"
+  },
   "confidence": 3,
   "espnId": "4426502",
   "game": "ATL @ NO",
@@ -2825,6 +3345,17 @@
  {
   "id": "2026-10-05-nfl-12",
   "analysis": "Olave leads the NFL at 125 receiving yards a game on 27 catches and 36 targets through three games, including 13 targets last week. Atlanta ranks 29th against the pass (263 yards a game) and is without cornerback A.J. Terrell Jr. FanDuel Research lists 85.5 at -113; I did not find other books. Three games is a small sample, so I regressed the 125 average to roughly 98 rather than using it raw. The line leaves a cushion of about 12 yards over that. Risk is Tyler Shough's passing volume dropping if Alvin Kamara and the run game keep it close, or Atlanta's offense controlling the clock.",
+  "bio": {
+   "age": 26,
+   "college": "Ohio State",
+   "exp": "5th season (drafted/signed 2022)",
+   "height": "6'0\"",
+   "weight": "187 lbs"
+  },
+  "bioSource": {
+   "title": "Chris Olave - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chris_Olave"
+  },
   "confidence": 3,
   "espnId": "4361370",
   "game": "ATL @ NO",
@@ -2884,6 +3415,17 @@
  {
   "id": "2026-10-05-nfl-13",
   "analysis": "Kamara has been held to 15 yards on nine carries in Week 2 and 36 on nine in Week 3 (about 51 on 18 over two games) while Kendre Miller takes some work. Atlanta allows a league-best 47.7 rushing yards a game, which supports the under. The 37.5 line is from Bettors Insider only; Bettors Insider actually flagged this as a bet to avoid, so I'm keeping confidence low. Projection of 25.5 is simply his last two-game average per game, nudged by the elite run D. The risk is game script: if New Orleans trails and checks down to Kamara, receiving work does not count here, but a short touchdown run or one long carry could clear the number easily.",
+  "bio": {
+   "age": 31,
+   "college": "Tennessee",
+   "exp": "10th season (drafted/signed 2017)",
+   "height": "5'10\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Alvin Kamara - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alvin_Kamara"
+  },
   "confidence": 2,
   "espnId": "3054850",
   "game": "ATL @ NO",
@@ -2943,6 +3485,17 @@
  {
   "id": "2026-10-05-nfl-14",
   "analysis": "Shough has 67 rushing yards on 14 carries through three games (22.3 a game, 4.8 per carry). Atlanta shuts down traditional rushing, allowing 47.7 yards a game, so New Orleans' best path is through the air and quarterback scrambles. FanDuel Research has 16.5 at -113; I saw no other books. My 22.3 projection is his season average. Note Covers lists Derek Carr as the likely Saints starter, but FanDuel's piece treats Shough as the starter, so confirm the Monday inactive list before locking. Main risk is a pocket-bound game or a lead for Atlanta that leaves few scramble chances.",
+  "bio": {
+   "age": 27,
+   "college": "Louisville",
+   "exp": "2nd season (drafted/signed 2025)",
+   "height": "6'5\"",
+   "weight": "219 lbs"
+  },
+  "bioSource": {
+   "title": "Tyler Shough - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Shough"
+  },
   "confidence": 2,
   "espnId": "4360689",
   "game": "ATL @ NO",
@@ -3002,6 +3555,17 @@
  {
   "id": "2026-10-05-nfl-15",
   "analysis": "Jalon Daniels, an undrafted rookie, ran eight times for 55 yards in his first start, a 17-14 loss to Green Bay. He was pressured on 41.7% of dropbacks, which tends to turn into scrambles. Baker Mayfield (dislocated thumb) is expected out 3-6 weeks and was doubtful per SI, so Daniels should start again, though the condition is not officially closed. Tampa Bay is a 10-point underdog at Dallas. No rushing line was posted yet. I project about 34 yards, below his debut because a game of 8 designed-and-scramble runs at 6.9 per carry is unlikely to repeat. Main risk is Dallas building a big lead that limits his carries, or a coach sheltering him.",
+  "bio": {
+   "age": 23,
+   "college": "Kansas",
+   "exp": "rookie (undrafted)",
+   "height": "6'1\"",
+   "weight": "219 lbs"
+  },
+  "bioSource": {
+   "title": "Jalon Daniels - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jalon_Daniels"
+  },
   "condition": "Baker Mayfield out",
   "confidence": 3,
   "espnId": "4596472",
@@ -3056,6 +3620,17 @@
  {
   "id": "2026-10-05-nfl-16",
   "analysis": "Daniels threw for 148 yards with one touchdown and two interceptions in his first start, completing 19 of 27 with a 65.0 passer rating. Mayfield averaged 205 yards a start, so the drop-off is real. Dallas's defense has allowed 20+ points in every game and ranks bottom three in EPA per play, and Tampa Bay trailing by 10 points would raise attempts, which complicates the Less case. No passing line has posted yet. I project about 172 yards, a mild improvement on the debut for game-script volume. If the eventual line lands above about 185 the Less side is favorable; below ~165 it flips. Weakness is that Dallas's own defense is poor. Monday-evening update: Daniels is set to start (Mayfield doubtful). In his first start against Green Bay he went 19 of 27 for 148 yards with a TD and two INTs. DraftKings has Dallas -10 with a 47.5 total, so a trailing script could add attempts.",
+  "bio": {
+   "age": 23,
+   "college": "Kansas",
+   "exp": "rookie (undrafted)",
+   "height": "6'1\"",
+   "weight": "219 lbs"
+  },
+  "bioSource": {
+   "title": "Jalon Daniels - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jalon_Daniels"
+  },
   "condition": "Baker Mayfield out",
   "confidence": 2,
   "espnId": "4596472",
@@ -3114,6 +3689,17 @@
  {
   "id": "2026-10-05-nfl-17",
   "analysis": "Williams carried 19 times for 62 yards and scored three rushing touchdowns in Dallas's 34-30 win over Houston, adding five catches. Dallas is a 10-point home favorite over a 0-4 team with a rookie quarterback, which should push the Cowboys into leading, run-heavy fourth quarters. The 62-yard day came on a pace of just 3.3 per carry, so the volume is doing the work. No Williams line was posted that I could find. I projected 66 yards on about 17 carries at 3.9 per carry with leverage for clock-killing. The risk is that Dallas keeps passing as it has (45 attempts from Dak Prescott last week) and that touchdown-heavy scores do not translate to yards.",
+  "bio": {
+   "age": 26,
+   "college": "North Carolina",
+   "exp": "6th season (drafted/signed 2021)",
+   "height": "5'10\"",
+   "weight": "222 lbs"
+  },
+  "bioSource": {
+   "title": "Javonte Williams - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Javonte_Williams"
+  },
   "confidence": 2,
   "espnId": "4361579",
   "game": "TB @ DAL",
@@ -3163,6 +3749,17 @@
  {
   "id": "2026-10-05-nfl-18",
   "analysis": "This game is in London (Tottenham Hotspur Stadium) with a 9:30 a.m. ET kickoff. Hurts threw for only 93 yards on 12 completions in the loss to the Rams, though he did throw two touchdowns to Darius Cooper, and Philadelphia went 0 for 12 on third down. DeVonta Smith was inactive in Week 4 and Saquon Barkley left after two carries with a hamstring injury, so the offense is thin. No passing line is posted yet. I project about 190 yards, above the 93 outlier but below a typical Hurts game because the skill group is depleted and Tank Bigsby (14-55) is carrying the run game. The Less stance depends on the line landing near or above 210; the risk is that a Jacksonville lead forces Hurts to throw more. Monday-evening update: DeVonta Smith was described as questionable at best for London after missing Week 4, which keeps the condition alive.",
+  "bio": {
+   "age": 28,
+   "college": "Oklahoma",
+   "exp": "7th season (drafted/signed 2020)",
+   "height": "6'1\"",
+   "weight": "223 lbs"
+  },
+  "bioSource": {
+   "title": "Jalen Hurts - ESPN bio",
+   "url": "https://www.espn.com/nfl/player/bio/_/id/4040715"
+  },
   "condition": "DeVonta Smith out or limited",
   "confidence": 3,
   "espnId": "4040715",
@@ -3221,6 +3818,17 @@
  {
   "id": "2026-10-05-nfl-19",
   "analysis": "Tuten led Jacksonville with 17 carries for 73 yards against Cincinnati and had two touchdowns erased by penalties, while Chris Rodriguez Jr. added six carries for 35 yards and a 25-yard score. Trevor Lawrence was efficient (18 of 23, 227 yards), so the offense is balanced. The game is in London at 9:30 a.m. ET. No rushing line was posted yet. My 68-yard projection assumes about 15 carries at 4.5 per carry with Rodriguez cutting into goal-line work. The risk is a shared backfield and a possible Eagles lead if Jacksonville's offense stalls; the preseason pick'em sheet had the Eagles about a 1.5-point favorite, but that is stale.",
+  "bio": {
+   "age": 23,
+   "college": "Virginia Tech",
+   "exp": "2nd season (drafted/signed 2025)",
+   "height": "5'9\"",
+   "weight": "209 lbs"
+  },
+  "bioSource": {
+   "title": "Bhayshul Tuten - ESPN bio",
+   "url": "https://www.espn.com/nfl/player/bio/_/id/4882093"
+  },
   "confidence": 2,
   "espnId": "4882093",
   "game": "PHI @ JAX",
@@ -3274,6 +3882,17 @@
  {
   "id": "2026-10-05-nfl-20",
   "analysis": "Malik Willis completed just nine passes for 85 yards in Miami's 15-10 loss to Minnesota, and no Dolphin other than Malik Washington (5-67) had more than one catch. The receiving corps is thin, with rookie Caleb Douglas returning from an ankle injury. Miami will lean on Ollie Gordon II after De'Von Achane's torn ACL, which keeps Willis's attempts low. No line is posted that I found; my 170 projection is above the 85-yard outlier but below a typical starter pace. Cincinnati's offense missing Chase and Higgins could keep the game low-scoring too. Risk is Cincinnati building a lead and forcing Miami to throw.",
+  "bio": {
+   "age": 27,
+   "college": "Liberty",
+   "exp": "5th season (drafted/signed 2022)",
+   "height": "6'1\"",
+   "weight": "225 lbs"
+  },
+  "bioSource": {
+   "title": "Malik Willis - ESPN bio",
+   "url": "https://www.espn.com/nfl/player/bio/_/id/4242512"
+  },
   "confidence": 3,
   "espnId": "4242512",
   "game": "CIN @ MIA",
@@ -3323,6 +3942,17 @@
  {
   "id": "2026-10-05-nfl-21",
   "analysis": "With Achane out for the season (torn ACL), Gordon is the lead back. He ran nine times for 100 yards and a touchdown against Minnesota, but 53 of those yards came on one run and his previous career high was 46. No rushing line was posted yet. I projected about 62 yards on roughly 15 carries at 4.1 per carry, regressing the long run. Cincinnati's receiver injuries could keep Miami's offense on the field less, but the Dolphins' weak passing game points to carries. Main risk is limited carries behind a struggling offense and a possible change in committee.",
+  "bio": {
+   "age": 22,
+   "college": "Oklahoma State",
+   "exp": "2nd season (drafted/signed 2025)",
+   "height": "6'1\"",
+   "weight": "226 lbs"
+  },
+  "bioSource": {
+   "title": "Ollie Gordon II - ESPN bio",
+   "url": "https://www.espn.com/nfl/player/bio/_/id/4711533"
+  },
   "confidence": 2,
   "espnId": "4711533",
   "game": "CIN @ MIA",
@@ -3376,6 +4006,17 @@
  {
   "id": "2026-10-05-nfl-22",
   "analysis": "Odunze caught six of seven targets for 94 yards in the 23-12 win over the Jets with Tyson Bagent throwing 25 of 34 for 268. Caleb Williams has a grade 2 hamstring injury (3-4 week estimate), and Bears coach Ben Johnson has not set a timeline, so the pick is conditional on Bagent starting. The game kicks off at noon Central on Sunday at Lambeau. Green Bay is about a 2.5-point favorite (DraftKings) per Football Nation; no Odunze line yet. I projected 66 yards between his 94-yard game and a normal target share alongside Colston Loveland and Luther Burden III. Risk is Chicago leaning on Monangai and Swift. Monday-evening update: Ben Johnson confirmed Tyson Bagent starts again and Caleb Williams won't practice this week, so the condition is effectively met.",
+  "bio": {
+   "age": 24,
+   "college": "Washington",
+   "exp": "3rd season (drafted/signed 2024)",
+   "height": "6'3\"",
+   "weight": "214 lbs"
+  },
+  "bioSource": {
+   "title": "Rome Odunze - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rome_Odunze"
+  },
   "condition": "Caleb Williams out",
   "confidence": 2,
   "espnId": "4431299",
@@ -3434,6 +4075,17 @@
  {
   "id": "2026-10-05-nfl-23",
   "analysis": "Swift ran 15 times for 58 yards with a fumble in Week 4 while Kyle Monangai handled 30 carries for 146 yards and two scores; Monangai hurt his thumb and his Week 5 status is in doubt per Ben Johnson. If Monangai is out or limited, Swift and Roschon Johnson would see more work. Green Bay allows about 138.7 rushing yards a game and lost linebacker Edgerrin Cooper (Achilles) for the year. No Swift line posted yet. I projected 62 yards assuming about 15 to 18 carries if Monangai sits; if Monangai plays full speed the projection drops sharply. Chicago ran 5.3 per carry as a team through three games, which supports a decent floor. Monday-evening update: Ben Johnson said he expects Monangai (thumb) to be available at Green Bay, so this condition is now unlikely to be met and the pick will probably void.",
+  "bio": {
+   "age": 27,
+   "college": "Georgia",
+   "exp": "7th season (drafted/signed 2020)",
+   "height": "5'8\"",
+   "weight": "204 lbs"
+  },
+  "bioSource": {
+   "title": "D'Andre Swift - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/D%27Andre_Swift"
+  },
   "condition": "Kyle Monangai out or limited",
   "confidence": 1,
   "espnId": "4259545",
@@ -3492,6 +4144,17 @@
  {
   "id": "2026-10-05-nfl-24",
   "analysis": "Kraft caught six passes for 42 yards and a touchdown against Tampa Bay, with Jordan Love completing 22 of 30. Jayden Reed is out for the season and Green Bay's backfield is unclear (Kaleb Johnson led with 8 carries for 42), which leaves Love leaning on short throws to Kraft. Chicago's Week 4 defense is untested here because Williams is out and the Bears have been mostly offense-driven. No reception line posted yet. I project about 5 catches at roughly 7 targets. Risk is a game where Green Bay's offensive-line churn forces checkdowns elsewhere, or Chicago taking away the middle.",
+  "bio": {
+   "age": 25,
+   "college": "South Dakota State",
+   "exp": "4th season (drafted/signed 2023)",
+   "height": "6'5\"",
+   "weight": "259 lbs"
+  },
+  "bioSource": {
+   "title": "Tucker Kraft - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tucker_Kraft"
+  },
   "confidence": 2,
   "espnId": "4572680",
   "game": "CHI @ GB",
@@ -3541,6 +4204,17 @@
  {
   "id": "2026-10-05-nfl-25",
   "analysis": "Geno Smith threw for 119 yards on 15 attempts against Chicago in a game where the Jets managed little offense, after a 321-yard game against Detroit. Breece Hall (quad), Adonai Mitchell and Mason Taylor were all out in Week 4, thinning the pass game, and their Week 5 status is pending. The Jets are 1.5-point home favorites and the total is 40.5, a low-volume projection. Cleveland's pass rush recorded five sacks against Pittsburgh. No line was found. The risk is Smith's 75% completion rate keeping drives alive if the receivers return. Monday-evening update: Geno Smith is confirmed as the Jets' starter, and FanDuel's 40.5 total is one of the lowest of the week.",
+  "bio": {
+   "age": 35,
+   "college": "West Virginia",
+   "exp": "14th season (drafted/signed 2013)",
+   "height": "6'2\"",
+   "weight": "221 lbs"
+  },
+  "bioSource": {
+   "title": "Geno Smith - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Geno_Smith"
+  },
   "confidence": 3,
   "espnId": "15864",
   "game": "CLE @ NYJ",
@@ -3590,6 +4264,17 @@
  {
   "id": "2026-10-05-nfl-26",
   "analysis": "Watson has 855 yards and 6 touchdowns on 115 attempts through three games and threw for 268 yards against Pittsburgh. The Jets' defense was just gashed by Chicago for 492 total yards, but Football Nation rates the New York pass defense as a strength. Cleveland has Quinshon Judkins running (177 yards on 59 carries) and Denzel Boston plus Harold Fannin as targets. Tylan Wallace was out in Week 4. The total is a low 40.5. No line was found. Risk: a run-heavy script keeps his yardage down. Monday-evening update: Watson is confirmed as Cleveland's starter, but FanDuel's 40.5 game total is low for a 245-yard projection.",
+  "bio": {
+   "age": 31,
+   "college": "Clemson",
+   "exp": "10th season (drafted/signed 2017)",
+   "height": "6'3\"",
+   "weight": "223 lbs"
+  },
+  "bioSource": {
+   "title": "Deshaun Watson - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Deshaun_Watson"
+  },
   "confidence": 2,
   "game": "CLE @ NYJ",
   "gameTime": "Sun 10/11",
@@ -3634,6 +4319,17 @@
  {
   "id": "2026-10-05-nfl-27",
   "analysis": "Cam Ward's offense is scoring 12.3 points a game with passing production around 159 to 190 yards. Houston has 11 sacks through three games and is a 6.5-point favorite with a total of 38.5 to 39.5, so Tennessee likely trails. Trailing can add attempts, which is the main risk. Tony Pollard has 173 yards on 38 carries and Tyjae Spears is questionable with an ankle. No line was found. I project about 170 yards.",
+  "bio": {
+   "age": 24,
+   "college": "Miami (FL)",
+   "exp": "2nd season (drafted/signed 2025)",
+   "height": "6'2\"",
+   "weight": "219 lbs"
+  },
+  "bioSource": {
+   "title": "Cam Ward - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cam_Ward_(American_football)"
+  },
   "confidence": 3,
   "espnId": "4688380",
   "game": "HOU @ TEN",
@@ -3679,6 +4375,17 @@
  {
   "id": "2026-10-05-nfl-28",
   "analysis": "Nico Collins returned from a hamstring injury with 7 catches for 117 yards and both of Stroud's touchdowns against Dallas. Football Nation lists him as limited, so the hamstring needs a clean week; the pick's condition covers that. Houston is a 6.5-point favorite, which could limit pass volume in the second half. Montgomery has only 103 yards on 37 carries, so the offense still runs through Collins. No line was found. Risk: another hamstring flare-up or a snap count.",
+  "bio": {
+   "age": 27,
+   "college": "Michigan",
+   "exp": "6th season (drafted/signed 2021)",
+   "height": "6'4\"",
+   "weight": "222 lbs"
+  },
+  "bioSource": {
+   "title": "Nico Collins - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nico_Collins"
+  },
   "condition": "No hamstring setback this week",
   "confidence": 2,
   "espnId": "4258173",
@@ -3729,6 +4436,17 @@
  {
   "id": "2026-10-05-nfl-29",
   "analysis": "Daniel Jones has 611 yards, 3 touchdowns and 3 interceptions through three games and threw for just 143 yards in the win over Washington, which leaned on Jonathan Taylor. Alec Pierce is on injured reserve and Keenan Allen is the other listed WR concern, so the condition tracks that. Pittsburgh is a 1.5 to 2.5-point home favorite with a total around 44.5 and has extra rest. Tyler Warren is the top option. No line was found. Risk: Pittsburgh's six or more sack pressure forcing a pass-heavy script.",
+  "bio": {
+   "age": 29,
+   "college": "Duke",
+   "exp": "8th season (drafted/signed 2019)",
+   "height": "6'5\"",
+   "weight": "230 lbs"
+  },
+  "bioSource": {
+   "title": "Daniel Jones - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Daniel_Jones_(American_football)"
+  },
   "condition": "Pierce and Allen still out",
   "confidence": 3,
   "espnId": "3917792",
@@ -3775,6 +4493,17 @@
  {
   "id": "2026-10-05-nfl-30",
   "analysis": "Tyler Warren has 23 catches on 27 targets through four games and had five against Washington, which is his usual level. He is the Colts' best receiving option with Pierce on IR. Pittsburgh at home is a small favorite with a 44.5 total. Football Nation's season catch figure differs slightly (18 catches), so I am projecting from the Rotowire game note and averaging near 5. No line was found. Risk: a run-heavy script around Taylor.",
+  "bio": {
+   "age": 24,
+   "college": "Penn State",
+   "exp": "2nd season (drafted/signed 2025)",
+   "height": "6'6\"",
+   "weight": "256 lbs"
+  },
+  "bioSource": {
+   "title": "Tyler Warren - ESPN bio",
+   "url": "https://www.espn.com/nfl/player/bio/_/id/4431459"
+  },
   "confidence": 2,
   "espnId": "4431459",
   "game": "IND @ PIT",
@@ -3824,6 +4553,17 @@
  {
   "id": "2026-10-05-nfl-31",
   "analysis": "Metcalf had 5 catches for 115 yards against Cleveland as Aaron Rodgers threw 39 times. Pittsburgh has rest and is a small home favorite with a 44.5 total. Roman Wilson, Pat Freiermuth and Darnell Washington share targets, which caps his ceiling. Indianapolis' secondary has been susceptible to big plays. No line was found. Risk: one big play inflating a single game average.",
+  "bio": {
+   "age": 28,
+   "college": "Ole Miss",
+   "exp": "8th season (drafted/signed 2019)",
+   "height": "6'4\"",
+   "weight": "228 lbs"
+  },
+  "bioSource": {
+   "title": "DK Metcalf - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/DK_Metcalf"
+  },
   "confidence": 2,
   "espnId": "4047650",
   "game": "IND @ PIT",
@@ -3873,6 +4613,17 @@
  {
   "id": "2026-10-05-nfl-32",
   "analysis": "Brock Bowers has 16 catches for 202 yards and 2 touchdowns in two games since his knee procedure, with 11 targets against Kansas City. Las Vegas is a road underdog of about 3.5, and a trailing script favors targets for the tight end. Cousins is throwing heavily (365 yards, 52 attempts last week). No line was found. Risk: New England taking away the middle.",
+  "bio": {
+   "age": 23,
+   "college": "Georgia",
+   "exp": "3rd season (drafted/signed 2024)",
+   "height": "6'3\"",
+   "weight": "235 lbs"
+  },
+  "bioSource": {
+   "title": "Brock Bowers - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brock_Bowers"
+  },
   "confidence": 3,
   "espnId": "4432665",
   "game": "LV @ NE",
@@ -3918,6 +4669,17 @@
  {
   "id": "2026-10-05-nfl-33",
   "analysis": "Ashton Jeanty has 206 rushing yards at 3.3 yards per carry and ran 15 times for 58 yards against Kansas City, adding 6 catches for 68. With the Raiders three-point or more underdogs, rushing volume tends to fall. New England's run defense was not assessed in the sources, so this is a moderate-confidence lean. No line was found. Risk: a breakaway carry or a game that stays close.",
+  "bio": {
+   "age": 22,
+   "college": "Boise State",
+   "exp": "2nd season (drafted/signed 2025)",
+   "height": "5'8\"",
+   "weight": "208 lbs"
+  },
+  "bioSource": {
+   "title": "Ashton Jeanty - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ashton_Jeanty"
+  },
   "confidence": 2,
   "espnId": "4890973",
   "game": "LV @ NE",
@@ -3963,6 +4725,17 @@
  {
   "id": "2026-10-05-nfl-34",
   "analysis": "Cousins has 661 yards and 9 touchdowns and threw 52 times for 365 yards in Week 4. New England's CB Christian Gonzalez was out in Week 4 with a shoulder injury and his Week 5 status is unclear, which is the pick's condition. The Raiders are underdogs, which supports volume. No line was found. Risk: Gonzalez returning, plus New England controlling the ball.",
+  "bio": {
+   "age": 38,
+   "college": "Michigan State",
+   "exp": "15th season (drafted/signed 2012)",
+   "height": "6'3\"",
+   "weight": "209 lbs"
+  },
+  "bioSource": {
+   "title": "Kirk Cousins - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kirk_Cousins"
+  },
   "condition": "Christian Gonzalez out",
   "confidence": 2,
   "espnId": "14880",
@@ -4005,6 +4778,17 @@
  {
   "id": "2026-10-05-nfl-35",
   "analysis": "Aaron Jones has 203 yards on 52 carries through four games and ran 20 times for 94 yards plus 4 catches against Miami. New Orleans is missing LB Kaden Elliss and edge Carl Granderson and Jennings, with Pete Werner questionable. Minnesota is a 1.5-point favorite at 45.5, so the run game should stay involved. Jordan Mason also works in. No line was found. Risk: a timeshare.",
+  "bio": {
+   "age": 31,
+   "college": "UTEP",
+   "exp": "10th season (drafted 2017)",
+   "height": "5'10\"",
+   "weight": "208 lbs"
+  },
+  "bioSource": {
+   "title": "Aaron Jones (running back) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Jones_(running_back)"
+  },
   "confidence": 3,
   "espnId": "3042519",
   "game": "MIN @ NO",
@@ -4054,6 +4838,16 @@
  {
   "id": "2026-10-05-nfl-36",
   "analysis": "With Jefferson out, T.J. Hockenson caught all 13 targets for 119 yards against Miami. The pick's condition is Jefferson out again, and his status is uncertain. New Orleans is thin at linebacker. Minnesota is a road favorite at 45.5. No line was found. Risk: Jefferson playing cuts targets and Kyler Murray's sack rate.",
+  "bio": {
+   "age": 29,
+   "college": "Iowa",
+   "height": "6'5\"",
+   "weight": "248 lbs"
+  },
+  "bioSource": {
+   "title": "T. J. Hockenson - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/T._J._Hockenson"
+  },
   "condition": "Justin Jefferson out",
   "confidence": 3,
   "espnId": "4036133",
@@ -4104,6 +4898,17 @@
  {
   "id": "2026-10-05-nfl-37",
   "analysis": "Malik Nabers had 6 catches for 112 yards and a touchdown against Arizona after 12 catches for 96 yards in the first three games. Washington allowed 362 yards per game through Week 3 and may be missing starters. Giants QB Jameis Winston is the clear starter. Washington is favored by 2.5 with a 43.5 total. Football Nation suggests 4.5 receptions as playable. No yardage line was found. Risk: Winston's inconsistency and Andrew Thomas' groin hurting protection.",
+  "bio": {
+   "age": 23,
+   "college": "LSU",
+   "exp": "3rd season (drafted 2024)",
+   "height": "6'0\"",
+   "weight": "200 lbs"
+  },
+  "bioSource": {
+   "title": "Malik Nabers - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Malik_Nabers"
+  },
   "confidence": 3,
   "espnId": "4595348",
   "game": "NYG @ WSH",
@@ -4153,6 +4958,16 @@
  {
   "id": "2026-10-05-nfl-38",
   "analysis": "Winston threw for 250 yards and 3 touchdowns against Arizona and is the Giants' starter after Jaxson Dart's season-ending injury. Washington's defense has allowed 362 yards a game. Andrew Thomas was limited with a groin injury, which Football Nation says matters for passing over lines near 214.5. Total of 43.5 suggests moderate volume. No line was found. Risk: Skattebo-led run game cutting pass attempts.",
+  "bio": {
+   "age": 32,
+   "college": "Florida State",
+   "height": "6'4\"",
+   "weight": "231 lbs"
+  },
+  "bioSource": {
+   "title": "Jameis Winston - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jameis_Winston"
+  },
   "confidence": 2,
   "espnId": "2969939",
   "game": "NYG @ WSH",
@@ -4202,6 +5017,16 @@
  {
   "id": "2026-10-05-nfl-39",
   "analysis": "Hampton scored a two-yard rushing touchdown against Seattle but his carry share fell to a season-low 28% in Week 4, with Keaton Mitchell out-carrying him. The Chargers' offensive line is badly depleted. Denver is a 3.5-point favorite on a 42.5 total, which suggests a low-scoring game and likely a trailing script for LA. No rushing line was found, so no numeric projection is given. Risk is that touchdown-driven volume or a game script reversal lifts his carries. Monday-evening update: Hampton's first three games went 12-43, 23-94 and 15-56 (64 yards a game, 3.9 per carry) before his carry share dropped in Week 4. With right tackle Rashawn Slater now out with a high ankle sprain and a tough Denver front, I project about 56 yards.",
+  "bio": {
+   "age": 23,
+   "college": "North Carolina",
+   "height": "6'0\"",
+   "weight": "221 lbs"
+  },
+  "bioSource": {
+   "title": "Omarion Hampton - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omarion_Hampton"
+  },
   "confidence": 3,
   "espnId": "4685382",
   "game": "DEN @ LAC",
@@ -4255,6 +5080,17 @@
  {
   "id": "2026-10-05-nfl-40",
   "analysis": "Harris had a 21-yard catch in the Seahawks game and is a candidate for extra targets if McConkey is out, which keeps the condition active. Denver's secondary is weakened by the Surtain and Moss injuries. The 42.5 total is low, though, and Herbert's passing output was 189 yards in Week 4. No line found for Harris. Condition stays until McConkey's status is announced. Monday-evening update: Harris went 3-20, 1-53 and 6-76 over Weeks 1-3 (about 50 yards a game) with his targets rising. McConkey left the Seattle game with the same foot injury and there was no Monday update, so I project about 52 yards, closer to 58 if McConkey is ruled out.",
+  "bio": {
+   "age": 24,
+   "college": "Ole Miss",
+   "exp": "2nd season (drafted 2025)",
+   "height": "6'3\"",
+   "weight": "210 lbs"
+  },
+  "bioSource": {
+   "title": "Tre' Harris (ESPN/search)",
+   "url": "https://www.espn.com/nfl/player/bio/_/id/4686612"
+  },
   "condition": "Ladd McConkey out",
   "confidence": 2,
   "espnId": "4686612",
@@ -4309,6 +5145,17 @@
  {
   "id": "2026-10-05-nfl-41",
   "analysis": "Harvey caught 10 passes for 68 yards and carried 7 times for 25 in Week 4, out-snapping J.K. Dobbins. Bo Nix threw 42 times in that loss, which fed the checkdown role. Denver is a road favorite on a 42.5 total, so a more balanced script could cut his targets from last week's peak. No receptions line was found. A regression from 10 catches is the main risk, so I project about 5.",
+  "bio": {
+   "age": 25,
+   "college": "UCF",
+   "exp": "2nd season (drafted 2025)",
+   "height": "5'8\"",
+   "weight": "205 lbs"
+  },
+  "bioSource": {
+   "title": "RJ Harvey - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/RJ_Harvey"
+  },
   "confidence": 2,
   "espnId": "4568490",
   "game": "DEN @ LAC",
@@ -4358,6 +5205,16 @@
  {
   "id": "2026-10-05-nfl-42",
   "analysis": "Goff threw 32-of-52 for 412 yards against Carolina, a season high in attempts and yards that came in a trailing game script. Arizona allowed 9.3 yards per pass attempt through three games and Detroit's offense averaged 31 points per game then. Detroit is without OL Ben Bartch and Jameson Williams had his first 100-yard game in Week 4. No line was available when checked. A normal script would keep Goff below the 412 outlier, so I project about 280 yards, with the risk being a Lions rushing-heavy game (Gibbs).",
+  "bio": {
+   "age": 31,
+   "college": "California",
+   "height": "6'4\"",
+   "weight": "217 lbs"
+  },
+  "bioSource": {
+   "title": "Jared Goff - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jared_Goff"
+  },
   "confidence": 3,
   "espnId": "3046779",
   "game": "DET @ ARI",
@@ -4403,6 +5260,16 @@
  {
   "id": "2026-10-05-nfl-43",
   "analysis": "Brissett has thrown for 277, 95, 280 and 166 yards through four games, an average of about 204.5 a game on 38 attempts, with his big outputs coming when Arizona had to keep throwing. Detroit's pass defense has allowed 299.3 yards a game and lost CB Rock Ya-Sin to a hamstring injury in Week 4. Detroit's offense should force Arizona into a passing script, which is how his two 275-plus games happened. I project about 235 yards, built from his season average bumped for the matchup and expected volume. No book line was found yet, so the More lean is relative to his average. The main risk is Detroit's pass rush (he threw three interceptions at the Giants) and a run-heavy Arizona plan if the game stays close.",
+  "bio": {
+   "age": 33,
+   "college": "NC State",
+   "height": "6'4\"",
+   "weight": "235 lbs"
+  },
+  "bioSource": {
+   "title": "Jacoby Brissett - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jacoby_Brissett"
+  },
   "confidence": 2,
   "espnId": "2578570",
   "game": "DET @ ARI",
@@ -4452,6 +5319,16 @@
  {
   "id": "2026-10-05-nfl-44",
   "analysis": "Smith-Njigba has 32 catches for 481 yards and six touchdowns on 42 targets, with 122, 155 and 128 yards before a quieter 6-target, 76-yard game against the Chargers. San Francisco was without edge rushers Nick Bosa (calf, multiple weeks), Mykel Williams and James Thompson Jr. in Week 4, which should give Sam Darnold more time. Seattle is a 2.5-point home favorite with a 47.5 total. I project about 98 yards, discounting his 120-yard average for a division opponent that knows him and his lower Week 4 volume. No line was found yet, so the More lean is against his expected range in the mid-80s. Risk is Seattle leaning on the run with a lead and SF bracketing him.",
+  "bio": {
+   "age": 24,
+   "college": "Ohio State",
+   "height": "6'0\"",
+   "weight": "197 lbs"
+  },
+  "bioSource": {
+   "title": "Jaxon Smith-Njigba - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jaxon_Smith-Njigba"
+  },
   "confidence": 3,
   "espnId": "4430878",
   "game": "SF @ SEA",
@@ -4505,6 +5382,17 @@
  {
   "id": "2026-10-05-nfl-45",
   "analysis": "Wilson rushed 21 times for 81 yards and a touchdown and added 3 catches for 39 yards and a score against the Chargers after Zach Charbonnet's injury, with Jadarian Price on IR. Seattle is a 2.5-point home favorite on a 47.5 total. No attempts line was found. I project about 17 carries, trimmed from 21 for a game that could include more passing and the possibility another back gets work.",
+  "bio": {
+   "age": 27,
+   "college": "Fort Valley State",
+   "exp": "4th season (UDFA 2023)",
+   "height": "5'10\"",
+   "weight": "226 lbs"
+  },
+  "bioSource": {
+   "title": "Emanuel Wilson (American football) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Wilson_(American_football)"
+  },
   "confidence": 3,
   "espnId": "4887558",
   "game": "SF @ SEA",
@@ -4554,6 +5442,17 @@
  {
   "id": "2026-10-05-nfl-46",
   "analysis": "London has topped 100 receiving yards in six of his last seven games with Penix per the earlier Covers cite. Baltimore lost CB Marlon Humphrey to a calf injury in Week 4 and Durham Smythe to an Achilles injury. Atlanta is a 3.5-point home underdog on a 46.5 total, so passing volume should be solid. The condition (no new ATL injuries from Monday night's game) cannot be checked until that game ends. No line was found. I project about 85 yards.",
+  "bio": {
+   "age": 25,
+   "college": "USC",
+   "exp": "5th season (drafted 2022)",
+   "height": "6'4\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Drake London - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Drake_London"
+  },
   "condition": "No new ATL injuries from Monday night",
   "confidence": 3,
   "espnId": "4426502",
@@ -4608,6 +5507,17 @@
  {
   "id": "2026-10-05-nfl-47",
   "analysis": "Flowers caught six passes for 119 yards and a touchdown in the first half Sunday, all with Jackson at quarterback. If Jackson is out and Tyler Huntley starts, the passing game likely shrinks while Henry gets more work. The spread shifted toward Atlanta after the injury report and the total is 46.5. No line was found. I project around 55 yards as a Huntley-led outcome. The condition remains until Jackson's status is known. Monday-evening update: Jackson's MRI result still wasn't public; Minter didn't think it would be long-term. Condition stays open.",
+  "bio": {
+   "age": 26,
+   "college": "Boston College",
+   "exp": "4th season (drafted 2023)",
+   "height": "5'9\"",
+   "weight": "183 lbs"
+  },
+  "bioSource": {
+   "title": "Zay Flowers - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Zay_Flowers"
+  },
   "condition": "Lamar Jackson out",
   "confidence": 2,
   "espnId": "4429615",
@@ -4662,6 +5572,16 @@
  {
   "id": "2026-10-05-nfl-48",
   "analysis": "Nacua came back from a hip injury with 9 catches for 125 yards, and the Rams said they will not limit him. LA is a 2.5-point home favorite on a 53.5 total, one of the highest of the week. Buffalo may be without DJ Moore, which would raise the shootout odds. No line was found. I project about 8 catches, below last week's 9 given regression.",
+  "bio": {
+   "age": 25,
+   "college": "BYU",
+   "height": "6'2\"",
+   "weight": "216 lbs"
+  },
+  "bioSource": {
+   "title": "Puka Nacua - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Puka_Nacua"
+  },
   "confidence": 3,
   "espnId": "4426515",
   "game": "BUF @ LAR",
@@ -4715,6 +5635,17 @@
  {
   "id": "2026-10-05-nfl-49",
   "analysis": "Stafford threw 51 passes in the comeback at Philadelphia, but that came from a trailing script. The Rams are 2.5-point home favorites with a 53.5 total, so volume should stay healthy. No line was found. I project around 38 attempts, with the risk being a Rams lead and more run game.",
+  "bio": {
+   "age": 38,
+   "college": "Georgia",
+   "exp": "18th season (drafted 2009)",
+   "height": "6'2\"",
+   "weight": "214 lbs"
+  },
+  "bioSource": {
+   "title": "Matthew Stafford - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Matthew_Stafford"
+  },
   "confidence": 2,
   "espnId": "12483",
   "game": "BUF @ LAR",
@@ -4768,6 +5699,17 @@
  {
   "id": "2026-10-05-nfl-50",
   "analysis": "DJ Moore has an AC joint sprain from Week 2, aggravated in Week 4, and has been unable to finish two of four games; Adam Schefter said it is not considered long term. Coleman went over 100 receiving yards with a fourth-quarter touchdown after Moore left. The Rams are 2.5-point home favorites on a 53.5 total, which is pass-friendly. No line was found. I project about 70 yards if Moore is out or limited; the condition stays until his status is announced. Monday-evening update: DJ Moore aggravated his shoulder; it's not considered long-term, but his Week 5 status is still unclear.",
+  "bio": {
+   "age": 23,
+   "college": "Florida State",
+   "exp": "3rd season (drafted 2024)",
+   "height": "6'3\"",
+   "weight": "213 lbs"
+  },
+  "bioSource": {
+   "title": "Keon Coleman - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Keon_Coleman"
+  },
   "condition": "DJ Moore out or limited",
   "confidence": 2,
   "espnId": "4635008",
@@ -4826,6 +5768,16 @@
  {
   "id": "2026-10-05-nfl-51",
   "analysis": "Prescott went 32 of 45 for 335 yards in the 34-30 win over Houston, where Dallas was chasing a halftime deficit. Thursday's script is the opposite: Dallas is a 10-point home favorite over an 0-4 Buccaneers team starting undrafted rookie Jalon Daniels, so the Cowboys should lead and lean on Javonte Williams late. Dallas's defense is bottom three in EPA per play and the over is 4-0 in their games, which keeps scoring high. No prop line was found. I projected about 268 yards, between his Week 4 volume and a lead-driven drop in attempts. Main risk is Tampa Bay hanging around and Dallas keeping throwing. Monday-evening update: With Dallas a 10-point favorite at DraftKings, a run-heavy second half helps Less, but Dallas is 4-0 to the over, so confidence stays modest.",
+  "bio": {
+   "age": 33,
+   "college": "Mississippi State",
+   "height": "6'2\"",
+   "weight": "230 lbs"
+  },
+  "bioSource": {
+   "title": "Dak Prescott - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dak_Prescott"
+  },
   "confidence": 2,
   "espnId": "2577417",
   "game": "TB @ DAL",
@@ -4871,6 +5823,17 @@
  {
   "id": "2026-10-05-nfl-52",
   "analysis": "Egbuka played 94% of Tampa Bay's offensive snaps in Week 4 yet finished with two catches for 13 yards, per Yardbarker's snap analysis. Tampa Bay's passing game ranked among the weakest in the league with Daniels (148 yards, 1 TD, 2 INT), and Baker Mayfield is expected out 3-6 weeks with a thumb injury. Cade Otton (4 catches, 37 yards) and Mike Godwin (6-31) soaked up more targets. No line was found. I project 45 yards, assuming a rebound toward the role he has as the top wideout but still limited by quarterback play. Risk: Dallas's poor defense could force Tampa to throw a lot in catch-up mode.",
+  "bio": {
+   "age": 23,
+   "college": "Ohio State",
+   "exp": "2nd season (drafted 2025)",
+   "height": "6'1\"",
+   "weight": "205 lbs"
+  },
+  "bioSource": {
+   "title": "Emeka Egbuka - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Emeka_Egbuka"
+  },
   "confidence": 2,
   "espnId": "4567750",
   "game": "TB @ DAL",
@@ -4920,6 +5883,16 @@
  {
   "id": "2026-10-05-nfl-53",
   "analysis": "Lawrence completed 18 of 23 passes for 227 yards, a touchdown and no interceptions in Jacksonville's 22-17 win at Cincinnati. The Jaguars play Philadelphia in London on Sunday at 9:30 a.m. ET, which is a neutral-site game with an early start. Philadelphia was 0-for-12 on third downs in Week 4 and may be without Saquon Barkley (hamstring) and DeVonta Smith, which could shorten Eagles possessions and leave Jacksonville with a lead. No passing line was found. My 235-yard projection extends the 227-yard efficiency to a slightly higher volume; the risk is a run-heavy script with Bhayshul Tuten and Chris Rodriguez Jr.",
+  "bio": {
+   "age": 27,
+   "college": "Clemson",
+   "height": "6'6\"",
+   "weight": "220 lbs"
+  },
+  "bioSource": {
+   "title": "Trevor Lawrence - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Trevor_Lawrence"
+  },
   "confidence": 2,
   "espnId": "4360310",
   "game": "PHI @ JAX",
@@ -4973,6 +5946,16 @@
  {
   "id": "2026-10-05-nfl-54",
   "analysis": "Burrow went 39 of 54 for 428 yards with one touchdown and two interceptions in the 22-17 loss to Jacksonville. Chase is entering concussion protocol and Higgins has a groin strain, and Cincinnati only has about four healthy receivers (Colbie Young is out), so the passing volume may stay high but with a lower-quality target group. Miami's offense is run-centered with Ollie Gordon II after Achane's ACL tear, which should keep the game low in possessions. No line was found. I project 300 yards, discounting the 54-attempt game and the receiver injuries. Main risk is a Chase/Higgins absence leaving Burrow with a limited set of targets, and Miami playing keep-away. Monday-evening update: Chase is likely out (concussion protocol) and Higgins is day-to-day; Cincinnati still threw for 428 yards in Week 4 with a thin receiver room, so the lean stands with a little more risk.",
+  "bio": {
+   "age": 29,
+   "college": "LSU",
+   "height": "6'4\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Joe Burrow - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joe_Burrow"
+  },
   "confidence": 2,
   "espnId": "3915511",
   "game": "CIN @ MIA",
@@ -5030,6 +6013,16 @@
  {
   "id": "2026-10-05-nfl-55",
   "analysis": "Saquon Barkley carried twice for 8 yards before leaving with a hamstring injury, and Tank Bigsby took over with 14 carries for 55 yards. If Barkley sits in London, Bigsby is the lead back for an Eagles offense that also lacked DeVonta Smith. No rushing line was posted. I project 58 yards on roughly 14 carries at a 4.1 clip, matching Week 4's role. The condition (Barkley out) is not yet confirmed, so this pick only applies if Barkley misses the game. Risk is a split with another back or Jalen Hurts scrambles absorbing carries. Monday-evening update: Ian Rapoport reported Barkley's hamstring isn't viewed as overly serious and Sirianni will update Wednesday, so the condition now leans toward not being met (pick would void).",
+  "bio": {
+   "age": 24,
+   "college": "Auburn",
+   "height": "5'11\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Tank Bigsby - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tank_Bigsby"
+  },
   "condition": "Saquon Barkley out",
   "confidence": 2,
   "espnId": "4429013",
@@ -5084,6 +6077,17 @@
  {
   "id": "2026-10-05-nfl-56",
   "analysis": "Love averaged 266.7 passing yards through Week 3 and then threw for 198 on 22 of 30 with two touchdowns and an interception against Tampa Bay. Jayden Reed is out for the season (neck) and Green Bay has been shuffling its offensive line, so protection is a question. Chicago will probably be on Tyson Bagent if Caleb Williams (grade 2 hamstring) is out, which lets Green Bay play from ahead. Green Bay is a 2.5-point favorite. No prop line found. I project 245 yards, the four-game average, which makes the side only meaningful once a line posts.",
+  "bio": {
+   "age": 27,
+   "college": "Utah State",
+   "exp": "7th season (drafted 2020)",
+   "height": "6'4\"",
+   "weight": "219 lbs"
+  },
+  "bioSource": {
+   "title": "Jordan Love - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Love"
+  },
   "confidence": 2,
   "espnId": "4036378",
   "game": "CHI @ GB",
@@ -5133,6 +6137,16 @@
  {
   "id": "2026-10-05-nfl-57",
   "analysis": "Judkins has 177 rushing yards on 59 carries through three games, about 59 a game, with Jaleel McLaughlin behind him. New York allowed 492 total yards to Chicago last week and Breece Hall's absence hurts their offense, so Cleveland may have more time of possession. The total is 40.5, a low-scoring script that favors the run. No line was found. Risk: Jets rank well versus the pass, so Cleveland may not feel pass-forced, and carries can dip if trailing.",
+  "bio": {
+   "age": 22,
+   "college": "Ohio State",
+   "height": "6'0\"",
+   "weight": "221 lbs"
+  },
+  "bioSource": {
+   "title": "Quinshon Judkins - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quinshon_Judkins"
+  },
   "confidence": 2,
   "espnId": "4685702",
   "game": "CLE @ NYJ",
@@ -5170,6 +6184,16 @@
  {
   "id": "2026-10-05-nfl-58",
   "analysis": "Wilson had 10 catches for 107 yards and a touchdown against Detroit and is the clear target leader with Adonai Mitchell and Mason Taylor out in Week 4. Cleveland had five sacks against Pittsburgh but the secondary is untested here. The Jets are small favorites at 40.5, a low total, which is the risk. No line was found.",
+  "bio": {
+   "age": 26,
+   "college": "Ohio State",
+   "height": "6'0\"",
+   "weight": "183 lbs"
+  },
+  "bioSource": {
+   "title": "Garrett Wilson - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Garrett_Wilson"
+  },
   "confidence": 2,
   "espnId": "4569618",
   "game": "CLE @ NYJ",
@@ -5211,6 +6235,16 @@
  {
   "id": "2026-10-05-nfl-59",
   "analysis": "Montgomery has 103 yards and 2 touchdowns on 37 carries (about 34 yards a game) through three games. Houston is a 6.5-point favorite, which would normally help rushing volume late, and Tennessee has a low total near 39; this is a Less lean on his poor efficiency. No line was found. Risk: a positive game script producing 20 carries.",
+  "bio": {
+   "age": 29,
+   "college": "Iowa State",
+   "height": "5'11\"",
+   "weight": "230 lbs"
+  },
+  "bioSource": {
+   "title": "David Montgomery (American football) - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/David_Montgomery_(American_football)"
+  },
   "confidence": 2,
   "espnId": "4035538",
   "game": "HOU @ TEN",
@@ -5248,6 +6282,16 @@
  {
   "id": "2026-10-05-nfl-60",
   "analysis": "Pollard has 173 yards on 38 carries (about 58 a game) and Tyjae Spears is questionable with an ankle, which could raise Pollard's share. Houston is favored by 6.5 with a 38.5 to 39.5 total, so Tennessee may be forced to pass. I project 52 yards. No line was found. Risk: a Spears absence would bump his workload.",
+  "bio": {
+   "age": 29,
+   "college": "Memphis",
+   "height": "6'0\"",
+   "weight": "209 lbs"
+  },
+  "bioSource": {
+   "title": "Tony Pollard - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tony_Pollard"
+  },
   "confidence": 2,
   "espnId": "3916148",
   "game": "HOU @ TEN",
@@ -5289,6 +6333,16 @@
  {
   "id": "2026-10-05-nfl-61",
   "analysis": "Rodgers has 999 yards, 7 touchdowns and 4 interceptions on 153 attempts through four games, about 250 a game, and threw 39 times against Cleveland. Pittsburgh is a small favorite with a 44.5 total and a rest advantage. The Colts' secondary has been prone to big plays. No line was found. Risk: Rodgers has been sacked 13 times and the Colts' run game could shorten the game.",
+  "bio": {
+   "age": 42,
+   "college": "California",
+   "height": "6'2\"",
+   "weight": "223 lbs"
+  },
+  "bioSource": {
+   "title": "Aaron Rodgers - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Rodgers"
+  },
   "confidence": 2,
   "espnId": "8439",
   "game": "IND @ PIT",
@@ -5330,6 +6384,16 @@
  {
   "id": "2026-10-05-nfl-62",
   "analysis": "Taylor has 258 yards and 4 rushing touchdowns on 66 carries (about 3.9 a carry) and scored twice against Washington. With Alec Pierce on IR and a weak passing attack, the Colts lean on him. Pittsburgh has lost Rico Dowdle to a toe injury on offense and is a small favorite, so game script stays neutral. No line was found. Risk: a 3.9 yards-per-carry average and a Steelers pass-rush-first defense.",
+  "bio": {
+   "age": 27,
+   "college": "Wisconsin",
+   "height": "5'10\"",
+   "weight": "226 lbs"
+  },
+  "bioSource": {
+   "title": "Jonathan Taylor - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Taylor"
+  },
   "confidence": 3,
   "espnId": "4242335",
   "game": "IND @ PIT",
@@ -5375,6 +6439,16 @@
  {
   "id": "2026-10-05-nfl-63",
   "analysis": "Stevenson has 116 rushing yards on 31 carries (about 3.7 a carry) and New England has leaned on the run with Maye throwing only 22 to 33 times. New England is a 3.5-point favorite, which supports a run-heavy script. No line was found. Risk: a small sample and Maye's mobility vs a back-and-forth game.",
+  "bio": {
+   "age": 28,
+   "college": "Oklahoma",
+   "height": "6'0\"",
+   "weight": "227 lbs"
+  },
+  "bioSource": {
+   "title": "Rhamondre Stevenson - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rhamondre_Stevenson"
+  },
   "confidence": 2,
   "espnId": "4569173",
   "game": "LV @ NE",
@@ -5416,6 +6490,16 @@
  {
   "id": "2026-10-05-nfl-64",
   "analysis": "Olave has 27 catches for 375 yards (125 yards a game) in three games, with Tyler Shough at QB (917 yards). Minnesota's defense is elite by points allowed (13.7 per game) and sacks, so this projection is below his average at 72 yards. The Saints are home underdogs at 45.5. No line was found. Risk: Minnesota's pass rush limiting Shough.",
+  "bio": {
+   "age": 26,
+   "college": "Ohio State",
+   "height": "6'0\"",
+   "weight": "187 lbs"
+  },
+  "bioSource": {
+   "title": "Chris Olave - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chris_Olave"
+  },
   "confidence": 2,
   "espnId": "4361370",
   "game": "MIN @ NO",
@@ -5457,6 +6541,17 @@
  {
   "id": "2026-10-05-nfl-65",
   "analysis": "Skattebo has 50 carries at 3.5 yards a carry through four games. Tyrone Tracy was a full participant in Week 4 and shares work. Washington is a 2.5-point favorite with a 43.5 total. Football Nation suggests 16.5 attempts or fewer as playable, so carries are uncertain. No line was found. Risk: a split with Tracy.",
+  "bio": {
+   "age": 24,
+   "college": "Arizona State",
+   "exp": "2nd season (drafted 2025)",
+   "height": "5'11\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Cam Skattebo - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cam_Skattebo"
+  },
   "confidence": 2,
   "espnId": "4696981",
   "game": "NYG @ WSH",
@@ -5494,6 +6589,16 @@
  {
   "id": "2026-10-05-nfl-66",
   "analysis": "Gibbs had 65 carries for 307 yards and four rushing touchdowns through three games, the clearest part of a Detroit offense averaging 31 points per game. Detroit lost 32-26 at Carolina in Week 4 when Goff threw 52 passes, so I do not have his Week 4 rushing line. Arizona allowed 9.3 yards per pass attempt, which could keep Detroit throwing. No line was posted when I looked, so the side is provisional and should be re-checked against Dabble's number. I project about 85 yards. Main risk is the pass-heavy script seen in Week 4.",
+  "bio": {
+   "age": 24,
+   "college": "Alabama",
+   "height": "5'9\"",
+   "weight": "202 lbs"
+  },
+  "bioSource": {
+   "title": "Jahmyr Gibbs - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jahmyr_Gibbs"
+  },
   "confidence": 2,
   "espnId": "4429795",
   "game": "DET @ ARI",
@@ -5543,6 +6648,17 @@
  {
   "id": "2026-10-05-nfl-67",
   "analysis": "Nix threw 42 passes in Denver's Week 4 loss, feeding RJ Harvey's 10 catches. This week Denver is a 3.5-point favorite against a Chargers team missing Ladd McConkey, with a game total of just 42.5 at Dimers. A favorite in a low-total game usually throws fewer passes, so I project about 36 attempts. No attempts line was found, so the side is provisional. Risk is that Denver falls behind again and has to throw.",
+  "bio": {
+   "age": 26,
+   "college": "Oregon",
+   "exp": "3rd season (drafted 2024)",
+   "height": "6'2\"",
+   "weight": "217 lbs"
+  },
+  "bioSource": {
+   "title": "Bo Nix - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bo_Nix"
+  },
   "confidence": 2,
   "espnId": "4426338",
   "game": "DEN @ LAC",
@@ -5592,6 +6708,17 @@
  {
   "id": "2026-10-05-nhl-01",
   "analysis": "Draisaitl has 15 shots in 3 games, with 3 goals and 2 assists, and is a shot-first option on the Oilers' top power-play unit. Edmonton visits Anaheim in the late 10 PM ET game on Wednesday. Ducks allowed about 30.5 shots a game in the early sample, which is a decent but not extreme matchup. I regressed the 5.0 per game start toward a lower full-season rate to land at 4.6. The main risk is a blowout that cuts his ice time or a game where McDavid does the shooting instead. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 30,
+   "college": "Germany",
+   "hand": "Shoots L",
+   "height": "6'3\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Leon Draisaitl (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Leon_Draisaitl"
+  },
   "confidence": 3,
   "espnId": "3114727",
   "game": "EDM @ ANA",
@@ -5645,6 +6772,18 @@
  {
   "id": "2026-10-05-nhl-02",
   "analysis": "McDavid has 9 points (2 goals, 7 assists) in 3 games and plays big minutes. Edmonton is scoring more than 5 goals a game early and faces Anaheim in the late game on Wednesday. A 0.5 points line would be cleared by almost any normal McDavid game, and my projection is well above it. I regressed his hot start toward his usual pace. The main risk is a low-event game or empty-net-only scoring. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 29,
+   "college": "Canada",
+   "exp": "NHL debut 2015-16",
+   "hand": "Shoots L",
+   "height": "6'1\"",
+   "weight": "193 lbs"
+  },
+  "bioSource": {
+   "title": "Connor McDavid (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Connor_McDavid"
+  },
   "confidence": 3,
   "espnId": "3895074",
   "game": "EDM @ ANA",
@@ -5698,6 +6837,18 @@
  {
   "id": "2026-10-05-nhl-03",
   "analysis": "MacKinnon has 12 shots in 2 games plus 2 goals and 3 assists, so he is firing at a high rate. Colorado plays at Winnipeg on Wednesday at 7:30 PM ET. Winnipeg was allowing 32.5 shots a game in the small early sample. Only two games are in the sample so I pulled the 6.0 average down to 5.0. The main risk is a tight defensive game and a short sample; no line was posted that I could find. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 31,
+   "college": "Canada",
+   "exp": "NHL debut 2013-14 (Oct 2, 2013)",
+   "hand": "Shoots R",
+   "height": "6'0\"",
+   "weight": "200 lbs"
+  },
+  "bioSource": {
+   "title": "Nathan MacKinnon (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Nathan_MacKinnon"
+  },
   "confidence": 3,
   "espnId": "3041969",
   "game": "COL @ WPG",
@@ -5743,6 +6894,18 @@
  {
   "id": "2026-10-05-nhl-04",
   "analysis": "Matthews has 10 shots in 3 games but only 1 goal, so the volume is there while the finishing is not. Toronto hosts Nashville at 7:00 PM ET Tuesday. Nashville was allowing about 30 shots a game early. I projected 3.5 shots, a little above his early pace because he is a high-volume shooter. Confidence is modest because the shot rate is only around three a game and a 3.5 or 4.5 line could sit just above it. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 29,
+   "college": "USA",
+   "exp": "NHL debut 2016-17",
+   "hand": "Shoots L",
+   "height": "6'3\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Auston Matthews (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Auston_Matthews"
+  },
   "confidence": 2,
   "espnId": "4024123",
   "game": "NSH @ TOR",
@@ -5788,6 +6951,18 @@
  {
   "id": "2026-10-05-nhl-05",
   "analysis": "Pastrnak has 13 shots in 3 games without a goal, a high-volume start. Boston hosts Ottawa at 7:30 PM ET tonight. Ottawa defenseman Jake Sanderson left the opener with an undisclosed injury, and Charlie McAvoy was out of Boston's lineup per FanDuel Research, which could shift minutes on both blue lines. I kept the 4.3 projection based on his early pace; no line was found in the pages I could open. Main risk is a small sample inflating the average and a checking game from Ottawa.",
+  "bio": {
+   "age": 30,
+   "college": "Czech Republic",
+   "exp": "NHL debut 2014-15",
+   "hand": "Shoots R",
+   "height": "6'0\"",
+   "weight": "194 lbs"
+  },
+  "bioSource": {
+   "title": "David Pastrnak (ESPN)",
+   "url": "https://www.espn.com/nhl/player?id=3114778"
+  },
   "confidence": 3,
   "espnId": "3114778",
   "game": "OTT @ BOS",
@@ -5837,6 +7012,18 @@
  {
   "id": "2026-10-05-nhl-06",
   "analysis": "Hagel has 9 shots in 2 games and plays nearly 23 minutes a night for Tampa. Philadelphia was allowing a league-worst 40.7 shots a game early, and the Flyers visit Tampa tonight at 7:00 PM ET. Dimers also lists him around +170 to score, which shows the matchup is rated well. I kept the 4.5 projection, a blend of his pace and the leaky opponent. No shots line was found. Main risk is a small two-game sample and Tampa leading big and shooting less.",
+  "bio": {
+   "age": 28,
+   "college": "Canada",
+   "exp": "NHL debut March 2020",
+   "hand": "Shoots L",
+   "height": "6'2\"",
+   "weight": "179 lbs"
+  },
+  "bioSource": {
+   "title": "Brandon Hagel (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Hagel"
+  },
   "confidence": 4,
   "espnId": "4065019",
   "game": "PHI @ TBL",
@@ -5882,6 +7069,18 @@
  {
   "id": "2026-10-05-nhl-07",
   "analysis": "Kucherov has 2 points (1 goal, 1 assist) in 2 games and plays about 23 minutes a night. Philadelphia was giving up about 4.3 goals a game early, and Tampa hosts at 7:00 PM ET tonight. Dimers has his anytime goal at +150, about 43 percent. A 0.5 points line is the reference; one point is a coin-flip-plus for a 130-point scorer last season. Main risk is a low-scoring night or goals without his involvement.",
+  "bio": {
+   "age": 33,
+   "college": "Russia",
+   "exp": "NHL debut 2013-14",
+   "hand": "Shoots L",
+   "height": "5'11\"",
+   "weight": "180 lbs"
+  },
+  "bioSource": {
+   "title": "Nikita Kucherov (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Nikita_Kucherov"
+  },
   "confidence": 3,
   "espnId": "2563060",
   "game": "PHI @ TBL",
@@ -5927,6 +7126,18 @@
  {
   "id": "2026-10-05-nhl-08",
   "analysis": "Rantanen had assists in 21 of 31 home games last season and 19 career assists in 25 games against San Jose. Dallas hosts the Sharks tonight at 8:00 PM ET on Prime Video. Covers lists Novig at 53 percent for a 1+ assist. San Jose was allowing about 3.5 goals a game early, though Macklin Celebrini has five points in two games for the Sharks so the game could be high scoring. The projection is the Novig probability rather than a per-game average. Main risk is a one-assist prop swinging on a single play.",
+  "bio": {
+   "age": 29,
+   "college": "Finland",
+   "exp": "NHL debut 2015-16 (Oct 8, 2015)",
+   "hand": "Shoots L",
+   "height": "6'4\"",
+   "weight": "228 lbs"
+  },
+  "bioSource": {
+   "title": "Mikko Rantanen (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Mikko_Rantanen"
+  },
   "confidence": 3,
   "espnId": "3899938",
   "game": "SJS @ DAL",
@@ -5968,6 +7179,18 @@
  {
   "id": "2026-10-05-nhl-09",
   "analysis": "Dorofeyev leads the Rangers with 15 shots in 4 games despite only about 16 minutes a night. The Rangers host the Islanders at 7:30 PM ET Tuesday. The Islanders were allowing about 31.5 shots a game early. I trimmed the 3.75 average to 3.5 because his ice time is limited and the sample is small. Main risk is a quiet game on a depth role and no posted line to compare. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 25,
+   "college": "Russia",
+   "exp": "NHL debut 2021-22",
+   "hand": "Shoots L",
+   "height": "6'1\"",
+   "weight": "194 lbs"
+  },
+  "bioSource": {
+   "title": "Pavel Dorofeyev (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Pavel_Dorofeyev"
+  },
   "confidence": 3,
   "espnId": "4587588",
   "game": "NYI @ NYR",
@@ -6009,6 +7232,18 @@
  {
   "id": "2026-10-05-nhl-10",
   "analysis": "Celebrini has 0 goals and 5 assists in 2 games with 9 shots, and was a 115-point player last season. San Jose hosts Edmonton at 4:00 PM ET Saturday. Edmonton was scoring heavily early, which should push the pace and give Celebrini chances. I regressed the early 2.5 per game toward a normal elite-scorer rate to get 1.2. The main risk is the long gap to Saturday where injuries could change his status. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 20,
+   "college": "Canada",
+   "exp": "NHL debut 2024-25",
+   "hand": "Shoots L",
+   "height": "6'0\"",
+   "weight": "190 lbs"
+  },
+  "bioSource": {
+   "title": "Macklin Celebrini (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Macklin_Celebrini"
+  },
   "confidence": 2,
   "espnId": "5206628",
   "game": "EDM @ SJS",
@@ -6054,6 +7289,18 @@
  {
   "id": "2026-10-05-nhl-11",
   "analysis": "Celebrini has 9 shots in 2 games, and FanDuel Research cites 287 shots last season, which is a steady-volume shooter. He faces Edmonton at home at 4:00 PM ET Saturday. I projected 3.8, between his early 4.5 and a full-season rate near 3.5. The main risk is that he passes more than shoots as he did with five assists and zero goals. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 20,
+   "college": "Canada",
+   "exp": "NHL debut 2024-25",
+   "hand": "Shoots L",
+   "height": "6'0\"",
+   "weight": "190 lbs"
+  },
+  "bioSource": {
+   "title": "Macklin Celebrini (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Macklin_Celebrini"
+  },
   "confidence": 2,
   "espnId": "5206628",
   "game": "EDM @ SJS",
@@ -6099,6 +7346,18 @@
  {
   "id": "2026-10-05-nhl-12",
   "analysis": "MacKinnon has 2 goals and 3 assists in 2 games, plus 12 shots, and Colorado's top line is producing. Toronto visits Colorado at 7:00 PM ET Saturday. I regressed the hot start to 1.3, a typical rate for an elite scorer. The main risk is the far-off date and a back-to-back or rest situation, plus a point line that will likely be priced high. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 31,
+   "college": "Canada",
+   "exp": "NHL debut 2013-14 (Oct 2, 2013)",
+   "hand": "Shoots R",
+   "height": "6'0\"",
+   "weight": "200 lbs"
+  },
+  "bioSource": {
+   "title": "Nathan MacKinnon (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Nathan_MacKinnon"
+  },
   "confidence": 3,
   "espnId": "3041969",
   "game": "TOR @ COL",
@@ -6140,6 +7399,18 @@
  {
   "id": "2026-10-05-nhl-13",
   "analysis": "McDavid has 2 goals and 7 assists in 3 games and is playing the playmaker role on a high-scoring Oilers team. Edmonton plays at San Jose at 4:00 PM ET Saturday after the Anaheim game Wednesday. I regressed 2.3 per game down toward a normal rate to get 1.2. The main risk is an early afternoon game and a lopsided score. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 29,
+   "college": "Canada",
+   "exp": "NHL debut 2015-16",
+   "hand": "Shoots L",
+   "height": "6'1\"",
+   "weight": "193 lbs"
+  },
+  "bioSource": {
+   "title": "Connor McDavid (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Connor_McDavid"
+  },
   "confidence": 2,
   "espnId": "3895074",
   "game": "EDM @ SJS",
@@ -6185,6 +7456,18 @@
  {
   "id": "2026-10-05-nhl-14",
   "analysis": "Kaprizov has 3 goals and no assists in 2 games with 6 shots. Minnesota and Buffalo meet at 7:00 PM ET Tuesday; Daily Faceoff lists Minnesota first, which I read as the road team but I did not verify that. I projected 1.0 as a regression of his early pace. The main risk is that his production is all goals with a modest 3.0 shots per game, so points could stall. No book has posted a line that I could find, so the line is left open.",
+  "bio": {
+   "age": 29,
+   "college": "Russia",
+   "exp": "NHL debut 2020-21",
+   "hand": "Shoots L",
+   "height": "5'10\"",
+   "weight": "202 lbs"
+  },
+  "bioSource": {
+   "title": "Kirill Kaprizov (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Kirill_Kaprizov"
+  },
   "confidence": 2,
   "espnId": "3942335",
   "game": "MIN @ BUF",
@@ -6230,6 +7513,18 @@
  {
   "id": "2026-10-05-nhl-15",
   "analysis": "Kucherov finished 2025-26 with 44 goals and 86 assists and has carried that into this season with a point in each of his latest two games. He runs Tampa's top power play and is the most reliable per-game points producer on Thursday's slate. Minnesota plays a structured defensive game, so I trim his 1.71 rate to about 1.6. No line was posted yet. Against a 0.5 line the edge is wide; at 1.5 it needs a multi-point night. The main risk is a low-event game against a strong defensive team.",
+  "bio": {
+   "age": 33,
+   "college": "Russia",
+   "exp": "NHL debut 2013-14",
+   "hand": "Shoots L",
+   "height": "5'11\"",
+   "weight": "180 lbs"
+  },
+  "bioSource": {
+   "title": "Nikita Kucherov (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Nikita_Kucherov"
+  },
   "confidence": 2,
   "game": "MIN @ TBL",
   "gameTime": "Thu 10/8",
@@ -6274,6 +7569,18 @@
  {
   "id": "2026-10-05-nhl-16",
   "analysis": "Matthews is still Toronto's volume shooter: 227 shots in 60 games last season and six in his game against Ottawa. His last three games went 3, 1 and 6 shots, so the swings are real. I project about 3.8 shots, a slight edge if the line is 3.5. No line was posted yet. This is his second shots pick of the week (Tuesday vs Nashville), so the two are correlated. The main risks are a tight-checking game in Vegas and how his workload is managed after a 60-game season.",
+  "bio": {
+   "age": 29,
+   "college": "USA",
+   "exp": "NHL debut 2016-17",
+   "hand": "Shoots L",
+   "height": "6'3\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Auston Matthews (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Auston_Matthews"
+  },
   "confidence": 2,
   "game": "TOR @ VGK",
   "gameTime": "Thu 10/8",
@@ -6318,6 +7625,18 @@
  {
   "id": "2026-10-05-nhl-17",
   "analysis": "Eichel finished last season with 27 goals and 63 assists and remains Vegas' main playmaker at even strength and on the power play. He comes in hot with five assists across his last three games. At home against a Toronto team that trades chances, there should be plenty of setups. A 0.85-per-game assist rate works out to roughly a 56% chance of at least one. No line was posted yet; this lean assumes 0.5. The main risk is a quiet power-play night, or Eichel finishing chances himself instead of setting them up.",
+  "bio": {
+   "age": 29,
+   "college": "USA",
+   "exp": "NHL debut 2015-16 (Oct 8, 2015)",
+   "hand": "Shoots R",
+   "height": "6'2\"",
+   "weight": "208 lbs"
+  },
+  "bioSource": {
+   "title": "Jack Eichel (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Jack_Eichel"
+  },
   "confidence": 3,
   "game": "TOR @ VGK",
   "gameTime": "Thu 10/8",
@@ -6362,6 +7681,18 @@
  {
   "id": "2026-10-05-nhl-18",
   "analysis": "Bedard took a big step in 2025-26 with 30 goals, 45 assists and 226 shots in 69 games. He centers Chicago's top line and power-play unit, so most of the team's offense runs through him. The Islanders are a disciplined defensive team that will focus on him, so I project about 1.0 point, still above a 0.5 line. No line was posted yet. The main risks are a low-scoring road game and Chicago's thin supporting cast limiting his assists.",
+  "bio": {
+   "age": 21,
+   "college": "Canada",
+   "exp": "NHL debut 2023-24 (Oct 2023)",
+   "hand": "Shoots R",
+   "height": "5'10\"",
+   "weight": "190 lbs"
+  },
+  "bioSource": {
+   "title": "Connor Bedard (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Connor_Bedard"
+  },
   "confidence": 2,
   "game": "CHI @ NYI",
   "gameTime": "Thu 10/8",
@@ -6406,6 +7737,18 @@
  {
   "id": "2026-10-05-nhl-19",
   "analysis": "Makar quarterbacks Colorado's top power play and finished last season with 20 goals and 59 assists. He has a goal and two assists in his last two games. Calgary is one of the weaker teams on the slate, but Colorado plays at Winnipeg on Wednesday, so this is the second night of a back-to-back. I trim his rate to about 0.95. No line was posted yet; the lean assumes 0.5. The main risks are fatigue and goals that come from the forwards without Makar touching the puck.",
+  "bio": {
+   "age": 27,
+   "college": "Canada",
+   "exp": "NHL debut 2019 playoffs",
+   "hand": "Shoots R",
+   "height": "6'0\"",
+   "weight": "187 lbs"
+  },
+  "bioSource": {
+   "title": "Cale Makar (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Cale_Makar"
+  },
   "confidence": 2,
   "game": "COL @ CGY",
   "gameTime": "Thu 10/8",
@@ -6450,6 +7793,17 @@
  {
   "id": "2026-10-05-wnba-01",
   "analysis": "Stewart scored 19 in Game 1 with 2 rebounds, 3 assists, 3 blocks and 3 steals, short of the 22.5 posted line. Her first-round sweep games included 34 and 21. Atlanta's last five games show a 90.5 defensive rating and 74 points allowed per game, and the Dream controlled the second half 32-15 in the third quarter. New York is without Satou Sabally and Xu Han was questionable, so she should carry a heavy shot load, which keeps the ceiling high. The Game 2 line was not yet posted when I checked; the Game 1 number was 22.5 across SI and Bleacher Nation. My projection is about 21.5, slightly under that line, because of Atlanta's defense and her recent mix of big and ordinary scoring games. The main risk is a big-usage bounce-back night when New York is desperate.",
+  "bio": {
+   "age": 32,
+   "college": "UConn",
+   "exp": "WNBA draft 2016 (No. 1)",
+   "height": "6'4\"",
+   "weight": "170 lbs"
+  },
+  "bioSource": {
+   "title": "Breanna Stewart (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Breanna_Stewart"
+  },
   "confidence": 2,
   "espnId": "2998928",
   "game": "NY @ ATL · Semis G2",
@@ -6513,6 +7867,17 @@
  {
   "id": "2026-10-05-wnba-02",
   "analysis": "Canada scored 25 points in Game 1, 20 of them in the second half, adding 4 assists and 5 steals. She has now reached double figures in five straight games. Allisha Gray played only 11 minutes (7 points) before leaving with a left hand injury and neither the AJC nor FOX 5 report gave a severity or status for Game 2. If Gray is out or limited, Canada's minutes and shots should hold or rise. The Game 1 line was 11.5 and the Game 2 number was not yet posted. I project about 15 given the recent form, with some regression from the 13-of-20 shooting game. The main risk is that the 25 was inflated and Atlanta spreads scoring with Bonner, Reese and Howard. Monday-evening update: Gray hurt two fingers on her shooting hand and her Game 2 status is still uncertain, so the condition is open.",
+  "bio": {
+   "age": 31,
+   "college": "UCLA",
+   "exp": "WNBA draft 2018 (No. 5)",
+   "height": "5'6\"",
+   "weight": "135 lbs"
+  },
+  "bioSource": {
+   "title": "Jordin Canada (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Jordin_Canada"
+  },
   "condition": "Allisha Gray out or limited",
   "confidence": 3,
   "espnId": "3142250",
@@ -6577,6 +7942,17 @@
  {
   "id": "2026-10-05-wnba-03",
   "analysis": "Reese had 7 rebounds with 17 points, 3 blocks and 4 steals in Game 1, well short of a 12.5 board line. New York's frontcourt with Jonquel Jones (11 rebounds, 5 blocks) contested the glass, and Brionna Jones remaining out for Atlanta means Reese plays heavy minutes, which limits the downside. Game 2 line was not posted when I checked; Game 1 was 12.5. A projection near 9 reflects the Game 1 result and a likely line that stays high. The risk is that her real rebound ceiling is far above the line given her season rate and increased minutes.",
+  "bio": {
+   "age": 24,
+   "college": "LSU (also Maryland)",
+   "exp": "WNBA draft 2024 (No. 7)",
+   "height": "6'4\"",
+   "weight": "165 lbs"
+  },
+  "bioSource": {
+   "title": "Angel Reese (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Angel_Reese"
+  },
   "confidence": 2,
   "espnId": "4433402",
   "game": "NY @ ATL · Semis G2",
@@ -6640,6 +8016,17 @@
  {
   "id": "2026-10-05-wnba-04",
   "analysis": "Jonquel Jones posted 12 points, 11 rebounds, 4 assists and 5 blocks in Game 1. The Game 1 rebound line was 9.5 (points 14.5). Satou Sabally is out for New York, thinning New York's frontcourt, and Brionna Jones is out for Atlanta. With Atlanta's offense running through guards, Jones's rebound share should stay high. I project 10 against a Game 1 line, and the Game 2 number was not yet posted so the edge is thin. Main risk is foul trouble or Atlanta turning the game into a blowout, trimming her minutes.",
+  "bio": {
+   "age": 32,
+   "college": "George Washington (also Clemson); from The Bahamas",
+   "exp": "WNBA draft 2016 (No. 6)",
+   "height": "6'6\"",
+   "weight": "215 lbs"
+  },
+  "bioSource": {
+   "title": "Jonquel Jones (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Jonquel_Jones"
+  },
   "confidence": 2,
   "espnId": "2999101",
   "game": "NY @ ATL · Semis G2",
@@ -6703,6 +8090,17 @@
  {
   "id": "2026-10-05-wnba-05",
   "analysis": "Wilson finished Game 1 with 24 points and 4 rebounds as Las Vegas lost 71-60 and was outrebounded 52-25 with 17 Golden State offensive boards producing 20 points. Chelsea Gray added 16 and Jackie Young 11 points with 5 assists. I could not find a posted Game 2 rebounds line, so the line is left null. My projection leans on her series and season track record: she averaged about 32 points in the first round and 12.7 rebounds against Golden State in the regular season. Regression toward those averages is likely for a must-win game. Main risks are Kiah Stokes and Golden State's rebounding size repeating the Game 1 pattern and a low-possession game. Start time: Chase Center (Mission Local; ESPN/CBS did not confirm), listed 6:30 PM, taken as Pacific time.",
+  "bio": {
+   "age": 30,
+   "college": "South Carolina",
+   "exp": "WNBA draft 2018 (No. 1)",
+   "height": "6'4\"",
+   "weight": "195 lbs"
+  },
+  "bioSource": {
+   "title": "A%27ja Wilson (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/A%27ja_Wilson"
+  },
   "confidence": 3,
   "espnId": "3149391",
   "game": "LV @ GS · Semis G2",
@@ -6756,6 +8154,17 @@
  {
   "id": "2026-10-05-wnba-06",
   "analysis": "Wilson finished Game 1 with 24 points and 4 rebounds as Las Vegas lost 71-60 and was outrebounded 52-25 with 17 Golden State offensive boards producing 20 points. Chelsea Gray added 16 and Jackie Young 11 points with 5 assists. I could not find a posted Game 2 points line, so the line is left null. My projection leans on her series and season track record: she averaged about 32 points in the first round and 12.7 rebounds against Golden State in the regular season. Regression toward those averages is likely for a must-win game. Main risks are Kiah Stokes and Golden State's rebounding size repeating the Game 1 pattern and a low-possession game. Start time: Chase Center (Mission Local; ESPN/CBS did not confirm), listed 6:30 PM, taken as Pacific time. Monday-evening update: Jewell Loyd's left leg injury from Game 1 could push more shots to Wilson if Loyd sits.",
+  "bio": {
+   "age": 30,
+   "college": "South Carolina",
+   "exp": "WNBA draft 2018 (No. 1)",
+   "height": "6'4\"",
+   "weight": "195 lbs"
+  },
+  "bioSource": {
+   "title": "A%27ja Wilson (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/A%27ja_Wilson"
+  },
   "confidence": 3,
   "espnId": "3149391",
   "game": "LV @ GS · Semis G2",
@@ -6813,6 +8222,17 @@
  {
   "id": "2026-10-05-wnba-07",
   "analysis": "Stokes grabbed 11 rebounds in Game 1 as Golden State beat Las Vegas on the glass 52-25 with 17 offensive rebounds. A Game 2 line was not posted when I checked. Las Vegas will emphasize rebounding in a must-win game, so I expect some regression and project about 8. Whether it's More depends on the posted number; a typical line in the 6-7 range would support More. Risk is that the Aces fix the boards and A'ja Wilson takes more of the rebounds. Start time is listed as 6:30 PM at Chase Center from Mission Local, assumed Pacific.",
+  "bio": {
+   "age": 33,
+   "college": "UConn",
+   "exp": "WNBA draft 2015 (No. 11)",
+   "height": "6'3\"",
+   "weight": "191 lbs"
+  },
+  "bioSource": {
+   "title": "Kiah Stokes (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Kiah_Stokes"
+  },
   "confidence": 2,
   "espnId": "2590093",
   "game": "LV @ GS · Semis G2",
@@ -6866,6 +8286,17 @@
  {
   "id": "2026-10-05-wnba-08",
   "analysis": "Howard finished Game 1 with 16 points, 8 rebounds and 8 assists. The Game 1 points line was 18.5, with rebounds at 3.5 and assists at 3.5, so her playmaking cleared those easily. Allisha Gray's hand injury could raise her shots if Gray misses time. Atlanta was distributed offensively, with Canada 25, Bonner 23 and Reese 17. I project about 17.5, just below the line, so this is a thin Less. Game 2 line was not yet posted. Risk is higher usage if Gray is out.",
+  "bio": {
+   "age": 26,
+   "college": "Kentucky",
+   "exp": "WNBA draft 2022 (No. 1)",
+   "height": "6'2\"",
+   "weight": "175 lbs"
+  },
+  "bioSource": {
+   "title": "Rhyne Howard (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Rhyne_Howard"
+  },
   "confidence": 2,
   "espnId": "4398674",
   "game": "NY @ ATL · Semis G2",
@@ -6925,6 +8356,17 @@
  {
   "id": "2026-10-05-wnba-09",
   "analysis": "Howard dished 8 assists in Game 1 while scoring 16, far past the 3.5 assist line. She is a ball-handling wing and Atlanta is thin if Gray is limited, which pushes more creation her way. Game 2 line was not posted when I checked. I project around 5. Risk is a line moving up to 4.5 or 5.5 after Game 1 and Atlanta's passing being spread among Canada and others.",
+  "bio": {
+   "age": 26,
+   "college": "Kentucky",
+   "exp": "WNBA draft 2022 (No. 1)",
+   "height": "6'2\"",
+   "weight": "175 lbs"
+  },
+  "bioSource": {
+   "title": "Rhyne Howard (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Rhyne_Howard"
+  },
   "confidence": 3,
   "espnId": "4398674",
   "game": "NY @ ATL · Semis G2",
@@ -6980,6 +8422,17 @@
  {
   "id": "2026-10-05-wnba-10",
   "analysis": "Ionescu led New York with 27 points, 4 rebounds and 1 assist in Game 1. The Game 1 points line was 15.5. Satou Sabally is out and Xu Han was questionable, so shot volume should stay high for guards. Game 2 line was not posted when I checked. I project about 17 because Game 1 was likely above her norm. Covers noted she made 3 or more threes in only two of her last five games, which is a risk to the scoring total.",
+  "bio": {
+   "age": 28,
+   "college": "Oregon",
+   "exp": "WNBA draft 2020 (No. 1)",
+   "height": "5'11\"",
+   "weight": "165 lbs"
+  },
+  "bioSource": {
+   "title": "Sabrina Ionescu (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Sabrina_Ionescu"
+  },
   "confidence": 2,
   "espnId": "4066533",
   "game": "NY @ ATL · Semis G2",
@@ -7039,6 +8492,17 @@
  {
   "id": "2026-10-05-wnba-11",
   "analysis": "Canada scored 25 but had just 4 assists in Game 1, a shift to scoring. Covers had her at 8 or more assists in 4 of her prior 5 games against a 7.5 line. If Gray is out, Canada may keep scoring more than passing. I project about 7, slightly under the line, a thin Less. Game 2 line not posted. Risk is a return to the playmaker role.",
+  "bio": {
+   "age": 31,
+   "college": "UCLA",
+   "exp": "WNBA draft 2018 (No. 5)",
+   "height": "5'6\"",
+   "weight": "135 lbs"
+  },
+  "bioSource": {
+   "title": "Jordin Canada (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Jordin_Canada"
+  },
   "confidence": 2,
   "espnId": "3142250",
   "game": "NY @ ATL · Semis G2",
@@ -7098,6 +8562,17 @@
  {
   "id": "2026-10-05-wnba-12",
   "analysis": "Chelsea Gray scored 16 points with 4 rebounds and 3 assists in Game 1, Las Vegas's second-best scorer behind Wilson. No line was posted when I checked, so it is left blank. I project about 14, and a line near 11 to 12 would favor More. Las Vegas needs scoring around Wilson after a 60-point output. Risk is Golden State's defense and low-pace game. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated, and Stephanie Talbot is also out. If Loyd misses time, more guard usage shifts to Gray.",
+  "bio": {
+   "age": 33,
+   "college": "Duke",
+   "exp": "WNBA draft 2014 (No. 11)",
+   "height": "5'11\"",
+   "weight": "170 lbs"
+  },
+  "bioSource": {
+   "title": "Chelsea Gray (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Chelsea_Gray"
+  },
   "confidence": 2,
   "espnId": "2529122",
   "game": "LV @ GS · Semis G2",
@@ -7151,6 +8626,17 @@
  {
   "id": "2026-10-05-wnba-13",
   "analysis": "Jackie Young scored 11 with 5 assists, 4 rebounds and 3 steals in Game 1. No line was posted when I checked. I project 15 on a rebound from a quiet scoring night in a must-win game. Risk is Golden State's size and defensive pressure keeping her to shots outside the paint. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated. If Loyd misses time, Young's shot share should grow.",
+  "bio": {
+   "age": 29,
+   "college": "Notre Dame",
+   "exp": "WNBA draft 2019 (No. 1)",
+   "height": "6'0\"",
+   "weight": "165 lbs"
+  },
+  "bioSource": {
+   "title": "Jackie Young (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Jackie_Young"
+  },
   "confidence": 2,
   "espnId": "4065870",
   "game": "LV @ GS · Semis G2",
@@ -7204,6 +8690,17 @@
  {
   "id": "2026-10-05-wnba-14",
   "analysis": "Gabby Williams scored 25 points to lead the Valkyries in a 71-60 win. No line was posted when I checked and I could not verify her season averages, so my projection of about 16 is a regression estimate from a career-high style game. A typical line would sit well under 25. Risk is that she keeps being the primary scorer for a team with modest offense.",
+  "bio": {
+   "age": 30,
+   "college": "UConn",
+   "exp": "WNBA draft 2018 (No. 4)",
+   "height": "5'11\"",
+   "weight": "172 lbs"
+  },
+  "bioSource": {
+   "title": "Gabby Williams (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Gabby_Williams"
+  },
   "confidence": 2,
   "espnId": "3142328",
   "game": "LV @ GS · Semis G2",
@@ -7253,6 +8750,17 @@
  {
   "id": "2026-10-05-wnba-15",
   "analysis": "Stewart scored 19 in Game 1 and had 34 and 21 in the first round. Game 3 is Friday in New York, though I could not confirm the time or venue. No line was posted. I project about 21. Risk is Atlanta's defense and the Game 2 result changing the series.",
+  "bio": {
+   "age": 32,
+   "college": "UConn",
+   "exp": "WNBA draft 2016 (No. 1)",
+   "height": "6'4\"",
+   "weight": "170 lbs"
+  },
+  "bioSource": {
+   "title": "Breanna Stewart (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Breanna_Stewart"
+  },
   "confidence": 2,
   "espnId": "2998928",
   "game": "ATL @ NY · Semis G3",
@@ -7302,6 +8810,17 @@
  {
   "id": "2026-10-05-wnba-16",
   "analysis": "Wilson scored 24 in Game 1. Game 3 is Friday in Las Vegas, but I could not confirm the time. No line was posted. I project around 26, from her first-round scoring and home court. Risk is Golden State's rebounding size and low-scoring games.",
+  "bio": {
+   "age": 30,
+   "college": "South Carolina",
+   "exp": "WNBA draft 2018 (No. 1)",
+   "height": "6'4\"",
+   "weight": "195 lbs"
+  },
+  "bioSource": {
+   "title": "A%27ja Wilson (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/A%27ja_Wilson"
+  },
   "confidence": 2,
   "espnId": "3149391",
   "game": "GS @ LV · Semis G3",
@@ -7351,6 +8870,17 @@
  {
   "id": "2026-10-05-wnba-17",
   "analysis": "Canada scored 25 in Game 1 and has five straight double-figure games. Allisha Gray's hand injury status matters for Game 3. No line was posted and times were not confirmed. I project about 14. Risk is regression and a different matchup after Game 2.",
+  "bio": {
+   "age": 31,
+   "college": "UCLA",
+   "exp": "WNBA draft 2018 (No. 5)",
+   "height": "5'6\"",
+   "weight": "135 lbs"
+  },
+  "bioSource": {
+   "title": "Jordin Canada (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Jordin_Canada"
+  },
   "confidence": 2,
   "espnId": "3142250",
   "game": "ATL @ NY · Semis G3",
@@ -7400,6 +8930,17 @@
  {
   "id": "2026-10-05-wnba-18",
   "analysis": "Young was quiet in the Game 1 loss, when Las Vegas shot 33.9% against Golden State's defense. She averaged 23.3 points against Indiana in the first round and 23.7 on efficient shooting in three regular-season games against the Valkyries. Jewell Loyd left Game 1 with a left leg injury and Stephanie Talbot is out, which puts more of the guard scoring on Young and Chelsea Gray. Game 3 moves to Las Vegas, where the Aces usually shoot better. Lineups listed her at 18.5 points before Game 1 (no book named), and I project about 20. The main risk is another grinding, low-scoring game against the Valkyries' physical defense.",
+  "bio": {
+   "age": 29,
+   "college": "Notre Dame",
+   "exp": "WNBA draft 2019 (No. 1)",
+   "height": "6'0\"",
+   "weight": "165 lbs"
+  },
+  "bioSource": {
+   "title": "Jackie Young (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Jackie_Young"
+  },
   "confidence": 2,
   "game": "GS @ LV · Semis G3",
   "gameTime": "Fri 10/9",
