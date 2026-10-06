@@ -365,14 +365,15 @@ function grade(p){
 }
 const gbadge=p=>{const g=grade(p);return `<span class="gwrap" title="Pick grade ${g.letter}: ${g.feel}"><span class="grade ${g.letter}">${g.letter}</span><span class="feel">${g.feel}</span></span>`};
 function renderOutlook(){
-  const open=state.picks.filter(p=>p.week===state.week&&isOpen(p));
   const el=$("outlook");
+  if(state.sport==="all"){el.hidden=true;el.innerHTML="";return}
+  const open=state.picks.filter(p=>p.week===state.week&&p.sport===state.sport&&isOpen(p));
   if(!open.length){el.hidden=true;return}
   const avgOf=list=>{const gs=list.map(p=>grade(p).letter);const pts=gs.reduce((a,l)=>a+(4-LETTERS.indexOf(l)),0)/gs.length;return {letter:LETTERS[Math.max(0,Math.min(4,Math.round(4-pts)))],cnt:Object.fromEntries(LETTERS.map(l=>[l,gs.filter(x=>x===l).length]))}};
   const all=avgOf(open);
   const graded=state.picks.filter(p=>p.status==="hit"||p.status==="miss");
   const rec=list=>{const h=list.filter(p=>p.status==="hit").length;return list.length?`${h}-${list.length-h} (${Math.round(h/list.length*100)}%)`:null};
-  const overall=rec(graded);
+  const overall=rec(graded.filter(p=>p.sport===state.sport));
   const read=(cnt,n)=>{const strong=cnt.A+cnt.B,weak=cnt.D+cnt.F;return strong>=weak*1.5?"Solid slate: real edges outnumber the shaky spots.":strong>=weak?"Mixed: a few real edges, plenty of coin flips. Be selective.":"Thin: mostly shaky or line-less picks. Small stakes or sit out."};
   const rows=ORDER.map(sp=>{
     const list=open.filter(p=>p.sport===sp);if(!list.length)return "";
@@ -384,7 +385,7 @@ function renderOutlook(){
     if(tbd)bits.push(`${tbd} of ${list.length} still have no line.`);
     return `<div class="orow"><span class="grade ${g.letter}">${g.letter}</span><div><b>${esc(SPORT_NAME[sp]||sp)}</b> <small>${list.length} open · ${LETTERS.map(l=>g.cnt[l]?g.cnt[l]+l:"").filter(Boolean).join(" ")} · my record: ${spRec||"no graded picks yet"}</small><p>${esc(bits.join(" "))}</p></div></div>`}).join("");
   el.hidden=false;
-  el.innerHTML=`<span class="grade ${all.letter}">${all.letter}</span><div style="flex:1"><small>How I feel about this week's board · ${open.length} open picks</small><p>${esc(read(all.cnt,open.length))} Track record so far: ${overall?`${overall} on graded picks.`:"no graded picks yet, so nothing to judge my hit rate on. Results post after the first games finish."}</p><div class="osp">${rows}</div><p class="onote">Grades blend confidence, projection edge vs the line, and whether the line or a condition is still unsettled. They are my read, not a guarantee.</p></div>`;
+  el.innerHTML=`<span class="grade ${all.letter}">${all.letter}</span><div style="flex:1"><small>How I feel about ${esc(SPORT_NAME[state.sport]||state.sport)} this week · ${open.length} open picks</small><p>${esc(read(all.cnt,open.length))} My record on ${esc(SPORT_NAME[state.sport]||state.sport)} so far: ${overall?`${overall}.`:"no graded picks yet, so nothing to judge my hit rate on. Results post after the first games finish."}</p><div class="osp">${rows}</div><p class="onote">Grades blend confidence, projection edge vs the line, and whether the line or a condition is still unsettled. They are my read, not a guarantee.</p></div>`;
 }
 
 function renderTabs(){
