@@ -164,45 +164,6 @@
   "why": "Smith leads FBS with 823 receiving yards and 9 TDs in 5 games, including back-to-back 200-yard games (11-206-2 at Iowa). He's the Heisman favorite at +115."
  },
  {
-  "id": "2026-10-05-cfb-05",
-  "analysis": "John Mateer has 883 yards and eight touchdowns this season but has six turnovers in the last three games, and Oklahoma is scoring about 12 points a game over that stretch. Coach Brent Venables said Mateer is the starter but admitted backups Whitt Newbauer and Bowe Bentley took a lot of reps, so a quick hook is possible. Texas has the nation's 22nd-ranked defense, Texas is a 7.5-point favorite and the total is down to 39.5 from 48.5. I did not find a passing-yards line; the projection of 190 is his average discounted for matchup. The pick is conditional on Mateer starting; if he is benched early, the Less still likely cashes.",
-  "condition": "Mateer starts",
-  "confidence": 4,
-  "espnId": "4915980",
-  "game": "TEX vs OU (Dallas)",
-  "gameTime": "Sat 10/10",
-  "line": null,
-  "newsTag": "QB job questioned",
-  "player": "John Mateer",
-  "position": "QB",
-  "projection": {
-   "basis": "~221/gm avg (883 yds, 4 gms); 6 TO in 3 gms; Texas 22nd-ranked D; total 39.5",
-   "value": "190 yds"
-  },
-  "side": "Less",
-  "sources": [
-   {
-    "title": "SportsBettingDime: Oklahoma vs Texas prediction (John Mateer)",
-    "url": "https://www.sportsbettingdime.com/news/college-football/early-oklahoma-texas-prediction-spread-red-river-rivalry-odds/"
-   },
-   {
-    "title": "AP: Oklahoma facing QB questions",
-    "url": "https://www.bozemandailychronicle.com/wire/sports/oklahoma-facing-qb-questions-heading-into-rivalry-week-against-no-1-texas/article_c1bcf75b-21ff-5896-a4ea-594c220b21e2.html"
-   },
-   {
-    "title": "SI: Week 6 opening odds for top-25 games",
-    "url": "https://www.si.com/betting/college-football-week-6-opening-odds-for-every-top-25-game-georgia-favored-vs-alabama-texas-favored-vs-ou"
-   }
-  ],
-  "sport": "cfb",
-  "startTime": "2026-10-10T15:30:00-04:00",
-  "stat": "Passing yards",
-  "status": "pending",
-  "team": "OU",
-  "week": "2026-10-05",
-  "why": "Mateer averages about 221 passing yards a game and has 6 turnovers in his last 3 games, with Oklahoma scoring about 12 points a game in that stretch. The total has dropped to about 39.5."
- },
- {
   "id": "2026-10-05-cfb-06",
   "analysis": "Raleek Brown leads Texas in rushing but has only 196 yards on 48 carries, about 49 a game, and shares work with Hollywood Smothers. The game total is only 39.5 and Texas is a 7.5-point favorite, so scoring and run volume are limited, though a lead could produce late carries. Oklahoma's defense is strong against the run. No rushing-yards line was found, so the projection of 45 rests on his per-game average. Risk is Texas leaning on the run to protect a lead and Brown getting the bulk of them.",
   "confidence": 2,
@@ -452,48 +413,6 @@
   "why": "Miller averages about 82 rushing yards a game. Penn State just allowed 413 rushing yards at Northwestern, its 4th-most since 1947."
  },
  {
-  "id": "2026-10-05-cfb-12",
-  "analysis": "Rocco Becht averages about 222 yards and has struggled in conference play. Penn State is coming off two straight losses, and the sharp read is a slow, methodical game; the total fell from 56.5 to 54.5 and analysts like the under. USC's offense is strong, though, so Penn State may need to throw more to keep up. No line found; projected 205 as his average trimmed for tempo. The main risk is USC scoring early and forcing Penn State into passing.",
-  "confidence": 2,
-  "espnId": "4801299",
-  "game": "USC @ PSU",
-  "gameTime": "Sat 10/10",
-  "line": null,
-  "newsTag": "Struggling in B1G",
-  "player": "Rocco Becht",
-  "position": "QB",
-  "projection": {
-   "basis": "~222/gm avg; struggling in Big Ten; slow, methodical PSU; total 54.5 trending down",
-   "value": "205 yds"
-  },
-  "side": "Less",
-  "sources": [
-   {
-    "title": "SportsBettingDime: USC vs Penn State",
-    "url": "https://www.sportsbettingdime.com/news/college-football/usc-penn-state-prediction-early-spread-best-bet/"
-   },
-   {
-    "title": "SI: First look at Penn State vs USC",
-    "url": "https://www.si.com/college/pennstate/football/first-look-at-penn-state-vs-usc-nittany-lions-surprise-as-early-favorites"
-   },
-   {
-    "title": "SI: Week 6 opening odds for top-25 games",
-    "url": "https://www.si.com/betting/college-football-week-6-opening-odds-for-every-top-25-game-georgia-favored-vs-alabama-texas-favored-vs-ou"
-   },
-   {
-    "title": "AmericanTV: Week 6 CFB TV schedule 2026",
-    "url": "https://www.americantv.com/week-6-college-football-2026-tv-schedule-on-directv.php"
-   }
-  ],
-  "sport": "cfb",
-  "startTime": "2026-10-10T19:30:00-04:00",
-  "stat": "Passing yards",
-  "status": "pending",
-  "team": "PSU",
-  "week": "2026-10-05",
-  "why": "Becht averages about 222 yards a game and has struggled in Big Ten play. Analysts expect Penn State to play slow and methodical."
- },
- {
   "id": "2026-10-05-cfb-13",
   "analysis": "Sam Leavitt has seven interceptions in five games and has been managing injuries; Lane Kiffin said he was better than a week ago but still limited, and he sat out Tuesday practice before playing against McNeese (18 of 23, 176 yards, three TDs, no rushing attempts). LSU ran 53 times for 367 yards in that game, which means a lot of low-risk passing, but Kentucky is a much tougher opponent. No line was found; projection of 1.0 is a blend of his 1.4 per-game season rate and the clean McNeese game. The pick is conditional on him starting, which looks likely but is not confirmed.",
   "condition": "Leavitt starts",
@@ -657,44 +576,6 @@
   "team": "IND",
   "week": "2026-10-05",
   "why": "Richard is back from a leg injury and ran for 204 yards against Rutgers. He's averaging 9.3 yards a carry this season."
- },
- {
-  "id": "2026-10-05-cfb-17",
-  "analysis": "Marcel Reed is completing 57 percent and averaging about 182 passing yards, and coach Mike Elko has had to publicly back him. Missouri is favored after beating Florida soundly. Kickoff is listed for noon ET on ABC. I found no prop line, so the projection of 175 is his average trimmed for the road environment. Risk is a trailing Texas A&M passing more late.",
-  "confidence": 2,
-  "espnId": "4870971",
-  "game": "TAMU @ MIZ",
-  "gameTime": "Sat 10/10",
-  "line": null,
-  "newsTag": "QB struggling",
-  "player": "Marcel Reed",
-  "position": "QB",
-  "projection": {
-   "basis": "~182/gm, 57% comp; Mizzou D; coach publicly backing him",
-   "value": "175 yds"
-  },
-  "side": "Less",
-  "sources": [
-   {
-    "title": "ESPN: Elko confident in struggling QB Marcel Reed",
-    "url": "https://www.espn.com/college-football/story/_/id/50000378/texas-elko-confidence-remains-struggling-qb-reed"
-   },
-   {
-    "title": "FBSchedules: TV selections for Oct 10, 2026",
-    "url": "https://fbschedules.com/college-football-schedule-tv-selections-for-october-10-2026/"
-   },
-   {
-    "title": "AmericanTV: Week 6 CFB TV schedule 2026",
-    "url": "https://www.americantv.com/week-6-college-football-2026-tv-schedule-on-directv.php"
-   }
-  ],
-  "sport": "cfb",
-  "startTime": "2026-10-10T12:00:00-04:00",
-  "stat": "Passing yards",
-  "status": "pending",
-  "team": "TAMU",
-  "week": "2026-10-05",
-  "why": "Reed is completing 57% for about 182 yards a game, and Mike Elko has had to publicly back him. Missouri is favored after blowing out Florida."
  },
  {
   "id": "2026-10-05-cfb-18",

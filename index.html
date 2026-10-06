@@ -390,7 +390,7 @@ function renderWeeks(){
     const tail=cur?" · current":(g.length?` · ${Math.round(h/g.length*100)}% (${h}-${g.length-h})`:" · no graded picks");
     return `<option value="${esc(w.id)}" ${w.id===state.week?"selected":""}>${esc(w.label||w.id)}${tail}</option>`};
   const [cur,...prev]=state.weeks;
-  sel.innerHTML=`<optgroup label="Current week">${opt(cur,true)}</optgroup>`+(prev.length?`<optgroup label="Previous weeks">${prev.map(w=>opt(w,false)).join("")}</optgroup>`:"");
+  sel.innerHTML=`<optgroup label="Current week">${opt(cur,true)}</optgroup>`+`<optgroup label="Previous weeks">${prev.length?prev.map(w=>opt(w,false)).join(""):`<option disabled>No earlier weeks yet — first one is archived after the next Monday build</option>`}</optgroup>`;
   const w=state.weeks.find(w=>w.id===state.week);
   $("updated").textContent=w&&w.generatedAt?`Updated ${new Date(w.generatedAt).toLocaleString([], {weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})}`:"";
 }
