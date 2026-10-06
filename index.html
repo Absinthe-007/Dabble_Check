@@ -258,6 +258,7 @@ body.locked{overflow:hidden}
   .fname{font-size:24px}
 }
 
+.tr{font-style:normal;font-size:11px;margin-right:6px}.tr.up{color:var(--more)}.tr.down{color:var(--less)}.tr.flat{color:var(--muted)}
 /* ---------- Refinement pass ---------- */
 :root{--r:16px;--hair:color-mix(in srgb,var(--line) 70%,transparent)}
 body{letter-spacing:.005em}
@@ -400,7 +401,7 @@ function shot(p){
 const ARROW={More:'<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 1 11 8H1z" fill="currentColor"/></svg>',Less:'<svg viewBox="0 0 12 12" aria-hidden="true"><path d="M6 11 1 4h10z" fill="currentColor"/></svg>'};
 function prop(p){
   const has=p.projection&&p.projection.value;
-  return `<div class="proprow"><div class="prop"><span class="side ${esc(p.side)}">${ARROW[p.side]||""}${esc(p.side)}</span><span class="lnum ${has?"":"tbd"}" title="${esc((p.projection&&p.projection.basis)||"")}">${has?esc(p.projection.value):"projection TBD"}</span></div><span class="lstat">${esc(p.stat)}</span></div>`;
+  return `<div class="proprow"><div class="prop"><span class="side ${esc(p.side)}">${ARROW[p.side]||""}${esc(p.side)}</span><span class="lnum ${has?"":"tbd"}" title="${esc((p.projection&&p.projection.basis)||"")}">${has?`<i class="tr ${trend(p).dir}">${ARR[trend(p).dir]}</i>`+esc(p.projection.value):"projection TBD"}</span></div><span class="lstat">${esc(p.stat)}</span></div>`;
 }
 function pips(c){c=Math.max(1,Math.min(5,c||1));return `<div class="conf" title="Confidence ${c} of 5" aria-label="Confidence ${c} of 5">${Array.from({length:5},(_,i)=>`<i class="${i<c?"f":""}"></i>`).join("")}</div>`}
 const isOpen=p=>!p.status||p.status==="pending";
@@ -410,6 +411,13 @@ const isOpen=p=>!p.status||p.status==="pending";
 const LETTERS=["A","B","C","D","F"];
 const FEEL={A:"Love it",B:"Like it",C:"Lean only",D:"Shaky",F:"Pass"};
 const num=v=>{const m=String(v??"").replace(/,/g,"").match(/-?\d+(\.\d+)?/);return m?parseFloat(m[0]):null};
+function trend(p){
+  const l=num(p.line),pr=p.projection&&num(p.projection.value);
+  let dir=p.side==="Less"?"down":p.side==="More"?"up":"flat",delta=null;
+  if(l!=null&&pr!=null&&l>0){dir=pr>l?"up":pr<l?"down":"flat";delta=pr-l}
+  return {dir,delta,ref:l};
+}
+const ARR={up:"▲",down:"▼",flat:"▬"};
 function grade(p){
   let i=(5-Math.max(1,Math.min(5,p.confidence||1)))*.8;
   const l=num(p.line),pr=p.projection&&num(p.projection.value);
@@ -602,7 +610,7 @@ function openSheet(id){
   const p=state.picks.find(x=>x.id===id);if(!p)return;
   const w=state.weeks.find(x=>x.id===p.week)||{};
   const reads=[...(p.sources||[]),...(p.historySources||[]),...(p.matchupSources||[])].filter((s,i,a)=>s&&s.url&&a.findIndex(x=>x&&x.url===s.url)===i);
-  const facts=[...(p.position?[["Position",POSNAME[p.position]||p.position]]:[]),["Pick",`${p.side} (projection)`],["Stat",p.stat],...(p.projection&&p.projection.value?[["Our projection",p.projection.value]]:[]),["Grade",`${grade(p).letter} · ${grade(p).feel}`],["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
+  const facts=[...(p.position?[["Position",POSNAME[p.position]||p.position]]:[]),["Pick",`${p.side} (projection)`],["Stat",p.stat],...(p.projection&&p.projection.value?[["Our projection",`${ARR[trend(p).dir]} ${p.projection.value}`+(trend(p).delta!=null?` (${trend(p).delta>0?"+":""}${Math.round(trend(p).delta*10)/10} vs ${p.line})`:"")]]:[]),["Grade",`${grade(p).letter} · ${grade(p).feel}`],["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
   if(!isOpen(p))facts.splice(0,0,["Result",`${p.status}${p.actual?` · ${p.actual}`:""}`]);
   $("sheet").innerHTML=`<div class="sh-top">${shot(p)}<div class="sh-head">
       <span class="rank">${esc(SPORT_NAME[p.sport]||p.sport)} · ${esc(p.team||"")}${p.position?` · ${esc(POSNAME[p.position]||p.position)}`:""} · ${esc(p.game||"")}</span>
