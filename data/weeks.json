@@ -631,6 +631,34 @@
    {
     "title": "CBS: Sharks-Stars box score",
     "url": "https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261005_SJ@DAL/"
+   },
+   {
+    "title": "NHL.com stats API (skater summary/realtime, goalies, teams)",
+    "url": "https://www.nhl.com/stats/skaters"
+   },
+   {
+    "title": "Daily Faceoff starting goalies",
+    "url": "https://www.dailyfaceoff.com/starting-goalies"
+   },
+   {
+    "title": "ESPN NHL injuries",
+    "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "MLB Stats API: postseason schedule and probable pitchers",
+    "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate=2026-10-06&endDate=2026-10-08&hydrate=probablePitcher"
+   },
+   {
+    "title": "ESPN WNBA semifinal box scores and injuries",
+    "url": "https://www.espn.com/wnba/injuries"
+   },
+   {
+    "title": "ESPN NFL box scores 2026 (team schedules) and injuries",
+    "url": "https://www.espn.com/nfl/injuries"
+   },
+   {
+    "title": "ESPN college football box scores 2026",
+    "url": "https://www.espn.com/college-football/scoreboard"
    }
   ],
   "weekStart": "2026-10-05"
