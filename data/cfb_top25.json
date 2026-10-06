@@ -1,0 +1,175 @@
+{
+ "poll": "AP Top 25, Week 6 (Oct 4, 2026)",
+ "teams": [
+  {
+   "rank": 1,
+   "name": "Texas",
+   "aliases": [
+    "TEX"
+   ]
+  },
+  {
+   "rank": 2,
+   "name": "Georgia",
+   "aliases": [
+    "UGA",
+    "GA"
+   ]
+  },
+  {
+   "rank": 3,
+   "name": "Notre Dame",
+   "aliases": [
+    "ND"
+   ]
+  },
+  {
+   "rank": 4,
+   "name": "Miami",
+   "aliases": [
+    "MIA",
+    "MIAMI (FL)"
+   ]
+  },
+  {
+   "rank": 5,
+   "name": "Ohio State",
+   "aliases": [
+    "OSU"
+   ]
+  },
+  {
+   "rank": 6,
+   "name": "Alabama",
+   "aliases": [
+    "BAMA",
+    "ALA"
+   ]
+  },
+  {
+   "rank": 7,
+   "name": "Indiana",
+   "aliases": [
+    "IND"
+   ]
+  },
+  {
+   "rank": 8,
+   "name": "BYU",
+   "aliases": []
+  },
+  {
+   "rank": 9,
+   "name": "Ole Miss",
+   "aliases": [
+    "MISS",
+    "MISSISSIPPI"
+   ]
+  },
+  {
+   "rank": 10,
+   "name": "LSU",
+   "aliases": []
+  },
+  {
+   "rank": 11,
+   "name": "Texas Tech",
+   "aliases": [
+    "TTU"
+   ]
+  },
+  {
+   "rank": 12,
+   "name": "Utah",
+   "aliases": []
+  },
+  {
+   "rank": 13,
+   "name": "Oregon",
+   "aliases": [
+    "ORE"
+   ]
+  },
+  {
+   "rank": 14,
+   "name": "Missouri",
+   "aliases": [
+    "MIZ",
+    "MIZZOU"
+   ]
+  },
+  {
+   "rank": 15,
+   "name": "Tennessee",
+   "aliases": [
+    "TENN"
+   ]
+  },
+  {
+   "rank": 16,
+   "name": "Florida",
+   "aliases": [
+    "UF",
+    "FLA"
+   ]
+  },
+  {
+   "rank": 17,
+   "name": "Mississippi State",
+   "aliases": [
+    "MSST",
+    "MSU"
+   ]
+  },
+  {
+   "rank": 18,
+   "name": "Oklahoma State",
+   "aliases": [
+    "OKST"
+   ]
+  },
+  {
+   "rank": 19,
+   "name": "USC",
+   "aliases": [
+    "Southern Cal"
+   ]
+  },
+  {
+   "rank": 20,
+   "name": "Iowa",
+   "aliases": []
+  },
+  {
+   "rank": 21,
+   "name": "UCLA",
+   "aliases": []
+  },
+  {
+   "rank": 22,
+   "name": "Houston",
+   "aliases": [
+    "HOU"
+   ]
+  },
+  {
+   "rank": 23,
+   "name": "Boise State",
+   "aliases": [
+    "BSU"
+   ]
+  },
+  {
+   "rank": 24,
+   "name": "SMU",
+   "aliases": []
+  },
+  {
+   "rank": 25,
+   "name": "Pittsburgh",
+   "aliases": [
+    "PITT"
+   ]
+  }
+ ]
+}

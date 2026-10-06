@@ -303,6 +303,7 @@ const TEAM={
  "wnba:ATL":"#C8102E","wnba:CHI":"#418FDE","wnba:CONN":"#0A2240","wnba:DAL":"#0C2340","wnba:GS":"#6C4BA6","wnba:IND":"#002D62","wnba:LV":"#3a3a3a","wnba:LA":"#552583","wnba:MIN":"#266092","wnba:NY":"#6ECEB2","wnba:PHX":"#CB6015","wnba:SEA":"#2C5235","wnba:WSH":"#C8102E","wnba:POR":"#B7202E","wnba:TOR":"#1B365D"
 };
 const state={weeks:[],picks:[],week:null,sport:"all"};
+let TOP25=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 try{state.sport=localStorage.getItem("sport")||"all";localStorage.removeItem("slip")}catch(e){}
@@ -551,7 +552,10 @@ function render(){renderWeeks();renderTabs();renderRecord();renderOutlook();rend
     const bust="?v="+Date.now();
     const [w,p]=await Promise.all([fetch("data/weeks.json"+bust).then(r=>r.json()),fetch("data/picks.json"+bust).then(r=>r.json())]);
     state.weeks=[...w].sort((a,b)=>String(b.weekStart||b.id).localeCompare(String(a.weekStart||a.id)));
-    state.picks=p;
+    try{const t=await fetch("data/cfb_top25.json"+bust).then(r=>r.json());
+      const ok=new Set(t.teams.flatMap(x=>[x.name,...x.aliases]).map(x=>x.toUpperCase()));
+      state.picks=p.filter(x=>x.sport!=="cfb"||ok.has(String(x.team||"").trim().replace(/\.$/,"").toUpperCase()));
+    }catch(e){state.picks=p}
   }catch(e){$("updated").textContent="Couldn't load picks. Refresh to try again."}
   render();
   const h=location.hash.slice(1);if(h&&state.picks.some(x=>x.id===h))openSheet(h);
