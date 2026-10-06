@@ -357,7 +357,7 @@ const num=v=>{const m=String(v??"").replace(/,/g,"").match(/-?\d+(\.\d+)?/);retu
 function grade(p){
   let i=(5-Math.max(1,Math.min(5,p.confidence||1)))*.8;
   const l=num(p.line),pr=p.projection&&num(p.projection.value);
-  if(l==null)i+=.6;
+  if(l==null){/* lines are hidden; no penalty */}
   else if(pr!=null&&l>0){
     const edge=(pr-l)/l;
     if((p.side==="More"&&edge<0)||(p.side==="Less"&&edge>0))i+=1.2;
@@ -389,7 +389,7 @@ function renderOutlook(){
     const bits=[read(g.cnt,list.length),`Best look: ${best.player} ${best.side} ${best.stat} (proj ${(best.projection&&best.projection.value)||"n/a"}) (${grade(best).letter}).`];
     return `<div class="orow"><span class="grade ${g.letter}">${g.letter}</span><div><b>${esc(SPORT_NAME[sp]||sp)}</b> <small>${list.length} open · ${LETTERS.map(l=>g.cnt[l]?g.cnt[l]+l:"").filter(Boolean).join(" ")} · my record: ${spRec||"no graded picks yet"}</small><p>${esc(bits.join(" "))}</p></div></div>`}).join("");
   el.hidden=false;
-  el.innerHTML=`<span class="grade ${all.letter}">${all.letter}</span><div style="flex:1"><small>How I feel about ${esc(SPORT_NAME[state.sport]||state.sport)} this week · ${open.length} open picks</small><p>${esc(read(all.cnt,open.length))} My record on ${esc(SPORT_NAME[state.sport]||state.sport)} so far: ${overall?`${overall}.`:"no graded picks yet, so nothing to judge my hit rate on. Results post after the first games finish."}</p><div class="osp">${rows}</div><p class="onote">Grades blend confidence, projection edge vs the line, and whether the line or a condition is still unsettled. They are my read, not a guarantee.</p></div>`;
+  el.innerHTML=`<span class="grade ${all.letter}">${all.letter}</span><div style="flex:1"><small>How I feel about ${esc(SPORT_NAME[state.sport]||state.sport)} this week · ${open.length} open picks</small><p>${esc(read(all.cnt,open.length))} My record on ${esc(SPORT_NAME[state.sport]||state.sport)} so far: ${overall?`${overall}.`:"no graded picks yet, so nothing to judge my hit rate on. Results post after the first games finish."}</p><div class="osp">${rows}</div><p class="onote">Grades blend confidence, projection edge vs the line, and whether a condition is still unsettled. They are my read, not a guarantee.</p></div>`;
 }
 
 function renderTabs(){
