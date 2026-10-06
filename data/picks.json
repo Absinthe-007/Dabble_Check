@@ -1682,6 +1682,72 @@
   "why": "SportsGrid projects 0.7 runs for Yelich with the over at +190."
  },
  {
+  "id": "2026-10-05-mlb-22",
+  "analysis": "Aaron Boone said Fried will 'probably' start Game 3 at Yankee Stadium. His season line is a 2.80 ERA and 0.99 WHIP with 8.3 strikeouts per nine over 20 starts. September was up and down: 13 strikeouts against Baltimore, but only 4 over 6.2 innings in his last look at Tampa on Sept. 22. He allowed one run over six innings in the Wild Card round, so he's rested and stretched out. Six innings at about a strikeout per inning gives roughly 5.8. No strikeout line was posted yet, so More only applies if it opens at 5.5 or lower. The main risk is a contact-heavy Rays lineup and an early hook in a tight game.",
+  "condition": "Fried starts Game 3",
+  "confidence": 2,
+  "espnId": "32685",
+  "game": "TB @ NYY · ALDS G3",
+  "gameTime": "Wed 10/7",
+  "line": null,
+  "newsTag": "Named G3 starter",
+  "player": "Max Fried",
+  "position": "SP",
+  "projection": {
+   "basis": "8.3 K/9 (104 K in 112.2 IP) over ~6 IP; 7.4 K avg last 5 starts",
+   "value": "5.8 K"
+  },
+  "side": "More",
+  "sources": [
+   {
+    "title": "The Big Lead: Yankees-Rays ALDS Game 3 starters",
+    "url": "https://www.thebiglead.com/yankees-rays-alds-game-3-starting-pitchers/"
+   },
+   {
+    "title": "MLB.com: Max Fried player page",
+    "url": "https://www.mlb.com/player/max-fried-608331"
+   }
+  ],
+  "sport": "mlb",
+  "stat": "Strikeouts",
+  "status": "pending",
+  "team": "NYY",
+  "week": "2026-10-05",
+  "why": "Fried struck out 104 in 112.2 innings (8.3 per nine) and averaged 7.4 strikeouts over his last five regular-season starts. He went six innings in his Wild Card start."
+ },
+ {
+  "id": "2026-10-05-mlb-23",
+  "analysis": "Martinez gets Game 3 at Yankee Stadium after a 15-6 season with a 3.10 ERA. He relies on weak contact (108 strikeouts in 177.1 innings), and that approach gets riskier the third time through a lineup like New York's. Tampa has managed its pitching aggressively all series, and postseason managers rarely let a pitch-to-contact starter see a dangerous lineup three times. I project about five innings, or 15.5 outs, against his regular-season average of about 17.7. No outs line was posted yet, so the lean needs a line of 16.5 or higher. The main risk is an efficient, low-pitch outing that lets him finish six.",
+  "confidence": 2,
+  "game": "TB @ NYY · ALDS G3",
+  "gameTime": "Wed 10/7",
+  "line": null,
+  "newsTag": "First playoff start",
+  "player": "Nick Martinez",
+  "position": "SP",
+  "projection": {
+   "basis": "17.7 outs/start (177.1 IP in 30 GS), trimmed for first postseason start and quick hook",
+   "value": "15.5 outs"
+  },
+  "side": "Less",
+  "sources": [
+   {
+    "title": "The Big Lead: Yankees-Rays ALDS Game 3 starters",
+    "url": "https://www.thebiglead.com/yankees-rays-alds-game-3-starting-pitchers/"
+   },
+   {
+    "title": "MLB.com: Nick Martinez player page",
+    "url": "https://www.mlb.com/player/nick-martinez-607259"
+   }
+  ],
+  "sport": "mlb",
+  "stat": "Pitching outs",
+  "status": "pending",
+  "team": "TB",
+  "week": "2026-10-05",
+  "why": "Martinez averaged about 5.9 innings per start (177.1 IP in 30 starts) with a low strikeout rate. In his first postseason start, Tampa is likely to go to the bullpen early."
+ },
+ {
   "id": "2026-10-05-nfl-01",
   "analysis": "Robinson ran for 194 yards and two touchdowns last week, and Atlanta's offense is clicking with Michael Penix Jr. back. New Orleans ranks 27th against the run at 128.7 yards a game, and four linebackers (Elliss, Werner, Jennings plus edge Granderson) were listed as non-participants in practice, roughly 62% of the team's linebacker snaps per Covers. Lines I saw sit at 85.5 (Bettors Insider) and 90 (Polymarket). I projected about 96 by blending his big Week 4 with a more modest typical workload and a strong matchup, shaded down for regression after a 194-yard outlier. Main risks are a Saints lead that pulls Atlanta toward the pass and the chance the lines tighten once injury reports finalize. The game is a 2.5-point Saints-favorite, 47.5 total, so script is close to neutral.",
   "confidence": 3,
@@ -1731,7 +1797,7 @@
  },
  {
   "id": "2026-10-05-nfl-02",
-  "analysis": "Lamb caught 17 passes for 189 yards and the game-winning touchdown against Houston, and Dak Prescott threw 45 times in that game. Dallas is a 10-point home favorite against a 0-4 Tampa Bay team, and the Cowboys' offense ranks top five in EPA while their defense is bottom three, so shootout-ish totals (47.5, over 4-for-4 for Dallas) keep volume healthy. Tampa Bay is turning to undrafted rookie Jalon Daniels with Baker Mayfield (thumb) expected out 3-6 weeks. No Lamb line was posted that I could find. My 88-yard projection treats Wk4 as an outlier, expects a fairly normal target share even with George Pickens drawing attention, and trims a little for a possible fourth-quarter lead that cuts passing. Main risk is a blowout where Dallas runs out the clock with Javonte Williams.",
+  "analysis": "Lamb caught 17 passes for 189 yards and the game-winning touchdown against Houston, and Dak Prescott threw 45 times in that game. Dallas is a 10-point home favorite against a 0-4 Tampa Bay team, and the Cowboys' offense ranks top five in EPA while their defense is bottom three, so shootout-ish totals (47.5, over 4-for-4 for Dallas) keep volume healthy. Tampa Bay is turning to undrafted rookie Jalon Daniels with Baker Mayfield (thumb) expected out 3-6 weeks. No Lamb line was posted that I could find. My 88-yard projection treats Wk4 as an outlier, expects a fairly normal target share even with George Pickens drawing attention, and trims a little for a possible fourth-quarter lead that cuts passing. Main risk is a blowout where Dallas runs out the clock with Javonte Williams. Monday-evening update: DraftKings opened Dallas -10 with a 47.5 total, and Dallas has gone over in every game. No book prop line had been posted yet.",
   "confidence": 3,
   "espnId": "4241389",
   "game": "TB @ DAL",
@@ -1807,7 +1873,7 @@
  },
  {
   "id": "2026-10-05-nfl-04",
-  "analysis": "Henry ran 23 times for 73 yards and a touchdown against Tennessee, his seventh rushing score in four games. Lamar Jackson left that game after two quarters with an ankle injury and an MRI was scheduled for Monday; no result had been published when I checked, with reports split between day-to-day and week-to-week. The spread moved about three points toward Atlanta at DraftKings (Ravens -3.5 per SI, StatSniper shows 3.5 with a 46.5 total). If Tyler Huntley starts, Baltimore should lean on the ground game, but a lower-scoring or trailing game could trim carries. No carry line was posted that I could find. The pick keeps its condition until Jackson's status is known.",
+  "analysis": "Henry ran 23 times for 73 yards and a touchdown against Tennessee, his seventh rushing score in four games. Lamar Jackson left that game after two quarters with an ankle injury and an MRI was scheduled for Monday; no result had been published when I checked, with reports split between day-to-day and week-to-week. The spread moved about three points toward Atlanta at DraftKings (Ravens -3.5 per SI, StatSniper shows 3.5 with a 46.5 total). If Tyler Huntley starts, Baltimore should lean on the ground game, but a lower-scoring or trailing game could trim carries. No carry line was posted that I could find. The pick keeps its condition until Jackson's status is known. Monday-evening update: Jackson's MRI result still wasn't public as of late afternoon; Jesse Minter said he didn't expect it to be long-term but couldn't give Week 5 odds, so the condition stays open until midweek practice reports.",
   "condition": "Lamar Jackson ruled out",
   "confidence": 3,
   "espnId": "3043078",
@@ -1850,7 +1916,7 @@
  },
  {
   "id": "2026-10-05-nfl-05",
-  "analysis": "Gesicki scored a 15-yard touchdown to open the second half against Jacksonville, where Joe Burrow threw 54 times for 428 yards. Both Ja'Marr Chase (entering concussion protocol) and Tee Higgins (groin strain) are listed as questionable for Miami per A to Z Sports, and Cincinnati woke up Sunday with only four healthy receivers (Colbie Young is also out with a knee). The pick only stands if both are out, and that is still unresolved, so it remains conditional. No reception line is posted yet. If the two stars sit I project about 5 catches, driven by a pass-heavy offense and Miami's tight-end-friendly defense, while Miami's defense has otherwise been solid versus wideouts. Risk is simply that one of the two plays, or that Burrow leans on Chase Brown and the slot instead.",
+  "analysis": "Gesicki scored a 15-yard touchdown to open the second half against Jacksonville, where Joe Burrow threw 54 times for 428 yards. Both Ja'Marr Chase (entering concussion protocol) and Tee Higgins (groin strain) are listed as questionable for Miami per A to Z Sports, and Cincinnati woke up Sunday with only four healthy receivers (Colbie Young is also out with a knee). The pick only stands if both are out, and that is still unresolved, so it remains conditional. No reception line is posted yet. If the two stars sit I project about 5 catches, driven by a pass-heavy offense and Miami's tight-end-friendly defense, while Miami's defense has otherwise been solid versus wideouts. Risk is simply that one of the two plays, or that Burrow leans on Chase Brown and the slot instead. Monday-evening update: Zac Taylor said Chase will likely be in the concussion protocol for most or all of the week, but Higgins is day-to-day and could play, so the 'both out' condition is still unresolved.",
   "condition": "Chase and Higgins both out",
   "confidence": 2,
   "espnId": "3116164",
@@ -1893,8 +1959,8 @@
  },
  {
   "id": "2026-10-05-nfl-06",
-  "analysis": "Ladd McConkey was ruled out in Week 4 with a foot injury, and Johnston is the beneficiary in the main route tree. He had a 44-yard desperation completion in the Seahawks game, and Herbert threw for only 189 yards that day. Denver lost corners Patrick Surtain II (ankle) and Riley Moss (ribs) in Week 4 per earlier reports. The Broncos are -3.5 road favorites with a low 42.5 total, which limits overall volume. I could not find a posted yardage line or Johnston's season splits, so no numeric projection is given. Main risk is a slow-paced game and McConkey's status changing.",
-  "confidence": 3,
+  "analysis": "Ladd McConkey was ruled out in Week 4 with a foot injury, and Johnston is the beneficiary in the main route tree. He had a 44-yard desperation completion in the Seahawks game, and Herbert threw for only 189 yards that day. Denver lost corners Patrick Surtain II (ankle) and Riley Moss (ribs) in Week 4 per earlier reports. The Broncos are -3.5 road favorites with a low 42.5 total, which limits overall volume. I could not find a posted yardage line or Johnston's season splits, so no numeric projection is given. Main risk is a slow-paced game and McConkey's status changing. Monday-evening update: Johnston's 2026 game log shows 7 catches for 108 yards over four games (27 yards a game) on 19 targets, so I project about 30 yards with a small bump if McConkey sits. That makes More only playable against a low line (under about 28), and confidence drops to 1.",
+  "confidence": 1,
   "espnId": "4429025",
   "game": "DEN @ LAC",
   "gameTime": "Sun 10/11",
@@ -1902,6 +1968,10 @@
   "newsTag": "McConkey + Broncos CB injuries",
   "player": "Quentin Johnston",
   "position": "WR",
+  "projection": {
+   "basis": "108 yds in 4 games (27/g) on 19 targets; small bump if McConkey out",
+   "value": "30 yds"
+  },
   "side": "More",
   "sources": [
    {
@@ -1911,6 +1981,10 @@
    {
     "title": "Dimers: Broncos vs Chargers early prediction",
     "url": "https://www.dimers.com/nfl/news/denver-broncos-vs-los-angeles-chargers-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "FantasyPros: Quentin Johnston game log",
+    "url": "https://www.fantasypros.com/nfl/games/quentin-johnston.php"
    }
   ],
   "sport": "nfl",
@@ -1957,7 +2031,7 @@
  },
  {
   "id": "2026-10-05-nfl-08",
-  "analysis": "Ekeler signed mid-week and entered the rotation while Rachaad White was inactive in Week 4, and White's Week 5 availability is still unconfirmed. Jacory Croskey-Merritt struggled, which opens a lead or passing-down role. With Daniels and Mariota both questionable, a backup QB tends to throw short, which helps a pass-catching back. Washington is a small home favorite (-2.5) with a total of 43.5, so the game should stay close. No line was found. The main risk is White returning and splitting snaps, in which case the pick is voided by its condition only if White plays, so watch the injury report.",
+  "analysis": "Ekeler signed mid-week and entered the rotation while Rachaad White was inactive in Week 4, and White's Week 5 availability is still unconfirmed. Jacory Croskey-Merritt struggled, which opens a lead or passing-down role. With Daniels and Mariota both questionable, a backup QB tends to throw short, which helps a pass-catching back. Washington is a small home favorite (-2.5) with a total of 43.5, so the game should stay close. No line was found. The main risk is White returning and splitting snaps, in which case the pick is voided by its condition only if White plays, so watch the injury report. Monday-evening update: Rachaad White (shoulder) is listed questionable after missing Week 4; Ekeler split the work with Croskey-Merritt last week.",
   "condition": "Rachaad White still out",
   "confidence": 2,
   "espnId": "3068267",
@@ -1980,6 +2054,10 @@
    {
     "title": "CBS: Jayden Daniels Week 5 update",
     "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/"
+   },
+   {
+    "title": "NBC Sports: Rachaad White ruled out (Week 4)",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-02/rachaad-white-shoulder-officially-ruled-out"
    }
   ],
   "sport": "nfl",
@@ -1992,32 +2070,33 @@
  },
  {
   "id": "2026-10-05-nfl-09",
-  "analysis": "Daniels is hopeful to return from his elbow injury but was only limited last week, and Mariota has a knee sprain being evaluated. If neither plays, rookie Athan Kaliakmanis would start; he went 15 of 33 for 186 yards with an interception against Indianapolis. This pick only applies if both are out, so it stays conditional. The spread is Washington -2.5 with a total of 43.5, implying a modest passing volume. No line was found. Risk: a late Daniels clearance voids it, and a game-script chase could inflate yardage.",
-  "condition": "Daniels and Mariota both out",
+  "analysis": "Jay Glazer reported Washington plans to start Daniels against the Giants after he missed two games with a dislocated left elbow, and Marcus Mariota now has an MCL sprain, so the old backup-QB pick no longer applied. Daniels' passing volume has been light in 2026: 18 of 34 for 164 yards against Philadelphia and 11 of 17 for 96 against Dallas, with much of his production coming as a runner (about 100 rushing yards over those two games). Teams tend to keep the plan simple in a quarterback's first game back from an arm injury. DraftKings has Washington -3 (moneyline -170), so they shouldn't be chasing points. I project about 185 yards, giving a little credit for the softer Giants matchup. No book line was posted yet. The main risk is a soft Giants secondary giving him his best passing day of the season.",
+  "condition": "Jayden Daniels starts",
   "confidence": 2,
+  "espnId": "4426348",
   "game": "NYG @ WSH",
   "gameTime": "Sun 10/11",
   "line": null,
-  "newsTag": "Commanders QB injuries",
-  "player": "Washington starting QB",
+  "newsTag": "Daniels returning",
+  "player": "Jayden Daniels",
   "position": "QB",
   "projection": {
-   "basis": "Backup QB (Kaliakmanis 15-33, 186 yds vs IND), low 43.5 total",
-   "value": "175 pass yds"
+   "basis": "164 and 96 pass yds in his 2 healthy games (130/g); bumped for NYG matchup",
+   "value": "185 pass yds"
   },
   "side": "Less",
   "sources": [
    {
-    "title": "Football Nation: Giants at Commanders Week 5 guide (Jameis Winston)",
-    "url": "https://www.footballnationusa.com/post/giants-at-commanders-week-5-guide-2026"
+    "title": "SI: Jayden Daniels injury update and Commanders odds",
+    "url": "https://www.si.com/betting/positive-jayden-daniels-injury-update-boosts-commanders-odds-vs-giants-in-nfl-week-5"
    },
    {
-    "title": "CBS: Jayden Daniels Week 5 update",
-    "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/"
+    "title": "FantasyPros: Jayden Daniels game log",
+    "url": "https://www.fantasypros.com/nfl/games/jayden-daniels.php"
    },
    {
-    "title": "Yardbarker: Daniels, Mariota Week 5 updates (Oct 5)",
-    "url": "https://www.yardbarker.com/nfl/articles/updates_emerge_on_jayden_daniels_marcus_mariota_for_week_5_game_vs_giants/s1_13132_44388827"
+    "title": "NFL.com: Monday Oct 5 news roundup (Mariota MCL)",
+    "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-monday-oct-5"
    }
   ],
   "sport": "nfl",
@@ -2026,7 +2105,7 @@
   "status": "pending",
   "team": "WSH",
   "week": "2026-10-05",
-  "why": "Daniels was inactive and Mariota hurt his knee in London, leaving rookie Athan Kaliakmanis. Terry McLaurin was also out."
+  "why": "Daniels threw for just 164 and 96 yards in his two healthy games this year and is coming back from a dislocated elbow. Less is the play if the line opens near 200 or higher."
  },
  {
   "id": "2026-10-05-nfl-10",
@@ -2288,7 +2367,7 @@
  },
  {
   "id": "2026-10-05-nfl-16",
-  "analysis": "Daniels threw for 148 yards with one touchdown and two interceptions in his first start, completing 19 of 27 with a 65.0 passer rating. Mayfield averaged 205 yards a start, so the drop-off is real. Dallas's defense has allowed 20+ points in every game and ranks bottom three in EPA per play, and Tampa Bay trailing by 10 points would raise attempts, which complicates the Less case. No passing line has posted yet. I project about 172 yards, a mild improvement on the debut for game-script volume. If the eventual line lands above about 185 the Less side is favorable; below ~165 it flips. Weakness is that Dallas's own defense is poor.",
+  "analysis": "Daniels threw for 148 yards with one touchdown and two interceptions in his first start, completing 19 of 27 with a 65.0 passer rating. Mayfield averaged 205 yards a start, so the drop-off is real. Dallas's defense has allowed 20+ points in every game and ranks bottom three in EPA per play, and Tampa Bay trailing by 10 points would raise attempts, which complicates the Less case. No passing line has posted yet. I project about 172 yards, a mild improvement on the debut for game-script volume. If the eventual line lands above about 185 the Less side is favorable; below ~165 it flips. Weakness is that Dallas's own defense is poor. Monday-evening update: Daniels is set to start (Mayfield doubtful). In his first start against Green Bay he went 19 of 27 for 148 yards with a TD and two INTs. DraftKings has Dallas -10 with a 47.5 total, so a trailing script could add attempts.",
   "condition": "Baker Mayfield out",
   "confidence": 2,
   "espnId": "4596472",
@@ -2315,6 +2394,10 @@
    {
     "title": "SI: Buccaneers vs. Cowboys prediction, odds, injuries",
     "url": "https://www.si.com/betting/buccaneers-vs-cowboys-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   },
+   {
+    "title": "NBC Sports: Jalon Daniels first start",
+    "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/jalon-daniels-throws-1-td-2-int-in-first-start"
    }
   ],
   "sport": "nfl",
@@ -2365,7 +2448,7 @@
  },
  {
   "id": "2026-10-05-nfl-18",
-  "analysis": "This game is in London (Tottenham Hotspur Stadium) with a 9:30 a.m. ET kickoff. Hurts threw for only 93 yards on 12 completions in the loss to the Rams, though he did throw two touchdowns to Darius Cooper, and Philadelphia went 0 for 12 on third down. DeVonta Smith was inactive in Week 4 and Saquon Barkley left after two carries with a hamstring injury, so the offense is thin. No passing line is posted yet. I project about 190 yards, above the 93 outlier but below a typical Hurts game because the skill group is depleted and Tank Bigsby (14-55) is carrying the run game. The Less stance depends on the line landing near or above 210; the risk is that a Jacksonville lead forces Hurts to throw more.",
+  "analysis": "This game is in London (Tottenham Hotspur Stadium) with a 9:30 a.m. ET kickoff. Hurts threw for only 93 yards on 12 completions in the loss to the Rams, though he did throw two touchdowns to Darius Cooper, and Philadelphia went 0 for 12 on third down. DeVonta Smith was inactive in Week 4 and Saquon Barkley left after two carries with a hamstring injury, so the offense is thin. No passing line is posted yet. I project about 190 yards, above the 93 outlier but below a typical Hurts game because the skill group is depleted and Tank Bigsby (14-55) is carrying the run game. The Less stance depends on the line landing near or above 210; the risk is that a Jacksonville lead forces Hurts to throw more. Monday-evening update: DeVonta Smith was described as questionable at best for London after missing Week 4, which keeps the condition alive.",
   "condition": "DeVonta Smith out or limited",
   "confidence": 3,
   "espnId": "4040715",
@@ -2392,6 +2475,10 @@
    {
     "title": "DAZN: Eagles vs Jaguars London 2026 (Tottenham Hotspur Stadium)",
     "url": "https://www.dazn.com/en-US/news/american-football/eagles-vs-jaguars-london-2026-tottenham-hotspur-stadium/17ytgqwf0xydx1sku3r4bb6l6b"
+   },
+   {
+    "title": "Inquirer: Barkley, DeVonta Smith injury updates",
+    "url": "https://www.inquirer.com/eagles/live/eagles-news-injury-report-next-game-saquon-barkley-lane-johnson-20261005.html"
    }
   ],
   "sport": "nfl",
@@ -2518,7 +2605,7 @@
  },
  {
   "id": "2026-10-05-nfl-22",
-  "analysis": "Odunze caught six of seven targets for 94 yards in the 23-12 win over the Jets with Tyson Bagent throwing 25 of 34 for 268. Caleb Williams has a grade 2 hamstring injury (3-4 week estimate), and Bears coach Ben Johnson has not set a timeline, so the pick is conditional on Bagent starting. The game kicks off at noon Central on Sunday at Lambeau. Green Bay is about a 2.5-point favorite (DraftKings) per Football Nation; no Odunze line yet. I projected 66 yards between his 94-yard game and a normal target share alongside Colston Loveland and Luther Burden III. Risk is Chicago leaning on Monangai and Swift.",
+  "analysis": "Odunze caught six of seven targets for 94 yards in the 23-12 win over the Jets with Tyson Bagent throwing 25 of 34 for 268. Caleb Williams has a grade 2 hamstring injury (3-4 week estimate), and Bears coach Ben Johnson has not set a timeline, so the pick is conditional on Bagent starting. The game kicks off at noon Central on Sunday at Lambeau. Green Bay is about a 2.5-point favorite (DraftKings) per Football Nation; no Odunze line yet. I projected 66 yards between his 94-yard game and a normal target share alongside Colston Loveland and Luther Burden III. Risk is Chicago leaning on Monangai and Swift. Monday-evening update: Ben Johnson confirmed Tyson Bagent starts again and Caleb Williams won't practice this week, so the condition is effectively met.",
   "condition": "Caleb Williams out",
   "confidence": 2,
   "espnId": "4431299",
@@ -2561,9 +2648,9 @@
  },
  {
   "id": "2026-10-05-nfl-23",
-  "analysis": "Swift ran 15 times for 58 yards with a fumble in Week 4 while Kyle Monangai handled 30 carries for 146 yards and two scores; Monangai hurt his thumb and his Week 5 status is in doubt per Ben Johnson. If Monangai is out or limited, Swift and Roschon Johnson would see more work. Green Bay allows about 138.7 rushing yards a game and lost linebacker Edgerrin Cooper (Achilles) for the year. No Swift line posted yet. I projected 62 yards assuming about 15 to 18 carries if Monangai sits; if Monangai plays full speed the projection drops sharply. Chicago ran 5.3 per carry as a team through three games, which supports a decent floor.",
+  "analysis": "Swift ran 15 times for 58 yards with a fumble in Week 4 while Kyle Monangai handled 30 carries for 146 yards and two scores; Monangai hurt his thumb and his Week 5 status is in doubt per Ben Johnson. If Monangai is out or limited, Swift and Roschon Johnson would see more work. Green Bay allows about 138.7 rushing yards a game and lost linebacker Edgerrin Cooper (Achilles) for the year. No Swift line posted yet. I projected 62 yards assuming about 15 to 18 carries if Monangai sits; if Monangai plays full speed the projection drops sharply. Chicago ran 5.3 per carry as a team through three games, which supports a decent floor. Monday-evening update: Ben Johnson said he expects Monangai (thumb) to be available at Green Bay, so this condition is now unlikely to be met and the pick will probably void.",
   "condition": "Kyle Monangai out or limited",
-  "confidence": 2,
+  "confidence": 1,
   "espnId": "4259545",
   "game": "CHI @ GB",
   "gameTime": "Sun 10/11",
@@ -2588,6 +2675,10 @@
    {
     "title": "SI: Kyle Monangai injury casts doubt on Week 5",
     "url": "https://www.si.com/nfl/bears/onsi/kyle-monangai-injury-update-from-ben-johnson-casts-doubt-on-bears-rb-s-week-5-status"
+   },
+   {
+    "title": "Bleacher Nation: Ben Johnson on Williams and Monangai",
+    "url": "https://www.bleachernation.com/bears/2026/10/05/bears-injury-notes/"
    }
   ],
   "sport": "nfl",
@@ -2638,7 +2729,7 @@
  },
  {
   "id": "2026-10-05-nfl-25",
-  "analysis": "Geno Smith threw for 119 yards on 15 attempts against Chicago in a game where the Jets managed little offense, after a 321-yard game against Detroit. Breece Hall (quad), Adonai Mitchell and Mason Taylor were all out in Week 4, thinning the pass game, and their Week 5 status is pending. The Jets are 1.5-point home favorites and the total is 40.5, a low-volume projection. Cleveland's pass rush recorded five sacks against Pittsburgh. No line was found. The risk is Smith's 75% completion rate keeping drives alive if the receivers return.",
+  "analysis": "Geno Smith threw for 119 yards on 15 attempts against Chicago in a game where the Jets managed little offense, after a 321-yard game against Detroit. Breece Hall (quad), Adonai Mitchell and Mason Taylor were all out in Week 4, thinning the pass game, and their Week 5 status is pending. The Jets are 1.5-point home favorites and the total is 40.5, a low-volume projection. Cleveland's pass rush recorded five sacks against Pittsburgh. No line was found. The risk is Smith's 75% completion rate keeping drives alive if the receivers return. Monday-evening update: Geno Smith is confirmed as the Jets' starter, and FanDuel's 40.5 total is one of the lowest of the week.",
   "confidence": 3,
   "espnId": "15864",
   "game": "CLE @ NYJ",
@@ -2676,7 +2767,7 @@
  },
  {
   "id": "2026-10-05-nfl-26",
-  "analysis": "Watson has 855 yards and 6 touchdowns on 115 attempts through three games and threw for 268 yards against Pittsburgh. The Jets' defense was just gashed by Chicago for 492 total yards, but Football Nation rates the New York pass defense as a strength. Cleveland has Quinshon Judkins running (177 yards on 59 carries) and Denzel Boston plus Harold Fannin as targets. Tylan Wallace was out in Week 4. The total is a low 40.5. No line was found. Risk: a run-heavy script keeps his yardage down.",
+  "analysis": "Watson has 855 yards and 6 touchdowns on 115 attempts through three games and threw for 268 yards against Pittsburgh. The Jets' defense was just gashed by Chicago for 492 total yards, but Football Nation rates the New York pass defense as a strength. Cleveland has Quinshon Judkins running (177 yards on 59 carries) and Denzel Boston plus Harold Fannin as targets. Tylan Wallace was out in Week 4. The total is a low 40.5. No line was found. Risk: a run-heavy script keeps his yardage down. Monday-evening update: Watson is confirmed as Cleveland's starter, but FanDuel's 40.5 game total is low for a 245-yard projection.",
   "confidence": 2,
   "game": "CLE @ NYJ",
   "gameTime": "Sun 10/11",
@@ -3145,7 +3236,7 @@
  },
  {
   "id": "2026-10-05-nfl-39",
-  "analysis": "Hampton scored a two-yard rushing touchdown against Seattle but his carry share fell to a season-low 28% in Week 4, with Keaton Mitchell out-carrying him. The Chargers' offensive line is badly depleted. Denver is a 3.5-point favorite on a 42.5 total, which suggests a low-scoring game and likely a trailing script for LA. No rushing line was found, so no numeric projection is given. Risk is that touchdown-driven volume or a game script reversal lifts his carries.",
+  "analysis": "Hampton scored a two-yard rushing touchdown against Seattle but his carry share fell to a season-low 28% in Week 4, with Keaton Mitchell out-carrying him. The Chargers' offensive line is badly depleted. Denver is a 3.5-point favorite on a 42.5 total, which suggests a low-scoring game and likely a trailing script for LA. No rushing line was found, so no numeric projection is given. Risk is that touchdown-driven volume or a game script reversal lifts his carries. Monday-evening update: Hampton's first three games went 12-43, 23-94 and 15-56 (64 yards a game, 3.9 per carry) before his carry share dropped in Week 4. With right tackle Rashawn Slater now out with a high ankle sprain and a tough Denver front, I project about 56 yards.",
   "confidence": 3,
   "espnId": "4685382",
   "game": "DEN @ LAC",
@@ -3154,6 +3245,10 @@
   "newsTag": "Committee + OL injuries",
   "player": "Omarion Hampton",
   "position": "RB",
+  "projection": {
+   "basis": "64.3 yds/g Wks 1-3 on 3.9 ypc; Wk4 share fell; Slater out; DEN run D",
+   "value": "56 yds"
+  },
   "side": "Less",
   "sources": [
    {
@@ -3167,6 +3262,10 @@
    {
     "title": "Dimers: Broncos vs Chargers early prediction",
     "url": "https://www.dimers.com/nfl/news/denver-broncos-vs-los-angeles-chargers-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "FantasyPros: Omarion Hampton game log",
+    "url": "https://www.fantasypros.com/nfl/games/omarion-hampton.php"
    }
   ],
   "sport": "nfl",
@@ -3179,7 +3278,7 @@
  },
  {
   "id": "2026-10-05-nfl-40",
-  "analysis": "Harris had a 21-yard catch in the Seahawks game and is a candidate for extra targets if McConkey is out, which keeps the condition active. Denver's secondary is weakened by the Surtain and Moss injuries. The 42.5 total is low, though, and Herbert's passing output was 189 yards in Week 4. No line found for Harris. Condition stays until McConkey's status is announced.",
+  "analysis": "Harris had a 21-yard catch in the Seahawks game and is a candidate for extra targets if McConkey is out, which keeps the condition active. Denver's secondary is weakened by the Surtain and Moss injuries. The 42.5 total is low, though, and Herbert's passing output was 189 yards in Week 4. No line found for Harris. Condition stays until McConkey's status is announced. Monday-evening update: Harris went 3-20, 1-53 and 6-76 over Weeks 1-3 (about 50 yards a game) with his targets rising. McConkey left the Seattle game with the same foot injury and there was no Monday update, so I project about 52 yards, closer to 58 if McConkey is ruled out.",
   "condition": "Ladd McConkey out",
   "confidence": 2,
   "espnId": "4686612",
@@ -3189,6 +3288,10 @@
   "newsTag": "McConkey, Surtain out",
   "player": "Tre' Harris",
   "position": "WR",
+  "projection": {
+   "basis": "49.7 yds/g Wks 1-3 on rising targets; ~58 if McConkey out",
+   "value": "52 yds"
+  },
   "side": "More",
   "sources": [
    {
@@ -3202,6 +3305,10 @@
    {
     "title": "Dimers: Broncos vs Chargers early prediction",
     "url": "https://www.dimers.com/nfl/news/denver-broncos-vs-los-angeles-chargers-early-prediction-nfl-week-5-2026-ac"
+   },
+   {
+    "title": "FantasyPros: Tre' Harris game log",
+    "url": "https://www.fantasypros.com/nfl/games/tre-harris.php"
    }
   ],
   "sport": "nfl",
@@ -3447,7 +3554,7 @@
  },
  {
   "id": "2026-10-05-nfl-47",
-  "analysis": "Flowers caught six passes for 119 yards and a touchdown in the first half Sunday, all with Jackson at quarterback. If Jackson is out and Tyler Huntley starts, the passing game likely shrinks while Henry gets more work. The spread shifted toward Atlanta after the injury report and the total is 46.5. No line was found. I project around 55 yards as a Huntley-led outcome. The condition remains until Jackson's status is known.",
+  "analysis": "Flowers caught six passes for 119 yards and a touchdown in the first half Sunday, all with Jackson at quarterback. If Jackson is out and Tyler Huntley starts, the passing game likely shrinks while Henry gets more work. The spread shifted toward Atlanta after the injury report and the total is 46.5. No line was found. I project around 55 yards as a Huntley-led outcome. The condition remains until Jackson's status is known. Monday-evening update: Jackson's MRI result still wasn't public; Minter didn't think it would be long-term. Condition stays open.",
   "condition": "Lamar Jackson out",
   "confidence": 2,
   "espnId": "4429615",
@@ -3474,6 +3581,10 @@
    {
     "title": "Yahoo: Lamar Jackson ankle MRI",
     "url": "https://sports.yahoo.com/articles/ravens-qb-lamar-jackson-undergo-120540271.html"
+   },
+   {
+    "title": "PFT: Minter unsure of Lamar Jackson for Week 5",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jesse-minter-unsure-of-lamar-jacksons-availability-for-week-5-vs-falcons"
    }
   ],
   "sport": "nfl",
@@ -3562,7 +3673,7 @@
  },
  {
   "id": "2026-10-05-nfl-50",
-  "analysis": "DJ Moore has an AC joint sprain from Week 2, aggravated in Week 4, and has been unable to finish two of four games; Adam Schefter said it is not considered long term. Coleman went over 100 receiving yards with a fourth-quarter touchdown after Moore left. The Rams are 2.5-point home favorites on a 53.5 total, which is pass-friendly. No line was found. I project about 70 yards if Moore is out or limited; the condition stays until his status is announced.",
+  "analysis": "DJ Moore has an AC joint sprain from Week 2, aggravated in Week 4, and has been unable to finish two of four games; Adam Schefter said it is not considered long term. Coleman went over 100 receiving yards with a fourth-quarter touchdown after Moore left. The Rams are 2.5-point home favorites on a 53.5 total, which is pass-friendly. No line was found. I project about 70 yards if Moore is out or limited; the condition stays until his status is announced. Monday-evening update: DJ Moore aggravated his shoulder; it's not considered long-term, but his Week 5 status is still unclear.",
   "condition": "DJ Moore out or limited",
   "confidence": 2,
   "espnId": "4635008",
@@ -3589,6 +3700,10 @@
    {
     "title": "Yahoo: Winners and losers, Bills vs Patriots",
     "url": "https://sports.yahoo.com/articles/two-winners-three-losers-bills-015606127.html"
+   },
+   {
+    "title": "CBS: DJ Moore injury not considered long-term",
+    "url": "https://www.cbssports.com/fantasy/football/news/bills-dj-moore-injury-not-considered-long-term/"
    }
   ],
   "sport": "nfl",
@@ -3601,7 +3716,7 @@
  },
  {
   "id": "2026-10-05-nfl-51",
-  "analysis": "Prescott went 32 of 45 for 335 yards in the 34-30 win over Houston, where Dallas was chasing a halftime deficit. Thursday's script is the opposite: Dallas is a 10-point home favorite over an 0-4 Buccaneers team starting undrafted rookie Jalon Daniels, so the Cowboys should lead and lean on Javonte Williams late. Dallas's defense is bottom three in EPA per play and the over is 4-0 in their games, which keeps scoring high. No prop line was found. I projected about 268 yards, between his Week 4 volume and a lead-driven drop in attempts. Main risk is Tampa Bay hanging around and Dallas keeping throwing.",
+  "analysis": "Prescott went 32 of 45 for 335 yards in the 34-30 win over Houston, where Dallas was chasing a halftime deficit. Thursday's script is the opposite: Dallas is a 10-point home favorite over an 0-4 Buccaneers team starting undrafted rookie Jalon Daniels, so the Cowboys should lead and lean on Javonte Williams late. Dallas's defense is bottom three in EPA per play and the over is 4-0 in their games, which keeps scoring high. No prop line was found. I projected about 268 yards, between his Week 4 volume and a lead-driven drop in attempts. Main risk is Tampa Bay hanging around and Dallas keeping throwing. Monday-evening update: With Dallas a 10-point favorite at DraftKings, a run-heavy second half helps Less, but Dallas is 4-0 to the over, so confidence stays modest.",
   "confidence": 2,
   "espnId": "2577417",
   "game": "TB @ DAL",
@@ -3707,7 +3822,7 @@
  },
  {
   "id": "2026-10-05-nfl-54",
-  "analysis": "Burrow went 39 of 54 for 428 yards with one touchdown and two interceptions in the 22-17 loss to Jacksonville. Chase is entering concussion protocol and Higgins has a groin strain, and Cincinnati only has about four healthy receivers (Colbie Young is out), so the passing volume may stay high but with a lower-quality target group. Miami's offense is run-centered with Ollie Gordon II after Achane's ACL tear, which should keep the game low in possessions. No line was found. I project 300 yards, discounting the 54-attempt game and the receiver injuries. Main risk is a Chase/Higgins absence leaving Burrow with a limited set of targets, and Miami playing keep-away.",
+  "analysis": "Burrow went 39 of 54 for 428 yards with one touchdown and two interceptions in the 22-17 loss to Jacksonville. Chase is entering concussion protocol and Higgins has a groin strain, and Cincinnati only has about four healthy receivers (Colbie Young is out), so the passing volume may stay high but with a lower-quality target group. Miami's offense is run-centered with Ollie Gordon II after Achane's ACL tear, which should keep the game low in possessions. No line was found. I project 300 yards, discounting the 54-attempt game and the receiver injuries. Main risk is a Chase/Higgins absence leaving Burrow with a limited set of targets, and Miami playing keep-away. Monday-evening update: Chase is likely out (concussion protocol) and Higgins is day-to-day; Cincinnati still threw for 428 yards in Week 4 with a thin receiver room, so the lean stands with a little more risk.",
   "confidence": 2,
   "espnId": "3915511",
   "game": "CIN @ MIA",
@@ -3733,6 +3848,10 @@
    {
     "title": "Yahoo: 5 takeaways from Dolphins' loss to Vikings",
     "url": "https://sports.yahoo.com/articles/5-takeaways-dolphins-15-10-003605260.html"
+   },
+   {
+    "title": "SI: Zac Taylor on Chase and Higgins injuries",
+    "url": "https://www.si.com/nfl/bengals/onsi/zac-taylor-updates-injuries-to-ja-marr-chase-and-tee-higgins-after-bengals-loss-01m45vrpdk39"
    }
   ],
   "sport": "nfl",
@@ -3745,7 +3864,7 @@
  },
  {
   "id": "2026-10-05-nfl-55",
-  "analysis": "Saquon Barkley carried twice for 8 yards before leaving with a hamstring injury, and Tank Bigsby took over with 14 carries for 55 yards. If Barkley sits in London, Bigsby is the lead back for an Eagles offense that also lacked DeVonta Smith. No rushing line was posted. I project 58 yards on roughly 14 carries at a 4.1 clip, matching Week 4's role. The condition (Barkley out) is not yet confirmed, so this pick only applies if Barkley misses the game. Risk is a split with another back or Jalen Hurts scrambles absorbing carries.",
+  "analysis": "Saquon Barkley carried twice for 8 yards before leaving with a hamstring injury, and Tank Bigsby took over with 14 carries for 55 yards. If Barkley sits in London, Bigsby is the lead back for an Eagles offense that also lacked DeVonta Smith. No rushing line was posted. I project 58 yards on roughly 14 carries at a 4.1 clip, matching Week 4's role. The condition (Barkley out) is not yet confirmed, so this pick only applies if Barkley misses the game. Risk is a split with another back or Jalen Hurts scrambles absorbing carries. Monday-evening update: Ian Rapoport reported Barkley's hamstring isn't viewed as overly serious and Sirianni will update Wednesday, so the condition now leans toward not being met (pick would void).",
   "condition": "Saquon Barkley out",
   "confidence": 2,
   "espnId": "4429013",
@@ -3772,6 +3891,10 @@
    {
     "title": "DAZN: Eagles vs Jaguars London 2026 (Tottenham Hotspur Stadium)",
     "url": "https://www.dazn.com/en-US/news/american-football/eagles-vs-jaguars-london-2026-tottenham-hotspur-stadium/17ytgqwf0xydx1sku3r4bb6l6b"
+   },
+   {
+    "title": "Inquirer: Barkley, DeVonta Smith injury updates",
+    "url": "https://www.inquirer.com/eagles/live/eagles-news-injury-report-next-game-saquon-barkley-lane-johnson-20261005.html"
    }
   ],
   "sport": "nfl",
@@ -4643,6 +4766,171 @@
   "why": "Kaprizov has 3 goals in 2 games."
  },
  {
+  "id": "2026-10-05-nhl-15",
+  "analysis": "Kucherov finished 2025-26 with 44 goals and 86 assists and has carried that into this season with a point in each of his latest two games. He runs Tampa's top power play and is the most reliable per-game points producer on Thursday's slate. Minnesota plays a structured defensive game, so I trim his 1.71 rate to about 1.6. No line was posted yet. Against a 0.5 line the edge is wide; at 1.5 it needs a multi-point night. The main risk is a low-event game against a strong defensive team.",
+  "confidence": 2,
+  "game": "MIN @ TBL",
+  "gameTime": "Thu 10/8",
+  "line": null,
+  "newsTag": "Elite points rate",
+  "player": "Nikita Kucherov",
+  "position": "F",
+  "projection": {
+   "basis": "130 pts in 76 GP in 2025-26 (1.71/gp), shaded for MIN defense",
+   "value": "1.6 pts"
+  },
+  "side": "More",
+  "sources": [
+   {
+    "title": "NHL.com API: Kucherov player page",
+    "url": "https://api-web.nhle.com/v1/player/8476453/landing"
+   },
+   {
+    "title": "NHL schedule, Oct 8",
+    "url": "https://api-web.nhle.com/v1/schedule/2026-10-08"
+   }
+  ],
+  "sport": "nhl",
+  "startTime": "2026-10-08T19:00:00-04:00",
+  "stat": "Points",
+  "status": "pending",
+  "team": "TBL",
+  "week": "2026-10-05",
+  "why": "Kucherov scored 130 points in 76 games last season (1.71 per game) and has a point in each of his latest two games."
+ },
+ {
+  "id": "2026-10-05-nhl-16",
+  "analysis": "Matthews is still Toronto's volume shooter: 227 shots in 60 games last season and six in his game against Ottawa. His last three games went 3, 1 and 6 shots, so the swings are real. I project about 3.8 shots, a slight edge if the line is 3.5. No line was posted yet. This is his second shots pick of the week (Tuesday vs Nashville), so the two are correlated. The main risks are a tight-checking game in Vegas and how his workload is managed after a 60-game season.",
+  "confidence": 2,
+  "game": "TOR @ VGK",
+  "gameTime": "Thu 10/8",
+  "line": null,
+  "newsTag": "High shot volume",
+  "player": "Auston Matthews",
+  "position": "F",
+  "projection": {
+   "basis": "227 SOG in 60 GP 2025-26 (3.78/gp); last 3 games 3, 1, 6",
+   "value": "3.8 SOG"
+  },
+  "side": "More",
+  "sources": [
+   {
+    "title": "NHL.com API: Matthews player page",
+    "url": "https://api-web.nhle.com/v1/player/8479318/landing"
+   },
+   {
+    "title": "NHL schedule, Oct 8",
+    "url": "https://api-web.nhle.com/v1/schedule/2026-10-08"
+   }
+  ],
+  "sport": "nhl",
+  "startTime": "2026-10-08T22:00:00-04:00",
+  "stat": "Shots on goal",
+  "status": "pending",
+  "team": "TOR",
+  "week": "2026-10-05",
+  "why": "Matthews averaged 3.78 shots per game last season (227 in 60 games) and had six shots against Ottawa on Oct. 3."
+ },
+ {
+  "id": "2026-10-05-nhl-17",
+  "analysis": "Eichel finished last season with 27 goals and 63 assists and remains Vegas' main playmaker at even strength and on the power play. He comes in hot with five assists across his last three games. At home against a Toronto team that trades chances, there should be plenty of setups. A 0.85-per-game assist rate works out to roughly a 56% chance of at least one. No line was posted yet; this lean assumes 0.5. The main risk is a quiet power-play night, or Eichel finishing chances himself instead of setting them up.",
+  "confidence": 3,
+  "game": "TOR @ VGK",
+  "gameTime": "Thu 10/8",
+  "line": null,
+  "newsTag": "Hot playmaker",
+  "player": "Jack Eichel",
+  "position": "F",
+  "projection": {
+   "basis": "63 A in 74 GP 2025-26 (0.85/gp); 5 A in last 3 games",
+   "value": "1+ assist (56%)"
+  },
+  "side": "More",
+  "sources": [
+   {
+    "title": "NHL.com API: Eichel player page",
+    "url": "https://api-web.nhle.com/v1/player/8478403/landing"
+   },
+   {
+    "title": "NHL schedule, Oct 8",
+    "url": "https://api-web.nhle.com/v1/schedule/2026-10-08"
+   }
+  ],
+  "sport": "nhl",
+  "startTime": "2026-10-08T22:00:00-04:00",
+  "stat": "Assists",
+  "status": "pending",
+  "team": "VGK",
+  "week": "2026-10-05",
+  "why": "Eichel had 63 assists in 74 games last season (0.85 per game) and has five assists over his last three games."
+ },
+ {
+  "id": "2026-10-05-nhl-18",
+  "analysis": "Bedard took a big step in 2025-26 with 30 goals, 45 assists and 226 shots in 69 games. He centers Chicago's top line and power-play unit, so most of the team's offense runs through him. The Islanders are a disciplined defensive team that will focus on him, so I project about 1.0 point, still above a 0.5 line. No line was posted yet. The main risks are a low-scoring road game and Chicago's thin supporting cast limiting his assists.",
+  "confidence": 2,
+  "game": "CHI @ NYI",
+  "gameTime": "Thu 10/8",
+  "line": null,
+  "newsTag": "Top-line usage",
+  "player": "Connor Bedard",
+  "position": "F",
+  "projection": {
+   "basis": "75 pts in 69 GP 2025-26 (1.09/gp), trimmed vs NYI",
+   "value": "1.0 pts"
+  },
+  "side": "More",
+  "sources": [
+   {
+    "title": "NHL.com API: Bedard player page",
+    "url": "https://api-web.nhle.com/v1/player/8484144/landing"
+   },
+   {
+    "title": "NHL schedule, Oct 8",
+    "url": "https://api-web.nhle.com/v1/schedule/2026-10-08"
+   }
+  ],
+  "sport": "nhl",
+  "startTime": "2026-10-08T19:30:00-04:00",
+  "stat": "Points",
+  "status": "pending",
+  "team": "CHI",
+  "week": "2026-10-05",
+  "why": "Bedard had 75 points in 69 games last season (1.09 per game) and drives Chicago's top line and power play."
+ },
+ {
+  "id": "2026-10-05-nhl-19",
+  "analysis": "Makar quarterbacks Colorado's top power play and finished last season with 20 goals and 59 assists. He has a goal and two assists in his last two games. Calgary is one of the weaker teams on the slate, but Colorado plays at Winnipeg on Wednesday, so this is the second night of a back-to-back. I trim his rate to about 0.95. No line was posted yet; the lean assumes 0.5. The main risks are fatigue and goals that come from the forwards without Makar touching the puck.",
+  "confidence": 2,
+  "game": "COL @ CGY",
+  "gameTime": "Thu 10/8",
+  "line": null,
+  "newsTag": "PP1 quarterback",
+  "player": "Cale Makar",
+  "position": "D",
+  "projection": {
+   "basis": "79 pts in 75 GP 2025-26 (1.05/gp); back-to-back after WPG",
+   "value": "0.95 pts"
+  },
+  "side": "More",
+  "sources": [
+   {
+    "title": "NHL.com API: Makar player page",
+    "url": "https://api-web.nhle.com/v1/player/8480069/landing"
+   },
+   {
+    "title": "NHL schedule, Oct 8",
+    "url": "https://api-web.nhle.com/v1/schedule/2026-10-08"
+   }
+  ],
+  "sport": "nhl",
+  "startTime": "2026-10-08T21:00:00-04:00",
+  "stat": "Points",
+  "status": "pending",
+  "team": "COL",
+  "week": "2026-10-05",
+  "why": "Makar had 79 points in 75 games last season (1.05 per game) and three points in his last two games."
+ },
+ {
   "id": "2026-10-05-wnba-01",
   "analysis": "Stewart scored 19 in Game 1 with 2 rebounds, 3 assists, 3 blocks and 3 steals, short of the 22.5 posted line. Her first-round sweep games included 34 and 21. Atlanta's last five games show a 90.5 defensive rating and 74 points allowed per game, and the Dream controlled the second half 32-15 in the third quarter. New York is without Satou Sabally and Xu Han was questionable, so she should carry a heavy shot load, which keeps the ceiling high. The Game 2 line was not yet posted when I checked; the Game 1 number was 22.5 across SI and Bleacher Nation. My projection is about 21.5, slightly under that line, because of Atlanta's defense and her recent mix of big and ordinary scoring games. The main risk is a big-usage bounce-back night when New York is desperate.",
   "confidence": 2,
@@ -4692,7 +4980,7 @@
  },
  {
   "id": "2026-10-05-wnba-02",
-  "analysis": "Canada scored 25 points in Game 1, 20 of them in the second half, adding 4 assists and 5 steals. She has now reached double figures in five straight games. Allisha Gray played only 11 minutes (7 points) before leaving with a left hand injury and neither the AJC nor FOX 5 report gave a severity or status for Game 2. If Gray is out or limited, Canada's minutes and shots should hold or rise. The Game 1 line was 11.5 and the Game 2 number was not yet posted. I project about 15 given the recent form, with some regression from the 13-of-20 shooting game. The main risk is that the 25 was inflated and Atlanta spreads scoring with Bonner, Reese and Howard.",
+  "analysis": "Canada scored 25 points in Game 1, 20 of them in the second half, adding 4 assists and 5 steals. She has now reached double figures in five straight games. Allisha Gray played only 11 minutes (7 points) before leaving with a left hand injury and neither the AJC nor FOX 5 report gave a severity or status for Game 2. If Gray is out or limited, Canada's minutes and shots should hold or rise. The Game 1 line was 11.5 and the Game 2 number was not yet posted. I project about 15 given the recent form, with some regression from the 13-of-20 shooting game. The main risk is that the 25 was inflated and Atlanta spreads scoring with Bonner, Reese and Howard. Monday-evening update: Gray hurt two fingers on her shooting hand and her Game 2 status is still uncertain, so the condition is open.",
   "condition": "Allisha Gray out or limited",
   "confidence": 3,
   "espnId": "3142250",
@@ -4875,7 +5163,7 @@
  },
  {
   "id": "2026-10-05-wnba-06",
-  "analysis": "Wilson finished Game 1 with 24 points and 4 rebounds as Las Vegas lost 71-60 and was outrebounded 52-25 with 17 Golden State offensive boards producing 20 points. Chelsea Gray added 16 and Jackie Young 11 points with 5 assists. I could not find a posted Game 2 points line, so the line is left null. My projection leans on her series and season track record: she averaged about 32 points in the first round and 12.7 rebounds against Golden State in the regular season. Regression toward those averages is likely for a must-win game. Main risks are Kiah Stokes and Golden State's rebounding size repeating the Game 1 pattern and a low-possession game. Start time: Chase Center (Mission Local; ESPN/CBS did not confirm), listed 6:30 PM, taken as Pacific time.",
+  "analysis": "Wilson finished Game 1 with 24 points and 4 rebounds as Las Vegas lost 71-60 and was outrebounded 52-25 with 17 Golden State offensive boards producing 20 points. Chelsea Gray added 16 and Jackie Young 11 points with 5 assists. I could not find a posted Game 2 points line, so the line is left null. My projection leans on her series and season track record: she averaged about 32 points in the first round and 12.7 rebounds against Golden State in the regular season. Regression toward those averages is likely for a must-win game. Main risks are Kiah Stokes and Golden State's rebounding size repeating the Game 1 pattern and a low-possession game. Start time: Chase Center (Mission Local; ESPN/CBS did not confirm), listed 6:30 PM, taken as Pacific time. Monday-evening update: Jewell Loyd's left leg injury from Game 1 could push more shots to Wilson if Loyd sits.",
   "confidence": 3,
   "espnId": "3149391",
   "game": "LV @ GS · Semis G2",
@@ -4901,6 +5189,10 @@
    {
     "title": "Mission Local: Valkyries take Game 1 vs Aces (Kiah Stokes)",
     "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
+   },
+   {
+    "title": "Valkyries deal Aces Game 1 loss (Loyd injury)",
+    "url": "https://www.rawchili.com/5115475/"
    }
   ],
   "sport": "wnba",
@@ -5123,7 +5415,7 @@
  },
  {
   "id": "2026-10-05-wnba-12",
-  "analysis": "Chelsea Gray scored 16 points with 4 rebounds and 3 assists in Game 1, Las Vegas's second-best scorer behind Wilson. No line was posted when I checked, so it is left blank. I project about 14, and a line near 11 to 12 would favor More. Las Vegas needs scoring around Wilson after a 60-point output. Risk is Golden State's defense and low-pace game.",
+  "analysis": "Chelsea Gray scored 16 points with 4 rebounds and 3 assists in Game 1, Las Vegas's second-best scorer behind Wilson. No line was posted when I checked, so it is left blank. I project about 14, and a line near 11 to 12 would favor More. Las Vegas needs scoring around Wilson after a 60-point output. Risk is Golden State's defense and low-pace game. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated, and Stephanie Talbot is also out. If Loyd misses time, more guard usage shifts to Gray.",
   "confidence": 2,
   "espnId": "2529122",
   "game": "LV @ GS · Semis G2",
@@ -5145,6 +5437,10 @@
    {
     "title": "Mission Local: Valkyries take Game 1 vs Aces",
     "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
+   },
+   {
+    "title": "Valkyries deal Aces Game 1 loss (Loyd injury)",
+    "url": "https://www.rawchili.com/5115475/"
    }
   ],
   "sport": "wnba",
@@ -5157,7 +5453,7 @@
  },
  {
   "id": "2026-10-05-wnba-13",
-  "analysis": "Jackie Young scored 11 with 5 assists, 4 rebounds and 3 steals in Game 1. No line was posted when I checked. I project 15 on a rebound from a quiet scoring night in a must-win game. Risk is Golden State's size and defensive pressure keeping her to shots outside the paint.",
+  "analysis": "Jackie Young scored 11 with 5 assists, 4 rebounds and 3 steals in Game 1. No line was posted when I checked. I project 15 on a rebound from a quiet scoring night in a must-win game. Risk is Golden State's size and defensive pressure keeping her to shots outside the paint. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated. If Loyd misses time, Young's shot share should grow.",
   "confidence": 2,
   "espnId": "4065870",
   "game": "LV @ GS · Semis G2",
@@ -5179,6 +5475,10 @@
    {
     "title": "Mission Local: Valkyries take Game 1 vs Aces",
     "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
+   },
+   {
+    "title": "Valkyries deal Aces Game 1 loss (Loyd injury)",
+    "url": "https://www.rawchili.com/5115475/"
    }
   ],
   "sport": "wnba",
@@ -5250,7 +5550,7 @@
    }
   ],
   "sport": "wnba",
-  "startTime": null,
+  "startTime": "2026-10-09T19:30:00-04:00",
   "stat": "Points",
   "status": "pending",
   "team": "NY",
@@ -5284,7 +5584,7 @@
    }
   ],
   "sport": "wnba",
-  "startTime": null,
+  "startTime": "2026-10-09T21:30:00-04:00",
   "stat": "Points",
   "status": "pending",
   "team": "LV",
@@ -5318,11 +5618,44 @@
    }
   ],
   "sport": "wnba",
-  "startTime": null,
+  "startTime": "2026-10-09T19:30:00-04:00",
   "stat": "Points",
   "status": "pending",
   "team": "ATL",
   "week": "2026-10-05",
   "why": "Canada has scored in double figures five straight games including 25 in Game 1."
+ },
+ {
+  "id": "2026-10-05-wnba-18",
+  "analysis": "Young was quiet in the Game 1 loss, when Las Vegas shot 33.9% against Golden State's defense. She averaged 23.3 points against Indiana in the first round and 23.7 on efficient shooting in three regular-season games against the Valkyries. Jewell Loyd left Game 1 with a left leg injury and Stephanie Talbot is out, which puts more of the guard scoring on Young and Chelsea Gray. Game 3 moves to Las Vegas, where the Aces usually shoot better. Lineups listed her at 18.5 points before Game 1 (no book named), and I project about 20. The main risk is another grinding, low-scoring game against the Valkyries' physical defense.",
+  "confidence": 2,
+  "game": "GS @ LV · Semis G3",
+  "gameTime": "Fri 10/9",
+  "line": null,
+  "newsTag": "Loyd injury boost",
+  "player": "Jackie Young",
+  "position": "G",
+  "projection": {
+   "basis": "23.3 ppg in Round 1; 23.7 ppg vs GS in regular season; Loyd injury",
+   "value": "20 pts"
+  },
+  "side": "More",
+  "sources": [
+   {
+    "title": "Lineups: WNBA playoff props (Oct 3)",
+    "url": "https://www.lineups.com/articles/best-wnba-playoffs-props-today-breanna-stewart-allisha-gray-and-jackie-young-best-bets/"
+   },
+   {
+    "title": "Valkyries deal Aces Game 1 loss (Loyd injury)",
+    "url": "https://www.rawchili.com/5115475/"
+   }
+  ],
+  "sport": "wnba",
+  "startTime": "2026-10-09T21:30:00-04:00",
+  "stat": "Points",
+  "status": "pending",
+  "team": "LV",
+  "week": "2026-10-05",
+  "why": "Young averaged 23.3 points in the first round and 23.7 against Golden State in the regular season. If Jewell Loyd misses time, more shots go to her."
  }
 ]
