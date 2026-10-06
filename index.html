@@ -257,6 +257,54 @@ body.locked{overflow:hidden}
   .fcard .shot .ini{font-size:38px}
   .fname{font-size:24px}
 }
+
+/* ---------- Refinement pass ---------- */
+:root{--r:16px;--hair:color-mix(in srgb,var(--line) 70%,transparent)}
+body{letter-spacing:.005em}
+::selection{background:var(--amber);color:#1b1300}
+.board-in{padding-top:28px}
+.weekbox{align-items:flex-start;min-width:min(100%,260px)}
+.weekbox select{width:100%;max-width:100%;appearance:none;-webkit-appearance:none;background-image:linear-gradient(45deg,transparent 50%,currentColor 50%),linear-gradient(135deg,currentColor 50%,transparent 50%);background-position:calc(100% - 18px) 55%,calc(100% - 13px) 55%;background-size:5px 5px;background-repeat:no-repeat;padding-right:34px;text-overflow:ellipsis}
+#updated{font-size:12px;color:var(--board-muted)}
+.scores{border-radius:14px 14px 0 0}
+.score{padding:14px 16px 12px}
+.sec-h{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin:6px 0 12px}
+.sec-h h2{position:relative;padding-left:14px;font-size:24px;letter-spacing:.04em;margin:0}
+.sec-h h2::before{content:"";position:absolute;left:0;top:.18em;bottom:.12em;width:4px;border-radius:3px;background:var(--amber)}
+.tabsbar{box-shadow:0 8px 24px -20px rgba(0,0,0,.45)}
+.tab{transition:background .15s,border-color .15s,transform .15s}.tab:hover{border-color:var(--ink)}
+.q{transition:border-color .15s,box-shadow .15s}.q:focus{outline:none;border-color:var(--amber);box-shadow:0 0 0 3px color-mix(in srgb,var(--amber) 30%,transparent)}
+.card{border-radius:var(--r);box-shadow:0 1px 2px rgba(10,16,28,.04)}
+.card:hover{box-shadow:var(--shadow);transform:translateY(-1px)}
+.tcard{border-radius:var(--r);box-shadow:0 1px 2px rgba(10,16,28,.04);transition:box-shadow .15s,transform .15s}.tcard:hover{box-shadow:var(--shadow);transform:translateY(-1px)}
+.tgame{border-radius:var(--r)}
+.tdetail{border-radius:var(--r);box-shadow:var(--shadow)}
+.grade{box-shadow:inset 0 0 0 1px color-mix(in srgb,currentColor 25%,transparent)}
+/* player sheet */
+.sheet{max-width:720px;border-radius:22px 22px 0 0}
+@media (min-width:760px){.sheet-bg{align-items:center}.sheet{border-radius:22px;max-height:88vh}}
+.sh-top{grid-template-columns:104px minmax(0,1fr);min-height:0;border-bottom:1px solid var(--hair)}
+.sh-top .shot{border-radius:0 0 18px 0}
+.sh-head{padding:18px 56px 16px 18px;gap:8px}
+.sh-name{font-size:34px;letter-spacing:.01em}
+.sh-body{padding:18px 22px calc(26px + env(safe-area-inset-bottom,0px));gap:0}
+.sh-sec{padding:16px 0;border-bottom:1px solid var(--hair)}
+.sh-sec:last-child{border-bottom:0}
+.sh-sec h4{display:flex;align-items:center;gap:8px;color:var(--ink);opacity:.62;margin-bottom:10px}
+.sh-sec h4::before{content:"";width:14px;height:2px;background:var(--amber);border-radius:2px}
+.sh-case{font-size:15.5px;line-height:1.65;color:color-mix(in srgb,var(--ink) 92%,transparent)}
+.sh-facts{grid-template-columns:repeat(auto-fill,minmax(112px,1fr))}
+.fact{border-radius:12px;padding:9px 11px;background:var(--surface-2)}
+.fact b{display:block;margin-top:2px;font-size:15px;line-height:1.25;overflow-wrap:anywhere}.fact{min-width:0}
+.mkt span{border-radius:10px}
+.sh-close{box-shadow:0 2px 8px rgba(0,0,0,.12)}
+@media (max-width:620px){
+  .board-in{padding:20px 16px 0}.top{gap:14px}.weekbox{width:100%}
+  .tabsbar .q{order:3;flex:1 1 100%;margin-left:0}.tabsbar .jump{display:none}
+  .sec-h h2{font-size:21px}
+  .sh-top{grid-template-columns:84px minmax(0,1fr)}.sh-name{font-size:28px}
+  .sh-body{padding:14px 16px calc(22px + env(safe-area-inset-bottom,0px))}
+}
 </style>
 </head>
 <body>
@@ -279,7 +327,7 @@ body.locked{overflow:hidden}
   </div>
 </header>
 
-<nav class="tabsbar" aria-label="Sport filter"><div class="tabs" id="tabs"></div><input id="q" class="q" type="search" placeholder="Search any player, team, position or stat" aria-label="Search players" autocomplete="off"><a class="jump" href="#picks">Players ↓</a></nav>
+<nav class="tabsbar" aria-label="Sport filter"><div class="tabs" id="tabs"></div><input id="q" class="q" type="search" placeholder="Search players, teams, stats" aria-label="Search players" autocomplete="off"><a class="jump" href="#picks">Players ↓</a></nav>
 
 <div class="wrap">
   <section class="teams" id="teamsWrap" hidden><div class="sec-h"><h2>Team breakdown</h2><span id="teamsNote"></span></div><div id="teams"></div></section>
@@ -561,12 +609,12 @@ function openSheet(id){
       <div class="sh-name" id="shName">${esc(p.player)}</div>${prop(p)}</div>
       <button class="sh-close" type="button" data-close aria-label="Close">×</button></div>
     <div class="sh-body">
-      ${p.bio?`<section class="sh-sec"><h4>Player profile</h4><div class="sh-facts">${[["Height",p.bio.height],["Weight",p.bio.weight],["Age",p.bio.age],["Experience",p.bio.exp],["College / origin",p.bio.college],["Hand",p.bio.hand]].filter(([k,v])=>v).map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div></section>`:""}
       <section class="sh-sec"><h4>The case</h4><p class="sh-case">${esc(p.analysis||p.why)}</p></section>
       <section class="sh-sec"><div class="sh-facts">${facts.map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>${p.projection&&p.projection.basis?`<p class="sh-note" style="margin-top:6px">Projection based on: ${esc(p.projection.basis)}</p>`:""}</section>
       ${(p.projLine||[]).length?`<section class="sh-sec"><h4>What to expect this game</h4><div class="sh-facts">${p.projLine.map(x=>`<div class="fact"><small>${esc(x.stat)}</small><b>${esc(x.proj)}</b></div>`).join("")}</div>${p.projBasis?`<p class="sh-note" style="margin-top:6px">${esc(p.projBasis)}</p>`:""}</section>`:""}
       ${p.matchup?`<section class="sh-sec"><h4>Matchup vs the opposing players &amp; defense</h4><p class="sh-case">${esc(p.matchup)}</p>${p.teamOutlook?`<div class="sh-facts" style="margin-top:8px">${[["Team points scored",p.teamOutlook.scored],["Team points allowed",p.teamOutlook.allowed],["Defense",p.teamOutlook.defense]].filter(([k,v])=>v).map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>`:""}</section>`:""}
       ${p.history?`<section class="sh-sec"><h4>History vs ${esc(String(p.game||"").split(/\s*(?:@|vs\.?)\s*/).find(t=>t&&t.trim().toUpperCase()!==String(p.team||"").toUpperCase())||"the opponent")} &amp; what matters</h4><p class="sh-case">${esc(p.history)}</p></section>`:""}
+      ${p.bio?`<section class="sh-sec"><h4>Player profile</h4><div class="sh-facts">${[["Height",p.bio.height],["Weight",p.bio.weight],["Age",p.bio.age],["Experience",p.bio.exp],["College / origin",p.bio.college],["Hand",p.bio.hand]].filter(([k,v])=>v).map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div></section>`:""}
       ${p.condition||p.newsTag?`<section class="sh-sec"><div class="chips">${p.condition?`<span class="chip cond">If: ${esc(p.condition)}</span>`:""}${p.newsTag?`<span class="chip">${esc(p.newsTag)}</span>`:""}</div></section>`:""}
       <section class="sh-sec"><h4>${reads.length?"Read the full articles":"Sources"}</h4>
         ${reads.length?`<ul class="reads">${reads.map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener"><span>${esc(s.title||host(s.url))}</span><em>${esc(host(s.url))} ↗</em></a></li>`).join("")}</ul>`:`<p class="sh-note">This pick's articles are in the week's source list below.</p>`}
