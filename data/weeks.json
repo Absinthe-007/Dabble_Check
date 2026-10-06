@@ -1,8 +1,8 @@
 [
  {
   "id": "2026-10-05",
-  "generatedAt": "2026-10-06T04:30:00Z",
-  "headline": "Tuesday check-in: the White Sox beat the Guardians 4-3 to take a 2-0 ALDS lead, Yankees-Rays Game 2 was underway, and Falcons-Saints on Monday Night Football had not finished when this run checked. Open picks for those games stay pending until box scores are available; NLDS Game 3s are Tuesday, TNF Bucs-Cowboys is Thursday.",
+  "generatedAt": "2026-10-06T15:30:00Z",
+  "headline": "Tuesday update: Falcons beat the Saints 45-24 on MNF (Bijan Robinson 145 rush yds, Chris Olave 116 rec yds) and the Rays beat the Yankees 5-2 to take a 2-0 ALDS lead. NLDS Game 3s are tonight; TNF Bucs-Cowboys is Thursday. Fresh Wed/Thu injury reports and Week 5 prop lines had not yet been found in reachable sources, so open picks are unchanged.",
   "label": "Oct 5 – 11, 2026",
   "news": {
    "cfb": {
@@ -18,6 +18,7 @@
    },
    "mlb": {
     "items": [
+     "ALDS G2 final: Rays 5, Yankees 2 (TB leads 2-0); Schlittler went 4.1 IP, Peralta threw 4.2 in relief. Game 3 is Wednesday at Yankee Stadium (Fried vs Martinez).",
      "ALDS Game 2s are Monday: White Sox at Guardians 5:00 PM ET (CWS leads 1-0), Yankees at Rays 8:00 PM ET (TB leads 1-0). Aaron Judge is off the Yankees' ALDS roster (calf).",
      "NLDS Game 3s Tuesday: Yamamoto vs Chris Sale at Atlanta 6:00 PM ET (series 1-1); Dustin May vs Nick Pivetta at San Diego 9:30 PM ET (MIL leads 2-0, SD facing elimination).",
      "ALDS Game 3 Wednesday at Yankee Stadium: Max Fried ('probably', per Boone) vs Nick Martinez. Guardians and White Sox Game 3 starters not yet named.",
@@ -33,6 +34,7 @@
    },
    "nfl": {
     "items": [
+     "MNF final: Falcons 45, Saints 24. Bijan Robinson 145 rush yds/2 TD, Drake London 96 rec yds, Chris Olave 116 rec yds, Alvin Kamara 23 rush yds.",
      "Lamar Jackson (BAL, ankle): MRI result still not public Monday evening. Jesse Minter doesn't think it's long-term but couldn't say whether he plays Sunday night at Atlanta; Tyler Huntley would start if not.",
      "Bengals: Zac Taylor says Ja'Marr Chase (concussion) will likely be in protocol most or all of the week; Tee Higgins (groin) is day-to-day.",
      "Eagles: Saquon Barkley's hamstring isn't viewed as overly serious (update Wednesday); DeVonta Smith is questionable at best for London.",
@@ -45,6 +47,7 @@
    },
    "nhl": {
     "items": [
+     "Monday finals: TBL 2, PHI 1 (Hagel 6 SOG, Kucherov assist); OTT 4, BOS 1; DAL 4, SJS 0.",
      "Connor McDavid has 9 points in 3 games and Edmonton is scoring 5.67 goals a game. Macklin Celebrini has 5 points in 2 games for San Jose.",
      "Monday: Flyers at Lightning 7:00 ET, Senators at Bruins 7:30, Sharks at Stars 8:00. Philadelphia is allowing a league-worst 40.7 shots a game.",
      "Boston's Charlie McAvoy is suspended until Oct 13; Ottawa D Jake Sanderson left the opener with an undisclosed injury. Anaheim's Troy Terry is out until November.",
@@ -608,6 +611,26 @@
    {
     "title": "Yardbarker: Lanning on Dante Moore",
     "url": "https://www.yardbarker.com/college_football/articles/dan_lanning_gives_fresh_update_on_dante_moores_injury_ahead_of_ucla_game/s1_17730_44370811"
+   },
+   {
+    "title": "CBS: Falcons-Saints box score",
+    "url": "https://www.cbssports.com/nfl/gametracker/boxscore/NFL_20261005_ATL@NO/"
+   },
+   {
+    "title": "CBS: Yankees-Rays ALDS G2",
+    "url": "https://www.cbssports.com/mlb/gametracker/boxscore/MLB_20261005_NYY@TB/"
+   },
+   {
+    "title": "CBS: Flyers-Lightning box score",
+    "url": "https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261005_PHI@TB/"
+   },
+   {
+    "title": "CBS: Senators-Bruins box score",
+    "url": "https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261005_OTT@BOS/"
+   },
+   {
+    "title": "CBS: Sharks-Stars box score",
+    "url": "https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20261005_SJ@DAL/"
    }
   ],
   "weekStart": "2026-10-05"
