@@ -10492,6 +10492,7 @@
  },
  {
   "id": "2026-10-05-mlb-11",
+  "actual": "7 K (5.0 IP)",
   "analysis": "Chris Sale has 200 strikeouts in 162.2 innings (about 11 K per nine) with a 2.16 ERA, and he struck out 11 in a five-hit 1-0 shutout of the Dodgers on Aug 27. He worked in relief in the Wild Card round and is on extra rest at home for Game 3. At roughly 18 outs per start his season rate projects to about 6.6 Ks, and the Dodgers' lineup had six hard-hit balls in Game 2, though Ohtani and Freeman are working through nagging injuries. I could not find a posted strikeout line, so More is relative to a probable 6.5 number. Main risk is a quick hook in an elimination-adjacent game.",
   "bio": {
    "age": 37,
@@ -10595,7 +10596,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Strikeouts",
-  "status": "pending",
+  "status": "miss",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "ATL ~3.25 allowed",
@@ -10607,6 +10608,7 @@
  },
  {
   "id": "2026-10-05-mlb-12",
+  "actual": "1 ER (7.0 IP)",
   "analysis": "Yamamoto finished at 2.53 ERA with a 0.87 WHIP across 185 innings, which scales to about 1.9 earned runs per start. He lost 1-0 to Sale on Aug 27 and took a loss against San Diego on Sept 23, so the offense behind him has not always helped. Atlanta scored eight runs over the first two games, but Game 2 was won by the bullpen against a weaker Dodgers lineup. No line was found; Less is right at a 2.5 number and borderline at 1.5. Dodgers and Braves are both about -104 to +100 on the moneyline with a 6.5 total, which points to a low-scoring game.",
   "bio": {
    "age": 28,
@@ -10705,7 +10707,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Earned runs allowed",
-  "status": "pending",
+  "status": "hit",
   "team": "LAD",
   "teamOutlook": {
    "allowed": "LAD ~3.25 allowed",
@@ -10717,6 +10719,7 @@
  },
  {
   "id": "2026-10-05-mlb-13",
+  "actual": "1 H+R+RBI (1-4)",
   "analysis": "Michael Harris II tripled, doubled for an RBI and scored the go-ahead run in the Game 2 win, and hit .407 over his last 13 regular-season games. No combined hits-runs-RBIs line was found, so 1.5 is the typical number rather than a posted one. He is facing Yamamoto, who allowed one run to Atlanta in 6.1 innings in August and posts an elite 0.87 WHIP. The Braves are a narrow favorite or pick in most models. Risk is a pitcher's duel limiting Atlanta to a few baserunners.",
   "bio": {
    "age": 25,
@@ -10807,7 +10810,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Hits + runs + RBIs",
-  "status": "pending",
+  "status": "miss",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "ATL ~3.25 allowed",
@@ -11134,6 +11137,7 @@
  },
  {
   "id": "2026-10-05-mlb-17",
+  "actual": "15 outs (5.0 IP)",
   "analysis": "BetMGM's analyst backs the over 18.5 outs at +115, noting Sale's extra rest and that this may be his only NLDS start. I lean the other way: Sale logged 162.2 innings over 27 starts, about 18 outs a start, and cleared 19 only eight times all year. He also pitched in relief in the Wild Card round. Atlanta's bullpen was fresh after the off-day and covered four innings in Game 2, so a hook near 90 pitches against a strong Dodgers lineup is likely. Main risk is a shutout-style outing like Aug 27, where he went the distance against LAD.",
   "bio": {
    "age": 37,
@@ -11233,7 +11237,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Pitching outs",
-  "status": "pending",
+  "status": "hit",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "ATL ~3.25 allowed",
@@ -11245,6 +11249,7 @@
  },
  {
   "id": "2026-10-05-mlb-18",
+  "actual": "0 hits (0-4)",
   "analysis": "SportsGrid's featured prop is Teoscar Hernandez over 0.5 hits with a 1.3-hit projection. Sale is a lefty who allowed five hits in his Aug 27 shutout of the Dodgers, so right-handed bats get more at-bats against him. Los Angeles managed only six hard-hit balls in Game 2, so the offense is not guaranteed. I did not find a posted odds price. Main risk is Sale's strikeout rate of about 11 per nine in a single-game sample.",
   "bio": {
    "age": 33,
@@ -11337,7 +11342,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "LAD",
   "teamOutlook": {
    "allowed": "LAD ~3.25 allowed",
@@ -11349,6 +11354,7 @@
  },
  {
   "id": "2026-10-05-mlb-19",
+  "actual": "0 RBI",
   "analysis": "Matt Olson hit 41 home runs this season and anchors Atlanta's lineup, with SportsGrid projecting 0.7 RBIs against a 0.5 line. The Braves scored eight runs in the first two games, and Harris and Baldwin should get on base ahead of him. Yamamoto's 0.87 WHIP limits runners, which is the main risk, along with a low 6.5 total. No price was found. Treat as a modest lean.",
   "bio": {
    "age": 32,
@@ -11441,7 +11447,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "RBIs",
-  "status": "pending",
+  "status": "miss",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "ATL ~3.25 allowed",
@@ -13360,6 +13366,7 @@
  },
  {
   "id": "2026-10-05-mlb-41",
+  "actual": "10 K (7.0 IP)",
   "analysis": "Yamamoto is the confirmed Dodgers starter for Game 3. He finished 2026 with a 2.53 ERA, 0.87 WHIP and 182 strikeouts in 185.0 innings, which is 6.5 per start and 8.85 per nine. His last six starts averaged about 7.7 strikeouts, including 8 against Atlanta on August 27. No book line was posted when I checked, so the reference is 5.5, a half-point below his season per-start rate. Weighting the season 60/40 with recent form and a small adjustment for Atlanta striking out at 21.6% (league 22.1%) gives about 6.9. The risk is a postseason hook, since he has averaged 6.6 innings and Sale on the other side keeps the game tight.",
   "bio": {
    "age": 28,
@@ -13445,7 +13452,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Strikeouts",
-  "status": "pending",
+  "status": "hit",
   "team": "LAD",
   "teamOutlook": {
    "allowed": "ATL pitching 3.63 ERA, 1.24 WHIP",
@@ -13457,6 +13464,7 @@
  },
  {
   "id": "2026-10-05-mlb-42",
+  "actual": "0 TB (0-2, 1 BB)",
   "analysis": "Ohtani hit .275 with 30 home runs and 268 total bases in 139 games, a 1.93 per game pace, and he is the DH in the Dodgers lineup posted for Game 3. Against left-handed pitching he held an .881 OPS (204 PA), nearly identical to his mark against righties. Career against Sale he is only 3-for-15 with 5 strikeouts and 1 RBI, which cuts into the ceiling. No book line was found, so the reference is 1.5 total bases and the projection is trimmed from 1.93 to 1.8 for Sale. The risk is a high-strikeout game: he struck out 17 times in his last 39 at-bats.",
   "bio": {
    "age": 32,
@@ -13538,7 +13546,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Total bases",
-  "status": "pending",
+  "status": "miss",
   "team": "LAD",
   "teamOutlook": {
    "allowed": "ATL pitching 3.63 ERA, 1.24 WHIP",
@@ -13550,6 +13558,7 @@
  },
  {
   "id": "2026-10-05-mlb-43",
+  "actual": "Did not appear in the box score",
   "analysis": "Acuña is batting second in the lineup posted for Game 3 against Yamamoto. He hit .255 with 104 hits in 107 games, and .268 against right-handed pitching (.817 OPS). He is hot, going 9-for-39 with 3 homers and 8 RBI in his last 10 regular-season games, and he singled and stole a base in Game 2. A 4.2 PA game at roughly .26 to .27 gives about a 70% chance of at least one hit. No line was found, so the reference is 0.5. The risk is Yamamoto (0.87 WHIP) limiting contact, and Acuña has no career plate appearances against him in the MLB database.",
   "bio": {
    "age": 28,
@@ -13627,7 +13636,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "void",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "LAD pitching 3.55 ERA, 1.14 WHIP",
@@ -13639,6 +13648,7 @@
  },
  {
   "id": "2026-10-05-mlb-44",
+  "actual": "2 K (0-3)",
   "analysis": "Riley hit .219 with a .654 OPS and 201 strikeouts in 159 games, a 31.9% strikeout rate and about 1.3 per game. Over his last 10 games he struck out 16 times in 36 at-bats. At about 4 plate appearances against Yamamoto (8.85 K/9) the chance of at least one strikeout is near 78%. No book line was found, so the reference is 0.5. The risk is a short Dodgers start that gets him mostly relief hitters; he is listed eighth in the posted lineup, which trims his plate appearances slightly.",
   "bio": {
    "age": 29,
@@ -13716,7 +13726,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T18:00:00-04:00",
   "stat": "Batter strikeouts",
-  "status": "pending",
+  "status": "hit",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "LAD pitching 3.55 ERA, 1.14 WHIP",
