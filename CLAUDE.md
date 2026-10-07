@@ -37,3 +37,7 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 ## Reporting: hit rate by sport (owner's request, Oct 7 2026)
 - In every update's notification, break the hit rate down per sport (NFL, CFB, MLB, NHL, WNBA): W-L and % for the games graded that run, and the season-to-date total from all graded picks in the database. Exclude voids and pending picks from the percentage, and say how many were voided.
 - The site's top scoreboard (`renderRecord` in `index.html`) shows overall hit rate, record, and each sport's W-L and hit % across all graded picks in `data/picks.json`, so it updates on every push. Never drop graded picks from earlier weeks from the export; they feed this record.
+
+## Live tracking (owner's request, Oct 7 2026)
+- `live.js` polls ESPN's public scoreboard/box-score feeds in the visitor's browser and shows a LIVE/FINAL line with the player's running stat on open picks. It never changes saved results; grading still happens in the daily run. It matches picks by `espnId` (or player name), `game` ("AWAY @ HOME" abbreviations), `startTime` and the exact `stat` names above, so keep those fields accurate. Props it can't read from a box score (e.g. MLB total bases, stolen bases, NHL power-play points) just show the game status.
+
