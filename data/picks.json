@@ -10822,6 +10822,7 @@
  },
  {
   "id": "2026-10-05-mlb-14",
+  "actual": "9 outs (3.0 IP)",
   "analysis": "Dustin May has a 7.61 ERA over his final eight outings and a 4.70 season ERA, but a 1.23 ERA with 22 K in 22 innings against San Diego across three starts. Milwaukee has rested relievers Gasser, Drohan and Harrison, and the Brewers hold a 2-0 lead, so they can pull May at the first sign of trouble. No outs line was found. I project about 14 outs, so Less depends on a line near 15.5 or higher. The risk is that his strong history against the Padres lets him cruise into the sixth.",
   "bio": {
    "age": 29,
@@ -10915,7 +10916,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Pitching outs",
-  "status": "pending",
+  "status": "hit",
   "team": "MIL",
   "teamOutlook": {
    "allowed": "MIL ~3.25 allowed",
@@ -10927,6 +10928,7 @@
  },
  {
   "id": "2026-10-05-mlb-15",
+  "actual": "0 H",
   "analysis": "Chourio has a .958 OPS through two games with a two-run homer in Game 1 and a walk-off single in Game 2. He leads off against Nick Pivetta, whose season ERA is 2.86 but whose strikeouts come at 10.9 per nine, so contact is not guaranteed. No hits line was found; 0.5 is assumed. San Diego is in a win-or-go-home spot at home and the Brewers lead 2-0. A series sweep would still let Milwaukee finish in Game 3.",
   "bio": {
    "age": 22,
@@ -11017,7 +11019,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "MIL",
   "teamOutlook": {
    "allowed": "MIL ~3.25 allowed",
@@ -11029,6 +11031,7 @@
  },
  {
   "id": "2026-10-05-mlb-16",
+  "actual": "4 K",
   "analysis": "Nick Pivetta has 42 strikeouts in 34.2 innings this season (10.9 per nine) with a 2.86 ERA, and is back from injury in September. SportsGrid projects 5.7 strikeouts against a 4.5 line with the over at +116. San Diego faces elimination, so he should be allowed to work deep, but Milwaukee's contact-heavy lineup and a possible short outing, such as 3.1 innings on Sept 30, are the main risks. Milwaukee has also scored late comebacks in both games. Projection is built from his per-nine rate over about 4.5 to 5 innings.",
   "bio": {
    "age": 33,
@@ -11125,7 +11128,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Strikeouts",
-  "status": "pending",
+  "status": "miss",
   "team": "SD",
   "teamOutlook": {
    "allowed": "SD ~3.25 allowed",
@@ -11459,6 +11462,7 @@
  },
  {
   "id": "2026-10-05-mlb-20",
+  "actual": "1 R",
   "analysis": "SportsGrid projects Bogaerts for 0.8 runs against a 0.5 line, with the over priced at +170 on FanDuel, which implies roughly a 37% chance. A 0.8 mean run total suggests a higher true probability if he hits near the top of the order. San Diego needs offense at home, and the game total sits at 6.5 to 7. Main risks are Dustin May's 1.23 ERA against the Padres this season and the need for teammates to drive him in.",
   "bio": {
    "age": 34,
@@ -11547,7 +11551,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Runs",
-  "status": "pending",
+  "status": "hit",
   "team": "SD",
   "teamOutlook": {
    "allowed": "SD ~3.25 allowed",
@@ -11559,6 +11563,7 @@
  },
  {
   "id": "2026-10-05-mlb-21",
+  "actual": "0 R",
   "analysis": "SportsGrid projects 0.7 runs for Christian Yelich and lists the over 0.5 at +190, an implied probability near 34%. Milwaukee has two comeback wins and Chourio leading off gives Yelich runners to drive in, but Pivetta (2.86 ERA, 10.9 K/9) is tough. The Brewers lead 2-0 and have strong momentum. Main risk is that Pivetta limits traffic. A lean for value, not a lock.",
   "bio": {
    "age": 34,
@@ -11647,7 +11652,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Runs",
-  "status": "pending",
+  "status": "miss",
   "team": "MIL",
   "teamOutlook": {
    "allowed": "MIL ~3.25 allowed",
@@ -11853,6 +11858,7 @@
  },
  {
   "id": "2026-10-05-mlb-24",
+  "actual": "1 H+R+RBI",
   "analysis": "Fernando Tatis Jr. started the previous game of this series and hit .289/.358/.470 with 25 HR, 83 RBI and 38 SB over 159 regular-season games. That is 2.26 hits + runs + rbis per game at 4.4 plate appearances a game. The opposing starter is Dustin May (1.32 WHIP, 23.2% K rate vs league 1.30/22.1%); I apply that to the roughly 60% of plate appearances a starter usually covers, which gives 2.28. Against a reference of 1.5 (no book line posted when I checked) a Poisson read puts the More at about 66%. Postseason risks: bullpen matchups late, lineup shuffles against a lefty or righty, and a small single-game sample.",
   "bio": {
    "age": 27,
@@ -11930,7 +11936,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Hits + runs + RBIs",
-  "status": "pending",
+  "status": "miss",
   "team": "SD",
   "teamOutlook": {
    "allowed": "MIL pitching 3.51 ERA, 1.18 WHIP",
@@ -13738,6 +13744,7 @@
  },
  {
   "id": "2026-10-05-mlb-45",
+  "actual": "3 K",
   "analysis": "May is the Brewers starter for Game 3 and finished 2026 with a 4.70 ERA, 1.32 WHIP and 144 strikeouts in 145.2 innings over 31 starts. His last six starts averaged 4.3 strikeouts and only about 3.5 innings, and he has not gone past 3.0 innings since a 6.0 inning start on September 11. San Diego strikes out at 21.6%, a hair below the league, so I only trim slightly to 4.4. No line was found, so the reference is 4.5 strikeouts and this is a thin lean. The risk is a longer outing than his recent form, and the lean is correlated with the existing pitching outs Less play on him.",
   "bio": {
    "age": 29,
@@ -13819,7 +13826,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Strikeouts",
-  "status": "pending",
+  "status": "hit",
   "team": "MIL",
   "teamOutlook": {
    "allowed": "SD pitching 3.99 ERA, 1.29 WHIP",
@@ -13831,6 +13838,7 @@
  },
  {
   "id": "2026-10-05-mlb-46",
+  "actual": "13 outs",
   "analysis": "Pivetta made just 8 starts for 34.2 innings and a 2.86 ERA, about 4.3 innings and 13 outs per start. His last four outings were 5.0, 4.0, 5.0 and 4.2 innings, which is 15, 12, 15 and 14 outs. No book line was found, so the reference is 14.5 outs and my projection is 13.8. Milwaukee scored 5.14 runs per game, the best in this round, which raises the odds of an early hook. The existing Pivetta strikeouts More pick fits a short, high-strikeout start, so the two are consistent.",
   "bio": {
    "age": 33,
@@ -13912,7 +13920,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Pitching outs",
-  "status": "pending",
+  "status": "hit",
   "team": "SD",
   "teamOutlook": {
    "allowed": "MIL pitching 3.51 ERA, 1.18 WHIP",
@@ -13924,6 +13932,7 @@
  },
  {
   "id": "2026-10-05-mlb-47",
+  "actual": "0 H",
   "analysis": "France batted .295 with a .502 slugging percentage in 133 games and had 12 hits in his last 10 regular-season games. He hit .298 against right-handed pitching, which covers May. Career against May he is 4-for-12 with a homer and 3 strikeouts. In Game 2 he went 2-for-3 with 2 RBI. At roughly 3.4 at-bats and a .295 average the chance of at least one hit is about 70%. No line was found, so the reference is 0.5, and the risk is a lineup change since the Game 3 order was not posted when I checked.",
   "bio": {
    "age": 32,
@@ -14001,7 +14010,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "SD",
   "teamOutlook": {
    "allowed": "MIL pitching 3.51 ERA, 1.18 WHIP",
@@ -14013,6 +14022,7 @@
  },
  {
   "id": "2026-10-05-mlb-48",
+  "actual": "2 K",
   "analysis": "Merrill struck out 160 times in 664 plate appearances in 2026, a 24.1% rate, and had 14 strikeouts in his last 39 at-bats. Against May he is 0-for-10 with 4 strikeouts. At about 4.2 plate appearances the season rate implies a 69% chance of at least one strikeout. The reference is 0.5 as no book number was found. The risk is that May exits early and Merrill sees relievers with lower strikeout rates.",
   "bio": {
    "age": 23,
@@ -14090,7 +14100,7 @@
   "sport": "mlb",
   "startTime": "2026-10-06T21:30:00-04:00",
   "stat": "Batter strikeouts",
-  "status": "pending",
+  "status": "hit",
   "team": "SD",
   "teamOutlook": {
    "allowed": "MIL pitching 3.51 ERA, 1.18 WHIP",
@@ -28159,6 +28169,7 @@
  },
  {
   "id": "2026-10-05-nhl-09",
+  "actual": "0 SOG",
   "analysis": "Dorofeyev leads the Rangers with 15 shots in 4 games despite only about 16 minutes a night. The Rangers host the Islanders at 7:30 PM ET Tuesday. The Islanders were allowing about 31.5 shots a game early. I trimmed the 3.75 average to 3.5 because his ice time is limited and the sample is small. Main risk is a quiet game on a depth role and no posted line to compare. No book has posted a line that I could find, so the line is left open.",
   "bio": {
    "age": 25,
@@ -28223,7 +28234,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:30:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "NYR",
   "teamOutlook": {
    "allowed": "Islanders allowing about 31.5 shots a game early",
@@ -32275,6 +32286,7 @@
  },
  {
   "id": "2026-10-05-nhl-14",
+  "actual": "0 pts",
   "analysis": "Kaprizov has 3 goals and no assists in 2 games with 6 shots. Minnesota and Buffalo meet at 7:00 PM ET Tuesday; Daily Faceoff lists Minnesota first, which I read as the road team but I did not verify that. I projected 1.0 as a regression of his early pace. The main risk is that his production is all goals with a modest 3.0 shots per game, so points could stall. No book has posted a line that I could find, so the line is left open.",
   "bio": {
    "age": 29,
@@ -32351,7 +32363,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T20:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "Buffalo not verified",
@@ -37224,6 +37236,7 @@
  },
  {
   "id": "2026-10-05-nhl-189",
+  "actual": "0 blocks",
   "analysis": "Adam Wilsby (Predators defenseman) had 47 blocked shots in 58 games last season (0.81 per game) and has 5 in 2 games this season (2.50 per game), averaging 15.3 minutes. He has played 2 of 2 Predators games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.97; no opponent adjustment for this stat. That projects 0.97 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.97 per game puts more than 0.5 at about 62%. Blocks swing with deployment and score effects (trailing teams block less, teams defending a lead block more), so this stays a low-confidence lean.",
   "bio": {
    "age": 26,
@@ -37310,7 +37323,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "miss",
   "team": "NSH",
   "teamOutlook": {
    "allowed": "Maple Leafs allow 3.47 goals/g (blended)",
@@ -37397,6 +37410,7 @@
  },
  {
   "id": "2026-10-05-nhl-190",
+  "actual": "1 SOG",
   "analysis": "Mavrik Bourque (Predators forward) had 147 shots on goal in 82 games last season (1.79 per game) and has 6 in 2 games this season (3.00 per game), averaging 17.8 minutes. He has played 2 of 2 Predators games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.88; Maple Leafs allowed 31.9 shots/g (blended) against a league average of 27.8, a factor of 1.15. That projects 2.15 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.15 per game puts more than 1.5 at about 63%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 24,
@@ -37483,7 +37497,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "NSH",
   "teamOutlook": {
    "allowed": "Maple Leafs allow 3.47 goals/g (blended)",
@@ -37495,6 +37509,7 @@
  },
  {
   "id": "2026-10-05-nhl-191",
+  "actual": "3 SOG",
   "analysis": "Kirill Marchenko (Maple Leafs forward) had 218 shots on goal in 76 games last season (2.87 per game) and has 9 in 3 games this season (3.00 per game), averaging 19.3 minutes. He has played 3 of 3 Maple Leafs games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.88; Predators allowed 29.6 shots/g (blended) against a league average of 27.8, a factor of 1.07. That projects 3.07 against a reference of 2.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 3.07 per game puts more than 2.5 at about 59%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 26,
@@ -37581,7 +37596,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "TOR",
   "teamOutlook": {
    "allowed": "Predators allow 3.17 goals/g (blended)",
@@ -37593,6 +37608,7 @@
  },
  {
   "id": "2026-10-05-nhl-192",
+  "actual": "2 hits",
   "analysis": "Brandon Duhaime (Maple Leafs forward) had 159 hits in 82 games last season (1.94 per game) and has 10 in 3 games this season (3.33 per game), averaging 11.2 minutes. He has played 3 of 3 Maple Leafs games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.08; no opponent adjustment for this stat. That projects 2.08 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.08 per game puts more than 1.5 at about 61%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 29,
@@ -37679,7 +37695,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "TOR",
   "teamOutlook": {
    "allowed": "Predators allow 3.17 goals/g (blended)",
@@ -37691,6 +37707,7 @@
  },
  {
   "id": "2026-10-05-nhl-193",
+  "actual": "1 blocks",
   "analysis": "K'Andre Miller (Hurricanes defenseman) had 79 blocked shots in 72 games last season (1.10 per game) and has 6 in 3 games this season (2.00 per game), averaging 23.6 minutes. He has played 3 of 3 Hurricanes games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.20; no opponent adjustment for this stat. That projects 1.20 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.20 per game puts more than 0.5 at about 70%. Blocks swing with deployment and score effects (trailing teams block less, teams defending a lead block more), so this stays a low-confidence lean.",
   "bio": {
    "age": 26,
@@ -37777,7 +37794,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "CAR",
   "teamOutlook": {
    "allowed": "Canadiens allow 3.12 goals/g (blended)",
@@ -37789,6 +37806,7 @@
  },
  {
   "id": "2026-10-05-nhl-194",
+  "actual": "1 SOG",
   "analysis": "Cole Caufield (Canadiens forward) had 258 shots on goal in 81 games last season (3.19 per game) and has 6 in 2 games this season (3.00 per game), averaging 19.4 minutes. He has played 2 of 2 Canadiens games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 3.17; Hurricanes allowed 23.7 shots/g (blended) against a league average of 27.8, a factor of 0.85. That projects 2.70 against a reference of 3.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.70 per game puts 3.5 or fewer at about 71%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 25,
@@ -37875,7 +37893,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "MTL",
   "teamOutlook": {
    "allowed": "Hurricanes allow 2.86 goals/g (blended)",
@@ -37887,6 +37905,7 @@
  },
  {
   "id": "2026-10-05-nhl-195",
+  "actual": "0 SOG",
   "analysis": "Alexandre Texier (Canadiens forward) had 74 shots on goal in 51 games last season (1.45 per game) and has 1 in 2 games this season (0.50 per game), averaging 10.7 minutes. He has played 2 of 2 Canadiens games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.35; Hurricanes allowed 23.7 shots/g (blended) against a league average of 27.8, a factor of 0.85. That projects 1.15 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.15 per game puts 1.5 or fewer at about 68%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 27,
@@ -37973,7 +37992,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "MTL",
   "teamOutlook": {
    "allowed": "Hurricanes allow 2.86 goals/g (blended)",
@@ -37985,6 +38004,7 @@
  },
  {
   "id": "2026-10-05-nhl-196",
+  "actual": "4 hits",
   "analysis": "Andrei Svechnikov (Hurricanes forward) had 148 hits in 79 games last season (1.87 per game) and has 11 in 3 games this season (3.67 per game), averaging 18.0 minutes. He has played 3 of 3 Hurricanes games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.06; no opponent adjustment for this stat. That projects 2.06 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.06 per game puts more than 1.5 at about 61%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 26,
@@ -38071,7 +38091,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "CAR",
   "teamOutlook": {
    "allowed": "Canadiens allow 3.12 goals/g (blended)",
@@ -38083,6 +38103,7 @@
  },
  {
   "id": "2026-10-05-nhl-197",
+  "actual": "3 blocks",
   "analysis": "Thomas Chabot (Senators defenseman) had 111 blocked shots in 57 games last season (1.95 per game) and has 8 in 2 games this season (4.00 per game), averaging 25.7 minutes. He has played 2 of 2 Senators games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.14; no opponent adjustment for this stat. That projects 2.14 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.14 per game puts more than 1.5 at about 63%. Blocks swing with deployment and score effects (trailing teams block less, teams defending a lead block more), so this stays a low-confidence lean.",
   "bio": {
    "age": 29,
@@ -38169,7 +38190,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "OTT",
   "teamOutlook": {
    "allowed": "Red Wings allow 3.06 goals/g (blended)",
@@ -38181,6 +38202,7 @@
  },
  {
   "id": "2026-10-05-nhl-198",
+  "actual": "3 SOG",
   "analysis": "Alex DeBrincat (Red Wings forward) had 287 shots on goal in 82 games last season (3.50 per game) and has 5 in 2 games this season (2.50 per game), averaging 21.5 minutes. He has played 2 of 2 Red Wings games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 3.43; Senators allowed 24.4 shots/g (blended) against a league average of 27.8, a factor of 0.88. That projects 3.01 against a reference of 3.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 3.01 per game puts 3.5 or fewer at about 65%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 28,
@@ -38267,7 +38289,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "DET",
   "teamOutlook": {
    "allowed": "Senators allow 2.89 goals/g (blended)",
@@ -38279,6 +38301,7 @@
  },
  {
   "id": "2026-10-05-nhl-199",
+  "actual": "3 SOG",
   "analysis": "Viktor Arvidsson (Red Wings forward) had 175 shots on goal in 69 games last season (2.54 per game) and has 5 in 2 games this season (2.50 per game), averaging 18.8 minutes. He has played 2 of 2 Red Wings games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.53; Senators allowed 24.4 shots/g (blended) against a league average of 27.8, a factor of 0.88. That projects 2.22 against a reference of 2.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.22 per game puts 2.5 or fewer at about 62%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 33,
@@ -38365,7 +38388,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "DET",
   "teamOutlook": {
    "allowed": "Senators allow 2.89 goals/g (blended)",
@@ -38377,6 +38400,7 @@
  },
  {
   "id": "2026-10-05-nhl-20",
+  "actual": "1 SOG",
   "analysis": "Ryan O'Reilly (Predators center) had 154 shots on goal in 81 games last season (1.90 per game) and has 5 in 2 games this season (2.50 per game) while averaging 20.7 minutes. He has dressed for every NSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.94; TOR allowed 31.9 shots/g vs league 27.8, a factor of 1.15. That projects 2.22 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.22 per game puts more than 1.5 at about 65%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 35,
@@ -38458,7 +38482,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "NSH",
   "teamOutlook": {
    "allowed": "Maple Leafs allow 3.47 goals/g (blended)",
@@ -38470,6 +38494,7 @@
  },
  {
   "id": "2026-10-05-nhl-200",
+  "actual": "7 hits",
   "analysis": "Michael Rasmussen (Red Wings forward) had 64 hits in 64 games last season (1.00 per game) and has 4 in 2 games this season (2.00 per game), averaging 15.5 minutes. He has played 2 of 2 Red Wings games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.09; no opponent adjustment for this stat. That projects 1.09 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.09 per game puts more than 0.5 at about 66%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 27,
@@ -38556,7 +38581,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "DET",
   "teamOutlook": {
    "allowed": "Senators allow 2.89 goals/g (blended)",
@@ -38568,6 +38593,7 @@
  },
  {
   "id": "2026-10-05-nhl-201",
+  "actual": "2 hits",
   "analysis": "MacKenzie Weegar (Mammoth defenseman) had 167 hits in 79 games last season (2.11 per game) and has 15 in 3 games this season (5.00 per game), averaging 21.0 minutes. He has played 3 of 3 Mammoth games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.41; no opponent adjustment for this stat. That projects 2.41 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.41 per game puts more than 1.5 at about 69%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 32,
@@ -38654,7 +38680,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "UTA",
   "teamOutlook": {
    "allowed": "Devils allow 3.15 goals/g (blended)",
@@ -38666,6 +38692,7 @@
  },
  {
   "id": "2026-10-05-nhl-202",
+  "actual": "1 hits",
   "analysis": "Logan Cooley (Mammoth forward) had 54 hits in 54 games last season (1.00 per game) and has 7 in 3 games this season (2.33 per game), averaging 17.1 minutes. He has played 3 of 3 Mammoth games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.19; no opponent adjustment for this stat. That projects 1.19 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.19 per game puts more than 0.5 at about 70%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 22,
@@ -38752,7 +38779,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "UTA",
   "teamOutlook": {
    "allowed": "Devils allow 3.15 goals/g (blended)",
@@ -38764,6 +38791,7 @@
  },
  {
   "id": "2026-10-05-nhl-203",
+  "actual": "5 SOG",
   "analysis": "Jack Hughes (Devils forward) had 228 shots on goal in 61 games last season (3.74 per game) and has 8 in 2 games this season (4.00 per game), averaging 23.4 minutes. He has played 2 of 2 Devils games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 3.76; Mammoth allowed 25.4 shots/g (blended) against a league average of 27.8, a factor of 0.91. That projects 3.43 against a reference of 3.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 3.43 per game puts 3.5 or fewer at about 55%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 25,
@@ -38850,7 +38878,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "NJD",
   "teamOutlook": {
    "allowed": "Mammoth allow 2.80 goals/g (blended)",
@@ -38862,6 +38890,7 @@
  },
  {
   "id": "2026-10-05-nhl-204",
+  "actual": "0 SOG",
   "analysis": "Nico Hischier (Devils forward) had 211 shots on goal in 82 games last season (2.57 per game) and has 5 in 2 games this season (2.50 per game), averaging 19.1 minutes. He has played 2 of 2 Devils games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.57; Mammoth allowed 25.4 shots/g (blended) against a league average of 27.8, a factor of 0.91. That projects 2.34 against a reference of 2.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.34 per game puts 2.5 or fewer at about 58%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 27,
@@ -38948,7 +38977,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "NJD",
   "teamOutlook": {
    "allowed": "Mammoth allow 2.80 goals/g (blended)",
@@ -38960,6 +38989,7 @@
  },
  {
   "id": "2026-10-05-nhl-205",
+  "actual": "2 blocks",
   "analysis": "Olli Maatta (Wild defenseman) had 62 blocked shots in 43 games last season (1.44 per game) and has 1 in 2 games this season (0.50 per game), averaging 22.4 minutes. He has played 2 of 2 Wild games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.33; no opponent adjustment for this stat. That projects 1.33 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.33 per game puts 1.5 or fewer at about 62%. Blocks swing with deployment and score effects (trailing teams block less, teams defending a lead block more), so this stays a low-confidence lean.",
   "bio": {
    "age": 32,
@@ -39046,7 +39076,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "miss",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "Sabres allow 3.03 goals/g (blended)",
@@ -39058,6 +39088,7 @@
  },
  {
   "id": "2026-10-05-nhl-206",
+  "actual": "0 hits",
   "analysis": "Nick Foligno (Wild forward) had 128 hits in 54 games last season (2.37 per game) and has 0 in 2 games this season (0.00 per game), averaging 13.2 minutes. He has played 2 of 2 Wild games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.13; no opponent adjustment for this stat. That projects 2.13 against a reference of 2.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.13 per game puts 2.5 or fewer at about 64%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 38,
@@ -39144,7 +39175,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "Sabres allow 3.03 goals/g (blended)",
@@ -39156,6 +39187,7 @@
  },
  {
   "id": "2026-10-05-nhl-207",
+  "actual": "0 G",
   "analysis": "Josh Norris (Sabres forward) had 13 goals in 44 games last season (0.30 per game) and has 0 in 2 games this season (0.00 per game), averaging 16.4 minutes. He has played 2 of 2 Sabres games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.26; Wild allow 2.74 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 0.94. That projects 0.25 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.25 per game puts 0.5 or fewer at about 78%. A goal is a low-frequency event, so a single deflection or empty-net finish can decide it; treat this as a small-edge lean.",
   "bio": {
    "age": 27,
@@ -39246,7 +39278,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Goals",
-  "status": "pending",
+  "status": "hit",
   "team": "BUF",
   "teamOutlook": {
    "allowed": "Wild allow 2.74 goals/g (blended)",
@@ -39258,6 +39290,7 @@
  },
  {
   "id": "2026-10-05-nhl-208",
+  "actual": "0 A",
   "analysis": "Jack Quinn (Sabres forward) had 31 assists in 82 games last season (0.38 per game) and has 0 in 2 games this season (0.00 per game), averaging 19.9 minutes. He has played 2 of 2 Sabres games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.35; Wild allow 2.74 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 0.94. That projects 0.33 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.33 per game puts 0.5 or fewer at about 72%. Assists depend on teammates finishing, and the early-season sample is only a few games, so the number is noisy.",
   "bio": {
    "age": 25,
@@ -39348,7 +39381,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "hit",
   "team": "BUF",
   "teamOutlook": {
    "allowed": "Wild allow 2.74 goals/g (blended)",
@@ -39360,6 +39393,7 @@
  },
  {
   "id": "2026-10-05-nhl-209",
+  "actual": "1 A",
   "analysis": "Sean Durzi (Rangers defenseman) had 22 assists in 60 games last season (0.37 per game) and has 0 in 4 games this season (0.00 per game), averaging 21.6 minutes. He has played 4 of 4 Rangers games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.31; Islanders allow 2.75 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 0.95. That projects 0.29 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.29 per game puts 0.5 or fewer at about 75%. Assists depend on teammates finishing, and the early-season sample is only a few games, so the number is noisy.",
   "bio": {
    "age": 27,
@@ -39450,7 +39484,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:30:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "miss",
   "team": "NYR",
   "teamOutlook": {
    "allowed": "Islanders allow 2.75 goals/g (blended)",
@@ -39462,6 +39496,7 @@
  },
  {
   "id": "2026-10-05-nhl-21",
+  "actual": "3 pts",
   "analysis": "William Nylander (Maple Leafs right wing) had 79 points in 65 games last season (1.22 per game) and has 3 in 3 games this season (1.00 per game) while averaging 19.3 minutes. He has dressed for every TOR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.19; NSH allowed 3.17 goals/g vs league 3.08, a factor of 1.01, damped. That projects 1.21 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 70% chance of at least one point on a Poisson read of 1.21 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 30,
@@ -39543,7 +39578,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "TOR",
   "teamOutlook": {
    "allowed": "Predators allow 3.17 goals/g (blended)",
@@ -39555,6 +39590,7 @@
  },
  {
   "id": "2026-10-05-nhl-210",
+  "actual": "0 hits",
   "analysis": "Alexis Lafrenière (Rangers forward) had 84 hits in 82 games last season (1.02 per game) and has 8 in 4 games this season (2.00 per game), averaging 19.2 minutes. He has played 4 of 4 Rangers games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.15; no opponent adjustment for this stat. That projects 1.15 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.15 per game puts more than 0.5 at about 68%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 24,
@@ -39641,7 +39677,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:30:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "NYR",
   "teamOutlook": {
    "allowed": "Islanders allow 2.75 goals/g (blended)",
@@ -39653,6 +39689,7 @@
  },
  {
   "id": "2026-10-05-nhl-211",
+  "actual": "1 pts",
   "analysis": "Matias Maccelli (Islanders forward) had 39 points in 71 games last season (0.55 per game) and has 0 in 2 games this season (0.00 per game), averaging 15.9 minutes. He has played 2 of 2 Islanders games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.51; Rangers allow 2.84 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 0.96. That projects 0.49 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.49 per game puts 0.5 or fewer at about 61%. Points depend on a handful of finishing events, so one goal or a quiet power play can flip the result; the early-season sample is also very small.",
   "bio": {
    "age": 25,
@@ -39739,7 +39776,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "NYI",
   "teamOutlook": {
    "allowed": "Rangers allow 2.84 goals/g (blended)",
@@ -39751,6 +39788,7 @@
  },
  {
   "id": "2026-10-05-nhl-212",
+  "actual": "0 pts",
   "analysis": "Anthony Duclair (Islanders forward) had 27 points in 62 games last season (0.44 per game) and has 0 in 2 games this season (0.00 per game), averaging 11.9 minutes. He has played 2 of 2 Islanders games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.40; Rangers allow 2.84 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 0.96. That projects 0.38 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.38 per game puts 0.5 or fewer at about 68%. Points depend on a handful of finishing events, so one goal or a quiet power play can flip the result; the early-season sample is also very small.",
   "bio": {
    "age": 31,
@@ -39837,7 +39875,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "NYI",
   "teamOutlook": {
    "allowed": "Rangers allow 2.84 goals/g (blended)",
@@ -39849,6 +39887,7 @@
  },
  {
   "id": "2026-10-05-nhl-213",
+  "actual": "1 blocks",
   "analysis": "Wyatt Kaiser (Blackhawks defenseman) had 69 blocked shots in 77 games last season (0.90 per game) and has 6 in 3 games this season (2.00 per game), averaging 21.1 minutes. He has played 3 of 3 Blackhawks games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.01; no opponent adjustment for this stat. That projects 1.01 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.01 per game puts more than 0.5 at about 64%. Blocks swing with deployment and score effects (trailing teams block less, teams defending a lead block more), so this stays a low-confidence lean.",
   "bio": {
    "age": 24,
@@ -39935,7 +39974,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-05:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "CHI",
   "teamOutlook": {
    "allowed": "Blues allow 3.09 goals/g (blended)",
@@ -39947,6 +39986,7 @@
  },
  {
   "id": "2026-10-05-nhl-214",
+  "actual": "2 SOG",
   "analysis": "Mason McTavish (Blues forward) had 146 shots on goal in 75 games last season (1.95 per game) and has 6 in 2 games this season (3.00 per game), averaging 14.8 minutes. He has played 2 of 2 Blues games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.02; Blackhawks allowed 30.2 shots/g (blended) against a league average of 27.8, a factor of 1.08. That projects 2.20 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.20 per game puts more than 1.5 at about 64%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 23,
@@ -40033,7 +40073,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-05:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "STL",
   "teamOutlook": {
    "allowed": "Blackhawks allow 3.46 goals/g (blended)",
@@ -40045,6 +40085,7 @@
  },
  {
   "id": "2026-10-05-nhl-215",
+  "actual": "5 SOG",
   "analysis": "Connor McMichael (Blues forward) had 142 shots on goal in 78 games last season (1.82 per game) and has 3 in 2 games this season (1.50 per game), averaging 14.2 minutes. He has played 2 of 2 Blues games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.80; Blackhawks allowed 30.2 shots/g (blended) against a league average of 27.8, a factor of 1.08. That projects 1.95 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.95 per game puts more than 1.5 at about 58%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 25,
@@ -40131,7 +40172,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-05:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "STL",
   "teamOutlook": {
    "allowed": "Blackhawks allow 3.46 goals/g (blended)",
@@ -40143,6 +40184,7 @@
  },
  {
   "id": "2026-10-05-nhl-216",
+  "actual": "2 pts",
   "analysis": "Frank Nazar (Blackhawks forward) had 41 points in 66 games last season (0.62 per game) and has 0 in 3 games this season (0.00 per game), averaging 18.5 minutes. He has played 3 of 3 Blackhawks games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.55; Blues allow 3.09 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 1.00. That projects 0.55 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.55 per game puts 0.5 or fewer at about 58%. Points depend on a handful of finishing events, so one goal or a quiet power play can flip the result; the early-season sample is also very small.",
   "bio": {
    "age": 22,
@@ -40229,7 +40271,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-05:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "CHI",
   "teamOutlook": {
    "allowed": "Blues allow 3.09 goals/g (blended)",
@@ -40241,6 +40283,7 @@
  },
  {
   "id": "2026-10-05-nhl-217",
+  "actual": "did not play",
   "analysis": "Curtis Douglas (Kraken forward) had 64 hits in 43 games last season (1.49 per game) and has 9 in 2 games this season (4.50 per game), averaging 6.9 minutes. He has played 2 of 3 Kraken games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.86; no opponent adjustment for this stat. That projects 1.86 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.86 per game puts more than 1.5 at about 55%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 26,
@@ -40327,7 +40370,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T18:40:00-07:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "void",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "Golden Knights allow 2.92 goals/g (blended)",
@@ -40339,6 +40382,7 @@
  },
  {
   "id": "2026-10-05-nhl-218",
+  "actual": "0 SOG",
   "analysis": "Matty Beniers (Kraken forward) had 149 shots on goal in 82 games last season (1.82 per game) and has 2 in 3 games this season (0.67 per game), averaging 16.3 minutes. He has played 3 of 3 Kraken games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.70; Golden Knights allowed 24.2 shots/g (blended) against a league average of 27.8, a factor of 0.87. That projects 1.48 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.48 per game puts 1.5 or fewer at about 57%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 23,
@@ -40425,7 +40469,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T18:40:00-07:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "Golden Knights allow 2.92 goals/g (blended)",
@@ -40437,6 +40481,7 @@
  },
  {
   "id": "2026-10-05-nhl-219",
+  "actual": "2 SOG",
   "analysis": "Mitch Marner (Golden Knights forward) had 165 shots on goal in 81 games last season (2.04 per game) and has 8 in 3 games this season (2.67 per game), averaging 21.9 minutes. He has played 3 of 3 Golden Knights games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.10; Kraken allowed 29.3 shots/g (blended) against a league average of 27.8, a factor of 1.05. That projects 2.21 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.21 per game puts more than 1.5 at about 65%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 29,
@@ -40523,7 +40568,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T18:40:00-07:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "VGK",
   "teamOutlook": {
    "allowed": "Kraken allow 2.99 goals/g (blended)",
@@ -40535,6 +40580,7 @@
  },
  {
   "id": "2026-10-05-nhl-22",
+  "actual": "2 hits",
   "analysis": "Ross Colton (Predators center) had 159 hits in 73 games last season (2.18 per game) and has 9 in 2 games this season (4.50 per game) while averaging 13.8 minutes. He has dressed for every NSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.35; no opponent adjustment for this stat. That projects 2.35 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.35 per game puts fewer than or equal to 2.5 at about 58%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 30,
@@ -40616,7 +40662,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "NSH",
   "teamOutlook": {
    "allowed": "Maple Leafs allow 3.47 goals/g (blended)",
@@ -40628,6 +40674,7 @@
  },
  {
   "id": "2026-10-05-nhl-220",
+  "actual": "1 pts",
   "analysis": "Rasmus Andersson (Golden Knights defenseman) had 47 points in 81 games last season (0.58 per game) and has 0 in 3 games this season (0.00 per game), averaging 18.4 minutes. He has played 3 of 3 Golden Knights games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.52; Kraken allow 2.99 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 0.98. That projects 0.51 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.51 per game puts 0.5 or fewer at about 60%. Points depend on a handful of finishing events, so one goal or a quiet power play can flip the result; the early-season sample is also very small.",
   "bio": {
    "age": 29,
@@ -40714,7 +40761,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T18:40:00-07:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "VGK",
   "teamOutlook": {
    "allowed": "Kraken allow 2.99 goals/g (blended)",
@@ -40726,6 +40773,7 @@
  },
  {
   "id": "2026-10-05-nhl-221",
+  "actual": "4 hits",
   "analysis": "Brady Tkachuk (Panthers forward) had 162 hits in 60 games last season (2.70 per game) and has 13 in 3 games this season (4.33 per game), averaging 17.4 minutes. He has played 3 of 3 Panthers games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.91; no opponent adjustment for this stat. That projects 2.91 against a reference of 2.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.91 per game puts more than 2.5 at about 56%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 27,
@@ -40812,7 +40860,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-07:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "FLA",
   "teamOutlook": {
    "allowed": "Kings allow 3.15 goals/g (blended)",
@@ -40824,6 +40872,7 @@
  },
  {
   "id": "2026-10-05-nhl-222",
+  "actual": "3 SOG",
   "analysis": "Alex Laferriere (Kings forward) had 209 shots on goal in 82 games last season (2.55 per game) and has 2 in 2 games this season (1.00 per game), averaging 16.1 minutes. He has played 2 of 2 Kings games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.44; Panthers allowed 26.4 shots/g (blended) against a league average of 27.8, a factor of 0.95. That projects 2.31 against a reference of 2.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.31 per game puts 2.5 or fewer at about 59%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 24,
@@ -40910,7 +40959,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-07:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "LAK",
   "teamOutlook": {
    "allowed": "Panthers allow 3.24 goals/g (blended)",
@@ -40922,6 +40971,7 @@
  },
  {
   "id": "2026-10-05-nhl-223",
+  "actual": "0 SOG",
   "analysis": "Drew Doughty (Kings defenseman) had 101 shots on goal in 72 games last season (1.40 per game) and has 1 in 2 games this season (0.50 per game), averaging 21.4 minutes. He has played 2 of 2 Kings games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.33; Panthers allowed 26.4 shots/g (blended) against a league average of 27.8, a factor of 0.95. That projects 1.26 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.26 per game puts 1.5 or fewer at about 64%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 36,
@@ -41008,7 +41058,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-07:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "LAK",
   "teamOutlook": {
    "allowed": "Panthers allow 3.24 goals/g (blended)",
@@ -41020,6 +41070,7 @@
  },
  {
   "id": "2026-10-05-nhl-224",
+  "actual": "0 A",
   "analysis": "Sam Reinhart (Panthers forward) had 32 assists in 64 games last season (0.50 per game) and has 0 in 3 games this season (0.00 per game), averaging 22.3 minutes. He has played 3 of 3 Panthers games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.44; Kings allow 3.15 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 1.01. That projects 0.44 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.44 per game puts 0.5 or fewer at about 64%. Assists depend on teammates finishing, and the early-season sample is only a few games, so the number is noisy.",
   "bio": {
    "age": 30,
@@ -41110,7 +41161,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-07:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "hit",
   "team": "FLA",
   "teamOutlook": {
    "allowed": "Kings allow 3.15 goals/g (blended)",
@@ -41612,6 +41663,7 @@
  },
  {
   "id": "2026-10-05-nhl-23",
+  "actual": "2 SOG",
   "analysis": "Juraj Slafkovský (Canadiens left wing) had 180 shots on goal in 82 games last season (2.20 per game) and has 3 in 2 games this season (1.50 per game) while averaging 18.0 minutes. He has dressed for every MTL game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.15; CAR allowed 23.7 shots/g vs league 27.8, a factor of 0.85. That projects 1.83 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.83 per game puts fewer than or equal to 2.5 at about 72%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 22,
@@ -41693,7 +41745,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "MTL",
   "teamOutlook": {
    "allowed": "Hurricanes allow 2.86 goals/g (blended)",
@@ -42685,6 +42737,7 @@
  },
  {
   "id": "2026-10-05-nhl-24",
+  "actual": "3 pts",
   "analysis": "Sebastian Aho (Hurricanes center) had 80 points in 79 games last season (1.01 per game) and has 4 in 3 games this season (1.33 per game) while averaging 20.0 minutes. He has dressed for every CAR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.05; MTL allowed 3.12 goals/g vs league 3.08, a factor of 1.01, damped. That projects 1.05 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 65% chance of at least one point on a Poisson read of 1.05 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 29,
@@ -42766,7 +42819,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "CAR",
   "teamOutlook": {
    "allowed": "Canadiens allow 3.12 goals/g (blended)",
@@ -43762,6 +43815,7 @@
  },
  {
   "id": "2026-10-05-nhl-25",
+  "actual": "1 blocks",
   "analysis": "Alexandre Carrier (Canadiens defenseman) had 155 blocked shots in 73 games last season (2.12 per game) and has 2 in 2 games this season (1.00 per game) while averaging 15.2 minutes. He has dressed for every MTL game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.04; no opponent adjustment for this stat. That projects 2.04 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.04 per game puts fewer than or equal to 2.5 at about 67%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 29,
@@ -43843,7 +43897,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "MTL",
   "teamOutlook": {
    "allowed": "Hurricanes allow 2.86 goals/g (blended)",
@@ -44843,6 +44897,7 @@
  },
  {
   "id": "2026-10-05-nhl-26",
+  "actual": "1 A",
   "analysis": "Nikolaj Ehlers (Hurricanes left wing) had 45 assists in 82 games last season (0.55 per game) and has 1 in 3 games this season (0.33 per game) while averaging 17.4 minutes. He has dressed for every CAR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.53; MTL allowed 3.12 goals/g vs league 3.08, a factor of 1.01, damped. That projects 0.53 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 41% chance of at least one assist on a Poisson read of 0.53 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 30,
@@ -44924,7 +44979,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "miss",
   "team": "CAR",
   "teamOutlook": {
    "allowed": "Canadiens allow 3.12 goals/g (blended)",
@@ -45932,6 +45987,7 @@
  },
  {
   "id": "2026-10-05-nhl-27",
+  "actual": "6 SOG",
   "analysis": "Lucas Raymond (Red Wings left wing) had 173 shots on goal in 80 games last season (2.16 per game) and has 4 in 2 games this season (2.00 per game) while averaging 22.0 minutes. He has dressed for every DET game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.15; OTT allowed 24.4 shots/g vs league 27.8, a factor of 0.88. That projects 1.88 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.88 per game puts fewer than or equal to 2.5 at about 71%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 24,
@@ -46013,7 +46069,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "DET",
   "teamOutlook": {
    "allowed": "Senators allow 2.89 goals/g (blended)",
@@ -46739,6 +46795,7 @@
  },
  {
   "id": "2026-10-05-nhl-277",
+  "actual": "25 saves",
   "analysis": "Daily Faceoff lists Jesper Wallstedt as the confirmed starter (Jesper Wallstedt will start in Buffalo on Tuesday). He averaged 28.3 saves per start last season (934 saves, 33 starts, 0.916) and has 45 saves in 2 start(s) this season. Sabres generated 28.0 shots per game on my blend of last season and this season (league average 27.8). Multiplying by his blended save rate of 0.921 gives 25.8 saves against a reference of 28.5, a half-point reference taken from his per-start average; no sportsbook line was available to me. Treating saves as roughly normal with a 5.5-save spread, that puts 28.5 or fewer at about 69%. The risks are a pull after an early goal flurry, a lopsided game script that moves shot volume, and a small early-season shot sample.",
   "bio": {
    "age": 23,
@@ -46817,7 +46874,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Goalie saves",
-  "status": "pending",
+  "status": "hit",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "Sabres allow 3.03 goals/g (blended)",
@@ -46829,6 +46886,7 @@
  },
  {
   "id": "2026-10-05-nhl-278",
+  "actual": "32 saves",
   "analysis": "Daily Faceoff lists Juuse Saros as the confirmed starter (Juuse Saros will start in Toronto on Tuesday). He averaged 25.7 saves per start last season (1519 saves, 59 starts, 0.894) and has 56 saves in 2 start(s) this season. Maple Leafs generated 26.5 shots per game on my blend of last season and this season (league average 27.8). Multiplying by his blended save rate of 0.897 gives 23.7 saves against a reference of 25.5, a half-point reference taken from his per-start average; no sportsbook line was available to me. Treating saves as roughly normal with a 5.5-save spread, that puts 25.5 or fewer at about 63%. The risks are a pull after an early goal flurry, a lopsided game script that moves shot volume, and a small early-season shot sample.",
   "bio": {
    "age": 31,
@@ -46907,7 +46965,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Goalie saves",
-  "status": "pending",
+  "status": "miss",
   "team": "NSH",
   "teamOutlook": {
    "allowed": "Maple Leafs allow 3.47 goals/g (blended)",
@@ -46919,6 +46977,7 @@
  },
  {
   "id": "2026-10-05-nhl-279",
+  "actual": "28 saves",
   "analysis": "Daily Faceoff lists Jakub Dobes as the confirmed starter (Jakub Dobes will start vs. Carolina on Tuesday). He averaged 25.5 saves per start last season (1070 saves, 42 starts, 0.901) and has 50 saves in 2 start(s) this season. Hurricanes generated 31.9 shots per game on my blend of last season and this season (league average 27.8). Multiplying by his blended save rate of 0.896 gives 28.6 saves against a reference of 25.5, a half-point reference taken from his per-start average; no sportsbook line was available to me. Treating saves as roughly normal with a 5.5-save spread, that puts more than 25.5 at about 71%. The risks are a pull after an early goal flurry, a lopsided game script that moves shot volume, and a small early-season shot sample.",
   "bio": {
    "age": 25,
@@ -46997,7 +47056,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Goalie saves",
-  "status": "pending",
+  "status": "hit",
   "team": "MTL",
   "teamOutlook": {
    "allowed": "Hurricanes allow 2.86 goals/g (blended)",
@@ -47009,6 +47068,7 @@
  },
  {
   "id": "2026-10-05-nhl-28",
+  "actual": "2 pts",
   "analysis": "Tim Stützle (Senators center) had 83 points in 80 games last season (1.04 per game) and has 4 in 2 games this season (2.00 per game) while averaging 20.9 minutes. He has dressed for every OTT game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.10; DET allowed 3.06 goals/g vs league 3.08, a factor of 1.00, damped. That projects 1.10 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 67% chance of at least one point on a Poisson read of 1.10 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 24,
@@ -47090,7 +47150,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "OTT",
   "teamOutlook": {
    "allowed": "Red Wings allow 3.06 goals/g (blended)",
@@ -47102,6 +47162,7 @@
  },
  {
   "id": "2026-10-05-nhl-280",
+  "actual": "17 saves",
   "analysis": "Daily Faceoff lists Joel Hofer as the confirmed starter (Joel Hofer will start in Chicago on Tuesday). He averaged 26.4 saves per start last season (1137 saves, 43 starts, 0.910) and has 25 saves in 1 start(s) this season. Blackhawks generated 24.0 shots per game on my blend of last season and this season (league average 27.8). Multiplying by his blended save rate of 0.915 gives 22.0 saves against a reference of 26.5, a half-point reference taken from his per-start average; no sportsbook line was available to me. Treating saves as roughly normal with a 5.5-save spread, that puts 26.5 or fewer at about 80%. The risks are a pull after an early goal flurry, a lopsided game script that moves shot volume, and a small early-season shot sample.",
   "bio": {
    "age": 26,
@@ -47180,7 +47241,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-05:00",
   "stat": "Goalie saves",
-  "status": "pending",
+  "status": "hit",
   "team": "STL",
   "teamOutlook": {
    "allowed": "Blackhawks allow 3.46 goals/g (blended)",
@@ -47192,6 +47253,7 @@
  },
  {
   "id": "2026-10-05-nhl-281",
+  "actual": "26 saves",
   "analysis": "Daily Faceoff lists Darcy Kuemper as the confirmed starter (Darcy Kuemper expected to start vs. Florida on Tuesday). He averaged 22.0 saves per start last season (1100 saves, 50 starts, 0.891) and has 21 saves in 1 start(s) this season. Panthers generated 27.8 shots per game on my blend of last season and this season (league average 27.8). Multiplying by his blended save rate of 0.880 gives 24.4 saves against a reference of 22.5, a half-point reference taken from his per-start average; no sportsbook line was available to me. Treating saves as roughly normal with a 5.5-save spread, that puts more than 22.5 at about 64%. The risks are a pull after an early goal flurry, a lopsided game script that moves shot volume, and a small early-season shot sample.",
   "bio": {
    "age": 36,
@@ -47270,7 +47332,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-07:00",
   "stat": "Goalie saves",
-  "status": "pending",
+  "status": "hit",
   "team": "LAK",
   "teamOutlook": {
    "allowed": "Panthers allow 3.24 goals/g (blended)",
@@ -48066,6 +48128,7 @@
  },
  {
   "id": "2026-10-05-nhl-29",
+  "actual": "2 hits",
   "analysis": "Ben Chiarot (Red Wings defenseman) had 170 hits in 82 games last season (2.07 per game) and has 5 in 2 games this season (2.50 per game) while averaging 17.9 minutes. He has dressed for every DET game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.10; no opponent adjustment for this stat. That projects 2.10 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.10 per game puts fewer than or equal to 2.5 at about 65%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 35,
@@ -48147,7 +48210,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "DET",
   "teamOutlook": {
    "allowed": "Senators allow 2.89 goals/g (blended)",
@@ -49139,6 +49202,7 @@
  },
  {
   "id": "2026-10-05-nhl-30",
+  "actual": "1 A",
   "analysis": "Drake Batherson (Senators right wing) had 38 assists in 79 games last season (0.48 per game) and has 0 in 2 games this season (0.00 per game) while averaging 16.6 minutes. He has dressed for every OTT game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.45; DET allowed 3.06 goals/g vs league 3.08, a factor of 1.00, damped. That projects 0.45 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 36% chance of at least one assist on a Poisson read of 0.45 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 28,
@@ -49220,7 +49284,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "miss",
   "team": "OTT",
   "teamOutlook": {
    "allowed": "Red Wings allow 3.06 goals/g (blended)",
@@ -50212,6 +50276,7 @@
  },
  {
   "id": "2026-10-05-nhl-31",
+  "actual": "0 SOG",
   "analysis": "Evan Rodrigues (Devils center) had 160 shots on goal in 69 games last season (2.32 per game) and has 2 in 2 games this season (1.00 per game) while averaging 16.7 minutes. He has dressed for every NJD game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.21; UTA allowed 25.4 shots/g vs league 27.8, a factor of 0.91. That projects 2.02 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.02 per game puts fewer than or equal to 2.5 at about 67%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 33,
@@ -50293,7 +50358,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "NJD",
   "teamOutlook": {
    "allowed": "Mammoth allow 2.80 goals/g (blended)",
@@ -51285,6 +51350,7 @@
  },
  {
   "id": "2026-10-05-nhl-32",
+  "actual": "2 pts",
   "analysis": "Clayton Keller (Mammoth right wing) had 88 points in 82 games last season (1.07 per game) and has 5 in 3 games this season (1.67 per game) while averaging 17.6 minutes. He has dressed for every UTA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.13; NJD allowed 3.15 goals/g vs league 3.08, a factor of 1.01, damped. That projects 1.14 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 68% chance of at least one point on a Poisson read of 1.14 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 28,
@@ -51366,7 +51432,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "UTA",
   "teamOutlook": {
    "allowed": "Devils allow 3.15 goals/g (blended)",
@@ -52064,6 +52130,7 @@
  },
  {
   "id": "2026-10-05-nhl-33",
+  "actual": "2 blocks",
   "analysis": "Brett Pesce (Devils defenseman) had 80 blocked shots in 37 games last season (2.16 per game) and has 0 in 2 games this season (0.00 per game) while averaging 19.2 minutes. He has dressed for every NJD game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.86; no opponent adjustment for this stat. That projects 1.86 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.86 per game puts fewer than or equal to 2.5 at about 71%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 31,
@@ -52145,7 +52212,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "NJD",
   "teamOutlook": {
    "allowed": "Mammoth allow 2.80 goals/g (blended)",
@@ -52157,6 +52224,7 @@
  },
  {
   "id": "2026-10-05-nhl-34",
+  "actual": "2 A",
   "analysis": "Nick Schmaltz (Mammoth center) had 41 assists in 82 games last season (0.50 per game) and has 0 in 3 games this season (0.00 per game) while averaging 17.7 minutes. He has dressed for every UTA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.45; NJD allowed 3.15 goals/g vs league 3.08, a factor of 1.01, damped. That projects 0.46 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 37% chance of at least one assist on a Poisson read of 0.46 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 30,
@@ -52238,7 +52306,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "miss",
   "team": "UTA",
   "teamOutlook": {
    "allowed": "Devils allow 3.15 goals/g (blended)",
@@ -52250,6 +52318,7 @@
  },
  {
   "id": "2026-10-05-nhl-35",
+  "actual": "0 SOG",
   "analysis": "Josh Doan (Sabres right wing) had 170 shots on goal in 82 games last season (2.07 per game) and has 4 in 2 games this season (2.00 per game) while averaging 18.6 minutes. He has dressed for every BUF game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.07; MIN allowed 29.0 shots/g vs league 27.8, a factor of 1.04. That projects 2.15 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.15 per game puts fewer than or equal to 2.5 at about 63%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 24,
@@ -52331,7 +52400,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "BUF",
   "teamOutlook": {
    "allowed": "Wild allow 2.74 goals/g (blended)",
@@ -52343,6 +52412,7 @@
  },
  {
   "id": "2026-10-05-nhl-36",
+  "actual": "0 A",
   "analysis": "Zach Benson (Sabres left wing) had 30 assists in 65 games last season (0.46 per game) and has 1 in 2 games this season (0.50 per game) while averaging 19.1 minutes. He has dressed for every BUF game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.46; MIN allowed 2.74 goals/g vs league 3.08, a factor of 0.94, damped. That projects 0.44 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 35% chance of at least one assist on a Poisson read of 0.44 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 21,
@@ -52424,7 +52494,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "hit",
   "team": "BUF",
   "teamOutlook": {
    "allowed": "Wild allow 2.74 goals/g (blended)",
@@ -52436,6 +52506,7 @@
  },
  {
   "id": "2026-10-05-nhl-37",
+  "actual": "1 blocks",
   "analysis": "Daemon Hunt (Wild defenseman) had 43 blocked shots in 32 games last season (1.34 per game) and has 1 in 2 games this season (0.50 per game) while averaging 12.1 minutes. He has dressed for every MIN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.21; no opponent adjustment for this stat. That projects 1.21 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.21 per game puts fewer than or equal to 1.5 at about 66%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 24,
@@ -52517,7 +52588,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "Sabres allow 3.03 goals/g (blended)",
@@ -52529,6 +52600,7 @@
  },
  {
   "id": "2026-10-05-nhl-38",
+  "actual": "0 SOG",
   "analysis": "Emil Heineman (Islanders left wing) had 174 shots on goal in 82 games last season (2.12 per game) and has 2 in 2 games this season (1.00 per game) while averaging 15.0 minutes. He has dressed for every NYI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.05; NYR allowed 28.3 shots/g vs league 27.8, a factor of 1.02. That projects 2.08 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.08 per game puts fewer than or equal to 2.5 at about 65%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 24,
@@ -52610,7 +52682,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:30:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "NYI",
   "teamOutlook": {
    "allowed": "Rangers allow 2.84 goals/g (blended)",
@@ -52622,6 +52694,7 @@
  },
  {
   "id": "2026-10-05-nhl-39",
+  "actual": "1 A",
   "analysis": "J.T. Miller (Rangers center) had 36 assists in 68 games last season (0.53 per game) and has 0 in 4 games this season (0.00 per game) while averaging 17.4 minutes. He has dressed for every NYR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.45; NYI allowed 2.75 goals/g vs league 3.08, a factor of 0.94, damped. That projects 0.43 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 35% chance of at least one assist on a Poisson read of 0.43 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 33,
@@ -52703,7 +52776,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:30:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "miss",
   "team": "NYR",
   "teamOutlook": {
    "allowed": "Islanders allow 2.75 goals/g (blended)",
@@ -52715,6 +52788,7 @@
  },
  {
   "id": "2026-10-05-nhl-40",
+  "actual": "1 blocks",
   "analysis": "Matthew Schaefer (Islanders defenseman) had 111 blocked shots in 82 games last season (1.35 per game) and has 1 in 2 games this season (0.50 per game) while averaging 24.2 minutes. He has dressed for every NYI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.30; no opponent adjustment for this stat. That projects 1.30 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.30 per game puts fewer than or equal to 1.5 at about 63%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 19,
@@ -52796,7 +52870,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:30:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "NYI",
   "teamOutlook": {
    "allowed": "Rangers allow 2.84 goals/g (blended)",
@@ -52808,6 +52882,7 @@
  },
  {
   "id": "2026-10-05-nhl-41",
+  "actual": "0 SOG",
   "analysis": "Tyler Bertuzzi (Blackhawks left wing) had 164 shots on goal in 79 games last season (2.08 per game) and has 3 in 3 games this season (1.00 per game) while averaging 17.1 minutes. He has dressed for every CHI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.97; STL allowed 27.9 shots/g vs league 27.8, a factor of 1.00. That projects 1.97 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.97 per game puts fewer than or equal to 2.5 at about 68%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 31,
@@ -52889,7 +52964,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T20:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "CHI",
   "teamOutlook": {
    "allowed": "Blues allow 3.09 goals/g (blended)",
@@ -52901,6 +52976,7 @@
  },
  {
   "id": "2026-10-05-nhl-42",
+  "actual": "0 A",
   "analysis": "Dylan Holloway (Blues left wing) had 29 assists in 59 games last season (0.49 per game) and has 0 in 2 games this season (0.00 per game) while averaging 17.5 minutes. He has dressed for every STL game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.45; CHI allowed 3.46 goals/g vs league 3.08, a factor of 1.06, damped. That projects 0.47 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 38% chance of at least one assist on a Poisson read of 0.47 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 25,
@@ -52982,7 +53058,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T20:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "hit",
   "team": "STL",
   "teamOutlook": {
    "allowed": "Blackhawks allow 3.46 goals/g (blended)",
@@ -52994,6 +53070,7 @@
  },
  {
   "id": "2026-10-05-nhl-43",
+  "actual": "6 hits",
   "analysis": "Jake Neighbours (Blues left wing) had 152 hits in 69 games last season (2.20 per game) and has 6 in 2 games this season (3.00 per game) while averaging 13.4 minutes. He has dressed for every STL game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.27; no opponent adjustment for this stat. That projects 2.27 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.27 per game puts fewer than or equal to 2.5 at about 60%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 24,
@@ -53075,7 +53152,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T20:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "STL",
   "teamOutlook": {
    "allowed": "Blackhawks allow 3.46 goals/g (blended)",
@@ -53087,6 +53164,7 @@
  },
  {
   "id": "2026-10-05-nhl-44",
+  "actual": "2 blocks",
   "analysis": "Alex Vlasic (Blackhawks defenseman) had 119 blocked shots in 81 games last season (1.47 per game) and has 2 in 3 games this season (0.67 per game) while averaging 20.3 minutes. He has dressed for every CHI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.39; no opponent adjustment for this stat. That projects 1.39 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.39 per game puts fewer than or equal to 1.5 at about 60%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 25,
@@ -53168,7 +53246,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T20:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "miss",
   "team": "CHI",
   "teamOutlook": {
    "allowed": "Blues allow 3.09 goals/g (blended)",
@@ -53180,6 +53258,7 @@
  },
  {
   "id": "2026-10-05-nhl-45",
+  "actual": "1 SOG",
   "analysis": "Vince Dunn (Kraken defenseman) had 179 shots on goal in 81 games last season (2.21 per game) and has 3 in 3 games this season (1.00 per game) while averaging 21.0 minutes. He has dressed for every SEA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.09; VGK allowed 24.2 shots/g vs league 27.8, a factor of 0.87. That projects 1.81 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.81 per game puts fewer than or equal to 2.5 at about 73%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 29,
@@ -53261,7 +53340,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T21:40:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "Golden Knights allow 2.92 goals/g (blended)",
@@ -53273,6 +53352,7 @@
  },
  {
   "id": "2026-10-05-nhl-46",
+  "actual": "4 pts",
   "analysis": "Jack Eichel (Golden Knights center) had 90 points in 74 games last season (1.22 per game) and has 6 in 3 games this season (2.00 per game) while averaging 20.0 minutes. He has dressed for every VGK game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.30; SEA allowed 2.99 goals/g vs league 3.08, a factor of 0.98, damped. That projects 1.28 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 72% chance of at least one point on a Poisson read of 1.28 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 29,
@@ -53354,7 +53434,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T21:40:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "VGK",
   "teamOutlook": {
    "allowed": "Kraken allow 2.99 goals/g (blended)",
@@ -53366,6 +53446,7 @@
  },
  {
   "id": "2026-10-05-nhl-47",
+  "actual": "0 hits",
   "analysis": "Parker Wotherspoon (Golden Knights defenseman) had 162 hits in 80 games last season (2.02 per game) and has 1 in 3 games this season (0.33 per game) while averaging 17.7 minutes. He has dressed for every VGK game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.85; no opponent adjustment for this stat. That projects 1.85 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.85 per game puts fewer than or equal to 2.5 at about 72%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 29,
@@ -53447,7 +53528,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T21:40:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "VGK",
   "teamOutlook": {
    "allowed": "Kraken allow 2.99 goals/g (blended)",
@@ -53459,6 +53540,7 @@
  },
  {
   "id": "2026-10-05-nhl-48",
+  "actual": "3 blocks",
   "analysis": "Adam Larsson (Kraken defenseman) had 163 blocked shots in 82 games last season (1.99 per game) and has 10 in 3 games this season (3.33 per game) while averaging 21.4 minutes. He has dressed for every SEA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.12; no opponent adjustment for this stat. That projects 2.12 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.12 per game puts more than 1.5 at about 63%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 33,
@@ -53540,7 +53622,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T21:40:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "Golden Knights allow 2.92 goals/g (blended)",
@@ -53552,6 +53634,7 @@
  },
  {
   "id": "2026-10-05-nhl-49",
+  "actual": "0 SOG",
   "analysis": "Mats Zuccarello (Kings right wing) had 122 shots on goal in 59 games last season (2.07 per game) and has 1 in 2 games this season (0.50 per game) while averaging 18.6 minutes. He has dressed for every LAK game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.92; FLA allowed 26.4 shots/g vs league 27.8, a factor of 0.95. That projects 1.82 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.82 per game puts fewer than or equal to 2.5 at about 73%. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 39,
@@ -53633,7 +53716,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T22:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "LAK",
   "teamOutlook": {
    "allowed": "Panthers allow 3.24 goals/g (blended)",
@@ -53645,6 +53728,7 @@
  },
  {
   "id": "2026-10-05-nhl-50",
+  "actual": "0 A",
   "analysis": "Seth Jones (Panthers defenseman) had 25 assists in 52 games last season (0.48 per game) and has 0 in 3 games this season (0.00 per game) while averaging 28.4 minutes. He has dressed for every FLA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.41; LAK allowed 3.15 goals/g vs league 3.08, a factor of 1.01, damped. That projects 0.41 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 34% chance of at least one assist on a Poisson read of 0.41 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 32,
@@ -53726,7 +53810,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T22:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "hit",
   "team": "FLA",
   "teamOutlook": {
    "allowed": "Kings allow 3.15 goals/g (blended)",
@@ -53738,6 +53822,7 @@
  },
  {
   "id": "2026-10-05-nhl-51",
+  "actual": "1 blocks",
   "analysis": "Joel Edmundson (Kings defenseman) had 111 blocked shots in 82 games last season (1.35 per game) and has 1 in 2 games this season (0.50 per game) while averaging 14.4 minutes. He has dressed for every LAK game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.30; no opponent adjustment for this stat. That projects 1.30 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.30 per game puts fewer than or equal to 1.5 at about 63%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 33,
@@ -53819,7 +53904,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T22:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "LAK",
   "teamOutlook": {
    "allowed": "Panthers allow 3.24 goals/g (blended)",
@@ -53831,6 +53916,7 @@
  },
  {
   "id": "2026-10-05-nhl-52",
+  "actual": "19 saves",
   "analysis": "Daily Faceoff lists Jacob Markstrom as the confirmed starter (Markstrom will start in Los Angeles on Tuesday. Source: Florida Panthers). He averaged 22.9 saves per start last season (983 saves, 43 starts, 0.883) and has 32 saves in 2 starts this season. Kings generated 28.4 shots per game on my blend of last season and this season (league average 27.8). Multiplying by his blended save rate gives 25.1 saves against a reference of 22.5, the half-point under his per-start average; no book line was posted when I checked. That is a More lean at roughly 67%. The risks are a pull after an early goal flurry, a lopsided game script that suppresses shots, and score effects late.",
   "bio": {
    "age": 36,
@@ -53912,7 +53998,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T22:00:00-04:00",
   "stat": "Saves",
-  "status": "pending",
+  "status": "miss",
   "team": "FLA",
   "teamOutlook": {
    "allowed": "Kings allow 3.15 goals/g (blended)",
