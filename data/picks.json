@@ -36599,73 +36599,84 @@
  },
  {
   "id": "2026-10-05-nhl-18",
-  "analysis": "Bedard took a big step in 2025-26 with 30 goals, 45 assists and 226 shots in 69 games. He centers Chicago's top line and power-play unit, so most of the team's offense runs through him. The Islanders are a disciplined defensive team that will focus on him, so I project about 1.0 point, still above a 0.5 line. No line was posted yet. The main risks are a low-scoring road game and Chicago's thin supporting cast limiting his assists. Update 10/7: ESPN lists Bedard on injured reserve after July shoulder surgery (Sun-Times reported an early-to-mid-November timeline). The Athletic (via ESPN) says he skated Monday, but he is not activated, so treat this pick as unlikely to play.",
+  "analysis": "Replaces the Connor Bedard points pick: ESPN lists Bedard on injured reserve (roster note dated Oct 5) after July shoulder surgery, so he will not play Thursday. Chicago also has Teuvo Teravainen and Andrew Mangiapane listed out on ESPN's roster feed, which leaves Bertuzzi as the team's top remaining shooter from last year (164 SOG in 79 GP, 2.08 a game; 3 shots in 4 games so far). I blended the two samples to 2.01 a game, left the Islanders' shot-allowed rate at league average, and added 0.2 as a judgment call for the extra ice time. That edge is small, and no book line was found, so the lean is against the 2.0 reference at confidence 2. Risk: a quiet game or a lower line spot than assumed, since line combinations could not be read.",
   "bio": {
-   "age": 21,
-   "college": "Canada",
-   "exp": "NHL debut 2023-24 (Oct 2023)",
-   "hand": "Shoots R",
-   "height": "5'10\"",
-   "weight": "190 lbs"
+   "age": 31,
+   "hand": "Shoots L",
+   "height": "6'2\"",
+   "weight": "200 lbs"
   },
   "bioSource": {
-   "title": "Connor Bedard (Wikipedia)",
-   "url": "https://en.wikipedia.org/wiki/Connor_Bedard"
+   "title": "ESPN: Tyler Bertuzzi",
+   "url": "https://site.api.espn.com/apis/common/v3/sports/hockey/nhl/athletes/3042056"
   },
-  "condition": "Bedard is on injured reserve per ESPN (shoulder surgery); not expected to play unless activated before puck drop",
-  "confidence": 1,
+  "condition": "Bertuzzi in the lineup (no injury listed on ESPN as of 10/7; Daily Faceoff line combos were blocked, so lines are not confirmed)",
+  "confidence": 2,
+  "espnId": "3042056",
   "game": "CHI @ NYI",
   "gameTime": "Thu 10/8",
-  "history": "Bedard scored the go-ahead goal with 54 seconds left in Chicago's 5-3 win over the Islanders in mid-December 2025, a one-timer past Ilya Sorokin; Arvid Soderblom made 30 saves. I did not find his shots or assists in that game, and I did not find earlier-season lines. He had 30 goals, 45 assists and 75 points in 69 games last season. The game is Thursday 10/8 at 7:30 PM ET at UBS Arena, a road game for Chicago. Goalies and injuries were not confirmed.",
+  "headshot": "https://assets.nhle.com/mugs/nhl/20262027/CHI/8477479.png",
+  "history": "Bertuzzi shot 164 times on goal in 79 games in 2025-26 (2.08 per game) and has 3 shots in 4 games this season, with 1 goal and 1 assist. I did not read his individual game log against the Islanders.",
   "historySources": [
    {
-    "title": "Bedard scores in 3rd period as the Blackhawks beat the Islanders 5-3",
-    "url": "https://www.cbsnews.com/amp/chicago/news/blackhawks-vs-islanders-dec-15"
+    "title": "NHL.com skater stats 2025-26",
+    "url": "https://api.nhle.com/stats/rest/en/skater/summary?limit=-1&cayenneExp=seasonId=20252026%20and%20gameTypeId=2"
    },
    {
-    "title": "Islanders at Blackhawks recap (NHL.com)",
-    "url": "https://nhl.com/news/new-york-islanders-chicago-blackhawks-game-recap-december-15"
+    "title": "NHL.com skater stats 2026-27",
+    "url": "https://api.nhle.com/stats/rest/en/skater/summary?limit=-1&cayenneExp=seasonId=20262027%20and%20gameTypeId=2"
    }
   ],
   "line": null,
-  "matchup": "Bedard had 30 goals, 45 assists and 226 shots in 69 games last season and centers Chicago's top line and power play. No verified Islanders goalie, defense pair, or current-season numbers found. Goalie confirmations, line combinations and opposing defense pairings were not available from pages I could open (several sites blocked), so I cannot say who he will face on the ice.",
+  "lines": [],
+  "matchup": "Islanders allow about 28.0 shots a game on a blended basis (league 27.8), so the matchup is neutral for shot volume.",
   "matchupSources": [
    {
-    "title": "NHL API Bedard landing (cited on board)",
-    "url": "https://api-web.nhle.com/v1/player/8484144/landing"
-   }
-  ],
-  "newsTag": "Top-line usage",
-  "player": "Connor Bedard",
-  "position": "F",
-  "projBasis": "Board projection: 75 points in 69 GP last season (1.09/gp).",
-  "projLine": [
-   {
-    "proj": "1.0",
-    "stat": "Points"
+    "title": "NHL.com team stats 2025-26",
+    "url": "https://api.nhle.com/stats/rest/en/team/summary?limit=-1&cayenneExp=seasonId=20252026%20and%20gameTypeId=2"
    },
    {
-    "proj": "about 3.3 (226 SOG in 69 GP last season)",
+    "title": "NHL.com team stats 2026-27",
+    "url": "https://api.nhle.com/stats/rest/en/team/summary?limit=-1&cayenneExp=seasonId=20262027%20and%20gameTypeId=2"
+   }
+  ],
+  "newsTag": "Bedard on IR",
+  "player": "Tyler Bertuzzi",
+  "position": "LW",
+  "projBasis": "164 SOG in 79 GP last season (2.08/g) and 3 in 4 GP this season, blended 2.01/g; NYI allow 28.0 shots/g vs league 27.8 (x1.0); +0.2 judgment bump because Bedard (3.3 SOG/g last year) is on IR and Teravainen and Mangiapane are listed out; ref 2.0",
+  "projLine": [
+   {
+    "proj": "2.2",
     "stat": "Shots on goal"
    }
   ],
   "projection": {
-   "basis": "75 pts in 69 GP 2025-26 (1.09/gp), trimmed vs NYI",
-   "value": "1.0 pts"
+   "basis": "164 SOG in 79 GP last season (2.08/g) and 3 in 4 GP this season, blended 2.01/g; NYI allow 28.0 shots/g vs league 27.8 (x1.0); +0.2 judgment bump because Bedard (3.3 SOG/g last year) is on IR and Teravainen and Mangiapane are listed out; ref 2.0",
+   "value": "2.2 SOG"
+  },
+  "replaces": {
+   "at": "2026-10-07T12:46:36Z",
+   "player": "Connor Bedard",
+   "reason": "Bedard on IR",
+   "stat": "Points"
   },
   "side": "More",
   "sources": [
    {
-    "title": "NHL.com API: Bedard player page",
-    "url": "https://api-web.nhle.com/v1/player/8484144/landing"
+    "title": "NHL.com skater stats 2025-26",
+    "url": "https://api.nhle.com/stats/rest/en/skater/summary?limit=-1&cayenneExp=seasonId=20252026%20and%20gameTypeId=2"
    },
    {
-    "title": "NHL schedule, Oct 8",
+    "title": "NHL schedule, Oct 6-8",
     "url": "https://api-web.nhle.com/v1/schedule/2026-10-08"
    },
    {
-    "title": "ESPN NHL injuries feed",
-    "url": "https://www.espn.com/nhl/injuries"
+    "title": "ESPN NHL injuries",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/injuries"
+   },
+   {
+    "title": "ESPN: Blackhawks roster/injuries (Bedard IR, Teravainen and Mangiapane out)",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/teams/chi/roster"
    },
    {
     "title": "Sun-Times: Bedard shoulder surgery timeline",
@@ -36674,16 +36685,16 @@
   ],
   "sport": "nhl",
   "startTime": "2026-10-08T19:30:00-04:00",
-  "stat": "Points",
+  "stat": "Shots on goal",
   "status": "pending",
   "team": "CHI",
   "teamOutlook": {
-   "allowed": "Islanders not verified",
-   "defense": "Not verified",
-   "scored": "Chicago offense runs through Bedard"
+   "allowed": "Islanders allow 2.75 goals/g (blended)",
+   "defense": "Islanders allow 28.0 shots/g (blended; league 27.8)",
+   "scored": "Blackhawks 2.47 goals/g (blended)"
   },
   "week": "2026-10-05",
-  "why": "Bedard had 75 points in 69 games last season (1.09 per game) and drives Chicago's top line and power play."
+  "why": "Bedard ruled out (IR); replaced with Bertuzzi shots on goal."
  },
  {
   "id": "2026-10-05-nhl-180",
@@ -58804,7 +58815,7 @@
  },
  {
   "id": "2026-10-05-wnba-02",
-  "analysis": "Canada scored 25 points in Game 1, 20 of them in the second half, adding 4 assists and 5 steals. She has now reached double figures in five straight games. Allisha Gray played only 11 minutes (7 points) before leaving with a left hand injury and neither the AJC nor FOX 5 report gave a severity or status for Game 2. If Gray is out or limited, Canada's minutes and shots should hold or rise. The Game 1 line was 11.5 and the Game 2 number was not yet posted. I project about 15 given the recent form, with some regression from the 13-of-20 shooting game. The main risk is that the 25 was inflated and Atlanta spreads scoring with Bonner, Reese and Howard. Monday-evening update: Gray hurt two fingers on her shooting hand and her Game 2 status is still uncertain, so the condition is open. Allisha Gray (finger) ruled out for G2 per Smesko/ESPN; day-to-day after; Bonner expected to start, usage shifts to Howard/Canada.",
+  "analysis": "Canada scored 25 points in Game 1, 20 of them in the second half, adding 4 assists and 5 steals. She has now reached double figures in five straight games. Allisha Gray played only 11 minutes (7 points) before leaving with a left hand injury and neither the AJC nor FOX 5 report gave a severity or status for Game 2. If Gray is out or limited, Canada's minutes and shots should hold or rise. The Game 1 line was 11.5 and the Game 2 number was not yet posted. I project about 15 given the recent form, with some regression from the 13-of-20 shooting game. The main risk is that the 25 was inflated and Atlanta spreads scoring with Bonner, Reese and Howard. Monday-evening update: Gray hurt two fingers on her shooting hand and her Game 2 status is still uncertain, so the condition is open. Allisha Gray (finger) ruled out for G2 per Smesko/ESPN; day-to-day after; Bonner expected to start, usage shifts to Howard/Canada. Game-log check 10/7: Canada averaged 11.6 pts in 43 regular-season games but 18.0 in 3 playoff games (10, 19, 25), so 16 is a modest step toward her playoff form; small sample.",
   "bio": {
    "age": 31,
    "college": "UCLA",
@@ -58869,7 +58880,7 @@
   "newsTag": "Gray hand injury",
   "player": "Jordin Canada",
   "position": "G",
-  "projBasis": "Points from G1 25 on 13-of-20 and five straight double-figure games, regressed; assists from Covers' 8+ in 4 of her prior 5. Rebounds is a guess and not sourced.",
+  "projBasis": "11.6 ppg in 43 regular-season games, 18.0 in 3 playoff games; Gray out for G2 per ESPN",
   "projLine": [
    {
     "proj": "15",
@@ -58893,7 +58904,7 @@
    "value": "15 pts"
   },
   "projection": {
-   "basis": "Prior 15; Gray out, Canada had 25 in G1 and ESPN notes Canada/Bonner stepping up",
+   "basis": "11.6 ppg in 43 regular-season games, 18.0 in 3 playoff games; Gray out for G2 per ESPN",
    "value": "16 pts"
   },
   "side": "More",
@@ -58921,6 +58932,10 @@
    {
     "title": "ESPN: Dream rule out Allisha Gray for Game 2",
     "url": "https://www.espn.com/wnba/story/_/id/50118777/dream-rule-top-scorer-allisha-gray-finger-game-2"
+   },
+   {
+    "title": "ESPN game log: Jordin Canada 2026",
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/wnba/athletes/3142250/gamelog"
    }
   ],
   "sport": "wnba",
@@ -59287,7 +59302,7 @@
  },
  {
   "id": "2026-10-05-wnba-06",
-  "analysis": "Wilson finished Game 1 with 24 points and 4 rebounds as Las Vegas lost 71-60 and was outrebounded 52-25 with 17 Golden State offensive boards producing 20 points. Chelsea Gray added 16 and Jackie Young 11 points with 5 assists. I could not find a posted Game 2 points line, so the line is left null. My projection leans on her series and season track record: she averaged about 32 points in the first round and 12.7 rebounds against Golden State in the regular season. Regression toward those averages is likely for a must-win game. Main risks are Kiah Stokes and Golden State's rebounding size repeating the Game 1 pattern and a low-possession game. Start time: Chase Center (Mission Local; ESPN/CBS did not confirm), listed 6:30 PM, taken as Pacific time. Monday-evening update: Jewell Loyd's left leg injury from Game 1 could push more shots to Wilson if Loyd sits. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage.",
+  "analysis": "Wilson finished Game 1 with 24 points and 4 rebounds as Las Vegas lost 71-60 and was outrebounded 52-25 with 17 Golden State offensive boards producing 20 points. Chelsea Gray added 16 and Jackie Young 11 points with 5 assists. I could not find a posted Game 2 points line, so the line is left null. My projection leans on her series and season track record: she averaged about 32 points in the first round and 12.7 rebounds against Golden State in the regular season. Regression toward those averages is likely for a must-win game. Main risks are Kiah Stokes and Golden State's rebounding size repeating the Game 1 pattern and a low-possession game. Start time: Chase Center (Mission Local; ESPN/CBS did not confirm), listed 6:30 PM, taken as Pacific time. Monday-evening update: Jewell Loyd's left leg injury from Game 1 could push more shots to Wilson if Loyd sits. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage. Game-log check 10/7: Wilson averaged 25.8 pts in 42 regular-season games, 27.5 over her last six, and 30.0 in 4 playoff games, which supports 26.",
   "bio": {
    "age": 30,
    "college": "South Carolina",
@@ -59341,7 +59356,7 @@
   "newsTag": "Must-win usage",
   "player": "A'ja Wilson",
   "position": "F",
-  "projBasis": "Points from 24 in G1, 28/28 vs GS in 2026 and ~32 ppg in round one per earlier research.",
+  "projBasis": "25.8 ppg in 42 regular-season games, 30.0 in 4 playoff games; Loyd doubtful, Talbot questionable",
   "projLine": [
    {
     "proj": "25",
@@ -59365,7 +59380,7 @@
    "value": "25 pts"
   },
   "projection": {
-   "basis": "Prior 25; Loyd doubtful and Talbot questionable shrinks supporting cast",
+   "basis": "25.8 ppg in 42 regular-season games, 30.0 in 4 playoff games; Loyd doubtful, Talbot questionable",
    "value": "26 pts"
   },
   "side": "More",
@@ -59393,6 +59408,10 @@
    {
     "title": "ESPN WNBA injuries API / game summaries",
     "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/injuries"
+   },
+   {
+    "title": "ESPN game log: A'ja Wilson 2026",
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/wnba/athletes/3149391/gamelog"
    }
   ],
   "sport": "wnba",
@@ -59517,7 +59536,7 @@
  },
  {
   "id": "2026-10-05-wnba-08",
-  "analysis": "Howard finished Game 1 with 16 points, 8 rebounds and 8 assists. The Game 1 points line was 18.5, with rebounds at 3.5 and assists at 3.5, so her playmaking cleared those easily. Allisha Gray's hand injury could raise her shots if Gray misses time. Atlanta was distributed offensively, with Canada 25, Bonner 23 and Reese 17. I project about 17.5, just below the line, so this is a thin Less. Game 2 line was not yet posted. Risk is higher usage if Gray is out. Allisha Gray (finger) ruled out for G2 per Smesko/ESPN; day-to-day after; Bonner expected to start, usage shifts to Howard/Canada.",
+  "analysis": "Howard finished Game 1 with 16 points, 8 rebounds and 8 assists. The Game 1 points line was 18.5, with rebounds at 3.5 and assists at 3.5, so her playmaking cleared those easily. Allisha Gray's hand injury could raise her shots if Gray misses time. Atlanta was distributed offensively, with Canada 25, Bonner 23 and Reese 17. I project about 17.5, just below the line, so this is a thin Less. Game 2 line was not yet posted. Risk is higher usage if Gray is out. Allisha Gray (finger) ruled out for G2 per Smesko/ESPN; day-to-day after; Bonner expected to start, usage shifts to Howard/Canada. Game-log check 10/7: Howard averaged 17.5 pts in 44 regular-season games and 19.0 in 3 playoff games (16, 15, 26), so with Allisha Gray out the projection is 19, not the 20 first proposed; the assist projection stays at 5 (3.7 regular season, 4.3 playoffs).",
   "bio": {
    "age": 26,
    "college": "Kentucky",
@@ -59605,8 +59624,8 @@
    "value": "17.5 pts"
   },
   "projection": {
-   "basis": "Prior 17.5; Gray (19.0 ppg) out G2, Howard is next scorer and ESPN says pressure shifts to her",
-   "value": "20 pts"
+   "basis": "17.5 ppg in 44 regular-season games, 19.0 in 3 playoff games; Allisha Gray (19.0 ppg) out for G2 per ESPN",
+   "value": "19 pts"
   },
   "side": "More",
   "sources": [
@@ -59629,6 +59648,10 @@
    {
     "title": "ESPN: Dream rule out Allisha Gray for Game 2",
     "url": "https://www.espn.com/wnba/story/_/id/50118777/dream-rule-top-scorer-allisha-gray-finger-game-2"
+   },
+   {
+    "title": "ESPN game log: Rhyne Howard 2026",
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/wnba/athletes/4398674/gamelog"
    }
   ],
   "sport": "wnba",
@@ -59721,13 +59744,9 @@
     "stat": "Rebounds"
    }
   ],
-  "projPrev": {
-   "at": "2026-10-07T12:38:07Z",
-   "value": "5 ast"
-  },
   "projection": {
-   "basis": "Prior 5; Gray out increases Howard creation load",
-   "value": "5.5 ast"
+   "basis": "3.7 apg in 44 regular-season games, 4.3 in 3 playoff games; Gray out adds some creation load",
+   "value": "5 ast"
   },
   "side": "More",
   "sources": [
@@ -59746,6 +59765,10 @@
    {
     "title": "ESPN: Dream rule out Allisha Gray for Game 2",
     "url": "https://www.espn.com/wnba/story/_/id/50118777/dream-rule-top-scorer-allisha-gray-finger-game-2"
+   },
+   {
+    "title": "ESPN game log: Rhyne Howard 2026",
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/wnba/athletes/4398674/gamelog"
    }
   ],
   "sport": "wnba",
@@ -59989,7 +60012,7 @@
  },
  {
   "id": "2026-10-05-wnba-12",
-  "analysis": "Chelsea Gray scored 16 points with 4 rebounds and 3 assists in Game 1, Las Vegas's second-best scorer behind Wilson. No line was posted when I checked, so it is left blank. I project about 14, and a line near 11 to 12 would favor More. Las Vegas needs scoring around Wilson after a 60-point output. Risk is Golden State's defense and low-pace game. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated, and Stephanie Talbot is also out. If Loyd misses time, more guard usage shifts to Gray. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage.",
+  "analysis": "Chelsea Gray scored 16 points with 4 rebounds and 3 assists in Game 1, Las Vegas's second-best scorer behind Wilson. No line was posted when I checked, so it is left blank. I project about 14, and a line near 11 to 12 would favor More. Las Vegas needs scoring around Wilson after a 60-point output. Risk is Golden State's defense and low-pace game. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated, and Stephanie Talbot is also out. If Loyd misses time, more guard usage shifts to Gray. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage. Game-log check 10/7: Gray averaged 11.9 pts in 44 regular-season games and 15.8 in 4 playoff games, which supports 15.",
   "bio": {
    "age": 33,
    "college": "Duke",
@@ -60043,7 +60066,7 @@
   "newsTag": "Aces need scoring",
   "player": "Chelsea Gray",
   "position": "G",
-  "projBasis": "Points from 16 in G1 and 12 in May at GS; assists from 3 in G1 and 6 in May.",
+  "projBasis": "11.9 ppg in 44 regular-season games, 15.8 in 4 playoff games; Loyd doubtful",
   "projLine": [
    {
     "proj": "14",
@@ -60063,7 +60086,7 @@
    "value": "14 pts"
   },
   "projection": {
-   "basis": "Prior 14; Loyd (11 pts in R1 G3) doubtful, more shots for the big three",
+   "basis": "11.9 ppg in 44 regular-season games, 15.8 in 4 playoff games; Loyd doubtful",
    "value": "15 pts"
   },
   "side": "More",
@@ -60087,6 +60110,10 @@
    {
     "title": "ESPN WNBA injuries API / game summaries",
     "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/injuries"
+   },
+   {
+    "title": "ESPN game log: Chelsea Gray 2026",
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/wnba/athletes/2529122/gamelog"
    }
   ],
   "sport": "wnba",
@@ -60104,7 +60131,7 @@
  },
  {
   "id": "2026-10-05-wnba-13",
-  "analysis": "Jackie Young scored 11 with 5 assists, 4 rebounds and 3 steals in Game 1. No line was posted when I checked. I project 15 on a rebound from a quiet scoring night in a must-win game. Risk is Golden State's size and defensive pressure keeping her to shots outside the paint. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated. If Loyd misses time, Young's shot share should grow. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage.",
+  "analysis": "Jackie Young scored 11 with 5 assists, 4 rebounds and 3 steals in Game 1. No line was posted when I checked. I project 15 on a rebound from a quiet scoring night in a must-win game. Risk is Golden State's size and defensive pressure keeping her to shots outside the paint. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated. If Loyd misses time, Young's shot share should grow. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage. Game-log check 10/7: Young averaged 18.8 pts in 45 regular-season games, 20.2 over her last six, and 20.2 in 4 playoff games, which supports 18.",
   "bio": {
    "age": 29,
    "college": "Notre Dame",
@@ -60158,7 +60185,7 @@
   "newsTag": "Aces must-win",
   "player": "Jackie Young",
   "position": "G",
-  "projBasis": "Points from 23, 27 vs GS in 2026 and 11 in G1; assists/rebounds/steals from G1 (5/4/3).",
+  "projBasis": "18.8 ppg in 45 regular-season games, 20.2 in 4 playoff games; Loyd doubtful, Talbot questionable",
   "projLine": [
    {
     "proj": "15",
@@ -60182,7 +60209,7 @@
    "value": "15 pts"
   },
   "projection": {
-   "basis": "Prior 15; Loyd doubtful and Talbot questionable, Young is a primary option",
+   "basis": "18.8 ppg in 45 regular-season games, 20.2 in 4 playoff games; Loyd doubtful, Talbot questionable",
    "value": "18 pts"
   },
   "side": "More",
@@ -60206,6 +60233,10 @@
    {
     "title": "ESPN WNBA injuries API / game summaries",
     "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/injuries"
+   },
+   {
+    "title": "ESPN game log: Jackie Young 2026",
+    "url": "https://site.web.api.espn.com/apis/common/v3/sports/basketball/wnba/athletes/4065870/gamelog"
    }
   ],
   "sport": "wnba",
