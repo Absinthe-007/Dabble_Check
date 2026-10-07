@@ -44,3 +44,10 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 ## MLB removed (owner's request, Oct 7 2026)
 - MLB is gone: all MLB picks (open and graded) and MLB news were deleted from the artifact database, and the site no longer lists it. Never create, refresh, grade or report MLB picks; do not run MLB research or an MLB builder, and leave MLB out of the notification's per-sport hit rate.
 - If any `mlb` docs show up in an export, delete them from the database; `scripts/build_data.py` also filters them out.
+
+## Must plays: 5 per sport (owner's request, Oct 7 2026)
+- Every update, pick the 5 strongest open More/Less picks for each in-season sport (NFL, CFB, NHL, WNBA) and store them on the pick docs as `must: {rank: 1-5, note}`. The site shows them as "<Sport> must plays" at the top of that sport's tab (hidden on the All tab); when a sport has no `must` picks it falls back to its 5 best-graded open picks.
+- Choose from open picks in games that have not started: confidence 3+ (or a real book line with a clear edge), one pick per player, at most 2 per game, no unresolved injury condition, and the side agreeing with projection vs the line. Prefer picks with real book lines; otherwise a clean numeric basis. The `note` is one or two plain sentences using only facts already in the pick (lines, averages, news); never invent a spread or a stat.
+- Clear stale `must` fields from picks that are no longer in the top 5 (set `must` to `{"__delete__": true}`), and re-rank each run.
+- Keep the A–F grade on every pick (the site computes it from confidence, projection vs line and any open condition).
+- The owner wants to review this update before it is pushed: hold the push until they give the go-ahead.

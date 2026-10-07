@@ -995,7 +995,11 @@
    "scored": "roughly 27 each (54.5 total, near pick'em; sources conflict on which side is favored by 1.5)"
   },
   "week": "2026-10-05",
-  "why": "Maiava averages about 291 passing yards a game (15 TD, 3 INT). Penn State has lost two straight and just gave up 413 rushing yards at Northwestern."
+  "why": "Maiava averages about 291 passing yards a game (15 TD, 3 INT). Penn State has lost two straight and just gave up 413 rushing yards at Northwestern.",
+  "must": {
+   "rank": 3,
+   "note": "290.7 yards a game; USC offense 467.8 yards a game and the total is 54.5. No book line."
+  }
  },
  {
   "id": "2026-10-05-cfb-100",
@@ -3386,7 +3390,11 @@
    "scored": "Indiana about 29.75, Nebraska about 22 (total ~52, IND -7.5)"
   },
   "week": "2026-10-05",
-  "why": "Becker is Hoover's top target with 27 catches for 477 yards (about 95 a game) and 8 TDs."
+  "why": "Becker is Hoover's top target with 27 catches for 477 yards (about 95 a game) and 8 TDs.",
+  "must": {
+   "rank": 4,
+   "note": "About 95 receiving yards a game with 8 TDs; Indiana is a 7.5-point favorite at Nebraska. No book line."
+  }
  },
  {
   "id": "2026-10-05-cfb-16",
@@ -3602,7 +3610,11 @@
    "scored": "Missouri favored; total not seen"
   },
   "week": "2026-10-05",
-  "why": "Roberts is the workhorse with 606 yards on 113 carries (about 121 a game). Ahmad Hardy (leg) is still out until around Oct 17."
+  "why": "Roberts is the workhorse with 606 yards on 113 carries (about 121 a game). Ahmad Hardy (leg) is still out until around Oct 17.",
+  "must": {
+   "rank": 1,
+   "note": "About 121 rush yards a game on 5.4 per carry; Hardy (the other Missouri back) is out until about Oct 17. No book line."
+  }
  },
  {
   "id": "2026-10-05-cfb-19",
@@ -3713,7 +3725,11 @@
    "scored": "not seen (no total found)"
   },
   "week": "2026-10-05",
-  "why": "Chambliss averages about 305 passing yards a game, and Ole Miss is coming off a bye. Vanderbilt just gave up 295 passing yards to Georgia."
+  "why": "Chambliss averages about 305 passing yards a game, and Ole Miss is coming off a bye. Vanderbilt just gave up 295 passing yards to Georgia.",
+  "must": {
+   "rank": 5,
+   "note": "About 305 yards a game; off a bye with Lacy back, and Vanderbilt gave up 295 to Georgia. No book line."
+  }
  },
  {
   "id": "2026-10-05-cfb-20",
@@ -9420,7 +9436,11 @@
    "scored": "Ohio State well above 40 is plausible given the 35.5-point spread; total not seen"
   },
   "week": "2026-10-05",
-  "why": "Julian Sayin has averaged 28.4 pass attempts over 5 games this season (27, 36, 22, 32, 25). I project 27 given the game setup, which sits below his typical number."
+  "why": "Julian Sayin has averaged 28.4 pass attempts over 5 games this season (27, 36, 22, 32, 25). I project 27 given the game setup, which sits below his typical number.",
+  "must": {
+   "rank": 2,
+   "note": "Averages 28.4 attempts and Ohio State is a 35.5-point favorite, so a blowout should keep his throws down. No book line."
+  }
  },
  {
   "id": "2026-10-05-nfl-01",
@@ -9781,7 +9801,11 @@
    "scored": "~22.5 (implied by SEA -2.5, 47.5 total); offense averaging ~33 ppg through 3 games"
   },
   "week": "2026-10-05",
-  "why": "80 and 82 receiving yards the last two weeks with rising target share. Reference line is from his Week 4 market."
+  "why": "80 and 82 receiving yards the last two weeks with rising target share. Reference line is from his Week 4 market.",
+  "must": {
+   "rank": 3,
+   "note": "Book lines 55.5–58.5 against our 70 yards."
+  }
  },
  {
   "id": "2026-10-05-nfl-04",
@@ -13939,7 +13963,11 @@
    "scored": "~22 implied (roughly pick-em, 44.5 total); 24.0 ppg through 4 games, 45 vs NO on Monday night"
   },
   "week": "2026-10-05",
-  "why": "Robinson has rushed for 83, 72, 194 and 145 yards, over 100 in three of four games, and ran for 145 and two touchdowns on Monday night."
+  "why": "Robinson has rushed for 83, 72, 194 and 145 yards, over 100 in three of four games, and ran for 145 and two touchdowns on Monday night.",
+  "must": {
+   "rank": 1,
+   "note": "Book lines 85.5–90.5 against our 105 yards."
+  }
  },
  {
   "id": "2026-10-05-nfl-154",
@@ -18914,7 +18942,11 @@
    "scored": "~16.25 (implied by HOU -6.5, ~39 total); scoring about 12.3 ppg"
   },
   "week": "2026-10-05",
-  "why": "Ward is averaging under 190 passing yards a game for an offense scoring 12.3 points a game. Houston's pass rush is the clearest edge in the matchup, and the total has dropped to about 39."
+  "why": "Ward is averaging under 190 passing yards a game for an offense scoring 12.3 points a game. Houston's pass rush is the clearest edge in the matchup, and the total has dropped to about 39.",
+  "must": {
+   "rank": 2,
+   "note": "Books sit at 189.5; we project 170 with Houston a 7.5-point favorite and a 37.5 total, so Ward throws less."
+  }
  },
  {
   "id": "2026-10-05-nfl-28",
@@ -19125,7 +19157,11 @@
    "scored": "~21.25 (implied by PIT -2, 44.5 total)"
   },
   "week": "2026-10-05",
-  "why": "Jones threw for 143 yards in the London win. WRs Alec Pierce (heel) and Keenan Allen (groin) were both out, and the Colts come off overseas travel to face a rested Steelers team."
+  "why": "Jones threw for 143 yards in the London win. WRs Alec Pierce (heel) and Keenan Allen (groin) were both out, and the Colts come off overseas travel to face a rested Steelers team.",
+  "must": {
+   "rank": 4,
+   "note": "Lines 215.5–219.5 against our 185; Indianapolis is thin at receiver (Pierce and Allen still out)."
+  }
  },
  {
   "id": "2026-10-05-nfl-30",
@@ -20744,7 +20780,11 @@
    "scored": "~25 (47.5 total, SEA -2.5)"
   },
   "week": "2026-10-05",
-  "why": "With Zach Charbonnet out (knee) and Jadarian Price on IR, Wilson took 21 carries in Week 4. Seattle is a home favorite."
+  "why": "With Zach Charbonnet out (knee) and Jadarian Price on IR, Wilson took 21 carries in Week 4. Seattle is a home favorite.",
+  "must": {
+   "rank": 5,
+   "note": "21 carries and 81 yards last week; Charbonnet is out again and Seattle passed on Mixon. No book line yet."
+  }
  },
  {
   "id": "2026-10-05-nfl-46",
@@ -23735,7 +23775,11 @@
    "scored": "Edmonton scoring about 5.67 goals a game early (3-game sample)"
   },
   "week": "2026-10-05",
-  "why": "Draisaitl has 15 shots in 3 games (5.0 a game) with 3 goals and 2 assists. Anaheim is allowing 30.5 shots a game."
+  "why": "Draisaitl has 15 shots in 3 games (5.0 a game) with 3 goals and 2 assists. Anaheim is allowing 30.5 shots a game.",
+  "must": {
+   "rank": 1,
+   "note": "Books 2.5–3.5 against our 4.6 shots; Draisaitl has 15 shots in 3 games. Tonight at Anaheim."
+  }
  },
  {
   "id": "2026-10-05-nhl-02",
@@ -24003,7 +24047,11 @@
    "scored": "Colorado early scoring not verified; MacKinnon-led top line producing"
   },
   "week": "2026-10-05",
-  "why": "MacKinnon has 12 shots in 2 games (6.0 a game). Winnipeg is allowing 32.5 shots a game."
+  "why": "MacKinnon has 12 shots in 2 games (6.0 a game). Winnipeg is allowing 32.5 shots a game.",
+  "must": {
+   "rank": 2,
+   "note": "Books 3.5–4.5 against our 5.0 shots; MacKinnon has 12 shots in 2 games. Tonight at Winnipeg."
+  }
  },
  {
   "id": "2026-10-05-nhl-04",
@@ -26450,7 +26498,11 @@
    "scored": "Devils 2.67 goals/g (blended)"
   },
   "week": "2026-10-05",
-  "why": "Jack Hughes averages 1.26 points per game over last season and 0.50 this season; the matchup projects 1.35."
+  "why": "Jack Hughes averages 1.26 points per game over last season and 0.50 this season; the matchup projects 1.35.",
+  "must": {
+   "rank": 4,
+   "note": "1.26 points a game last season (blend 1.19); Vancouver allowed 3.91 goals a game early. No book line yet."
+  }
  },
  {
   "id": "2026-10-05-nhl-119",
@@ -30144,7 +30196,11 @@
    "scored": "Lightning 3.41 goals/g (blended)"
   },
   "week": "2026-10-05",
-  "why": "Nikita Kucherov averages 1.71 points per game over last season and 1.33 this season; the matchup projects 1.58."
+  "why": "Nikita Kucherov averages 1.71 points per game over last season and 1.33 this season; the matchup projects 1.58.",
+  "must": {
+   "rank": 3,
+   "note": "1.71 points a game last season and 4 in 3 this year (blend 1.67); Islanders allow 2.75 goals a game. No book line yet."
+  }
  },
  {
   "id": "2026-10-05-nhl-155",
@@ -52387,7 +52443,11 @@
    "scored": "Canadiens 3.44 goals/g (blended)"
   },
   "week": "2026-10-05",
-  "why": "Nick Suzuki averages 1.23 points per game over last season and 2.00 this season; the matchup projects 1.30."
+  "why": "Nick Suzuki averages 1.23 points per game over last season and 2.00 this season; the matchup projects 1.30.",
+  "must": {
+   "rank": 5,
+   "note": "101 points in 82 games last season, 4 in 2 this year; Nashville allows 3.17 goals a game. No book line yet."
+  }
  },
  {
   "id": "2026-10-05-nhl-72",
@@ -55286,7 +55346,11 @@
    "scored": "ATL about 88-92 (92 in G1, 95 in the Sept meeting)"
   },
   "week": "2026-10-05",
-  "why": "Canada scored 25 with 5 steals in Game 1 and has 5 straight double-figure games. Allisha Gray left Game 1 after 11 minutes with a left hand injury and her Game 2 status is unconfirmed."
+  "why": "Canada scored 25 with 5 steals in Game 1 and has 5 straight double-figure games. Allisha Gray left Game 1 after 11 minutes with a left hand injury and her Game 2 status is unconfirmed.",
+  "must": {
+   "rank": 1,
+   "note": "Book line 13.5 against our 16: 11.6 ppg in the regular season but 18.0 in the playoffs, with Allisha Gray out for G2."
+  }
  },
  {
   "id": "2026-10-05-wnba-03",
@@ -55699,7 +55763,11 @@
    "scored": "LV about 68-74 (60 in G1, 84 in June win)"
   },
   "week": "2026-10-05",
-  "why": "Wilson had 4 rebounds when the Aces lost the boards 52-25 in Game 1, and she averaged 12.7 against Golden State in the regular season. No line posted yet."
+  "why": "Wilson had 4 rebounds when the Aces lost the boards 52-25 in Game 1, and she averaged 12.7 against Golden State in the regular season. No line posted yet.",
+  "must": {
+   "rank": 2,
+   "note": "12.7 rebounds a game against Golden State this season; she had only 4 in G1 after Golden State won the boards 52-25. No book line."
+  }
  },
  {
   "id": "2026-10-05-wnba-06",
@@ -56005,7 +56073,11 @@
    "scored": "GS about 70-76 (71 in G1)"
   },
   "week": "2026-10-05",
-  "why": "Stokes had 11 rebounds as Golden State won the boards 52-25. No line posted yet."
+  "why": "Stokes had 11 rebounds as Golden State won the boards 52-25. No line posted yet.",
+  "must": {
+   "rank": 3,
+   "note": "Books 6.5–7.5 against our 8: Stokes had 11 in G1 as Golden State won the boards 52-25."
+  }
  },
  {
   "id": "2026-10-05-wnba-08",
@@ -56468,7 +56540,11 @@
    "scored": "NY about 82-86 (82 in G1, 84 in Sept loss)"
   },
   "week": "2026-10-05",
-  "why": "Ionescu scored 27 in Game 1 against a 15.5 line with Sabally out."
+  "why": "Ionescu scored 27 in Game 1 against a 15.5 line with Sabally out.",
+  "must": {
+   "rank": 4,
+   "note": "Books 15.5–16.5 against our 17: 27 points in G1 with Sabally out."
+  }
  },
  {
   "id": "2026-10-05-wnba-11",
@@ -56734,7 +56810,11 @@
    "scored": "LV about 68-74"
   },
   "week": "2026-10-05",
-  "why": "Gray scored 16 in Game 1 as Las Vegas managed a season-low 60 points."
+  "why": "Gray scored 16 in Game 1 as Las Vegas managed a season-low 60 points.",
+  "must": {
+   "rank": 5,
+   "note": "Books 11.5–12.5 against our 15: 11.9 ppg in the regular season, 15.8 in the playoffs, with Loyd doubtful."
+  }
  },
  {
   "id": "2026-10-05-wnba-13",

@@ -155,6 +155,7 @@ main.wrap{padding-block:22px 120px}
 .lean .rank{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .lean .nm{font-family:var(--f-display);font-weight:800;font-size:22px;line-height:.95;text-transform:uppercase;text-wrap:balance}
 .lean .st{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:13px;font-weight:600}
+.lean.must{border-color:var(--ink);box-shadow:var(--shadow),inset 0 3px 0 var(--ink)}.lean.must .rank b{color:var(--ink);font-weight:800}.lean.must .rank .mu{display:inline-block;padding:1px 6px;border-radius:5px;margin-left:6px;font-weight:800;letter-spacing:.06em}.lean.must .rank .mu.More{background:var(--more-soft);color:var(--more)}.lean.must .rank .mu.Less{background:var(--less-soft);color:var(--less)}
 .lean p{margin:0;font-size:12.5px;color:var(--muted);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 
 /* game panels */
@@ -314,6 +315,7 @@ body.locked{overflow:hidden}
   <div class="cols">
     <div>
       <section class="sec" id="nextWrap"><div class="sec-h"><h2 id="nextTitle">Today</h2><span class="when" id="nextWhen"></span><span class="sub" id="nextNote"></span></div><div class="hscroll" id="next"></div></section>
+      <section class="sec" id="mustWrap" hidden><div class="sec-h"><h2 id="mustTitle">Must plays</h2><span class="sub" id="mustSub">Our 5 top More/Less picks for this sport</span></div><div class="hscroll" id="musts"></div></section>
       <section class="sec" id="leanWrap"><div class="sec-h"><h2>Top leans</h2><span class="sub">Best-graded picks still open in this view</span></div><div class="hscroll" id="leans"></div></section>
       <section class="sec" id="gamesWrap" hidden><div class="sec-h"><h2>Games &amp; players</h2><span class="sub">Every player on every team · tap a game</span></div><div id="games"></div></section>
       <section class="sec" id="boardWrap"><div class="sec-h"><h2>The board</h2><span class="sub" id="count"></span><span id="liveChip" hidden></span></div><div id="board"><div class="empty">Loading picks…</div></div>
@@ -415,7 +417,7 @@ $("side").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)
 $("team").addEventListener("change",e=>{state.team=e.target.value;render()});
 $("sort").addEventListener("change",e=>{state.sort=e.target.value;render()});
 $("week").addEventListener("change",e=>{state.week=e.target.value;render()});
-$("q").addEventListener("input",e=>{state.q=e.target.value;renderDeck();renderLeans();renderBoard()});
+$("q").addEventListener("input",e=>{state.q=e.target.value;renderDeck();renderMust();renderLeans();renderBoard()});
 $("reset").addEventListener("click",()=>{state.stat="all";state.side="all";state.team="all";state.sort="time";state.q="";$("q").value="";render()});
 
 /* ---------- next up ---------- */
@@ -433,6 +435,22 @@ function renderNext(){
 }
 $("next").addEventListener("click",e=>{const t=e.target.closest("[data-game]");if(!t)return;const el=document.querySelector(`.game[data-game="${CSS.escape(t.dataset.game)}"]`);if(el)el.scrollIntoView({behavior:"smooth",block:"start"})});
 
+/* ---------- must plays (5 per sport, shown on the sport tab) ---------- */
+function renderMust(){
+  const wrap=$("mustWrap");
+  if(state.sport==="all"){wrap.hidden=true;return}
+  const open=weekPicks().filter(p=>p.sport===state.sport&&isOpen(p));
+  let list=open.filter(p=>p.must&&p.must.rank).sort((a,b)=>a.must.rank-b.must.rank).slice(0,5);
+  if(!list.length)list=[...open].sort((a,b)=>grade(a).score-grade(b).score||(b.confidence||0)-(a.confidence||0)).slice(0,5);
+  wrap.hidden=!list.length;
+  $("mustTitle").textContent=`${SPORT_NAME[state.sport]} must plays`;
+  $("mustSub").textContent=`Our top ${list.length} More/Less picks · graded A–F`;
+  $("musts").innerHTML=list.map((p,i)=>`<article class="lean must" data-open="${esc(p.id)}" tabindex="0" role="button" aria-label="Open ${esc(p.player)}">${av(p,true)}<div class="lean-b">
+    <span class="rank"><b>Must ${i+1}</b><span class="mu ${esc(p.side)}">${esc(p.side)}</span> · ${esc(p.gameTime||"")}</span>
+    <span class="nm">${esc(p.player)}</span>
+    <span class="st">${pill(p)}${projHtml(p)}${gb(p)}</span><span class="st" style="font-weight:600">${esc(p.stat)}</span>
+    <p>${esc((p.must&&p.must.note)||p.why||"")}</p></div></article>`).join("");
+}
 /* ---------- top leans ---------- */
 function renderLeans(){
   const top=filtered().filter(isOpen).sort((a,b)=>grade(a).score-grade(b).score||(b.confidence||0)-(a.confidence||0)).slice(0,4);
@@ -560,7 +578,7 @@ const LIVE_TXT=p=>{const l=window.LIVE&&window.LIVE[p.id];return l&&l.text?` · 
 document.addEventListener("toggle",e=>{const d=e.target;if(!d.matches||!d.matches("details.gm"))return;const id=d.dataset.g,o=Live.openGames;
   if(d.open&&!o.has(id)){o.add(id);renderGames();Live.poll()}else if(!d.open&&o.has(id)){o.delete(id)}},true);
 function liveBar(){const n=window.LIVE?Object.values(window.LIVE).filter(x=>x.phase==="live").length:0;const el=$("liveChip");if(!el)return;const t=window.LIVE_AT?window.LIVE_AT.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"}):"";el.hidden=!window.LIVE_AT;el.innerHTML=`<i></i>${n?`${n} live props`:"Live tracking on"}<small>updated ${esc(t)}</small>`}
-function render(){renderWeeks();renderRecord();renderDeck();renderNext();renderLeans();renderBoard();renderRail();liveBar();renderGames()}
+function render(){renderWeeks();renderRecord();renderDeck();renderNext();renderMust();renderLeans();renderBoard();renderRail();liveBar();renderGames()}
 (async()=>{
   try{const bust="?v="+Date.now();
     const [w,p]=await Promise.all([fetch("data/weeks.json"+bust).then(r=>r.json()),fetch("data/picks.json"+bust).then(r=>r.json())]);
