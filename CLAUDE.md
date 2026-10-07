@@ -33,3 +33,6 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 ## Site layout
 - `index.html` has stat-type filter chips built from each pick's `stat` value, a More/Less filter, a team filter and sorting. Keep the data fields it reads: `stat`, `side`, `projection{value,basis}`, `projPrev`, `position`, `team`, `game`, `gameTime`, `startTime`, `confidence`, `condition`, `analysis`, `projLine`, `matchup`, `teamOutlook`, `history`, `bio`, `sources`.
 - Lines stay hidden on cards (the owner asked for More/Less + projection); a numeric `line` only feeds the projection arrow and grade.
+
+## Reporting: hit rate by sport (owner's request, Oct 7 2026)
+- In every update's notification, break the hit rate down per sport (NFL, CFB, MLB, NHL, WNBA): W-L and % for the games graded that run, and the season-to-date total from all graded picks in the database. Exclude voids and pending picks from the percentage, and say how many were voided.
