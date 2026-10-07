@@ -50,4 +50,4 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 - Choose from open picks in games that have not started: confidence 3+ (or a real book line with a clear edge), one pick per player, at most 2 per game, no unresolved injury condition, and the side agreeing with projection vs the line. Prefer picks with real book lines; otherwise a clean numeric basis. The `note` is one or two plain sentences using only facts already in the pick (lines, averages, news); never invent a spread or a stat.
 - Clear stale `must` fields from picks that are no longer in the top 5 (set `must` to `{"__delete__": true}`), and re-rank each run.
 - Keep the A–F grade on every pick (the site computes it from confidence, projection vs line and any open condition).
-- The owner reviewed and approved this first must-plays update (pushed Oct 7 2026). Push later runs normally unless the owner says to hold again.
+- No review step: the owner does not want to preview updates (Oct 7 2026). Every run pushes straight to `main` once `filter_top25.py` runs clean, and the notification reports what changed.
