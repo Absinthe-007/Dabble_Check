@@ -3,8 +3,8 @@
    grading still comes from data/picks.json. Needs page globals: state, render, fam, isOpen. */
 (function(root){
 const API="https://site.api.espn.com/apis/site/v2/sports/";
-const PATH={nfl:"football/nfl",cfb:"football/college-football",mlb:"baseball/mlb",nhl:"hockey/nhl",wnba:"basketball/wnba"};
-const ALIAS={nhl:{SJ:"SJS",NJ:"NJD",LA:"LAK",TB:"TBL",UTAH:"UTA"},mlb:{CHW:"CWS",AZ:"ARI",ATH:"OAK"},
+const PATH={nfl:"football/nfl",cfb:"football/college-football",nhl:"hockey/nhl",wnba:"basketball/wnba"};
+const ALIAS={nhl:{SJ:"SJS",NJ:"NJD",LA:"LAK",TB:"TBL",UTAH:"UTA"},
   cfb:{ALA:"BAMA",IU:"IND",BOIS:"BSU",MISSST:"MSST"},nfl:{WAS:"WSH"},wnba:{GSV:"GS",LVA:"LV",NYL:"NY"}};
 const ab=(sp,x)=>{x=String(x||"").toUpperCase();return (ALIAS[sp]&&ALIAS[sp][x])||x};
 const norm=s=>String(s||"").toLowerCase().replace(/\b(jr|sr|ii|iii|iv)\b\.?/g,"").replace(/[^a-z]/g,"");

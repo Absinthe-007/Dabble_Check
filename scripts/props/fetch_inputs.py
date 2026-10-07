@@ -18,7 +18,7 @@ week = datetime.date.fromisoformat(WEEK)
 days = [week + datetime.timedelta(days=i) for i in range(8)]  # through the next Monday (MNF, Monday NHL)
 
 # ESPN slate for the week (CFB limited to the Top 25 group)
-ESPN = {'nfl': 'football/nfl', 'cfb': 'football/college-football', 'mlb': 'baseball/mlb', 'nhl': 'hockey/nhl', 'wnba': 'basketball/wnba'}
+ESPN = {'nfl': 'football/nfl', 'cfb': 'football/college-football', 'nhl': 'hockey/nhl', 'wnba': 'basketball/wnba'}
 slate = {}
 for s, p in ESPN.items():
     ev = {}
@@ -51,10 +51,6 @@ save(f'{N}/inj.json', 'https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/
 save(f'{N}/dfo.html', 'https://www.dailyfaceoff.com/starting-goalies')
 for d in days:
     save(f'{N}/score_{d:%d}.json', f'https://api-web.nhle.com/v1/score/{d.isoformat()}')
-
-# MLB: schedule with probable pitchers
-save(f'{WORK}/mlb/sched.json', f'https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate={(week - datetime.timedelta(days=3)).isoformat()}'
-     f'&endDate={(week + datetime.timedelta(days=7)).isoformat()}&hydrate=probablePitcher,team,linescore')
 
 # WNBA injuries
 save(f'{WORK}/wnba/inj.json', 'https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/injuries')

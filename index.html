@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Dabble Prop Board</title>
-<meta name="description" content="Daily More/Less player-prop leans for NFL, college football, MLB, NHL, NBA and WNBA, with projections and the articles behind each pick.">
+<meta name="description" content="Daily More/Less player-prop leans for NFL, college football, NHL, NBA and WNBA, with projections and the articles behind each pick.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
@@ -327,13 +327,13 @@ body.locked{overflow:hidden}
 <div class="sheet-bg" id="sheetBg" hidden><div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="shName"></div></div>
 
 <script>
-const SPORTS=[["all","All"],["nfl","NFL"],["cfb","College FB"],["mlb","MLB"],["nhl","NHL"],["nba","NBA"],["wnba","WNBA"]];
-const ORDER=["nfl","cfb","mlb","nhl","nba","wnba"];
-const SPORT_NAME={nfl:"NFL",cfb:"College football",mlb:"MLB",nhl:"NHL",nba:"NBA",wnba:"WNBA"};
-const LEAGUE={nfl:"nfl",cfb:"college-football",mlb:"mlb",nhl:"nhl",nba:"nba",wnba:"wnba"};
+const SPORTS=[["all","All"],["nfl","NFL"],["cfb","College FB"],["nhl","NHL"],["nba","NBA"],["wnba","WNBA"]];
+const ORDER=["nfl","cfb","nhl","nba","wnba"];
+const SPORT_NAME={nfl:"NFL",cfb:"College football",nhl:"NHL",nba:"NBA",wnba:"WNBA"};
+const LEAGUE={nfl:"nfl",cfb:"college-football",nhl:"nhl",nba:"nba",wnba:"wnba"};
 const TEAM={
  "nfl:ARI":"#97233F","nfl:ATL":"#A71930","nfl:BAL":"#241773","nfl:BUF":"#00338D","nfl:CAR":"#0085CA","nfl:CHI":"#0B162A","nfl:CIN":"#FB4F14","nfl:CLE":"#311D00","nfl:DAL":"#003594","nfl:DEN":"#FB4F14","nfl:DET":"#0076B6","nfl:GB":"#203731","nfl:HOU":"#03202F","nfl:IND":"#002C5F","nfl:JAX":"#006778","nfl:KC":"#E31837","nfl:LV":"#2b2b2b","nfl:LAC":"#0080C6","nfl:LAR":"#003594","nfl:MIA":"#008E97","nfl:MIN":"#4F2683","nfl:NE":"#002244","nfl:NO":"#9F8958","nfl:NYG":"#0B2265","nfl:NYJ":"#125740","nfl:PHI":"#004C54","nfl:PIT":"#2b2b2b","nfl:SF":"#AA0000","nfl:SEA":"#002244","nfl:TB":"#D50A0A","nfl:TEN":"#0C2340","nfl:WSH":"#5A1414",
- "mlb:ARI":"#A71930","mlb:ATL":"#CE1141","mlb:BAL":"#DF4601","mlb:BOS":"#BD3039","mlb:CHC":"#0E3386","mlb:CWS":"#27251F","mlb:CIN":"#C6011F","mlb:CLE":"#00385D","mlb:COL":"#333366","mlb:DET":"#0C2340","mlb:HOU":"#002D62","mlb:KC":"#004687","mlb:LAA":"#BA0021","mlb:LAD":"#005A9C","mlb:MIA":"#00A3E0","mlb:MIL":"#12284B","mlb:MIN":"#002B5C","mlb:NYM":"#002D72","mlb:NYY":"#0C2340","mlb:ATH":"#003831","mlb:OAK":"#003831","mlb:PHI":"#E81828","mlb:PIT":"#27251F","mlb:SD":"#2F241D","mlb:SF":"#FD5A1E","mlb:SEA":"#0C2C56","mlb:STL":"#C41E3A","mlb:TB":"#092C5C","mlb:TEX":"#003278","mlb:TOR":"#134A8E","mlb:WSH":"#AB0003",
+ 
  "cfb:ALABAMA":"#9E1B32","cfb:BAMA":"#9E1B32","cfb:ALA":"#9E1B32","cfb:UGA":"#BA0C2F","cfb:TEX":"#BF5700","cfb:OU":"#841617","cfb:UCLA":"#2D68C4","cfb:ORE":"#154733","cfb:OSU":"#BB0000","cfb:MIA":"#F47321","cfb:USC":"#990000","cfb:PSU":"#041E42","cfb:ND":"#0C2340","cfb:LSU":"#461D7C","cfb:MICH":"#00274C","cfb:CLEM":"#F56600","cfb:IND":"#990000","cfb:NEB":"#E41C38","cfb:TAMU":"#500000","cfb:MIZ":"#F1B82D","cfb:MISS":"#14213D","cfb:VAN":"#866D4B","cfb:UK":"#0033A0","cfb:MD":"#E03A3E",
  "nhl:ANA":"#F47A38","nhl:BOS":"#3a3a3a","nhl:BUF":"#003087","nhl:CGY":"#C8102E","nhl:CAR":"#CE1126","nhl:CHI":"#CF0A2C","nhl:COL":"#6F263D","nhl:CBJ":"#002654","nhl:DAL":"#006847","nhl:DET":"#CE1126","nhl:EDM":"#041E42","nhl:FLA":"#C8102E","nhl:LAK":"#2b2b2b","nhl:MIN":"#154734","nhl:MTL":"#AF1E2D","nhl:NSH":"#041E42","nhl:NJD":"#CE1126","nhl:NYI":"#00539B","nhl:NYR":"#0038A8","nhl:OTT":"#C52032","nhl:PHI":"#F74902","nhl:PIT":"#2b2b2b","nhl:SJS":"#006D75","nhl:SEA":"#001628","nhl:STL":"#002F87","nhl:TBL":"#002868","nhl:TOR":"#00205B","nhl:UTA":"#4b9cd3","nhl:VAN":"#00205B","nhl:VGK":"#7a6a43","nhl:WSH":"#C8102E","nhl:WPG":"#041E42",
  "nba:ATL":"#C8102E","nba:BOS":"#007A33","nba:BKN":"#2b2b2b","nba:CHA":"#1D1160","nba:CHI":"#CE1141","nba:CLE":"#860038","nba:DAL":"#00538C","nba:DEN":"#0E2240","nba:DET":"#C8102E","nba:GS":"#1D428A","nba:GSW":"#1D428A","nba:HOU":"#CE1141","nba:IND":"#002D62","nba:LAC":"#C8102E","nba:LAL":"#552583","nba:MEM":"#5D76A9","nba:MIA":"#98002E","nba:MIL":"#00471B","nba:MIN":"#0C2340","nba:NO":"#0C2340","nba:NOP":"#0C2340","nba:NY":"#006BB6","nba:NYK":"#006BB6","nba:OKC":"#007AC1","nba:ORL":"#0077C0","nba:PHI":"#006BB6","nba:PHX":"#1D1160","nba:POR":"#E03A3E","nba:SAC":"#5A2D81","nba:SA":"#2b2b2b","nba:SAS":"#2b2b2b","nba:TOR":"#CE1141","nba:UTA":"#002B5C","nba:WSH":"#002B5C",

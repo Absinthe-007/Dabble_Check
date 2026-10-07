@@ -9,10 +9,9 @@
 - **Network:** the routine's cloud environment has Full network access (owner switched it on Oct 6, 2026). ESPN, CBS, Covers, Action Network, RotoWire, FantasyPros, BettingPros, VegasInsider, PFF, NFL.com, MLB.com, Daily Faceoff, StatMuse, Basketball-Reference and sportsbook pages all load, so read the full pages, not just search snippets. Some sites still refuse automated requests (e.g. Pro-Football-Reference, The Athletic): skip those and use other sources. Never bypass paywalls, logins or bot blocks.
 
 ## Coverage: more players, every prop type (owner's request, Oct 6 2026)
-- Cover every game on the slate in each in-season sport, and go deep on each game: aim for **6–12 props per NFL game, 4–8 per Top 25 CFB game, 6–10 per MLB playoff game, 4–8 per NHL game, 6–10 per NBA/WNBA game**, covering both teams.
+- Cover every game on the slate in each in-season sport, and go deep on each game: aim for **6–12 props per NFL game, 4–8 per Top 25 CFB game, 4–8 per NHL game, 6–10 per NBA/WNBA game**, covering both teams.
 - Use the full range of prop types, not just yards and points. Every sport should show a real mix:
   - **NFL / CFB:** passing yds, completions, attempts, pass TDs, INTs thrown, rushing yds/attempts, receiving yds, receptions, longest reception, rush+rec yds, **tackles, solo tackles, tackles+assists, sacks, defensive INTs**, kicking points/FGs made.
-  - **MLB:** pitcher strikeouts, outs, hits allowed, walks, earned runs; hitter hits, total bases, H+R+RBI, runs, RBIs, home runs, stolen bases, batter strikeouts.
   - **NHL:** shots on goal, points, goals, assists, **blocked shots, hits**, power-play points, goalie saves (confirmed starters only).
   - **NBA / WNBA:** points, **rebounds, assists, blocks, steals, blocks+steals**, threes made, turnovers, PRA, pts+reb, pts+ast, reb+ast.
 - Write the `stat` field with these exact names (e.g. "Blocked shots", "Tackles + assists", "Blocks + steals") so the site's stat-type filters group them.
@@ -35,13 +34,13 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 - Lines stay hidden on cards (the owner asked for More/Less + projection); a numeric `line` only feeds the projection arrow and grade.
 
 ## Reporting: hit rate by sport (owner's request, Oct 7 2026)
-- In every update's notification, break the hit rate down per sport (NFL, CFB, MLB, NHL, WNBA): W-L and % for the games graded that run, and the season-to-date total from all graded picks in the database. Exclude voids and pending picks from the percentage, and say how many were voided.
+- In every update's notification, break the hit rate down per sport (NFL, CFB, NHL, WNBA): W-L and % for the games graded that run, and the season-to-date total from all graded picks in the database. Exclude voids and pending picks from the percentage, and say how many were voided.
 - The site's top scoreboard (`renderRecord` in `index.html`) shows overall hit rate, record, and each sport's W-L and hit % across all graded picks in `data/picks.json`, so it updates on every push. Never drop graded picks from earlier weeks from the export; they feed this record.
 
 ## Live tracking (owner's request, Oct 7 2026)
-- `live.js` polls ESPN's public scoreboard/box-score feeds in the visitor's browser and shows a LIVE/FINAL line with the player's running stat on open picks. It never changes saved results; grading still happens in the daily run. It matches picks by `espnId` (or player name), `game` ("AWAY @ HOME" abbreviations), `startTime` and the exact `stat` names above, so keep those fields accurate. Props it can't read from a box score (e.g. MLB total bases, stolen bases, NHL power-play points) just show the game status.
-- The "Games & players" section lists every game on today's slate (all sports, live/upcoming/final). Expanding a game loads both teams' full rosters from ESPN and merges in live box-score stats, flagging starters where ESPN provides them (MLB, WNBA), injury designations, and any open picks on that player for that game. It is view-only and independent of which players have picks.
+- `live.js` polls ESPN's public scoreboard/box-score feeds in the visitor's browser and shows a LIVE/FINAL line with the player's running stat on open picks. It never changes saved results; grading still happens in the daily run. It matches picks by `espnId` (or player name), `game` ("AWAY @ HOME" abbreviations), `startTime` and the exact `stat` names above, so keep those fields accurate. Props it can't read from a box score (e.g. NHL power-play points) just show the game status.
+- The "Games & players" section lists every game on today's slate (all sports, live/upcoming/final). Expanding a game loads both teams' full rosters from ESPN and merges in live box-score stats, flagging starters where ESPN provides them (WNBA), injury designations, and any open picks on that player for that game. It is view-only and independent of which players have picks.
 
 ## MLB removed (owner's request, Oct 7 2026)
-- Starting with the next update, drop MLB entirely: delete all open (pending) MLB picks from the artifact database and the export, leave MLB out of the week's news/sources and the notification, and do not run `mlb_build.py` or research MLB games.
-- Already-graded MLB picks (13-15 so far) stay in the database until the owner says to drop them, because they feed the season record; if they are removed later, the scoreboard hit rate changes.
+- MLB is gone: all MLB picks (open and graded) and MLB news were deleted from the artifact database, and the site no longer lists it. Never create, refresh, grade or report MLB picks; do not run MLB research or an MLB builder, and leave MLB out of the notification's per-sport hit rate.
+- If any `mlb` docs show up in an export, delete them from the database; `scripts/build_data.py` also filters them out.
