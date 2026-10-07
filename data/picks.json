@@ -27745,6 +27745,7 @@
  },
  {
   "id": "2026-10-05-nhl-04",
+  "actual": "4 shots on goal",
   "analysis": "Matthews has 10 shots in 3 games but only 1 goal, so the volume is there while the finishing is not. Toronto hosts Nashville at 7:00 PM ET Tuesday. Nashville was allowing about 30 shots a game early. I projected 3.5 shots, a little above his early pace because he is a high-volume shooter. Confidence is modest because the shot rate is only around three a game and a 3.5 or 4.5 line could sit just above it. No book has posted a line that I could find, so the line is left open.",
   "bio": {
    "age": 29,
@@ -27817,7 +27818,7 @@
   "sport": "nhl",
   "startTime": "2026-10-06T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "TOR",
   "teamOutlook": {
    "allowed": "Nashville about 30 shots a game early",
