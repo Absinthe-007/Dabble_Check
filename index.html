@@ -189,6 +189,24 @@ main.wrap{padding-block:22px 120px}
 #liveChip small{color:var(--muted);font-weight:500}
 @keyframes lvp{50%{opacity:.25}}
 @media (prefers-reduced-motion:reduce){#liveChip i{animation:none}}
+#gamesWrap[hidden]{display:none}
+.gm{background:var(--surface);border:1px solid var(--line);border-radius:12px;margin-bottom:8px;overflow:hidden}
+.gm>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:10px;padding:10px 14px;font-family:var(--f-mono);font-size:12.5px}
+.gm>summary::-webkit-details-marker{display:none}
+.gm>summary b{font-family:var(--f-display);letter-spacing:.06em;text-transform:uppercase;font-size:13px;color:var(--muted)}
+.gm>summary .st{margin-left:auto;font-weight:700}
+.gm.live>summary .st{color:#D6342C}
+.gm-body{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:0;border-top:1px solid var(--hair)}
+.gm-team{padding:8px 14px 12px;min-width:0}
+.gm-team h4{margin:4px 0 6px;font-family:var(--f-display);font-size:15px;letter-spacing:.05em;text-transform:uppercase}
+.pl{display:grid;grid-template-columns:26px 1fr auto;gap:2px 8px;align-items:baseline;padding:3px 0;border-top:1px solid var(--hair);font-size:12.5px}
+.pl .jn{font-family:var(--f-mono);color:var(--muted);text-align:right}
+.pl .pn{min-width:0;overflow-wrap:anywhere}.pl .pn small{color:var(--muted);font-family:var(--f-mono);margin-left:5px}
+.pl .pn .s{color:var(--amber-ink);font-weight:700}.pl .pn .ij{color:#D6342C;font-weight:700}
+.pl .ln{font-family:var(--f-mono);font-size:11.5px;text-align:right;color:var(--ink)}
+.pl.dim .ln,.pl.dim .pn{color:var(--muted)}
+.pl .pk{grid-column:2/4;font-size:11.5px;font-weight:700;cursor:pointer}
+.pk.more{color:#15803D}.pk.less{color:#B91C1C}
 .who .cond{font-size:11.5px;color:var(--amber-ink)}
 .call{display:grid;grid-template-columns:auto auto auto;gap:4px 10px;align-items:center;justify-items:end}
 .call .was{grid-column:1/-1}
@@ -297,6 +315,7 @@ body.locked{overflow:hidden}
     <div>
       <section class="sec" id="nextWrap"><div class="sec-h"><h2 id="nextTitle">Today</h2><span class="when" id="nextWhen"></span><span class="sub" id="nextNote"></span></div><div class="hscroll" id="next"></div></section>
       <section class="sec" id="leanWrap"><div class="sec-h"><h2>Top leans</h2><span class="sub">Best-graded picks still open in this view</span></div><div class="hscroll" id="leans"></div></section>
+      <section class="sec" id="gamesWrap" hidden><div class="sec-h"><h2>Games &amp; players</h2><span class="sub">Every player on every team · tap a game</span></div><div id="games"></div></section>
       <section class="sec" id="boardWrap"><div class="sec-h"><h2>The board</h2><span class="sub" id="count"></span><span id="liveChip" hidden></span></div><div id="board"><div class="empty">Loading picks…</div></div>
         <p class="note">The arrow and number are our projection for the game. Lines are reference lines from news and sportsbook coverage when each update ran; Dabble posts its own lines, so check the number in the app before you add a pick. Leans are analysis, not guarantees. Play within your limits. Player photos via ESPN.</p>
       </section>
@@ -526,8 +545,22 @@ window.addEventListener("hashchange",()=>{const h=location.hash.slice(1);if(h.st
 document.addEventListener("keydown",e=>{if(e.key==="Escape")closeSheet();if((e.key==="Enter"||e.key===" ")&&e.target.matches&&e.target.matches("[data-open]")){e.preventDefault();openSheet(e.target.dataset.open)}});
 
 const liveHtml=p=>{const l=window.LIVE&&window.LIVE[p.id];if(!l||!isOpen(p))return"";return `<div class="lv ${l.phase}"><b>${l.phase==="live"?"● LIVE":"FINAL"}</b>${l.text?` · ${esc(l.text)}`:l.played?"":" · not in box score yet"}<span>${esc(l.line)}</span></div>`};
+function renderGames(){if(!window.Live)return;const w=$("gamesWrap"),el=$("games");if(!w)return;
+  const G=window.GAMES?Object.values(window.GAMES).filter(g=>state.sport==="all"||g.sp===state.sport):[];
+  w.hidden=!G.length;if(!G.length)return;
+  const ord={live:0,pre:1,final:2},esc_=esc,picks={};
+  state.picks.filter(isOpen).forEach(p=>{if(p.espnId)(picks[p.espnId]=picks[p.espnId]||[]).push(p)});
+  G.sort((a,b)=>ord[a.ph]-ord[b.ph]||new Date(a.e.date)-new Date(b.e.date));
+  const open=Live.openGames;
+  el.innerHTML=G.map(g=>{const isO=open.has(g.id);
+    const body=!isO?"":!g.teams?`<div class="gm-body"><div class="gm-team">Loading players…</div></div>`:`<div class="gm-body">${g.teams.map(t=>`<div class="gm-team"><h4>${esc_(t.name)} <small style="color:var(--muted);font-family:var(--f-mono)">${t.rows.length} players</small></h4>${t.rows.map(r=>`<div class="pl${r.played||g.ph==="pre"?"":" dim"}"><span class="jn">${esc_(r.jersey)}</span><span class="pn">${esc_(r.name)}<small>${esc_(r.pos)}${r.starter?` <span class="s">S</span>`:""}${r.inj?` <span class="ij">${esc_(r.inj)}</span>`:""}</small></span><span class="ln">${esc_(r.line||"")}</span>${(picks[r.id]||[]).filter(p=>sameGame(p,g)).map(p=>`<span class="pk ${p.side==="More"?"more":"less"}" data-open="${esc_(p.id)}">${p.side==="More"?"▲":"▼"} ${esc_(p.side)} ${esc_(p.stat)}${LIVE_TXT(p)}</span>`).join("")}</div>`).join("")}</div>`).join("")}</div>`;
+    return `<details class="gm ${g.ph}" data-g="${esc_(g.id)}"${isO?" open":""}><summary><b>${esc_(g.sp==="cfb"?"CFB":g.sp.toUpperCase())}</b><span>${esc_(g.line.split(" · ")[0])}</span><span class="st">${g.ph==="live"?"● ":""}${esc_(g.line.split(" · ").slice(1).join(" · "))}</span></summary>${body}</details>`}).join("")}
+const sameGame=(p,g)=>{if(!p.startTime)return false;const t=Live.gameTeams(p.game).map(x=>Live.ab(g.sp,x)),c=g.e.competitions[0].competitors.map(x=>Live.ab(g.sp,x.team.abbreviation));return t.length>0&&t.every(x=>c.includes(x))&&Math.abs(new Date(g.e.date)-new Date(p.startTime))<4*36e5};
+const LIVE_TXT=p=>{const l=window.LIVE&&window.LIVE[p.id];return l&&l.text?` · now ${esc(l.text)}`:""};
+document.addEventListener("toggle",e=>{const d=e.target;if(!d.matches||!d.matches("details.gm"))return;const id=d.dataset.g,o=Live.openGames;
+  if(d.open&&!o.has(id)){o.add(id);renderGames();Live.poll()}else if(!d.open&&o.has(id)){o.delete(id)}},true);
 function liveBar(){const n=window.LIVE?Object.values(window.LIVE).filter(x=>x.phase==="live").length:0;const el=$("liveChip");if(!el)return;const t=window.LIVE_AT?window.LIVE_AT.toLocaleTimeString([],{hour:"numeric",minute:"2-digit"}):"";el.hidden=!window.LIVE_AT;el.innerHTML=`<i></i>${n?`${n} live props`:"Live tracking on"}<small>updated ${esc(t)}</small>`}
-function render(){renderWeeks();renderRecord();renderDeck();renderNext();renderLeans();renderBoard();renderRail();liveBar()}
+function render(){renderWeeks();renderRecord();renderDeck();renderNext();renderLeans();renderBoard();renderRail();liveBar();renderGames()}
 (async()=>{
   try{const bust="?v="+Date.now();
     const [w,p]=await Promise.all([fetch("data/weeks.json"+bust).then(r=>r.json()),fetch("data/picks.json"+bust).then(r=>r.json())]);

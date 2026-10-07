@@ -40,4 +40,5 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 
 ## Live tracking (owner's request, Oct 7 2026)
 - `live.js` polls ESPN's public scoreboard/box-score feeds in the visitor's browser and shows a LIVE/FINAL line with the player's running stat on open picks. It never changes saved results; grading still happens in the daily run. It matches picks by `espnId` (or player name), `game` ("AWAY @ HOME" abbreviations), `startTime` and the exact `stat` names above, so keep those fields accurate. Props it can't read from a box score (e.g. MLB total bases, stolen bases, NHL power-play points) just show the game status.
+- The "Games & players" section lists every game on today's slate (all sports, live/upcoming/final). Expanding a game loads both teams' full rosters from ESPN and merges in live box-score stats, flagging starters where ESPN provides them (MLB, WNBA), injury designations, and any open picks on that player for that game. It is view-only and independent of which players have picks.
 
