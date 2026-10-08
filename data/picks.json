@@ -23642,6 +23642,7 @@
  },
  {
   "id": "2026-10-05-nhl-01",
+  "actual": "2 SOG",
   "analysis": "Draisaitl has 15 shots in 3 games, with 3 goals and 2 assists, and is a shot-first option on the Oilers' top power-play unit. Edmonton visits Anaheim in the late 10 PM ET game on Wednesday. Ducks allowed about 30.5 shots a game in the early sample, which is a decent but not extreme matchup. I regressed the 5.0 per game start toward a lower full-season rate to land at 4.6. The main risk is a blowout that cuts his ice time or a game where McDavid does the shooting instead. No book has posted a line that I could find, so the line is left open. Daily Faceoff lists Devon Levi (confirmed) in net for EDM at ANA and Lukas Dostal unconfirmed for Anaheim. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 3.5, Caesars 3.5, DraftKings 2.5, Fanatics 3.5, FanDuel 3.5, Hard Rock Bet 3.5, BetMGM 2.5, theScore 3.5; I used 3.5 as the reference against my 4.6 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 30,
@@ -23771,7 +23772,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T22:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "EDM",
   "teamOutlook": {
    "allowed": "Anaheim allowing about 30.5 shots a game early",
@@ -23783,6 +23784,7 @@
  },
  {
   "id": "2026-10-05-nhl-02",
+  "actual": "3 pts",
   "analysis": "McDavid has 9 points (2 goals, 7 assists) in 3 games and plays big minutes. Edmonton is scoring more than 5 goals a game early and faces Anaheim in the late game on Wednesday. A 0.5 points line would be cleared by almost any normal McDavid game, and my projection is well above it. I regressed his hot start toward his usual pace. The main risk is a low-event game or empty-net-only scoring. No book has posted a line that I could find, so the line is left open. Book lines 10/7 (RotoWire props table, 9 books): Betr 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, Fanatics 1.5, FanDuel 1.5, Hard Rock Bet 1.5, BetMGM 1.5, theScore 1.5; I used 1.5 as the reference against my 1.4 projection. The side was flipped to match the projection versus the posted line.",
   "bio": {
    "age": 29,
@@ -23913,7 +23915,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T22:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "EDM",
   "teamOutlook": {
    "allowed": "Anaheim about 30.5 shots against a game early",
@@ -23925,6 +23927,7 @@
  },
  {
   "id": "2026-10-05-nhl-03",
+  "actual": "1 SOG",
   "analysis": "MacKinnon has 12 shots in 2 games plus 2 goals and 3 assists, so he is firing at a high rate. Colorado plays at Winnipeg on Wednesday at 7:30 PM ET. Winnipeg was allowing 32.5 shots a game in the small early sample. Only two games are in the sample so I pulled the 6.0 average down to 5.0. The main risk is a tight defensive game and a short sample; no line was posted that I could find. No book has posted a line that I could find, so the line is left open. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 4.5, Caesars 3.5, DraftKings 3.5, Fanatics 3.5, FanDuel 3.5, Hard Rock Bet 3.5, BetMGM 3.5, theScore 3.5; I used 3.5 as the reference against my 5 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 31,
@@ -24043,7 +24046,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "COL",
   "teamOutlook": {
    "allowed": "Winnipeg about 32.5 shots a game early",
@@ -37569,6 +37572,7 @@
  },
  {
   "id": "2026-10-05-nhl-225",
+  "actual": "3 blk",
   "analysis": "Declan Carlile (Penguins defenseman) had 38 blocked shots in 42 games last season (0.90 per game) and has 6 in 3 games this season (2.00 per game), averaging 18.5 minutes. He has played 3 of 3 Penguins games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.10; no opponent adjustment for this stat. That projects 1.10 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.10 per game puts more than 0.5 at about 67%. Blocks swing with deployment and score effects (trailing teams block less, teams defending a lead block more), so this stays a low-confidence lean.",
   "bio": {
    "age": 26,
@@ -37655,7 +37659,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "PIT",
   "teamOutlook": {
    "allowed": "Capitals allow 2.87 goals/g (blended)",
@@ -37667,6 +37671,7 @@
  },
  {
   "id": "2026-10-05-nhl-226",
+  "actual": "1 hits",
   "analysis": "Vincent Desharnais (Capitals defenseman) had 103 hits in 53 games last season (1.94 per game) and has 7 in 2 games this season (3.50 per game), averaging 18.3 minutes. He has played 2 of 2 Capitals games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.10; no opponent adjustment for this stat. That projects 2.10 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.10 per game puts more than 1.5 at about 62%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 30,
@@ -37753,7 +37758,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "Penguins allow 3.10 goals/g (blended)",
@@ -37765,6 +37770,7 @@
  },
  {
   "id": "2026-10-05-nhl-227",
+  "actual": "2 SOG",
   "analysis": "Ben Kindel (Penguins forward) had 151 shots on goal in 77 games last season (1.96 per game) and has 7 in 2 games this season (3.50 per game), averaging 16.5 minutes. He has played 2 of 3 Penguins games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.07; Capitals allowed 28.4 shots/g (blended) against a league average of 27.8, a factor of 1.02. That projects 2.11 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.11 per game puts more than 1.5 at about 62%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 19,
@@ -37851,7 +37857,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "PIT",
   "teamOutlook": {
    "allowed": "Capitals allow 2.87 goals/g (blended)",
@@ -37863,6 +37869,7 @@
  },
  {
   "id": "2026-10-05-nhl-228",
+  "actual": "0 pts",
   "analysis": "Jakob Chychrun (Capitals defenseman) had 60 points in 80 games last season (0.75 per game) and has 3 in 2 games this season (1.50 per game), averaging 23.0 minutes. He has played 2 of 2 Capitals games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.80; Penguins allow 3.10 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 1.00. That projects 0.80 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 0.80 per game puts more than 0.5 at about 55%. Points depend on a handful of finishing events, so one goal or a quiet power play can flip the result; the early-season sample is also very small. Book lines 10/7 (RotoWire props table, 9 books): Betr 0.5, BetRivers 0.5, Caesars 0.5, DraftKings 0.5, Fanatics 0.5, FanDuel 0.5, Hard Rock Bet 0.5, BetMGM 0.5, theScore 0.5; I used 0.5 as the reference against my 0.8 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 28,
@@ -37990,7 +37997,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "Penguins allow 3.10 goals/g (blended)",
@@ -38002,6 +38009,7 @@
  },
  {
   "id": "2026-10-05-nhl-229",
+  "actual": "1 blk",
   "analysis": "Dylan Samberg (Jets defenseman) had 115 blocked shots in 66 games last season (1.74 per game) and has 8 in 3 games this season (2.67 per game), averaging 21.2 minutes. He has played 3 of 3 Jets games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.85; no opponent adjustment for this stat. That projects 1.85 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.85 per game puts more than 1.5 at about 55%. Blocks swing with deployment and score effects (trailing teams block less, teams defending a lead block more), so this stays a low-confidence lean.",
   "bio": {
    "age": 27,
@@ -38088,7 +38096,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T18:30:00-05:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "miss",
   "team": "WPG",
   "teamOutlook": {
    "allowed": "Avalanche allow 2.41 goals/g (blended)",
@@ -38194,6 +38202,7 @@
  },
  {
   "id": "2026-10-05-nhl-230",
+  "actual": "2 hits",
   "analysis": "Morgan Barron (Jets forward) had 132 hits in 65 games last season (2.03 per game) and has 13 in 3 games this season (4.33 per game), averaging 16.5 minutes. He has played 3 of 3 Jets games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.31; no opponent adjustment for this stat. That projects 2.31 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.31 per game puts more than 1.5 at about 67%. Hits track game script and opposing puck possession, and the early-season sample is thin, so this stays a low-confidence lean.",
   "bio": {
    "age": 27,
@@ -38280,7 +38289,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T18:30:00-05:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "WPG",
   "teamOutlook": {
    "allowed": "Avalanche allow 2.41 goals/g (blended)",
@@ -38292,6 +38301,7 @@
  },
  {
   "id": "2026-10-05-nhl-231",
+  "actual": "3 SOG",
   "analysis": "Gabriel Landeskog (Avalanche forward) had 132 shots on goal in 60 games last season (2.20 per game) and has 1 in 2 games this season (0.50 per game), averaging 16.2 minutes. He has played 2 of 2 Avalanche games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.05; Jets allowed 28.2 shots/g (blended) against a league average of 27.8, a factor of 1.01. That projects 2.07 against a reference of 2.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.07 per game puts 2.5 or fewer at about 66%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 33,
@@ -38378,7 +38388,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T18:30:00-05:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "COL",
   "teamOutlook": {
    "allowed": "Jets allow 3.08 goals/g (blended)",
@@ -38390,6 +38400,7 @@
  },
  {
   "id": "2026-10-05-nhl-232",
+  "actual": "DNP (not in box score)",
   "analysis": "Nino Niederreiter (Jets forward) had 84 shots on goal in 61 games last season (1.38 per game) and has 0 in 2 games this season (0.00 per game), averaging 11.8 minutes. He has played 2 of 3 Jets games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.25; Avalanche allowed 26.3 shots/g (blended) against a league average of 27.8, a factor of 0.94. That projects 1.18 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.18 per game puts 1.5 or fewer at about 67%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 34,
@@ -38476,7 +38487,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T18:30:00-05:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "void",
   "team": "WPG",
   "teamOutlook": {
    "allowed": "Avalanche allow 2.41 goals/g (blended)",
@@ -38488,6 +38499,7 @@
  },
  {
   "id": "2026-10-05-nhl-233",
+  "actual": "3 blk",
   "analysis": "Connor Murphy (Oilers defenseman) had 138 blocked shots in 80 games last season (1.73 per game) and has 12 in 3 games this season (4.00 per game), averaging 20.9 minutes. He has played 3 of 3 Oilers games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.96; no opponent adjustment for this stat. That projects 1.96 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.96 per game puts more than 1.5 at about 58%. Blocks swing with deployment and score effects (trailing teams block less, teams defending a lead block more), so this stays a low-confidence lean.",
   "bio": {
    "age": 33,
@@ -38574,7 +38586,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:00:00-07:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "EDM",
   "teamOutlook": {
    "allowed": "Ducks allow 3.44 goals/g (blended)",
@@ -38586,6 +38598,7 @@
  },
  {
   "id": "2026-10-05-nhl-234",
+  "actual": "3 SOG",
   "analysis": "Vasily Podkolzin (Oilers forward) had 139 shots on goal in 82 games last season (1.70 per game) and has 13 in 3 games this season (4.33 per game), averaging 18.9 minutes. He has played 3 of 3 Oilers games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 1.96; Ducks allowed 28.5 shots/g (blended) against a league average of 27.8, a factor of 1.02. That projects 2.00 against a reference of 1.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.00 per game puts more than 1.5 at about 60%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean.",
   "bio": {
    "age": 25,
@@ -38672,7 +38685,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:00:00-07:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "EDM",
   "teamOutlook": {
    "allowed": "Ducks allow 3.44 goals/g (blended)",
@@ -38684,6 +38697,7 @@
  },
  {
   "id": "2026-10-05-nhl-235",
+  "actual": "0 SOG",
   "analysis": "Leo Carlsson (Ducks forward) had 193 shots on goal in 70 games last season (2.76 per game) and has 1 in 2 games this season (0.50 per game), averaging 19.1 minutes. He has played 2 of 2 Ducks games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 2.58; Oilers allowed 26.2 shots/g (blended) against a league average of 27.8, a factor of 0.94. That projects 2.43 against a reference of 2.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 2.43 per game puts 2.5 or fewer at about 56%. Shot volume swings with power-play minutes, line changes and score effects, and a few games is a thin sample, so this stays a low-confidence lean. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 2.5, Caesars 2.5, DraftKings 2.5, Fanatics 2.5, FanDuel 2.5, Hard Rock Bet 2.5, BetMGM 2.5, theScore 2.5; I used 2.5 as the reference against my 2.43 projection.",
   "bio": {
    "age": 21,
@@ -38807,7 +38821,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:00:00-07:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "ANA",
   "teamOutlook": {
    "allowed": "Oilers allow 3.37 goals/g (blended)",
@@ -38819,6 +38833,7 @@
  },
  {
   "id": "2026-10-05-nhl-236",
+  "actual": "0 pts",
   "analysis": "Cutter Gauthier (Ducks forward) had 69 points in 76 games last season (0.91 per game) and has 4 in 2 games this season (2.00 per game), averaging 19.3 minutes. He has played 2 of 2 Ducks games so far and is not on ESPN's injury list as of Oct 6. Weighting this season three times per game gives 0.99; Oilers allow 3.37 goals/g (blended) against a league 3.08, which I count at half weight for a factor of 1.05. That projects 1.03 against a reference of 0.5 (no sportsbook line was available to me; the reference is the half-point where a Poisson read of last season's rate is closest to even). A Poisson read of 1.03 per game puts more than 0.5 at about 64%. Points depend on a handful of finishing events, so one goal or a quiet power play can flip the result; the early-season sample is also very small.",
   "bio": {
    "age": 22,
@@ -38905,7 +38920,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:00:00-07:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "ANA",
   "teamOutlook": {
    "allowed": "Oilers allow 3.37 goals/g (blended)",
@@ -50485,6 +50500,7 @@
  },
  {
   "id": "2026-10-05-nhl-53",
+  "actual": "1 SOG",
   "analysis": "Aliaksei Protas (Capitals left wing) had 159 shots on goal in 76 games last season (2.09 per game) and has 2 in 2 games this season (1.00 per game) while averaging 16.5 minutes. He has dressed for every WSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.01; PIT allowed 27.3 shots/g vs league 27.8, a factor of 0.98. That projects 1.97 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.97 per game puts fewer than or equal to 2.5 at about 68%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines 10/7 (RotoWire props table, 1 books): BetRivers 1.5; I used 1.5 as the reference against my 1.97 projection. The side was flipped to match the projection versus the posted line. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 25,
@@ -50575,7 +50591,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "Penguins allow 3.10 goals/g (blended)",
@@ -50587,6 +50603,7 @@
  },
  {
   "id": "2026-10-05-nhl-54",
+  "actual": "0 pts",
   "analysis": "Evgeni Malkin (Penguins center) had 61 points in 56 games last season (1.09 per game) and has 4 in 3 games this season (1.33 per game) while averaging 17.8 minutes. He has dressed for every PIT game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.12; WSH allowed 2.87 goals/g vs league 3.08, a factor of 0.97, damped. That projects 1.08 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 66% chance of at least one point on a Poisson read of 1.08 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines 10/7 (RotoWire props table, 8 books): Betr 0.5, BetRivers 0.5, Caesars 0.5, DraftKings 0.5, Fanatics 0.5, Hard Rock Bet 0.5, BetMGM 0.5, theScore 0.5; I used 0.5 as the reference against my 1.08 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 40,
@@ -50705,7 +50722,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "PIT",
   "teamOutlook": {
    "allowed": "Capitals allow 2.87 goals/g (blended)",
@@ -50717,6 +50734,7 @@
  },
  {
   "id": "2026-10-05-nhl-55",
+  "actual": "2 hits",
   "analysis": "Boone Jenner (Capitals center) had 147 hits in 67 games last season (2.19 per game) and has 0 in 2 games this season (0.00 per game) while averaging 15.6 minutes. He has dressed for every WSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.01; no opponent adjustment for this stat. That projects 2.01 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.01 per game puts fewer than or equal to 2.5 at about 67%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 33,
@@ -50798,7 +50816,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "Penguins allow 3.10 goals/g (blended)",
@@ -50810,6 +50828,7 @@
  },
  {
   "id": "2026-10-05-nhl-56",
+  "actual": "0 pts",
   "analysis": "Sidney Crosby (Penguins center) had 74 points in 68 games last season (1.09 per game) and has 2 in 3 games this season (0.67 per game) while averaging 19.0 minutes. He has dressed for every PIT game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.04; WSH allowed 2.87 goals/g vs league 3.08, a factor of 0.97, damped. That projects 1.00 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 63% chance of at least one point on a Poisson read of 1.00 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines 10/7 (RotoWire props table, 8 books): Betr 0.5, BetRivers 0.5, Caesars 0.5, DraftKings 0.5, Fanatics 0.5, Hard Rock Bet 0.5, BetMGM 0.5, theScore 0.5; I used 0.5 as the reference against my 1 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 39,
@@ -50928,7 +50947,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "PIT",
   "teamOutlook": {
    "allowed": "Capitals allow 2.87 goals/g (blended)",
@@ -50940,6 +50959,7 @@
  },
  {
   "id": "2026-10-05-nhl-57",
+  "actual": "1 SOG",
   "analysis": "Mark Scheifele (Jets center) had 175 shots on goal in 82 games last season (2.13 per game) and has 5 in 3 games this season (1.67 per game) while averaging 20.6 minutes. He has dressed for every WPG game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.09; COL allowed 26.3 shots/g vs league 27.8, a factor of 0.94. That projects 1.97 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.97 per game puts fewer than or equal to 2.5 at about 68%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 1.5, Caesars 1.5, DraftKings 1.5, Fanatics 1.5, FanDuel 1.5, Hard Rock Bet 1.5, BetMGM 1.5, theScore 1.5; I used 1.5 as the reference against my 1.97 projection. The side was flipped to match the projection versus the posted line. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 33,
@@ -51058,7 +51078,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "WPG",
   "teamOutlook": {
    "allowed": "Avalanche allow 2.41 goals/g (blended)",
@@ -51070,6 +51090,7 @@
  },
  {
   "id": "2026-10-05-nhl-58",
+  "actual": "0 pts",
   "analysis": "Martin Necas (Avalanche center) had 100 points in 78 games last season (1.28 per game) and has 4 in 2 games this season (2.00 per game) while averaging 19.3 minutes. He has dressed for every COL game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.33; WPG allowed 3.08 goals/g vs league 3.08, a factor of 1.00, damped. That projects 1.33 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 74% chance of at least one point on a Poisson read of 1.33 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
   "bio": {
    "age": 27,
@@ -51151,7 +51172,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "COL",
   "teamOutlook": {
    "allowed": "Jets allow 3.08 goals/g (blended)",
@@ -51163,6 +51184,7 @@
  },
  {
   "id": "2026-10-05-nhl-59",
+  "actual": "3 hits",
   "analysis": "Neal Pionk (Jets defenseman) had 111 hits in 51 games last season (2.18 per game) and has 4 in 3 games this season (1.33 per game) while averaging 22.9 minutes. He has dressed for every WPG game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.05; no opponent adjustment for this stat. That projects 2.05 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.05 per game puts fewer than or equal to 2.5 at about 66%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 31,
@@ -51244,7 +51266,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "WPG",
   "teamOutlook": {
    "allowed": "Avalanche allow 2.41 goals/g (blended)",
@@ -51256,6 +51278,7 @@
  },
  {
   "id": "2026-10-05-nhl-60",
+  "actual": "2 SOG",
   "analysis": "Mikael Granlund (Ducks center) had 117 shots on goal in 58 games last season (2.02 per game) and has 2 in 2 games this season (1.00 per game) while averaging 20.6 minutes. He has dressed for every ANA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.92; EDM allowed 26.2 shots/g vs league 27.8, a factor of 0.94. That projects 1.81 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.81 per game puts fewer than or equal to 2.5 at about 73%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 1.5, Caesars 1.5, DraftKings 1.5, Fanatics 1.5, Hard Rock Bet 1.5, BetMGM 1.5, theScore 1.5; I used 1.5 as the reference against my 1.81 projection. The side was flipped to match the projection versus the posted line.",
   "bio": {
    "age": 34,
@@ -51370,7 +51393,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T22:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "ANA",
   "teamOutlook": {
    "allowed": "Oilers allow 3.37 goals/g (blended)",
@@ -51382,6 +51405,7 @@
  },
  {
   "id": "2026-10-05-nhl-61",
+  "actual": "0 ast",
   "analysis": "Beckett Sennecke (Ducks right wing) had 37 assists in 82 games last season (0.45 per game) and has 1 in 2 games this season (0.50 per game) while averaging 19.9 minutes. He has dressed for every ANA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.45; EDM allowed 3.37 goals/g vs league 3.08, a factor of 1.05, damped. That projects 0.48 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 38% chance of at least one assist on a Poisson read of 0.48 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines 10/7 (RotoWire props table, 9 books): Betr 0.5, BetRivers 0.5, Caesars 0.5, DraftKings 0.5, Fanatics 0.5, FanDuel 0.5, Hard Rock Bet 0.5, BetMGM 0.5, theScore 0.5; I used 0.5 as the reference against my 0.48 projection.",
   "bio": {
    "age": 20,
@@ -51504,7 +51528,7 @@
   "sport": "nhl",
   "startTime": "2026-10-07T22:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "hit",
   "team": "ANA",
   "teamOutlook": {
    "allowed": "Oilers allow 3.37 goals/g (blended)",
@@ -55055,6 +55079,7 @@
  },
  {
   "id": "2026-10-05-wnba-01",
+  "actual": "35 pts",
   "analysis": "Stewart scored 19 in Game 1 with 2 rebounds, 3 assists, 3 blocks and 3 steals, short of the 22.5 posted line. Her first-round sweep games included 34 and 21. Atlanta's last five games show a 90.5 defensive rating and 74 points allowed per game, and the Dream controlled the second half 32-15 in the third quarter. New York is without Satou Sabally and Xu Han was questionable, so she should carry a heavy shot load, which keeps the ceiling high. The Game 2 line was not yet posted when I checked; the Game 1 number was 22.5 across SI and Bleacher Nation. My projection is about 21.5, slightly under that line, because of Atlanta's defense and her recent mix of big and ordinary scoring games. The main risk is a big-usage bounce-back night when New York is desperate.",
   "bio": {
    "age": 32,
@@ -55168,7 +55193,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "NY",
   "teamOutlook": {
    "allowed": "NY about 82-84 (82 in G1, 84 in Sept)",
@@ -55180,6 +55205,7 @@
  },
  {
   "id": "2026-10-05-wnba-02",
+  "actual": "23 pts",
   "analysis": "Canada scored 25 points in Game 1, 20 of them in the second half, adding 4 assists and 5 steals. She has now reached double figures in five straight games. Allisha Gray played only 11 minutes (7 points) before leaving with a left hand injury and neither the AJC nor FOX 5 report gave a severity or status for Game 2. If Gray is out or limited, Canada's minutes and shots should hold or rise. The Game 1 line was 11.5 and the Game 2 number was not yet posted. I project about 15 given the recent form, with some regression from the 13-of-20 shooting game. The main risk is that the 25 was inflated and Atlanta spreads scoring with Bonner, Reese and Howard. Monday-evening update: Gray hurt two fingers on her shooting hand and her Game 2 status is still uncertain, so the condition is open. Allisha Gray (finger) ruled out for G2 per Smesko/ESPN; day-to-day after; Bonner expected to start, usage shifts to Howard/Canada. Game-log check 10/7: Canada averaged 11.6 pts in 43 regular-season games but 18.0 in 3 playoff games (10, 19, 25), so 16 is a modest step toward her playoff form; small sample. Book lines 10/7 (RotoWire props table, 8 books): Betr 13.5, BetRivers 13.5, Caesars 13.5, DraftKings 13.5, Fanatics 13.5, FanDuel 13.5, Hard Rock Bet 13.5, theScore 13.5; I used 13.5 as the reference against my 16 projection.",
   "bio": {
    "age": 31,
@@ -55342,7 +55368,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "NY about 82-84 (82 in G1, 84 in Sept)",
@@ -55354,6 +55380,7 @@
  },
  {
   "id": "2026-10-05-wnba-03",
+  "actual": "7 reb",
   "analysis": "Reese had 7 rebounds with 17 points, 3 blocks and 4 steals in Game 1, well short of a 12.5 board line. New York's frontcourt with Jonquel Jones (11 rebounds, 5 blocks) contested the glass, and Brionna Jones remaining out for Atlanta means Reese plays heavy minutes, which limits the downside. Game 2 line was not posted when I checked; Game 1 was 12.5. A projection near 9 reflects the Game 1 result and a likely line that stays high. The risk is that her real rebound ceiling is far above the line given her season rate and increased minutes. Book lines 10/7 (RotoWire props table, 8 books): Betr 11.5, BetRivers 11.5, Caesars 11.5, DraftKings 11.5, Fanatics 11.5, FanDuel 11.5, Hard Rock Bet 11.5, theScore 11.5; I used 11.5 as the reference against my 9 projection.",
   "bio": {
    "age": 24,
@@ -55495,7 +55522,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Rebounds",
-  "status": "pending",
+  "status": "hit",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "NY about 82-84 (82 in G1, 84 in Sept)",
@@ -55507,6 +55534,7 @@
  },
  {
   "id": "2026-10-05-wnba-04",
+  "actual": "8 reb",
   "analysis": "Jonquel Jones posted 12 points, 11 rebounds, 4 assists and 5 blocks in Game 1. The Game 1 rebound line was 9.5 (points 14.5). Satou Sabally is out for New York, thinning New York's frontcourt, and Brionna Jones is out for Atlanta. With Atlanta's offense running through guards, Jones's rebound share should stay high. I project 10 against a Game 1 line, and the Game 2 number was not yet posted so the edge is thin. Main risk is foul trouble or Atlanta turning the game into a blowout, trimming her minutes. Book lines 10/7 (RotoWire props table, 8 books): Betr 9.5, BetRivers 9.5, Caesars 9.5, DraftKings 9.5, Fanatics 9.5, FanDuel 9.5, Hard Rock Bet 9.5, theScore 9.5; I used 9.5 as the reference against my 10 projection.",
   "bio": {
    "age": 32,
@@ -55644,7 +55672,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Rebounds",
-  "status": "pending",
+  "status": "miss",
   "team": "NY",
   "teamOutlook": {
    "allowed": "NY about 82-84 (82 in G1, 84 in Sept)",
@@ -55656,6 +55684,7 @@
  },
  {
   "id": "2026-10-05-wnba-05",
+  "actual": "7 reb",
   "analysis": "Wilson finished Game 1 with 24 points and 4 rebounds as Las Vegas lost 71-60 and was outrebounded 52-25 with 17 Golden State offensive boards producing 20 points. Chelsea Gray added 16 and Jackie Young 11 points with 5 assists. I could not find a posted Game 2 rebounds line, so the line is left null. My projection leans on her series and season track record: she averaged about 32 points in the first round and 12.7 rebounds against Golden State in the regular season. Regression toward those averages is likely for a must-win game. Main risks are Kiah Stokes and Golden State's rebounding size repeating the Game 1 pattern and a low-possession game. Start time: Chase Center (Mission Local; ESPN/CBS did not confirm), listed 6:30 PM, taken as Pacific time. Aces lost the G1 board 52-25 (ESPN); Talbot (starter) questionable and Loyd doubtful reduce rebounding depth, so Wilson's glass load should rise.",
   "bio": {
    "age": 30,
@@ -55759,7 +55788,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T18:30:00-07:00",
   "stat": "Rebounds",
-  "status": "pending",
+  "status": "miss",
   "team": "LV",
   "teamOutlook": {
    "allowed": "GS about 70-76 (71 in G1, 79 in June)",
@@ -55771,6 +55800,7 @@
  },
  {
   "id": "2026-10-05-wnba-06",
+  "actual": "24 pts",
   "analysis": "Wilson finished Game 1 with 24 points and 4 rebounds as Las Vegas lost 71-60 and was outrebounded 52-25 with 17 Golden State offensive boards producing 20 points. Chelsea Gray added 16 and Jackie Young 11 points with 5 assists. I could not find a posted Game 2 points line, so the line is left null. My projection leans on her series and season track record: she averaged about 32 points in the first round and 12.7 rebounds against Golden State in the regular season. Regression toward those averages is likely for a must-win game. Main risks are Kiah Stokes and Golden State's rebounding size repeating the Game 1 pattern and a low-possession game. Start time: Chase Center (Mission Local; ESPN/CBS did not confirm), listed 6:30 PM, taken as Pacific time. Monday-evening update: Jewell Loyd's left leg injury from Game 1 could push more shots to Wilson if Loyd sits. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage. Game-log check 10/7: Wilson averaged 25.8 pts in 42 regular-season games, 27.5 over her last six, and 30.0 in 4 playoff games, which supports 26. Book lines 10/7 (RotoWire props table, 8 books): Betr 25.5, BetRivers 25.5, Caesars 25.5, DraftKings 25.5, Fanatics 25.5, FanDuel 25.5, Hard Rock Bet 25.5, theScore 25.5; I used 25.5 as the reference against my 26 projection.",
   "bio": {
    "age": 30,
@@ -55924,7 +55954,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T18:30:00-07:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "LV",
   "teamOutlook": {
    "allowed": "GS about 70-76 (71 in G1)",
@@ -55936,6 +55966,7 @@
  },
  {
   "id": "2026-10-05-wnba-07",
+  "actual": "7 reb",
   "analysis": "Stokes grabbed 11 rebounds in Game 1 as Golden State beat Las Vegas on the glass 52-25 with 17 offensive rebounds. A Game 2 line was not posted when I checked. Las Vegas will emphasize rebounding in a must-win game, so I expect some regression and project about 8. Whether it's More depends on the posted number; a typical line in the 6-7 range would support More. Risk is that the Aces fix the boards and A'ja Wilson takes more of the rebounds. Start time is listed as 6:30 PM at Chase Center from Mission Local, assumed Pacific. Book lines 10/7 (RotoWire props table, 7 books): Betr 6.5, BetRivers 7.5, Caesars 6.5, DraftKings 6.5, FanDuel 6.5, Hard Rock Bet 7.5, theScore 6.5; I used 6.5 as the reference against my 8 projection.",
   "bio": {
    "age": 33,
@@ -56069,7 +56100,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T18:30:00-07:00",
   "stat": "Rebounds",
-  "status": "pending",
+  "status": "hit",
   "team": "GS",
   "teamOutlook": {
    "allowed": "LV about 68-74 (60 in G1)",
@@ -56081,6 +56112,7 @@
  },
  {
   "id": "2026-10-05-wnba-08",
+  "actual": "18 pts",
   "analysis": "Howard finished Game 1 with 16 points, 8 rebounds and 8 assists. The Game 1 points line was 18.5, with rebounds at 3.5 and assists at 3.5, so her playmaking cleared those easily. Allisha Gray's hand injury could raise her shots if Gray misses time. Atlanta was distributed offensively, with Canada 25, Bonner 23 and Reese 17. I project about 17.5, just below the line, so this is a thin Less. Game 2 line was not yet posted. Risk is higher usage if Gray is out. Allisha Gray (finger) ruled out for G2 per Smesko/ESPN; day-to-day after; Bonner expected to start, usage shifts to Howard/Canada. Game-log check 10/7: Howard averaged 17.5 pts in 44 regular-season games and 19.0 in 3 playoff games (16, 15, 26), so with Allisha Gray out the projection is 19, not the 20 first proposed; the assist projection stays at 5 (3.7 regular season, 4.3 playoffs). Book lines 10/7 (RotoWire props table, 8 books): Betr 20.5, BetRivers 20.5, Caesars 20.5, DraftKings 20.5, Fanatics 19.5, FanDuel 20.5, Hard Rock Bet 19.5, theScore 20.5; I used 20.5 as the reference against my 19 projection. The side was flipped to match the projection versus the posted line.",
   "bio": {
    "age": 26,
@@ -56234,7 +56266,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "NY about 82-84 (82 in G1, 84 in Sept)",
@@ -56246,6 +56278,7 @@
  },
  {
   "id": "2026-10-05-wnba-09",
+  "actual": "4 ast",
   "analysis": "Howard dished 8 assists in Game 1 while scoring 16, far past the 3.5 assist line. She is a ball-handling wing and Atlanta is thin if Gray is limited, which pushes more creation her way. Game 2 line was not posted when I checked. I project around 5. Risk is a line moving up to 4.5 or 5.5 after Game 1 and Atlanta's passing being spread among Canada and others. Allisha Gray (finger) ruled out for G2 per Smesko/ESPN; day-to-day after; Bonner expected to start, usage shifts to Howard/Canada. Book lines 10/7 (RotoWire props table, 8 books): Betr 3.5, BetRivers 3.5, Caesars 3.5, DraftKings 3.5, Fanatics 3.5, FanDuel 3.5, Hard Rock Bet 3.5, theScore 3.5; I used 3.5 as the reference against my 5 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 26,
@@ -56383,7 +56416,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "hit",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "NY about 82-84 (82 in G1, 84 in Sept)",
@@ -56395,6 +56428,7 @@
  },
  {
   "id": "2026-10-05-wnba-10",
+  "actual": "10 pts",
   "analysis": "Ionescu led New York with 27 points, 4 rebounds and 1 assist in Game 1. The Game 1 points line was 15.5. Satou Sabally is out and Xu Han was questionable, so shot volume should stay high for guards. Game 2 line was not posted when I checked. I project about 17 because Game 1 was likely above her norm. Covers noted she made 3 or more threes in only two of her last five games, which is a risk to the scoring total. Book lines 10/7 (RotoWire props table, 8 books): Betr 16.5, BetRivers 15.5, Caesars 15.5, DraftKings 15.5, Fanatics 15.5, FanDuel 15.5, Hard Rock Bet 15.5, theScore 15.5; I used 15.5 as the reference against my 17 projection.",
   "bio": {
    "age": 28,
@@ -56536,7 +56570,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "NY",
   "teamOutlook": {
    "allowed": "ATL about 90-92 (92 in G1, 95 in Sept)",
@@ -56548,6 +56582,7 @@
  },
  {
   "id": "2026-10-05-wnba-11",
+  "actual": "8 ast",
   "analysis": "Canada scored 25 but had just 4 assists in Game 1, a shift to scoring. Covers had her at 8 or more assists in 4 of her prior 5 games against a 7.5 line. If Gray is out, Canada may keep scoring more than passing. I project about 7, slightly under the line, a thin Less. Game 2 line not posted. Risk is a return to the playmaker role. Gray out for G2 (ESPN), which raises Canada's ball-handling load; Less lean on assists is weaker.",
   "bio": {
    "age": 31,
@@ -56645,7 +56680,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T19:30:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "miss",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "NY about 82-84 (82 in G1, 84 in Sept)",
@@ -56657,6 +56692,7 @@
  },
  {
   "id": "2026-10-05-wnba-12",
+  "actual": "19 pts",
   "analysis": "Chelsea Gray scored 16 points with 4 rebounds and 3 assists in Game 1, Las Vegas's second-best scorer behind Wilson. No line was posted when I checked, so it is left blank. I project about 14, and a line near 11 to 12 would favor More. Las Vegas needs scoring around Wilson after a 60-point output. Risk is Golden State's defense and low-pace game. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated, and Stephanie Talbot is also out. If Loyd misses time, more guard usage shifts to Gray. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage. Game-log check 10/7: Gray averaged 11.9 pts in 44 regular-season games and 15.8 in 4 playoff games, which supports 15. Book lines 10/7 (RotoWire props table, 8 books): Betr 11.5, BetRivers 12.5, Caesars 11.5, DraftKings 11.5, Fanatics 11.5, FanDuel 11.5, Hard Rock Bet 11.5, theScore 11.5; I used 11.5 as the reference against my 15 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained.",
   "bio": {
    "age": 33,
@@ -56806,7 +56842,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T18:30:00-07:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "LV",
   "teamOutlook": {
    "allowed": "GS about 70-76",
@@ -56818,6 +56854,7 @@
  },
  {
   "id": "2026-10-05-wnba-13",
+  "actual": "14 pts",
   "analysis": "Jackie Young scored 11 with 5 assists, 4 rebounds and 3 steals in Game 1. No line was posted when I checked. I project 15 on a rebound from a quiet scoring night in a must-win game. Risk is Golden State's size and defensive pressure keeping her to shots outside the paint. Monday-evening update: Jewell Loyd left Game 1 with a left leg injury and is being evaluated. If Loyd misses time, Young's shot share should grow. Jewell Loyd (leg) doubtful and Steph Talbot questionable for Aces G2 (ESPN); Dana Evans questionable; Aces depth thin, big three absorb usage. Game-log check 10/7: Young averaged 18.8 pts in 45 regular-season games, 20.2 over her last six, and 20.2 in 4 playoff games, which supports 18. Book lines 10/7 (RotoWire props table, 8 books): Betr 18.5, BetRivers 19.5, Caesars 18.5, DraftKings 18.5, Fanatics 18.5, FanDuel 18.5, Hard Rock Bet 18.5, theScore 18.5; I used 18.5 as the reference against my 18 projection. The side was flipped to match the projection versus the posted line.",
   "bio": {
    "age": 29,
@@ -56967,7 +57004,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T18:30:00-07:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "LV",
   "teamOutlook": {
    "allowed": "GS about 70-76",
@@ -56979,6 +57016,7 @@
  },
  {
   "id": "2026-10-05-wnba-14",
+  "actual": "20 pts",
   "analysis": "Gabby Williams scored 25 points to lead the Valkyries in a 71-60 win. No line was posted when I checked and I could not verify her season averages, so my projection of about 16 is a regression estimate from a career-high style game. A typical line would sit well under 25. Risk is that she keeps being the primary scorer for a team with modest offense. Book lines 10/7 (RotoWire props table, 8 books): Betr 18.5, BetRivers 19.5, Caesars 18.5, DraftKings 18.5, Fanatics 18.5, FanDuel 18.5, Hard Rock Bet 18.5, theScore 18.5; I used 18.5 as the reference against my 16 projection.",
   "bio": {
    "age": 30,
@@ -57104,7 +57142,7 @@
   "sport": "wnba",
   "startTime": "2026-10-07T18:30:00-07:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "GS",
   "teamOutlook": {
    "allowed": "LV about 68-74",
