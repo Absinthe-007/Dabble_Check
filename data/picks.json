@@ -9923,7 +9923,7 @@
    "title": "Mike Gesicki - Wikipedia",
    "url": "https://en.wikipedia.org/wiki/Mike_Gesicki"
   },
-  "condition": "Chase in concussion protocol (likely out); Higgins day-to-day",
+  "condition": "Ja'Marr Chase questionable (concussion), limited Thursday; Tee Higgins questionable (groin/neck), did not practice Thursday (ESPN injury feed 10/8)",
   "confidence": 2,
   "espnId": "3116164",
   "game": "CIN @ MIA",
@@ -10481,7 +10481,7 @@
    "title": "Jordan Addison - ESPN bio",
    "url": "https://www.espn.com/nfl/player/bio/_/id/4429205"
   },
-  "condition": "Justin Jefferson questionable (ESPN 10/6); recheck practice reports",
+  "condition": "Justin Jefferson questionable (ankle), limited at Thursday practice per ESPN injury feed 10/8; recheck Friday report",
   "confidence": 2,
   "espnId": "4429205",
   "game": "MIN @ NO",
@@ -16768,7 +16768,7 @@
    "title": "ESPN JAX roster (site.api.espn.com)",
    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/jax/roster"
   },
-  "condition": "Barkley (hamstring) questionable; Bigsby on IR",
+  "condition": "Saquon Barkley (hamstring) questionable, absent from open practice Thursday; DeVonta Smith (hamstring) also questionable (ESPN injury feed 10/8)",
   "confidence": 2,
   "espnId": "3050073",
   "game": "PHI @ JAX",
@@ -18041,7 +18041,7 @@
    "title": "ESPN NYJ roster (site.api.espn.com)",
    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/nyj/roster"
   },
-  "condition": "Adonai Mitchell and Mason Taylor doubtful",
+  "condition": "Adonai Mitchell (finger) doubtful per ESPN injury feed 10/8; Mason Taylor full participant Wednesday",
   "confidence": 3,
   "espnId": "4569618",
   "game": "CLE @ NYJ",
@@ -18157,7 +18157,7 @@
    "title": "ESPN CLE roster (site.api.espn.com)",
    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/cle/roster"
   },
-  "condition": "Mason Graham questionable (DT)",
+  "condition": "Mason Graham now listed doubtful (ESPN injury feed, 10/7)",
   "confidence": 2,
   "espnId": "4876017",
   "game": "CLE @ NYJ",
@@ -20719,7 +20719,7 @@
    "title": "T. J. Hockenson - Wikipedia",
    "url": "https://en.wikipedia.org/wiki/T._J._Hockenson"
   },
-  "condition": "Justin Jefferson questionable (ESPN 10/6); recheck practice reports",
+  "condition": "Justin Jefferson questionable (ankle), limited at Thursday practice per ESPN injury feed 10/8; recheck Friday report",
   "confidence": 3,
   "espnId": "4036133",
   "game": "MIN @ NO",
@@ -21235,7 +21235,7 @@
    "title": "Tre' Harris (ESPN/search)",
    "url": "https://www.espn.com/nfl/player/bio/_/id/4686612"
   },
-  "condition": "Ladd McConkey (foot) questionable, week-to-week",
+  "condition": "Ladd McConkey (foot) questionable, did not practice Thursday (ESPN injury feed 10/8)",
   "confidence": 2,
   "espnId": "4686612",
   "game": "DEN @ LAC",
