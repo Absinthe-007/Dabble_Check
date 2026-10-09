@@ -25767,7 +25767,7 @@
  },
  {
   "id": "2026-10-05-nhl-06",
-  "actual": "6 SOG",
+  "actual": "8 SOG",
   "analysis": "Hagel has 9 shots in 2 games and plays nearly 23 minutes a night for Tampa. Philadelphia was allowing a league-worst 40.7 shots a game early, and the Flyers visit Tampa tonight at 7:00 PM ET. Dimers also lists him around +170 to score, which shows the matchup is rated well. I kept the 4.5 projection, a blend of his pace and the leaky opponent. No shots line was found. Main risk is a small two-game sample and Tampa leading big and shooting less.",
   "bio": {
    "age": 28,
@@ -25856,7 +25856,7 @@
  },
  {
   "id": "2026-10-05-nhl-07",
-  "actual": "1 pt (A)",
+  "actual": "2 pts (2 A)",
   "analysis": "Kucherov has 2 points (1 goal, 1 assist) in 2 games and plays about 23 minutes a night. Philadelphia was giving up about 4.3 goals a game early, and Tampa hosts at 7:00 PM ET tonight. Dimers has his anytime goal at +150, about 43 percent. A 0.5 points line is the reference; one point is a coin-flip-plus for a 130-point scorer last season. Main risk is a low-scoring night or goals without his involvement.",
   "bio": {
    "age": 33,
@@ -54984,7 +54984,7 @@
  },
  {
   "id": "2026-10-05-nhl-64",
-  "actual": "DNP (not in box score)",
+  "actual": "4 blk",
   "analysis": "William Borgen (Bruins defenseman) had 99 blocked shots in 75 games last season (1.32 per game) and has 4 in 4 games this season (1.00 per game) while averaging 18.3 minutes. He has dressed for every BOS game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.28; no opponent adjustment for this stat. That projects 1.28 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.28 per game puts fewer than or equal to 1.5 at about 64%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
   "bio": {
    "age": 29,
@@ -55066,7 +55066,7 @@
   "sport": "nhl",
   "startTime": "2026-10-08T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "void",
+  "status": "miss",
   "team": "BOS",
   "teamOutlook": {
    "allowed": "Mammoth allow 2.80 goals/g (blended)",
