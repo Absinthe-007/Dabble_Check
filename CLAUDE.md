@@ -51,3 +51,8 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 - Clear stale `must` fields from picks that are no longer in the top 5 (set `must` to `{"__delete__": true}`), and re-rank each run.
 - Keep the A–F grade on every pick (the site computes it from confidence, projection vs line and any open condition).
 - No review step: the owner does not want to preview updates (Oct 7 2026). Every run pushes straight to `main` once `filter_top25.py` runs clean, and the notification reports what changed.
+
+## Depth: positions, history, lines (owner's request, Oct 9 2026)
+- Go deeper on every pick: in `analysis`/`matchup`, name the player's position and role (depth-chart spot, line/pairing, snap/TOI share), and how the opposing team's matching position group (e.g. CB room vs this WR, opposing D-pair vs this forward) has been playing; use only facts from the sources.
+- `history` should give the last 3–5 game log values for the stat plus the opponent split when available; `projLine` should list the full expected stat line, and `lines` every book line found.
+- The "Games & players" rosters are grouped by position (QB/RB/WR/TE/OL/DL/LB/DB/ST, C/W/D/G, G/F/C) in `index.html`; live stats keep polling every 30s while a game is live.

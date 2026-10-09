@@ -199,6 +199,7 @@ main.wrap{padding-block:22px 120px}
 .gm.live>summary .st{color:#D6342C}
 .gm-body{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:0;border-top:1px solid var(--hair)}
 .gm-team{padding:8px 14px 12px;min-width:0}
+.gm-team .pg{margin:10px 0 2px;padding:3px 0;border-bottom:1px solid var(--hair);font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}.gm-team .pg small{opacity:.7}
 .gm-team h4{margin:4px 0 6px;font-family:var(--f-display);font-size:15px;letter-spacing:.05em;text-transform:uppercase}
 .pl{display:grid;grid-template-columns:26px 1fr auto;gap:2px 8px;align-items:baseline;padding:3px 0;border-top:1px solid var(--hair);font-size:12.5px}
 .pl .jn{font-family:var(--f-mono);color:var(--muted);text-align:right}
@@ -569,9 +570,19 @@ function renderGames(){if(!window.Live)return;const w=$("gamesWrap"),el=$("games
   const ord={live:0,pre:1,final:2},esc_=esc,picks={};
   state.picks.filter(isOpen).forEach(p=>{if(p.espnId)(picks[p.espnId]=picks[p.espnId]||[]).push(p)});
   G.sort((a,b)=>ord[a.ph]-ord[b.ph]||new Date(a.e.date)-new Date(b.e.date));
+  const POSGRP={nfl:[["Quarterbacks",["QB"]],["Running backs",["RB","FB"]],["Wide receivers",["WR"]],["Tight ends",["TE"]],["Offensive line",["OL","T","G","C","OT","OG"]],["Defensive line",["DL","DE","DT","NT"]],["Linebackers",["LB","OLB","ILB","MLB"]],["Defensive backs",["DB","CB","S","FS","SS"]],["Specialists",["K","P","LS","PK"]]],
+    cfb:[["Quarterbacks",["QB"]],["Running backs",["RB","FB"]],["Wide receivers",["WR"]],["Tight ends",["TE"]],["Offensive line",["OL","T","G","C","OT","OG"]],["Defensive line",["DL","DE","DT","NT"]],["Linebackers",["LB","OLB","ILB","MLB"]],["Defensive backs",["DB","CB","S","FS","SS"]],["Specialists",["K","P","LS","PK"]]],
+    nhl:[["Centers",["C"]],["Left wings",["LW"]],["Right wings",["RW"]],["Wings",["W","F"]],["Defensemen",["D"]],["Goalies",["G"]]],
+    wnba:[["Guards",["G","PG","SG"]],["Forwards",["F","SF","PF"]],["Centers",["C"]]]};
+  const rowHtml=(r,g)=>`<div class="pl${r.played||g.ph==="pre"?"":" dim"}"><span class="jn">${esc_(r.jersey)}</span><span class="pn">${esc_(r.name)}<small>${esc_(r.pos)}${r.starter?` <span class="s">S</span>`:""}${r.inj?` <span class="ij">${esc_(r.inj)}</span>`:""}</small></span><span class="ln">${esc_(r.line||"")}</span>${(picks[r.id]||[]).filter(p=>sameGame(p,g)).map(p=>`<span class="pk ${p.side==="More"?"more":"less"}" data-open="${esc_(p.id)}">${p.side==="More"?"▲":"▼"} ${esc_(p.side)} ${esc_(p.stat)}${LIVE_TXT(p)}</span>`).join("")}</div>`;
+  const groupHtml=(t,g)=>{const defs=POSGRP[g.sp]||[],used=new Set(),out=[];
+    const sect=(name,rows)=>{if(rows.length)out.push(`<div class="pg">${esc_(name)} <small>${rows.length}</small></div>`+rows.map(r=>rowHtml(r,g)).join(""))};
+    for(const [name,codes] of defs){const rows=t.rows.filter(r=>!used.has(r.id)&&codes.includes(String(r.pos||"").toUpperCase()));rows.forEach(r=>used.add(r.id));sect(name,rows)}
+    sect(defs.length?"Other":"Players",t.rows.filter(r=>!used.has(r.id)));
+    return out.join("")};
   const open=Live.openGames;
   el.innerHTML=G.map(g=>{const isO=open.has(g.id);
-    const body=!isO?"":!g.teams?`<div class="gm-body"><div class="gm-team">Loading players…</div></div>`:`<div class="gm-body">${g.teams.map(t=>`<div class="gm-team"><h4>${esc_(t.name)} <small style="color:var(--muted);font-family:var(--f-mono)">${t.rows.length} players</small></h4>${t.rows.map(r=>`<div class="pl${r.played||g.ph==="pre"?"":" dim"}"><span class="jn">${esc_(r.jersey)}</span><span class="pn">${esc_(r.name)}<small>${esc_(r.pos)}${r.starter?` <span class="s">S</span>`:""}${r.inj?` <span class="ij">${esc_(r.inj)}</span>`:""}</small></span><span class="ln">${esc_(r.line||"")}</span>${(picks[r.id]||[]).filter(p=>sameGame(p,g)).map(p=>`<span class="pk ${p.side==="More"?"more":"less"}" data-open="${esc_(p.id)}">${p.side==="More"?"▲":"▼"} ${esc_(p.side)} ${esc_(p.stat)}${LIVE_TXT(p)}</span>`).join("")}</div>`).join("")}</div>`).join("")}</div>`;
+    const body=!isO?"":!g.teams?`<div class="gm-body"><div class="gm-team">Loading players…</div></div>`:`<div class="gm-body">${g.teams.map(t=>`<div class="gm-team"><h4>${esc_(t.name)} <small style="color:var(--muted);font-family:var(--f-mono)">${t.rows.length} players</small></h4>${groupHtml(t,g)}</div>`).join("")}</div>`;
     return `<details class="gm ${g.ph}" data-g="${esc_(g.id)}"${isO?" open":""}><summary><b>${esc_(g.sp==="cfb"?"CFB":g.sp.toUpperCase())}</b><span>${esc_(g.line.split(" · ")[0])}</span><span class="st">${g.ph==="live"?"● ":""}${esc_(g.line.split(" · ").slice(1).join(" · "))}</span></summary>${body}</details>`}).join("")}
 const sameGame=(p,g)=>{if(!p.startTime)return false;const t=Live.gameTeams(p.game).map(x=>Live.ab(g.sp,x)),c=g.e.competitions[0].competitors.map(x=>Live.ab(g.sp,x.team.abbreviation));return t.length>0&&t.every(x=>c.includes(x))&&Math.abs(new Date(g.e.date)-new Date(p.startTime))<4*36e5};
 const LIVE_TXT=p=>{const l=window.LIVE&&window.LIVE[p.id];return l&&l.text?` · now ${esc(l.text)}`:""};
