@@ -169,6 +169,7 @@ main.wrap{padding-block:22px 120px}
 .game-h .meta{display:flex;gap:10px;align-items:center;font-family:var(--f-mono);font-size:11px;color:var(--muted)}
 .tg{display:inline-flex;gap:5px;align-items:center;font-family:var(--f-mono);font-size:11px;color:var(--muted);background:var(--surface);border:1px solid var(--line);border-radius:7px;padding:1px 3px 1px 7px;cursor:pointer}
 .hm{background:var(--ink);color:var(--surface);border-radius:4px;padding:0 5px}
+.nt{font-family:var(--f-mono);font-size:10px;font-weight:600;letter-spacing:.04em;border:1px solid currentColor;border-radius:4px;padding:0 4px;margin-left:4px;vertical-align:middle;opacity:.8}
 .tile-h .hm{background:#fff;color:#0d1424}
 .tg.home{border-color:var(--ink);font-weight:700}
 .who .mt .tm{font-family:var(--f-mono);font-size:10.5px;font-weight:700;color:#fff;background:var(--tc);border-radius:4px;padding:0 5px;margin-right:6px}
@@ -389,10 +390,13 @@ const opp=p=>String(p.game||"").split(/\s*(?:@|vs\.?)\s*/).map(t=>t.replace(/\(.
 /* ---------- filtering ---------- */
 const weekPicks=()=>state.picks.filter(p=>p.week===state.week);
 const sportPicks=()=>weekPicks().filter(p=>state.sport==="all"||p.sport===state.sport);
-const gameSides=g=>{const x=String(g||"").replace(/\s*·.*$/,"").split(/\s*@\s*/);return x.length===2&&x[0]&&x[1]?{away:x[0].trim(),home:x[1].trim()}:null};
-const isHome=p=>{const x=gameSides(p.game);return !!x&&x.home.toUpperCase()===String(p.team||"").toUpperCase()};
-const gameHtml=g=>{const x=gameSides(g);return x?`${esc(x.away)} @ <span class="hm">${esc(x.home)}</span>`:esc(g)};
-const teamChip=p=>{const x=gameSides(p.game),h=isHome(p);return `<span class="tm${h?" home":""}" style="--tc:${teamColor(p)}">${esc(p.team||"")}</span>${x?`<span class="ha${h?" home":""}">${h?"HOME vs":"AWAY @"} ${esc(opp(p))}</span>`:""}`};
+// neutral-site games (verified on ESPN + league/team pages); home side there is only the designated host
+const NEUTRAL={"PHI @ JAX":"London","TEX vs OU (Dallas)":"Dallas"};
+const neutralOf=g=>NEUTRAL[String(g||"")]||"";
+const gameSides=g=>{const x=String(g||"").replace(/\s*\(.*\)\s*$/,"").replace(/\s*·.*$/,"").split(/\s*(?:@|vs\.?)\s*/i);return x.length===2&&x[0]&&x[1]?{away:x[0].trim(),home:x[1].trim()}:null};
+const isHome=p=>{if(neutralOf(p.game))return false;const x=gameSides(p.game);return !!x&&x.home.toUpperCase()===String(p.team||"").toUpperCase()};
+const gameHtml=g=>{const x=gameSides(g),n=neutralOf(g);if(!x)return esc(g);return n?`${esc(x.away)} vs ${esc(x.home)} <span class="nt">NEUTRAL · ${esc(n)}</span>`:`${esc(x.away)} @ <span class="hm">${esc(x.home)}</span>`};
+const teamChip=p=>{const x=gameSides(p.game),h=isHome(p),n=neutralOf(p.game);return `<span class="tm${h?" home":""}" style="--tc:${teamColor(p)}">${esc(p.team||"")}</span>${x?`<span class="ha${h?" home":""}">${n?`NEUTRAL · ${esc(n)} vs`:h?"HOME vs":"AWAY @"} ${esc(opp(p))}</span>`:""}`};
 const hay=p=>[p.player,p.team,p.position,POSNAME[p.position],p.stat,fam(p),p.game,SPORT_NAME[p.sport],(p.bio&&p.bio.college)||""].join(" ").toLowerCase();
 function filtered(){const terms=state.q.trim().toLowerCase().split(/\s+/).filter(Boolean);
   return weekPicks().filter(p=>(terms.length||state.sport==="all"||p.sport===state.sport)&&(state.stat==="all"||fam(p)===state.stat)&&(state.side==="all"||p.side===state.side)&&(state.team==="all"||`${p.sport}|${p.team}`===state.team)&&terms.every(t=>hay(p).includes(t)))}
@@ -494,7 +498,7 @@ function renderBoard(){
     const games=[...new Set(x.map(p=>p.game||""))].sort((a,b)=>Math.min(...x.filter(p=>p.game===a).map(dayNum))-Math.min(...x.filter(p=>p.game===b).map(dayNum)));
     for(const g of games){const y=x.filter(p=>(p.game||"")===g).sort((a,b)=>isOpen(b)-isOpen(a)||String(a.team).localeCompare(String(b.team))||grade(a).score-grade(b).score);
       const f=y[0];const tms=[...new Set(y.map(p=>p.team))];
-      html+=`<section class="game" data-game="${esc(sp+"|"+g)}"><div class="game-h"><b>${gameHtml(g)}</b><div class="meta">${tms.map(t=>`<button type="button" class="tg${(gameSides(g)||{}).home&&gameSides(g).home.toUpperCase()===String(t).toUpperCase()?" home":""}" data-team="${esc(sp+"|"+t)}" title="Show only ${esc(t)}">${(gameSides(g)||{}).home&&gameSides(g).home.toUpperCase()===String(t).toUpperCase()?"HOME · ":""}${esc(t)} <span class="grade ${avgGrade(y.filter(p=>p.team===t&&isOpen(p)))}">${avgGrade(y.filter(p=>p.team===t&&isOpen(p)))}</span></button>`).join("")}<span>${esc(f.gameTime||"")}${kickoff(f)?` · ${esc(kickoff(f))}`:""}</span></div></div><ul class="rows">${y.map(row).join("")}</ul></section>`}
+      html+=`<section class="game" data-game="${esc(sp+"|"+g)}"><div class="game-h"><b>${gameHtml(g)}</b><div class="meta">${tms.map(t=>`<button type="button" class="tg${!neutralOf(g)&&(gameSides(g)||{}).home&&gameSides(g).home.toUpperCase()===String(t).toUpperCase()?" home":""}" data-team="${esc(sp+"|"+t)}" title="Show only ${esc(t)}">${!neutralOf(g)&&(gameSides(g)||{}).home&&gameSides(g).home.toUpperCase()===String(t).toUpperCase()?"HOME · ":""}${esc(t)} <span class="grade ${avgGrade(y.filter(p=>p.team===t&&isOpen(p)))}">${avgGrade(y.filter(p=>p.team===t&&isOpen(p)))}</span></button>`).join("")}<span>${esc(f.gameTime||"")}${kickoff(f)?` · ${esc(kickoff(f))}`:""}</span></div></div><ul class="rows">${y.map(row).join("")}</ul></section>`}
   }
   el.innerHTML=html;
 }
@@ -526,7 +530,7 @@ function openSheet(id){
   const facts=[...(isOpen(p)?[]:[["Result",`${p.status}${p.actual?` · ${p.actual}`:""}`]]),...(p.position?[["Position",POSNAME[p.position]||p.position]]:[]),["Prop",p.stat],...(p.projection&&p.projection.value?[["Our projection",`${ARR[t.dir]} ${p.projection.value}`+(t.delta!=null?` (${t.delta>0?"+":""}${Math.round(t.delta*10)/10} vs ${p.line})`:"")]]:[]),...(p.projPrev&&p.projPrev.value?[["Previous projection",p.projPrev.value]]:[]),["Grade",`${grade(p).letter} · ${grade(p).feel}`],["Confidence",`${p.confidence||1} of 5`],["When",(p.gameTime||"—")+(kickoff(p)?` · ${kickoff(p)}`:"")]];
   const others=state.picks.filter(x=>x.week===p.week&&x.player===p.player&&x.id!==p.id);
   const F=(arr)=>`<div class="facts">${arr.filter(([k,v])=>v!=null&&v!=="").map(([k,v])=>`<div class="fact"><small>${esc(k)}</small><b>${esc(v)}</b></div>`).join("")}</div>`;
-  $("sheet").innerHTML=`<div class="sh-top">${av(p,true)}<div class="sh-head"><span class="sh-kick">${esc(SPORT_NAME[p.sport])} · ${esc(p.team||"")}${gameSides(p.game)?` (${isHome(p)?"home":"away"})`:""}${p.position?` · ${esc(p.position)}`:""} · ${gameHtml(p.game)}</span>
+  $("sheet").innerHTML=`<div class="sh-top">${av(p,true)}<div class="sh-head"><span class="sh-kick">${esc(SPORT_NAME[p.sport])} · ${esc(p.team||"")}${gameSides(p.game)?` (${neutralOf(p.game)?"neutral site":isHome(p)?"home":"away"})`:""}${p.position?` · ${esc(p.position)}`:""} · ${gameHtml(p.game)}</span>
       <div class="sh-name" id="shName">${esc(p.player)}</div><div class="sh-call">${pill(p)}${projHtml(p)}<span>${esc(p.stat)}</span>${gb(p)}</div></div>
       <button class="sh-close" type="button" data-close aria-label="Close">×</button></div>
     <div class="sh-body">

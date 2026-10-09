@@ -56,3 +56,7 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 - Go deeper on every pick: in `analysis`/`matchup`, name the player's position and role (depth-chart spot, line/pairing, snap/TOI share), and how the opposing team's matching position group (e.g. CB room vs this WR, opposing D-pair vs this forward) has been playing; use only facts from the sources.
 - `history` should give the last 3–5 game log values for the stat plus the opponent split when available; `projLine` should list the full expected stat line, and `lines` every book line found.
 - The "Games & players" rosters are grouped by position (QB/RB/WR/TE/OL/DL/LB/DB/ST, C/W/D/G, G/F/C) in `index.html`; live stats keep polling every 30s while a game is live.
+
+## Home/away (owner's request, Oct 9 2026)
+- Game strings are "AWAY @ HOME" (ESPN scoreboard `homeAway`, cross-checked against the NHL schedule API for NHL). The site tags each player's team HOME/AWAY and highlights the home side.
+- Neutral-site games are listed in the `NEUTRAL` map in `index.html` (game string -> city). Add new ones when ESPN shows `neutralSite: true` (e.g. NFL international games, CFB rivalry games); they render as "NEUTRAL · city" with no home highlight.
