@@ -19121,7 +19121,7 @@
  },
  {
   "id": "2026-10-05-nfl-23",
-  "analysis": "Swift ran 15 times for 58 yards with a fumble in Week 4 while Kyle Monangai handled 30 carries for 146 yards and two scores; Monangai hurt his thumb and his Week 5 status is in doubt per Ben Johnson. If Monangai is out or limited, Swift and Roschon Johnson would see more work. Green Bay allows about 138.7 rushing yards a game and lost linebacker Edgerrin Cooper (Achilles) for the year. No Swift line posted yet. I projected 62 yards assuming about 15 to 18 carries if Monangai sits; if Monangai plays full speed the projection drops sharply. Chicago ran 5.3 per carry as a team through three games, which supports a decent floor. Monday-evening update: Ben Johnson said he expects Monangai (thumb) to be available at Green Bay, so this condition is now unlikely to be met and the pick will probably void. Wed 10/7: Monangai (right thumb) listed questionable and day-to-day per Ben Johnson (ESPN feed); not ruled out. Book lines 10/7 (RotoWire props table, 5 books): Caesars 61.5, DraftKings 61.5, Fanatics 60.5, FanDuel 61.5, Hard Rock Bet 61.5; I used 61.5 as the reference against my 62 projection.",
+  "analysis": "Swift ran 15 times for 58 yards with a fumble in Week 4 while Kyle Monangai handled 30 carries for 146 yards and two scores; Monangai hurt his thumb and his Week 5 status is in doubt per Ben Johnson. If Monangai is out or limited, Swift and Roschon Johnson would see more work. Green Bay allows about 138.7 rushing yards a game and lost linebacker Edgerrin Cooper (Achilles) for the year. No Swift line posted yet. I projected 62 yards assuming about 15 to 18 carries if Monangai sits; if Monangai plays full speed the projection drops sharply. Chicago ran 5.3 per carry as a team through three games, which supports a decent floor. Monday-evening update: Ben Johnson said he expects Monangai (thumb) to be available at Green Bay, so this condition is now unlikely to be met and the pick will probably void. Wed 10/7: Monangai (right thumb) listed questionable and day-to-day per Ben Johnson (ESPN feed); not ruled out. Book lines 10/7 (RotoWire props table, 5 books): Caesars 61.5, DraftKings 61.5, Fanatics 60.5, FanDuel 61.5, Hard Rock Bet 61.5; I used 61.5 as the reference against my 62 projection. Line check Oct 9: the 61.5 line from earlier was stale. BettingPros consensus is now 68.5 (RotoWire no longer lists this prop), so the side moves to Less: projection 62 yds vs 68.5.",
   "bio": {
    "age": 27,
    "college": "Georgia",
@@ -19153,27 +19153,11 @@
     "url": "https://chicago.suntimes.com/bears/2026/09/03/bears-practice-report-rb-dandre-swift-wr-rome-odunze-leave-with-injuries"
    }
   ],
-  "line": 61.5,
+  "line": 68.5,
   "lines": [
    {
-    "book": "Caesars",
-    "line": 61.5
-   },
-   {
-    "book": "DraftKings",
-    "line": 61.5
-   },
-   {
-    "book": "Fanatics",
-    "line": 60.5
-   },
-   {
-    "book": "FanDuel",
-    "line": 61.5
-   },
-   {
-    "book": "Hard Rock Bet",
-    "line": 61.5
+    "book": "BettingPros consensus",
+    "line": 68.5
    }
   ],
   "matchup": "Swift ran 15 for 58 while Kyle Monangai had 30 for 146, and Ben Johnson now expects Monangai to play. Green Bay allows about 138.7 rushing yards a game and lost LB Edgerrin Cooper for the year. In the 2025 meeting Swift had 13 carries for 58. His carries drop if Monangai is healthy.",
@@ -19208,7 +19192,7 @@
    "basis": "15-58 Wk4; Monangai 30-146-2 but thumb injury; GB allows 138.7/g",
    "value": "62 yds"
   },
-  "side": "More",
+  "side": "Less",
   "sources": [
    {
     "title": "Bleacher Report: Bears beat Jets (Bagent, Swift, Odunze)",
@@ -19233,6 +19217,10 @@
    {
     "title": "RotoWire: NFL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nfl/player-props.php"
+   },
+   {
+    "title": "BettingPros: D'Andre Swift rushing yards props",
+    "url": "https://www.bettingpros.com/nfl/props/dandre-swift/"
    }
   ],
   "sport": "nfl",
