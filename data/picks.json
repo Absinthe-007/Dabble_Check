@@ -8431,6 +8431,7 @@
  },
  {
   "id": "2026-10-05-cfb-87",
+  "actual": "DNP (no carries in box score)",
   "analysis": "LJ Martin has posted 16, 176, 98, 54 rushing yards across his 4 games this season, an average of 86 (last three games average 96.7). He is the lead back and handled 15 and 20 carries in two of BYU's four games, though his most recent game was just 2 carries. BYU is a 10.5-point favorite with a 46.5 total, and the board data has Iowa State allowing about 172 passing and 149 rushing yards a game. BYU is the heavy favorite, which should give the lead back plenty of carries late. No posted line was found, so my projection of 85 is built by starting from his season average and adjusting for the game script above; the lean is more against a number near his average. The main risks are a small sample (4 games), unverified injury or snap-count status this week, and game script moving away from the expected path.",
   "bio": {
    "exp": "Senior",
@@ -8491,7 +8492,7 @@
   "sport": "cfb",
   "startTime": "2026-10-09T22:15:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "void",
   "team": "BYU",
   "teamOutlook": {
    "allowed": "ISU allows 172 pass / 149 rush yds per game",
@@ -8503,6 +8504,7 @@
  },
  {
   "id": "2026-10-05-cfb-88",
+  "actual": "30 pass att (graded vs 21 projection; no book line)",
   "analysis": "Bear Bachmeier has posted 24, 16, 26, 20 pass attempts across his 4 games this season, an average of 21.5 (last three games average 22). Bachmeier has thrown between 16 and 26 passes in three of four games and has also run 15 times in one. BYU is a 10.5-point favorite with a 46.5 total, and the board data has Iowa State allowing about 172 passing and 149 rushing yards a game. A double-digit favorite with a run-capable quarterback tends to throw less. No posted line was found, so my projection of 21 is built by starting from his season average and adjusting for the game script above; the lean is less against a number near his average. The main risks are a small sample (4 games), unverified injury or snap-count status this week, and game script moving away from the expected path.",
   "bio": {
    "exp": "Sophomore",
@@ -8563,7 +8565,7 @@
   "sport": "cfb",
   "startTime": "2026-10-09T22:15:00-04:00",
   "stat": "Passing attempts",
-  "status": "pending",
+  "status": "miss",
   "team": "BYU",
   "teamOutlook": {
    "allowed": "ISU allows 172 pass / 149 rush yds per game",
@@ -8575,6 +8577,7 @@
  },
  {
   "id": "2026-10-05-cfb-89",
+  "actual": "208 rush yds (graded vs 58 projection; no book line)",
   "analysis": "Kamari Moulton has posted 27, 44, 57, 183 rushing yards across his 4 games this season, an average of 77.8 (last three games average 42.7). One 183-yard game inflates his average; he was held to 27, 44 and 57 in the other three. Washington is a 3-point favorite with a 41.5 total, and the existing board data has Washington allowing about 192 passing and 111 rushing yards a game. With a 41.5 total this should be a low-possession game, so I lean toward his usual output rather than the outlier. No posted line was found, so my projection of 58 is built by starting from his season average and adjusting for the game script above; the lean is less against a number near his average. The main risks are a small sample (4 games), unverified injury or snap-count status this week, and game script moving away from the expected path.",
   "bio": {
    "exp": "Senior",
@@ -8635,7 +8638,7 @@
   "sport": "cfb",
   "startTime": "2026-10-09T21:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "Iowa",
   "teamOutlook": {
    "allowed": "WASH allows 192 pass / 111 rush yds per game",
@@ -8647,6 +8650,7 @@
  },
  {
   "id": "2026-10-05-cfb-90",
+  "actual": "23 rec yds (graded vs 58 projection; no book line)",
   "analysis": "Tony Diaz has posted 59, 46, 22, 95, 84 receiving yards across his 5 games this season, an average of 61.2 (last three games average 42.3). Diaz had 95 and 84 yards early in the season but has 59, 46 and 22 in his three most recent games. Washington is a 3-point favorite with a 41.5 total, and the existing board data has Washington allowing about 192 passing and 111 rushing yards a game. With a 41.5 total and a quarterback averaging about 166 passing yards, I lean to his recent output rather than the early-season peak. No posted line was found, so my projection of 58 is built by starting from his season average and adjusting for the game script above; the lean is less against a number near his average. The main risks are a small sample (5 games), unverified injury or snap-count status this week, and game script moving away from the expected path.",
   "bio": {
    "exp": "Junior",
@@ -8707,7 +8711,7 @@
   "sport": "cfb",
   "startTime": "2026-10-09T21:00:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "Iowa",
   "teamOutlook": {
    "allowed": "WASH allows 192 pass / 111 rush yds per game",
