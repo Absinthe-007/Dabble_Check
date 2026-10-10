@@ -4657,6 +4657,7 @@
  },
  {
   "id": "2026-10-05-cfb-37",
+  "actual": "0 sacks",
   "analysis": "Tausili Akana (DE, BYU) played in BYU's most recent game. His sacks in the 3 games where he recorded the stat this season: 2.5, 0, 1, an average of 1.2. Weighting the most recent game a bit more gives 1.1. That projects 1.1 against a reference of 0.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Treating it as a Poisson count with mean 1.14, the chance of 1+ is about 68%. The game line is BYU -10.5, total 46.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. College injury reports are sparse; he played in the last game.",
   "bio": {
    "college": "BYU",
@@ -4721,7 +4722,7 @@
   "sport": "cfb",
   "startTime": "2026-10-09T22:15:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "miss",
   "team": "BYU",
   "teamOutlook": {
    "allowed": "ISU allows 172 pass / 149 rush yds per game",
@@ -4733,6 +4734,7 @@
  },
  {
   "id": "2026-10-05-cfb-38",
+  "actual": "27 long rec yds",
   "analysis": "Kyler Kasper (WR, BYU) played in BYU's most recent game. His longest reception in the 4 games where he recorded the stat this season: 15, 29, 23, 13, an average of 20.0. Weighting the most recent game a bit more gives 19.2; ISU allows 172 pass yds/g vs 198 avg, so I scale by 0.93 (square-root damped). That projects 18.0 against a reference of 20.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 64%. The game line is BYU -10.5, total 46.5. The main risks are a small sample, game script and target or carry share shifting week to week. College injury reports are sparse; he played in the last game.",
   "bio": {
    "college": "BYU",
@@ -4801,7 +4803,7 @@
   "sport": "cfb",
   "startTime": "2026-10-09T22:15:00-04:00",
   "stat": "Longest reception",
-  "status": "pending",
+  "status": "miss",
   "team": "BYU",
   "teamOutlook": {
    "allowed": "ISU allows 172 pass / 149 rush yds per game",
@@ -4813,6 +4815,7 @@
  },
  {
   "id": "2026-10-05-cfb-39",
+  "actual": "0 solo tackles",
   "analysis": "Kendal Wall (DE, BYU) played in BYU's most recent game. His solo tackles in the 3 games where he recorded the stat this season: 4, 3, 2, an average of 3.0. Weighting the most recent game a bit more gives 2.9; ISU runs 63 offensive plays/g vs 67 avg, so I scale by 0.96 (square-root damped). That projects 2.8 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 67%. The game line is BYU -10.5, total 46.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. College injury reports are sparse; he played in the last game.",
   "bio": {
    "college": "BYU",
@@ -4873,7 +4876,7 @@
   "sport": "cfb",
   "startTime": "2026-10-09T22:15:00-04:00",
   "stat": "Solo tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "BYU",
   "teamOutlook": {
    "allowed": "ISU allows 172 pass / 149 rush yds per game",
@@ -4885,6 +4888,7 @@
  },
  {
   "id": "2026-10-05-cfb-40",
+  "actual": "329 pass yds",
   "analysis": "Bear Bachmeier (QB, BYU) played in BYU's most recent game. His passing yards in the 4 games where he recorded the stat this season: 198, 217, 227, 62, an average of 176.0. Weighting the most recent game a bit more gives 163.3; ISU allows 172 pass yds/g vs 198 avg, so I scale by 0.93 (square-root damped). That projects 152.6 against a reference of 176.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 64%. The game line is BYU -10.5, total 46.5. The main risks are a small sample, game script and target or carry share shifting week to week. College injury reports are sparse; he played in the last game.",
   "bio": {
    "college": "BYU",
@@ -4949,7 +4953,7 @@
   "sport": "cfb",
   "startTime": "2026-10-09T22:15:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "BYU",
   "teamOutlook": {
    "allowed": "ISU allows 172 pass / 149 rush yds per game",
