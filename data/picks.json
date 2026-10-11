@@ -35280,7 +35280,7 @@
  },
  {
   "id": "2026-10-05-nhl-165",
-  "analysis": "Aliaksei Protas (Capitals left wing) had 159 shots on goal in 76 games last season (2.09 per game) and has 2 in 2 games this season (1.00 per game) while averaging 16.5 minutes. He has dressed for every WSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.01; SEA allowed 29.3 shots/g vs league 27.8, a factor of 1.05. That projects 2.12 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.12 per game puts fewer than or equal to 2.5 at about 64%. The main risks are a small early-season sample, line-combination changes and power-play time.",
+  "analysis": "Aliaksei Protas (Capitals left wing) had 159 shots on goal in 76 games last season (2.09 per game) and has 2 in 2 games this season (1.00 per game) while averaging 16.5 minutes. He has dressed for every WSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.01; SEA allowed 29.3 shots/g vs league 27.8, a factor of 1.05. That projects 2.12 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.12 per game puts fewer than or equal to 2.5 at about 64%. The main risks are a small early-season sample, line-combination changes and power-play time. Sweep 10/11: NHL API game log shows 1,1,0,2 SOG in 4 games (1.0 per game) in 15-17 minutes of ice time; NHL.com projects him on the third line.",
   "bio": {
    "age": 25,
    "college": "Vitebsk, BLR",
@@ -35356,6 +35356,14 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "NHL API: Protas game log",
+    "url": "https://api-web.nhle.com/v1/player/8481656/game-log/20262027/2"
+   },
+   {
+    "title": "NHL.com: Kraken-Capitals preview",
+    "url": "https://www.nhl.com/news/seattle-kraken-washington-capitals-game-preview-october-11-2026"
    }
   ],
   "sport": "nhl",
@@ -35373,7 +35381,7 @@
  },
  {
   "id": "2026-10-05-nhl-166",
-  "analysis": "Jared McCann (Kraken left wing) had 40 points in 52 games last season (0.77 per game) and has 4 in 3 games this season (1.33 per game) while averaging 16.0 minutes. He has dressed for every SEA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.85; WSH allowed 2.87 goals/g vs league 3.08, a factor of 0.97, damped. That projects 0.82 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 56% chance of at least one point on a Poisson read of 0.82 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): Hard Rock Bet 0.5, theScore 0.5; consensus 0.5.",
+  "analysis": "Jared McCann (Kraken left wing) had 40 points in 52 games last season (0.77 per game) and has 4 in 3 games this season (1.33 per game) while averaging 16.0 minutes. He has dressed for every SEA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.85; WSH allowed 2.87 goals/g vs league 3.08, a factor of 0.97, damped. That projects 0.82 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 56% chance of at least one point on a Poisson read of 0.82 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: NHL gamecenter lists McCann with 6 points (5 assists) in 5 GP; WSH has allowed 2.25 GAA (.922 team save pct) through 4 GP with Thompson 3-0-0.",
   "bio": {
    "age": 30,
    "college": "Stratford, CAN",
@@ -35462,6 +35470,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "NHL gamecenter SEA @ WSH",
+    "url": "https://api-web.nhle.com/v1/gamecenter/2026020084/landing"
+   },
+   {
+    "title": "NHL.com: Kraken-Capitals preview",
+    "url": "https://www.nhl.com/news/seattle-kraken-washington-capitals-game-preview-october-11-2026"
    }
   ],
   "sport": "nhl",
@@ -35479,7 +35495,7 @@
  },
  {
   "id": "2026-10-05-nhl-167",
-  "analysis": "Boone Jenner (Capitals center) had 147 hits in 67 games last season (2.19 per game) and has 0 in 2 games this season (0.00 per game) while averaging 15.6 minutes. He has dressed for every WSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.01; no opponent adjustment for this stat. That projects 2.01 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.01 per game puts fewer than or equal to 2.5 at about 67%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
+  "analysis": "Boone Jenner (Capitals center) had 147 hits in 67 games last season (2.19 per game) and has 0 in 2 games this season (0.00 per game) while averaging 15.6 minutes. He has dressed for every WSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.01; no opponent adjustment for this stat. That projects 2.01 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.01 per game puts fewer than or equal to 2.5 at about 67%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: NHL.com projects Jenner on the fourth line (Jenner, Sourdif, Leonard) for WSH vs SEA.",
   "bio": {
    "age": 33,
    "college": "Dorchester, CAN",
@@ -35555,6 +35571,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "NHL.com: Kraken-Capitals preview",
+    "url": "https://www.nhl.com/news/seattle-kraken-washington-capitals-game-preview-october-11-2026"
    }
   ],
   "sport": "nhl",
@@ -35572,7 +35592,7 @@
  },
  {
   "id": "2026-10-05-nhl-168",
-  "analysis": "Adam Larsson (Kraken defenseman) had 163 blocked shots in 82 games last season (1.99 per game) and has 10 in 3 games this season (3.33 per game) while averaging 21.4 minutes. He has dressed for every SEA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.12; no opponent adjustment for this stat. That projects 2.12 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.12 per game puts more than 1.5 at about 63%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
+  "analysis": "Adam Larsson (Kraken defenseman) had 163 blocked shots in 82 games last season (1.99 per game) and has 10 in 3 games this season (3.33 per game) while averaging 21.4 minutes. He has dressed for every SEA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.12; no opponent adjustment for this stat. That projects 2.12 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.12 per game puts more than 1.5 at about 63%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: NHL.com projects Larsson on SEA's top D pair with Vince Dunn; Ryan Lindgren (upper body) and Jacob Melanson are listed out.",
   "bio": {
    "age": 33,
    "college": "Skelleftea, SWE",
@@ -35648,6 +35668,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "NHL.com: Kraken-Capitals preview",
+    "url": "https://www.nhl.com/news/seattle-kraken-washington-capitals-game-preview-october-11-2026"
    }
   ],
   "sport": "nhl",
@@ -35665,7 +35689,7 @@
  },
  {
   "id": "2026-10-05-nhl-169",
-  "analysis": "Brock Boeser (Canucks right wing) had 166 shots on goal in 75 games last season (2.21 per game) and has 6 in 4 games this season (1.50 per game) while averaging 17.4 minutes. He has dressed for every VAN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.11; NYR allowed 28.3 shots/g vs league 27.8, a factor of 1.02. That projects 2.15 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.15 per game puts fewer than or equal to 2.5 at about 64%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 2.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 2.15 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, BetRivers 1.5, Caesars 2.5, DraftKings 1.5, FanDuel 2.5, Fanatics 2.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5.",
+  "analysis": "Brock Boeser (Canucks right wing) had 166 shots on goal in 75 games last season (2.21 per game) and has 6 in 4 games this season (1.50 per game) while averaging 17.4 minutes. He has dressed for every VAN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.11; NYR allowed 28.3 shots/g vs league 27.8, a factor of 1.02. That projects 2.15 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.15 per game puts fewer than or equal to 2.5 at about 64%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 2.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 2.15 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, BetRivers 1.5, Caesars 2.5, DraftKings 1.5, FanDuel 2.5, Fanatics 2.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Sweep 10/11: NHL game log shows 1 SOG in each of his last two games and 3rd-line 14:51-18:38 TOI range; Daily Faceoff lists him on PP1 (DeBrusk-Pettersson-Boeser-Hronek-Rossi) and PK2. NYR goalie Shesterkin enters at 1.79 GAA/.927 per NHL.com gamecenter.",
   "bio": {
    "age": 29,
    "college": "Burnsville, USA",
@@ -35778,6 +35802,18 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "NHL API: Boeser game log",
+    "url": "https://api-web.nhle.com/v1/player/8478444/game-log/20262027/2"
+   },
+   {
+    "title": "Daily Faceoff: Canucks line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/vancouver-canucks/line-combinations"
+   },
+   {
+    "title": "NHL gamecenter VAN @ NYR",
+    "url": "https://api-web.nhle.com/v1/gamecenter/2026020085/landing"
    }
   ],
   "sport": "nhl",
@@ -35871,7 +35907,7 @@
  },
  {
   "id": "2026-10-05-nhl-170",
-  "analysis": "Adam Fox (Rangers defenseman) had 53 points in 55 games last season (0.96 per game) and has 4 in 4 games this season (1.00 per game) while averaging 20.5 minutes. He has dressed for every NYR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.97; VAN allowed 3.91 goals/g vs league 3.08, a factor of 1.13, damped. That projects 1.09 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 66% chance of at least one point on a Poisson read of 1.09 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): FanDuel 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5.",
+  "analysis": "Adam Fox (Rangers defenseman) had 53 points in 55 games last season (0.96 per game) and has 4 in 4 games this season (1.00 per game) while averaging 20.5 minutes. He has dressed for every NYR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.97; VAN allowed 3.91 goals/g vs league 3.08, a factor of 1.13, damped. That projects 1.09 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 66% chance of at least one point on a Poisson read of 1.09 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): FanDuel 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Fox has an assist in 4 of his last 5 games (game log Oct 1-9) and leads NYR with 5 assists over the last 5 games. Vancouver is 2-4-0 with a 4.83 GAA and .853 team save pct through 6 games.",
   "bio": {
    "age": 28,
    "college": "Jericho, USA",
@@ -35964,6 +36000,18 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "NHL API: Fox game log",
+    "url": "https://api-web.nhle.com/v1/player/8479323/game-log/20262027/2"
+   },
+   {
+    "title": "Daily Faceoff: Rangers line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/new-york-rangers/line-combinations"
+   },
+   {
+    "title": "NHL gamecenter VAN @ NYR",
+    "url": "https://api-web.nhle.com/v1/gamecenter/2026020085/landing"
    }
   ],
   "sport": "nhl",
@@ -35981,7 +36029,7 @@
  },
  {
   "id": "2026-10-05-nhl-171",
-  "analysis": "Braden Schneider (Rangers defenseman) had 163 hits in 82 games last season (1.99 per game) and has 10 in 4 games this season (2.50 per game) while averaging 17.3 minutes. He has dressed for every NYR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.05; no opponent adjustment for this stat. That projects 2.05 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.05 per game puts more than 1.5 at about 61%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
+  "analysis": "Braden Schneider (Rangers defenseman) had 163 hits in 82 games last season (1.99 per game) and has 10 in 4 games this season (2.50 per game) while averaging 17.3 minutes. He has dressed for every NYR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.05; no opponent adjustment for this stat. That projects 2.05 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.05 per game puts more than 1.5 at about 61%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: Daily Faceoff (updated Oct 10) lists Schneider on the third pair with Smits and off both special-teams units, so his role is bottom-pair even strength only.",
   "bio": {
    "age": 25,
    "college": "Prince Albert, CAN",
@@ -36057,6 +36105,14 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff: Rangers line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/new-york-rangers/line-combinations"
+   },
+   {
+    "title": "NHL gamecenter VAN @ NYR",
+    "url": "https://api-web.nhle.com/v1/gamecenter/2026020085/landing"
    }
   ],
   "sport": "nhl",
@@ -36191,6 +36247,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "NHL API: VAN skater game log (Rossi)",
+    "url": "https://api-web.nhle.com/v1/player/8482079/game-log/20262027/2"
+   },
+   {
+    "title": "Daily Faceoff: Canucks line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/vancouver-canucks/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -36208,7 +36272,7 @@
  },
  {
   "id": "2026-10-05-nhl-173",
-  "analysis": "Trevor Zegras (Flyers center) had 167 shots on goal in 81 games last season (2.06 per game) and has 2 in 4 games this season (0.50 per game) while averaging 18.7 minutes. He has dressed for every PHI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.86; CAR allowed 23.7 shots/g vs league 27.8, a factor of 0.85. That projects 1.58 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.58 per game puts fewer than or equal to 2.5 at about 79%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 1.58 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 2.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5.",
+  "analysis": "Trevor Zegras (Flyers center) had 167 shots on goal in 81 games last season (2.06 per game) and has 2 in 4 games this season (0.50 per game) while averaging 18.7 minutes. He has dressed for every PHI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.86; CAR allowed 23.7 shots/g vs league 27.8, a factor of 0.85. That projects 1.58 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.58 per game puts fewer than or equal to 2.5 at about 79%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 1.58 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 2.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Sweep 10/11: NHL API game log shows 5 SOG over his last 6 games with 0 SOG in three of them, despite a top-line/PP1 role per Daily Faceoff; the More side relies on a 1.58 projection vs a 1.5 line.",
   "bio": {
    "age": 25,
    "college": "Bedford, USA",
@@ -36321,6 +36385,18 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "NHL API: Zegras game log",
+    "url": "https://api-web.nhle.com/v1/player/8481533/game-log/20262027/2"
+   },
+   {
+    "title": "Daily Faceoff: Flyers line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/philadelphia-flyers/line-combinations"
+   },
+   {
+    "title": "NHL gamecenter CAR @ PHI",
+    "url": "https://api-web.nhle.com/v1/gamecenter/2026020086/landing"
    }
   ],
   "sport": "nhl",
@@ -36338,7 +36414,7 @@
  },
  {
   "id": "2026-10-05-nhl-174",
-  "analysis": "Sebastian Aho (Hurricanes center) had 80 points in 79 games last season (1.01 per game) and has 4 in 3 games this season (1.33 per game) while averaging 20.0 minutes. He has dressed for every CAR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.05; PHI allowed 3.09 goals/g vs league 3.08, a factor of 1.00, damped. That projects 1.05 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 65% chance of at least one point on a Poisson read of 1.05 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 1.5, Betr 1.5, Caesars 0.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to Less: projection 1.05 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 1.5, Betr 0.5, Caesars 1.5, DraftKings 0.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5.",
+  "analysis": "Sebastian Aho (Hurricanes center) had 80 points in 79 games last season (1.01 per game) and has 4 in 3 games this season (1.33 per game) while averaging 20.0 minutes. He has dressed for every CAR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.05; PHI allowed 3.09 goals/g vs league 3.08, a factor of 1.00, damped. That projects 1.05 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 65% chance of at least one point on a Poisson read of 1.05 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 1.5, Betr 1.5, Caesars 0.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to Less: projection 1.05 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 1.5, Betr 0.5, Caesars 1.5, DraftKings 0.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Sweep 10/11: Aho game log: 0,1,3,3,1 points in the last 5 (8 total, 4 goals), 20:30 TOI at PHI on Oct 3; CAR plays at PHI whose goalie Vladar has 5.08 GAA/.857 and Woll 2.61/.927. Lowering Less confidence is warranted given PHI's weak defense.",
   "bio": {
    "age": 29,
    "college": "Rauma, FIN",
@@ -36455,6 +36531,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "NHL API: Aho game log",
+    "url": "https://api-web.nhle.com/v1/player/8478427/game-log/20262027/2"
+   },
+   {
+    "title": "NHL gamecenter CAR @ PHI",
+    "url": "https://api-web.nhle.com/v1/gamecenter/2026020086/landing"
    }
   ],
   "sport": "nhl",
@@ -36472,7 +36556,7 @@
  },
  {
   "id": "2026-10-05-nhl-175",
-  "analysis": "Owen Tippett (Flyers right wing) had 166 hits in 81 games last season (2.05 per game) and has 15 in 4 games this season (3.75 per game) while averaging 15.5 minutes. He has dressed for every PHI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.27; no opponent adjustment for this stat. That projects 2.27 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.27 per game puts fewer than or equal to 2.5 at about 60%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
+  "analysis": "Owen Tippett (Flyers right wing) had 166 hits in 81 games last season (2.05 per game) and has 15 in 4 games this season (3.75 per game) while averaging 15.5 minutes. He has dressed for every PHI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.27; no opponent adjustment for this stat. That projects 2.27 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.27 per game puts fewer than or equal to 2.5 at about 60%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: Daily Faceoff (updated Oct 10) lists Tippett on the second forward group with Couturier and Michkov and on PP2; Travis Konecny and Cam York are day-to-day.",
   "bio": {
    "age": 27,
    "college": "Peterborough, CAN",
@@ -36548,6 +36632,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff: Flyers line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/philadelphia-flyers/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -36565,7 +36653,7 @@
  },
  {
   "id": "2026-10-05-nhl-176",
-  "analysis": "Nikolaj Ehlers (Hurricanes left wing) had 45 assists in 82 games last season (0.55 per game) and has 1 in 3 games this season (0.33 per game) while averaging 17.4 minutes. He has dressed for every CAR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.53; PHI allowed 3.09 goals/g vs league 3.08, a factor of 1.00, damped. That projects 0.53 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 41% chance of at least one assist on a Poisson read of 0.53 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Side moved to More: projection 0.53 vs the book line.",
+  "analysis": "Nikolaj Ehlers (Hurricanes left wing) had 45 assists in 82 games last season (0.55 per game) and has 1 in 3 games this season (0.33 per game) while averaging 17.4 minutes. He has dressed for every CAR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.53; PHI allowed 3.09 goals/g vs league 3.08, a factor of 1.00, damped. That projects 0.53 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 41% chance of at least one assist on a Poisson read of 0.53 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Side moved to More: projection 0.53 vs the book line. Sweep 10/11: Game log shows 2 assists in his last 5 games and TOI of 11:08, 15:53 and 13:38 in the last three, well below Aho's ~18-20 minutes; NHL.com Oct 3 preview listed him on the third line (Ehlers-Staal-Martinook).",
   "bio": {
    "age": 30,
    "college": "Aalborg, DNK",
@@ -36682,6 +36770,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "NHL API: Ehlers game log",
+    "url": "https://api-web.nhle.com/v1/player/8477940/game-log/20262027/2"
+   },
+   {
+    "title": "NHL.com: Hurricanes-Flyers preview (Oct 3, 2026)",
+    "url": "https://www.nhl.com/news/carolina-hurricanes-philadelphia-flyers-game-preview-october-3-2026"
    }
   ],
   "sport": "nhl",
@@ -36699,7 +36795,7 @@
  },
  {
   "id": "2026-10-05-nhl-177",
-  "analysis": "Josh Doan (Sabres right wing) had 170 shots on goal in 82 games last season (2.07 per game) and has 4 in 2 games this season (2.00 per game) while averaging 18.6 minutes. He has dressed for every BUF game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.07; FLA allowed 26.4 shots/g vs league 27.8, a factor of 0.95. That projects 1.96 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.96 per game puts fewer than or equal to 2.5 at about 69%. The main risks are a small early-season sample, line-combination changes and power-play time. ESPN injury feed (Oct 7): Doan listed day-to-day; confirm lineup status before game. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 2.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 1.96 vs the book line.",
+  "analysis": "Josh Doan (Sabres right wing) had 170 shots on goal in 82 games last season (2.07 per game) and has 4 in 2 games this season (2.00 per game) while averaging 18.6 minutes. He has dressed for every BUF game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.07; FLA allowed 26.4 shots/g vs league 27.8, a factor of 0.95. That projects 1.96 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.96 per game puts fewer than or equal to 2.5 at about 69%. The main risks are a small early-season sample, line-combination changes and power-play time. ESPN injury feed (Oct 7): Doan listed day-to-day; confirm lineup status before game. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 2.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 1.96 vs the book line. Sweep 10/11: Daily Faceoff's Sabres page (updated Oct 10) lists Doan as a top-six forward on PP2 with Norris/McLeod/Power/Thompson-area units; PP1 is Ostlund, Benson, Quinn, Thompson, Dahlin per RotoWire's Oct 10 lineups. No Sabres injury designation for Doan appears; Leinonen, Lyon, Rathbone, Timmins and Zucker are on IR.",
   "bio": {
    "age": 24,
    "college": "Scottsdale, USA",
@@ -36817,6 +36913,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Sabres line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/buffalo-sabres/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -36834,7 +36938,7 @@
  },
  {
   "id": "2026-10-05-nhl-178",
-  "analysis": "Seth Jones (Panthers defenseman) had 25 assists in 52 games last season (0.48 per game) and has 0 in 3 games this season (0.00 per game) while averaging 28.4 minutes. He has dressed for every FLA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.41; BUF allowed 3.03 goals/g vs league 3.08, a factor of 0.99, damped. That projects 0.41 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 33% chance of at least one assist on a Poisson read of 0.41 per game. The main risks are a small early-season sample, line-combination changes and power-play time. ESPN feed: Ekblad out and Barkov on IR, which could raise Jones' minutes/PP time; modest risk to the Less side. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5.",
+  "analysis": "Seth Jones (Panthers defenseman) had 25 assists in 52 games last season (0.48 per game) and has 0 in 3 games this season (0.00 per game) while averaging 28.4 minutes. He has dressed for every FLA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.41; BUF allowed 3.03 goals/g vs league 3.08, a factor of 0.99, damped. That projects 0.41 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 33% chance of at least one assist on a Poisson read of 0.41 per game. The main risks are a small early-season sample, line-combination changes and power-play time. ESPN feed: Ekblad out and Barkov on IR, which could raise Jones' minutes/PP time; modest risk to the Less side. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Daily Faceoff (updated Oct 10) has Seth Jones on FLA PP1 and paired with Niko Mikkola on D pair 2; RotoWire's Oct 10 lineup also shows Jones on PP1.",
   "bio": {
    "age": 32,
    "college": "Arlington, USA",
@@ -36955,6 +37059,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Panthers line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/florida-panthers/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -36972,7 +37084,7 @@
  },
  {
   "id": "2026-10-05-nhl-179",
-  "analysis": "Peyton Krebs (Sabres center) had 201 hits in 82 games last season (2.45 per game) and has 3 in 2 games this season (1.50 per game) while averaging 14.3 minutes. He has dressed for every BUF game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.39; no opponent adjustment for this stat. That projects 2.39 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.39 per game puts fewer than or equal to 2.5 at about 57%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
+  "analysis": "Peyton Krebs (Sabres center) had 201 hits in 82 games last season (2.45 per game) and has 3 in 2 games this season (1.50 per game) while averaging 14.3 minutes. He has dressed for every BUF game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.39; no opponent adjustment for this stat. That projects 2.39 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.39 per game puts fewer than or equal to 2.5 at about 57%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: Daily Faceoff (updated Oct 10) shows Krebs in the lineup with no power-play or penalty-kill role, so his ice time is mostly 5-on-5.",
   "bio": {
    "age": 25,
    "college": "Calgary, CAN",
@@ -37048,6 +37160,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff - Sabres line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/buffalo-sabres/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -37165,7 +37281,7 @@
  },
  {
   "id": "2026-10-05-nhl-180",
-  "analysis": "Matthew Tkachuk (Panthers left wing) had 34 points in 31 games last season (1.10 per game) and has 2 in 3 games this season (0.67 per game) while averaging 21.8 minutes. He has dressed for every FLA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.00; BUF allowed 3.03 goals/g vs league 3.08, a factor of 0.99, damped. That projects 0.99 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 63% chance of at least one point on a Poisson read of 0.99 per game. The main risks are a small early-season sample, line-combination changes and power-play time. ESPN feed (Oct 6): Barkov out ~6-8 weeks, Ekblad out; Tkachuk likely carries a bigger offensive load. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 1.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5.",
+  "analysis": "Matthew Tkachuk (Panthers left wing) had 34 points in 31 games last season (1.10 per game) and has 2 in 3 games this season (0.67 per game) while averaging 21.8 minutes. He has dressed for every FLA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.00; BUF allowed 3.03 goals/g vs league 3.08, a factor of 0.99, damped. That projects 0.99 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 63% chance of at least one point on a Poisson read of 0.99 per game. The main risks are a small early-season sample, line-combination changes and power-play time. ESPN feed (Oct 6): Barkov out ~6-8 weeks, Ekblad out; Tkachuk likely carries a bigger offensive load. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 1.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Daily Faceoff (updated Oct 10) lists FLA PP1 as Brady Tkachuk, Bennett, Reinhart, Matthew Tkachuk and Seth Jones; Barkov is on IR and Brad Marchand and Jonah Gadjovich are out, per Daily Faceoff and RotoWire.",
   "bio": {
    "age": 28,
    "college": "Scottsdale, USA",
@@ -37286,6 +37402,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Panthers line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/florida-panthers/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -37303,7 +37427,7 @@
  },
  {
   "id": "2026-10-05-nhl-181",
-  "analysis": "Evan Rodrigues (Devils center) had 160 shots on goal in 69 games last season (2.32 per game) and has 2 in 2 games this season (1.00 per game) while averaging 16.7 minutes. He has dressed for every NJD game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.21; OTT allowed 24.4 shots/g vs league 27.8, a factor of 0.88. That projects 1.94 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.94 per game puts fewer than or equal to 2.5 at about 69%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, BetRivers 2.5, Caesars 2.5, DraftKings 2.5, Fanatics 2.5, Hard Rock Bet 2.5, theScore 2.5; consensus 2.5.",
+  "analysis": "Evan Rodrigues (Devils center) had 160 shots on goal in 69 games last season (2.32 per game) and has 2 in 2 games this season (1.00 per game) while averaging 16.7 minutes. He has dressed for every NJD game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.21; OTT allowed 24.4 shots/g vs league 27.8, a factor of 0.88. That projects 1.94 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.94 per game puts fewer than or equal to 2.5 at about 69%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, BetRivers 2.5, Caesars 2.5, DraftKings 2.5, Fanatics 2.5, Hard Rock Bet 2.5, theScore 2.5; consensus 2.5. Sweep 10/11: Daily Faceoff (updated Oct 10 19:14 UTC) has Rodrigues at center of the third line and on PP2 with Meier, Mantha, Gritsyuk and Hamilton. Seamus Casey, Nick Bjugstad and Johnathan Kovacevic are on IR. Jake Allen started on Oct 10 (confirmed) and Daws is the other goalie listed; Oct 12 starter was not confirmed.",
   "bio": {
    "age": 33,
    "college": "Toronto, CAN",
@@ -37412,6 +37536,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Devils line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/new-jersey-devils/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -37429,7 +37561,7 @@
  },
  {
   "id": "2026-10-05-nhl-182",
-  "analysis": "Tim Stützle (Senators center) had 83 points in 80 games last season (1.04 per game) and has 4 in 2 games this season (2.00 per game) while averaging 20.9 minutes. He has dressed for every OTT game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.10; NJD allowed 3.15 goals/g vs league 3.08, a factor of 1.01, damped. That projects 1.12 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 67% chance of at least one point on a Poisson read of 1.12 per game. The main risks are a small early-season sample, line-combination changes and power-play time.",
+  "analysis": "Tim Stützle (Senators center) had 83 points in 80 games last season (1.04 per game) and has 4 in 2 games this season (2.00 per game) while averaging 20.9 minutes. He has dressed for every OTT game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.10; NJD allowed 3.15 goals/g vs league 3.08, a factor of 1.01, damped. That projects 1.12 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 67% chance of at least one point on a Poisson read of 1.12 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Sweep 10/11: Daily Faceoff (updated Oct 10) has OTT PP1 as Burakovsky, Cozens, Stützle, Batherson and Chabot. Jake Sanderson is day-to-day; Eklund, Zub and MacDermid are on IR. The Oct 10 RotoWire line had Ottawa -180 vs Nashville, total 6.0; I did not find the odds for the NJD game.",
   "bio": {
    "age": 24,
    "college": "Viersen, DEU",
@@ -37505,6 +37637,14 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff - Senators line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/ottawa-senators/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -37522,7 +37662,7 @@
  },
  {
   "id": "2026-10-05-nhl-183",
-  "analysis": "Brett Pesce (Devils defenseman) had 80 blocked shots in 37 games last season (2.16 per game) and has 0 in 2 games this season (0.00 per game) while averaging 19.2 minutes. He has dressed for every NJD game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.86; no opponent adjustment for this stat. That projects 1.86 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.86 per game puts fewer than or equal to 2.5 at about 71%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
+  "analysis": "Brett Pesce (Devils defenseman) had 80 blocked shots in 37 games last season (2.16 per game) and has 0 in 2 games this season (0.00 per game) while averaging 19.2 minutes. He has dressed for every NJD game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.86; no opponent adjustment for this stat. That projects 1.86 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.86 per game puts fewer than or equal to 2.5 at about 71%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: Daily Faceoff (updated Oct 10) lists NJD's D1 pair as Luke Hughes-Brett Pesce and PK unit 1 as Hischier, Mercer, Dillon and Pesce.",
   "bio": {
    "age": 31,
    "college": "Tarrytown, USA",
@@ -37598,6 +37738,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff - Devils line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/new-jersey-devils/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -37615,7 +37759,7 @@
  },
  {
   "id": "2026-10-05-nhl-184",
-  "analysis": "Drake Batherson (Senators right wing) had 38 assists in 79 games last season (0.48 per game) and has 0 in 2 games this season (0.00 per game) while averaging 16.6 minutes. He has dressed for every OTT game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.45; NJD allowed 3.15 goals/g vs league 3.08, a factor of 1.01, damped. That projects 0.45 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 36% chance of at least one assist on a Poisson read of 0.45 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5.",
+  "analysis": "Drake Batherson (Senators right wing) had 38 assists in 79 games last season (0.48 per game) and has 0 in 2 games this season (0.00 per game) while averaging 16.6 minutes. He has dressed for every OTT game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.45; NJD allowed 3.15 goals/g vs league 3.08, a factor of 1.01, damped. That projects 0.45 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 36% chance of at least one assist on a Poisson read of 0.45 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Daily Faceoff (updated Oct 10) lists Batherson at right wing on Ottawa's first line and PP1 alongside Stützle, Burakovsky, Cozens and Chabot.",
   "bio": {
    "age": 28,
    "college": "Fort Wayne, USA",
@@ -37728,6 +37872,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Senators line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/ottawa-senators/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -37745,7 +37897,7 @@
  },
  {
   "id": "2026-10-05-nhl-185",
-  "analysis": "Ryan Hartman (Wild right wing) had 167 shots on goal in 76 games last season (2.20 per game) and has 0 in 2 games this season (0.00 per game) while averaging 12.2 minutes. He has dressed for every MIN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.04; VGK allowed 24.2 shots/g vs league 27.8, a factor of 0.87. That projects 1.77 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.77 per game puts fewer than or equal to 2.5 at about 74%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 2.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 1.77 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, Caesars 1.5, DraftKings 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5.",
+  "analysis": "Ryan Hartman (Wild right wing) had 167 shots on goal in 76 games last season (2.20 per game) and has 0 in 2 games this season (0.00 per game) while averaging 12.2 minutes. He has dressed for every MIN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.04; VGK allowed 24.2 shots/g vs league 27.8, a factor of 0.87. That projects 1.77 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.77 per game puts fewer than or equal to 2.5 at about 74%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 2.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 1.77 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, Caesars 1.5, DraftKings 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Sweep 10/11: Daily Faceoff (updated Oct 10 21:41 UTC) has Hartman on Minnesota's second line and PP2 with Coleman, Yurov, Spurgeon and Brink. Brock Faber is on IR, Filip Gustavsson is out, and Nick Foligno, Bogosian and Marcus Foligno are day-to-day. Jesper Wallstedt started Oct 10; Oct 12 starter not confirmed.",
   "bio": {
    "age": 32,
    "college": "Hilton Head Island, USA",
@@ -37850,6 +38002,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Wild line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/minnesota-wild/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -37867,7 +38027,7 @@
  },
  {
   "id": "2026-10-05-nhl-186",
-  "analysis": "Jack Eichel (Golden Knights center) had 90 points in 74 games last season (1.22 per game) and has 6 in 3 games this season (2.00 per game) while averaging 20.0 minutes. He has dressed for every VGK game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.30; MIN allowed 2.74 goals/g vs league 3.08, a factor of 0.94, damped. That projects 1.23 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 71% chance of at least one point on a Poisson read of 1.23 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 1.5, Betr 1.5, Caesars 1.5, Circa Sports 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to Less: projection 1.23 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, Betr 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5.",
+  "analysis": "Jack Eichel (Golden Knights center) had 90 points in 74 games last season (1.22 per game) and has 6 in 3 games this season (2.00 per game) while averaging 20.0 minutes. He has dressed for every VGK game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.30; MIN allowed 2.74 goals/g vs league 3.08, a factor of 0.94, damped. That projects 1.23 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 71% chance of at least one point on a Poisson read of 1.23 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 1.5, Betr 1.5, Caesars 1.5, Circa Sports 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to Less: projection 1.23 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, Betr 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Sweep 10/11: Daily Faceoff (Vegas page last updated Oct 9 01:46 UTC) has Eichel on PP1 and PK2. RotoWire's Oct 10 lineups list Vegas PP1 as Eichel, Connelly, Stone, Hertl and Marner, with Pietrangelo on IR-LT and Carter Hart expected in goal for the Oct 10 game.",
   "bio": {
    "age": 29,
    "college": "North Chelmsford, USA",
@@ -37980,6 +38140,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Golden Knights line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/vegas-golden-knights/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -37997,7 +38165,7 @@
  },
  {
   "id": "2026-10-05-nhl-187",
-  "analysis": "Parker Wotherspoon (Golden Knights defenseman) had 162 hits in 80 games last season (2.02 per game) and has 1 in 3 games this season (0.33 per game) while averaging 17.7 minutes. He has dressed for every VGK game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.85; no opponent adjustment for this stat. That projects 1.85 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.85 per game puts fewer than or equal to 2.5 at about 72%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean.",
+  "analysis": "Parker Wotherspoon (Golden Knights defenseman) had 162 hits in 80 games last season (2.02 per game) and has 1 in 3 games this season (0.33 per game) while averaging 17.7 minutes. He has dressed for every VGK game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.85; no opponent adjustment for this stat. That projects 1.85 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.85 per game puts fewer than or equal to 2.5 at about 72%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: Daily Faceoff (Vegas page last updated Oct 9) lists Wotherspoon on a pairing with Rasmus Andersson and on neither PP nor PK units.",
   "bio": {
    "age": 29,
    "college": "Surrey, CAN",
@@ -38073,6 +38241,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff - Golden Knights line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/vegas-golden-knights/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -38090,7 +38262,7 @@
  },
  {
   "id": "2026-10-05-nhl-188",
-  "analysis": "Daemon Hunt (Wild defenseman) had 43 blocked shots in 32 games last season (1.34 per game) and has 1 in 2 games this season (0.50 per game) while averaging 12.1 minutes. He has dressed for every MIN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.21; no opponent adjustment for this stat. That projects 1.21 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.21 per game puts fewer than or equal to 1.5 at about 66%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. ESPN feed: Faber on IR (no timetable) and Gustavsson (G) on IR; thinner MIN D could raise Hunt's role.",
+  "analysis": "Daemon Hunt (Wild defenseman) had 43 blocked shots in 32 games last season (1.34 per game) and has 1 in 2 games this season (0.50 per game) while averaging 12.1 minutes. He has dressed for every MIN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.21; no opponent adjustment for this stat. That projects 1.21 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.21 per game puts fewer than or equal to 1.5 at about 66%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. ESPN feed: Faber on IR (no timetable) and Gustavsson (G) on IR; thinner MIN D could raise Hunt's role. Sweep 10/11: Daily Faceoff (updated Oct 10) shows Hunt on Minnesota's third pair with Spacek and on neither PP nor PK units.",
   "bio": {
    "age": 24,
    "college": "Brandon, CAN",
@@ -38170,6 +38342,10 @@
    {
     "title": "ESPN NHL injuries API (read Oct 7)",
     "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff - Wild line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/minnesota-wild/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -48823,7 +48999,7 @@
  },
  {
   "id": "2026-10-05-nhl-286",
-  "analysis": "Vincent Desharnais (Capitals defenseman) logged 103 hits in 53 games last season (1.94 per game) and 7 in 2 this season (3.50 per game), averaging 18.3 minutes. Weighting this season three times per game gives a blended 2.10. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 2.10 above a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 2.10 per game puts more than 1.5 at about 62%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean.",
+  "analysis": "Vincent Desharnais (Capitals defenseman) logged 103 hits in 53 games last season (1.94 per game) and 7 in 2 this season (3.50 per game), averaging 18.3 minutes. Weighting this season three times per game gives a blended 2.10. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 2.10 above a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 2.10 per game puts more than 1.5 at about 62%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: With Matt Roy (lower body) and Rasmus Sandin (knee) out, Desharnais is projected on the second D pair with Fehervary per NHL.com.",
   "bio": {
    "age": 30,
    "college": "Laval, CAN",
@@ -48904,6 +49080,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/injuries"
+   },
+   {
+    "title": "NHL.com: Kraken-Capitals preview",
+    "url": "https://www.nhl.com/news/seattle-kraken-washington-capitals-game-preview-october-11-2026"
    }
   ],
   "sport": "nhl",
@@ -50675,7 +50855,7 @@
  },
  {
   "id": "2026-10-05-nhl-301",
-  "analysis": "Kirill Kaprizov (Wild forward) logged 89 points in 78 games last season (1.14 per game) and 3 in 2 this season (1.50 per game), averaging 19.9 minutes. Weighting this season three times per game gives a blended 1.14. The Golden Knights adjustment (0.98x) moves the number only slightly. That projects 1.14 above a reference of 0.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.14 per game puts more than 0.5 at about 68%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 1.5, Betr 0.5, Caesars 1.5, DraftKings 0.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5.",
+  "analysis": "Kirill Kaprizov (Wild forward) logged 89 points in 78 games last season (1.14 per game) and 3 in 2 this season (1.50 per game), averaging 19.9 minutes. Weighting this season three times per game gives a blended 1.14. The Golden Knights adjustment (0.98x) moves the number only slightly. That projects 1.14 above a reference of 0.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.14 per game puts more than 0.5 at about 68%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 1.5, Betr 0.5, Caesars 1.5, DraftKings 0.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Daily Faceoff (updated Oct 10) lists Wild PP1 as Shabanov, Eriksson Ek, Kaprizov, Hughes and Boldy. Brock Faber is on IR; Filip Gustavsson is out.",
   "bio": {
    "age": 29,
    "college": "Novokuznetsk, RUS",
@@ -50797,6 +50977,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Wild line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/minnesota-wild/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -50814,7 +51002,7 @@
  },
  {
   "id": "2026-10-05-nhl-302",
-  "analysis": "Mark Stone (Golden Knights forward) logged 73 points in 60 games last season (1.22 per game) and 2 in 3 this season (0.67 per game), averaging 19.2 minutes. Weighting this season three times per game gives a blended 1.08. The Wild adjustment (0.95x) moves the number only slightly. That projects 1.08 above a reference of 0.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.08 per game puts more than 0.5 at about 66%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, Circa Sports 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5.",
+  "analysis": "Mark Stone (Golden Knights forward) logged 73 points in 60 games last season (1.22 per game) and 2 in 3 this season (0.67 per game), averaging 19.2 minutes. Weighting this season three times per game gives a blended 1.08. The Wild adjustment (0.95x) moves the number only slightly. That projects 1.08 above a reference of 0.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.08 per game puts more than 0.5 at about 66%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, Circa Sports 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Daily Faceoff (Vegas page last updated Oct 9) lists Stone on PP1 and PK2; the only listed Vegas injury was Victor Olofsson (out).",
   "bio": {
    "age": 34,
    "college": "Winnipeg, CAN",
@@ -50932,6 +51120,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Golden Knights line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/vegas-golden-knights/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -50949,7 +51145,7 @@
  },
  {
   "id": "2026-10-05-nhl-303",
-  "analysis": "Jonas Brodin (Wild defenseman) logged 76 shots on goal in 62 games last season (1.23 per game) and 0 in 2 this season (0.00 per game), averaging 21.1 minutes. Weighting this season three times per game gives a blended 1.05. The Golden Knights adjustment (0.94x) moves the number only slightly. That projects 1.05 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.05 per game puts fewer than 1.5 at about 72%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): BetRivers 1.5, DraftKings 0.5; consensus 1. Side moved to More: projection 1.05 vs the book line.",
+  "analysis": "Jonas Brodin (Wild defenseman) logged 76 shots on goal in 62 games last season (1.23 per game) and 0 in 2 this season (0.00 per game), averaging 21.1 minutes. Weighting this season three times per game gives a blended 1.05. The Golden Knights adjustment (0.94x) moves the number only slightly. That projects 1.05 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.05 per game puts fewer than 1.5 at about 72%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): BetRivers 1.5, DraftKings 0.5; consensus 1. Side moved to More: projection 1.05 vs the book line. Sweep 10/11: Daily Faceoff (updated Oct 10) lists Brodin on Minnesota's second D pair with Olli Maatta and on PK unit 1; he is on neither PP unit.",
   "bio": {
    "age": 33,
    "college": "Karlstad, SWE",
@@ -51043,6 +51239,10 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Wild line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/minnesota-wild/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -51947,7 +52147,7 @@
  },
  {
   "id": "2026-10-05-nhl-311",
-  "analysis": "Tage Thompson (Sabres forward) logged 81 points in 81 games last season (1.00 per game) and 2 in 2 this season (1.00 per game), averaging 19.7 minutes. Weighting this season three times per game gives a blended 1.03. The Panthers adjustment (1.03x) moves the number only slightly. That projects 1.03 above a reference of 0.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.03 per game puts more than 0.5 at about 64%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 1.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Book lines (RotoWire, 2026-10-10): Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 1.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5.",
+  "analysis": "Tage Thompson (Sabres forward) logged 81 points in 81 games last season (1.00 per game) and 2 in 2 this season (1.00 per game), averaging 19.7 minutes. Weighting this season three times per game gives a blended 1.03. The Panthers adjustment (1.03x) moves the number only slightly. That projects 1.03 above a reference of 0.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.03 per game puts more than 0.5 at about 64%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 1.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Book lines (RotoWire, 2026-10-10): Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 1.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Daily Faceoff (updated Oct 10) has Thompson on Sabres PP1 and in the top line; RotoWire's Oct 10 lineups list him as a forward on PP1 with Dahlin on the back end.",
   "bio": {
    "age": 28,
    "college": "Phoenix, USA",
@@ -52061,6 +52261,14 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff - Sabres line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/buffalo-sabres/line-combinations"
+   },
+   {
+    "title": "RotoWire NHL lineups (Oct 10)",
+    "url": "https://www.rotowire.com/hockey/nhl-lineups.php"
    }
   ],
   "sport": "nhl",
@@ -52078,7 +52286,7 @@
  },
  {
   "id": "2026-10-05-nhl-312",
-  "analysis": "Radko Gudas (Panthers defenseman) logged 63 shots on goal in 56 games last season (1.12 per game) and 1 in 3 this season (0.33 per game), averaging 13.3 minutes. Weighting this season three times per game gives a blended 1.03. The Sabres adjustment (1.01x) moves the number only slightly. That projects 1.03 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.03 per game puts fewer than 1.5 at about 73%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean.",
+  "analysis": "Radko Gudas (Panthers defenseman) logged 63 shots on goal in 56 games last season (1.12 per game) and 1 in 3 this season (0.33 per game), averaging 13.3 minutes. Weighting this season three times per game gives a blended 1.03. The Sabres adjustment (1.01x) moves the number only slightly. That projects 1.03 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.03 per game puts fewer than 1.5 at about 73%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: Daily Faceoff (updated Oct 10) shows Gudas on FLA's third pairing with Dmitry Kulikov and on PK unit 2, with no power-play time.",
   "bio": {
    "age": 36,
    "college": "Prague, CZE",
@@ -52159,6 +52367,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff - Panthers line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/florida-panthers/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -52176,7 +52388,7 @@
  },
  {
   "id": "2026-10-05-nhl-313",
-  "analysis": "Ryan McLeod (Sabres forward) logged 90 shots on goal in 81 games last season (1.11 per game) and 1 in 2 this season (0.50 per game), averaging 14.4 minutes. Weighting this season three times per game gives a blended 1.04. The Panthers adjustment (0.97x) moves the number only slightly. That projects 1.04 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.04 per game puts fewer than 1.5 at about 72%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean.",
+  "analysis": "Ryan McLeod (Sabres forward) logged 90 shots on goal in 81 games last season (1.11 per game) and 1 in 2 this season (0.50 per game), averaging 14.4 minutes. Weighting this season three times per game gives a blended 1.04. The Panthers adjustment (0.97x) moves the number only slightly. That projects 1.04 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.04 per game puts fewer than 1.5 at about 72%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: Daily Faceoff's Sabres page (updated Oct 10) has McLeod on PP2 and PK1, so he has special-teams ice time; no injury designation.",
   "bio": {
    "age": 27,
    "college": "Mississauga, CAN",
@@ -52257,6 +52469,10 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/injuries"
+   },
+   {
+    "title": "Daily Faceoff - Sabres line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/buffalo-sabres/line-combinations"
    }
   ],
   "sport": "nhl",
@@ -52707,7 +52923,7 @@
  },
  {
   "id": "2026-10-05-nhl-318",
-  "analysis": "Andrei Svechnikov (Hurricanes forward) logged 148 hits in 79 games last season (1.87 per game) and 11 in 3 this season (3.67 per game), averaging 18.0 minutes. Weighting this season three times per game gives a blended 2.06. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 2.06 above a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 2.06 per game puts more than 1.5 at about 61%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean.",
+  "analysis": "Andrei Svechnikov (Hurricanes forward) logged 148 hits in 79 games last season (1.87 per game) and 11 in 3 this season (3.67 per game), averaging 18.0 minutes. Weighting this season three times per game gives a blended 2.06. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 2.06 above a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 2.06 per game puts more than 1.5 at about 61%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: NHL gamecenter lists Svechnikov with 3 goals and 6 points; NHL.com (Oct 3) put him on the top line with Aho and Robinson.",
   "bio": {
    "age": 26,
    "college": "Barnaul, RUS",
@@ -52788,6 +53004,14 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/injuries"
+   },
+   {
+    "title": "NHL gamecenter CAR @ PHI",
+    "url": "https://api-web.nhle.com/v1/gamecenter/2026020086/landing"
+   },
+   {
+    "title": "NHL.com: Hurricanes-Flyers preview (Oct 3, 2026)",
+    "url": "https://www.nhl.com/news/carolina-hurricanes-philadelphia-flyers-game-preview-october-3-2026"
    }
   ],
   "sport": "nhl",
@@ -52805,7 +53029,7 @@
  },
  {
   "id": "2026-10-05-nhl-319",
-  "analysis": "Nick Seeler (Flyers defenseman) logged 94 shots on goal in 80 games last season (1.18 per game) and 1 in 4 this season (0.25 per game), averaging 18.1 minutes. Weighting this season three times per game gives a blended 0.98. The Hurricanes adjustment (0.93x) moves the number only slightly. That projects 0.98 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 0.98 per game puts fewer than 1.5 at about 74%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): DraftKings 1.5; consensus 1.5.",
+  "analysis": "Nick Seeler (Flyers defenseman) logged 94 shots on goal in 80 games last season (1.18 per game) and 1 in 4 this season (0.25 per game), averaging 18.1 minutes. Weighting this season three times per game gives a blended 0.98. The Hurricanes adjustment (0.93x) moves the number only slightly. That projects 0.98 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 0.98 per game puts fewer than 1.5 at about 74%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): DraftKings 1.5; consensus 1.5. Sweep 10/11: Daily Faceoff lists Seeler on the second D pair and first penalty-kill unit (with Couturier, Dvorak, Sanheim) and not on a power-play unit; Ristolainen is on IR.",
   "bio": {
    "age": 33,
    "college": "Eden Prairie, USA",
@@ -52895,6 +53119,10 @@
    {
     "title": "RotoWire: NHL player props (book lines)",
     "url": "https://www.rotowire.com/betting/nhl/player-props.php"
+   },
+   {
+    "title": "Daily Faceoff: Flyers line combinations",
+    "url": "https://www.dailyfaceoff.com/teams/philadelphia-flyers/line-combinations"
    }
   ],
   "sport": "nhl",
