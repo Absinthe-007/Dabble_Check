@@ -60,3 +60,8 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 ## Home/away (owner's request, Oct 9 2026)
 - Game strings are "AWAY @ HOME" (ESPN scoreboard `homeAway`, cross-checked against the NHL schedule API for NHL). The site tags each player's team HOME/AWAY and highlights the home side.
 - Neutral-site games are listed in the `NEUTRAL` map in `index.html` (game string -> city). Add new ones when ESPN shows `neutralSite: true` (e.g. NFL international games, CFB rivalry games); they render as "NEUTRAL · city" with no home highlight.
+
+## Standing source sweep (owner's request, Oct 11 2026)
+- Every run, after grading and before pushing, run a parallel research sweep with the Agent tool over every unstarted game (about 3–5 games per agent, all in-season sports): injuries/inactives, lineups, line combos and PP/PK units, confirmed goalies, real book lines with book names, game odds, last 3–5 game logs, opponent splits, 2+ verified source URLs per pick.
+- Agents are read-only and return JSON ({id, finding, newLine, lines, suggestedSide, suggestedConfidence, injury, addAnalysis, sources}). Merge them yourself: append `addAnalysis` to `analysis`, add `sources`, update `condition`/`lines`/`line` when sourced; if a finding contradicts a pick's side, cap confidence at 2 and clear `must`. Never apply an unsourced number; treat conflicting reports as unsettled and say so in `analysis`.
+- Skip sites that refuse automated requests; never bypass paywalls, logins or bot blocks. Report the sites read and the sites blocked in the notification.
