@@ -9,11 +9,11 @@
 - **Network:** the routine's cloud environment has Full network access (owner switched it on Oct 6, 2026). ESPN, CBS, Covers, Action Network, RotoWire, FantasyPros, BettingPros, VegasInsider, PFF, NFL.com, MLB.com, Daily Faceoff, StatMuse, Basketball-Reference and sportsbook pages all load, so read the full pages, not just search snippets. Some sites still refuse automated requests (e.g. Pro-Football-Reference, The Athletic): skip those and use other sources. Never bypass paywalls, logins or bot blocks.
 
 ## Coverage: more players, every prop type (owner's request, Oct 6 2026)
-- Cover every game on the slate in each in-season sport, and go deep on each game: aim for **6–12 props per NFL game, 4–8 per Top 25 CFB game, 4–8 per NHL game, 6–10 per NBA/WNBA game**, covering both teams.
+- Cover every game on the slate in each in-season sport, and go deep on each game: aim for **6–12 props per NFL game, 4–8 per Top 25 CFB game, 4–8 per NHL game, 6–10 per NBA game**, covering both teams.
 - Use the full range of prop types, not just yards and points. Every sport should show a real mix:
   - **NFL / CFB:** passing yds, completions, attempts, pass TDs, INTs thrown, rushing yds/attempts, receiving yds, receptions, longest reception, rush+rec yds, **tackles, solo tackles, tackles+assists, sacks, defensive INTs**, kicking points/FGs made.
   - **NHL:** shots on goal, points, goals, assists, **blocked shots, hits**, power-play points, goalie saves (confirmed starters only).
-  - **NBA / WNBA:** points, **rebounds, assists, blocks, steals, blocks+steals**, threes made, turnovers, PRA, pts+reb, pts+ast, reb+ast.
+  - **NBA:** points, **rebounds, assists, blocks, steals, blocks+steals**, threes made, turnovers, PRA, pts+reb, pts+ast, reb+ast.
 - Write the `stat` field with these exact names (e.g. "Blocked shots", "Tackles + assists", "Blocks + steals") so the site's stat-type filters group them.
 - The volume target never overrides the grounding rules: every prop still needs a projection with a real numeric basis, sources, and a confirmed active player. Defensive and role-player props are fine at confidence 2.
 
@@ -34,7 +34,7 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 - Lines stay hidden on cards (the owner asked for More/Less + projection); a numeric `line` only feeds the projection arrow and grade.
 
 ## Reporting: hit rate by sport (owner's request, Oct 7 2026)
-- In every update's notification, break the hit rate down per sport (NFL, CFB, NHL, WNBA): W-L and % for the games graded that run, and the season-to-date total from all graded picks in the database. Exclude voids and pending picks from the percentage, and say how many were voided.
+- In every update's notification, break the hit rate down per sport (NFL, CFB, NHL): W-L and % for the games graded that run, and the season-to-date total from all graded picks in the database. Exclude voids and pending picks from the percentage, and say how many were voided.
 - The site's top scoreboard (`renderRecord` in `index.html`) shows overall hit rate, record, and each sport's W-L and hit % across all graded picks in `data/picks.json`, so it updates on every push. Never drop graded picks from earlier weeks from the export; they feed this record.
 
 ## Live tracking (owner's request, Oct 7 2026)
@@ -45,8 +45,11 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 - MLB is gone: all MLB picks (open and graded) and MLB news were deleted from the artifact database, and the site no longer lists it. Never create, refresh, grade or report MLB picks; do not run MLB research or an MLB builder, and leave MLB out of the notification's per-sport hit rate.
 - If any `mlb` docs show up in an export, delete them from the database; `scripts/build_data.py` also filters them out.
 
+## WNBA removed from runs (owner's request, Oct 12 2026)
+- Do not create, refresh, grade, research or report WNBA picks, and do not run `wnba_build.py`; leave WNBA out of the notification's per-sport hit rate and out of must plays. Existing graded WNBA picks stay in the database and export so the season record is unchanged.
+
 ## Must plays: 5 per sport (owner's request, Oct 7 2026)
-- Every update, pick the 5 strongest open More/Less picks for each in-season sport (NFL, CFB, NHL, WNBA) and store them on the pick docs as `must: {rank: 1-5, note}`. The site shows them as "<Sport> must plays" at the top of that sport's tab (hidden on the All tab); when a sport has no `must` picks it falls back to its 5 best-graded open picks.
+- Every update, pick the 5 strongest open More/Less picks for each in-season sport (NFL, CFB, NHL) and store them on the pick docs as `must: {rank: 1-5, note}`. The site shows them as "<Sport> must plays" at the top of that sport's tab (hidden on the All tab); when a sport has no `must` picks it falls back to its 5 best-graded open picks.
 - Choose from open picks in games that have not started: confidence 3+ (or a real book line with a clear edge), one pick per player, at most 2 per game, no unresolved injury condition, and the side agreeing with projection vs the line. Prefer picks with real book lines; otherwise a clean numeric basis. The `note` is one or two plain sentences using only facts already in the pick (lines, averages, news); never invent a spread or a stat.
 - Clear stale `must` fields from picks that are no longer in the top 5 (set `must` to `{"__delete__": true}`), and re-rank each run.
 - Keep the A–F grade on every pick (the site computes it from confidence, projection vs line and any open condition).
