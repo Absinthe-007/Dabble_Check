@@ -11490,7 +11490,7 @@
  },
  {
   "id": "2026-10-05-nfl-125",
-  "analysis": "Rousseau had two sacks in each of the first three games, then none against New England even though he generated eight pressures and four QB hits. That means his production is excellent but not guaranteed to show up in the sack column. I found no Rams pass-protection numbers, so I could not adjust for the matchup. I project 1.2, below his 1.5 average, because regression from a perfect two-per-game pace is likely. No prop line was found. Sweep 10/11: Rousseau has 6.0 sacks in four games (2.0 each at HOU, vs DET, vs LAC; 0 vs NE); a Less side runs against that pace. Review: 6.0 sacks in 4 games runs against the Less side. Sweep 10/11: CBS lists Ed Oliver out and Landon Jackson questionable; Rousseau is not on the injury page.",
+  "analysis": "Rousseau had two sacks in each of the first three games, then none against New England even though he generated eight pressures and four QB hits. That means his production is excellent but not guaranteed to show up in the sack column. I found no Rams pass-protection numbers, so I could not adjust for the matchup. I project 1.2, below his 1.5 average, because regression from a perfect two-per-game pace is likely. No prop line was found. Sweep 10/11: Rousseau has 6.0 sacks in four games (2.0 each at HOU, vs DET, vs LAC; 0 vs NE); a Less side runs against that pace. Review: 6.0 sacks in 4 games runs against the Less side. Sweep 10/11: CBS lists Ed Oliver out and Landon Jackson questionable; Rousseau is not on the injury page. MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": null,
    "college": null,
@@ -11570,6 +11570,14 @@
    {
     "title": "CBS Sports NFL injuries",
     "url": "https://www.cbssports.com/nfl/injuries/"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -13548,7 +13556,7 @@
  },
  {
   "id": "2026-10-05-nfl-143",
-  "analysis": "Kamren Kinchens (S, LAR) played in LAR's most recent game. His solo tackles in the 2 games where he recorded the stat this season: 3, 3, an average of 3.0. Weighting the most recent game a bit more gives 3.0; BUF runs 57 offensive plays/g vs 59 avg, so I scale by 0.98 (square-root damped). That projects 2.9 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 63%. The game line is LAR -2.5, total 54.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Sweep 10/11: Kinchens has 3 solo tackles in each logged game (9 and 6 combined); the log shows just two games. Sweep 10/11: LAR S Quentin Lake (hip) was questionable as of 10/8; if he sits, Kinchens could see more snaps, a risk to a Less.",
+  "analysis": "Kamren Kinchens (S, LAR) played in LAR's most recent game. His solo tackles in the 2 games where he recorded the stat this season: 3, 3, an average of 3.0. Weighting the most recent game a bit more gives 3.0; BUF runs 57 offensive plays/g vs 59 avg, so I scale by 0.98 (square-root damped). That projects 2.9 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 63%. The game line is LAR -2.5, total 54.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Sweep 10/11: Kinchens has 3 solo tackles in each logged game (9 and 6 combined); the log shows just two games. Sweep 10/11: LAR S Quentin Lake (hip) was questionable as of 10/8; if he sits, Kinchens could see more snaps, a risk to a Less. MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 24,
    "college": "Miami",
@@ -13624,6 +13632,14 @@
    {
     "title": "CBS Sports NFL injuries",
     "url": "https://www.cbssports.com/nfl/injuries/"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -13641,7 +13657,7 @@
  },
  {
   "id": "2026-10-05-nfl-144",
-  "analysis": "Josh Allen (QB, BUF) played in BUF's most recent game. His completions in the 4 games where he recorded the stat this season: 20, 20, 16, 23, an average of 19.8. Weighting the most recent game a bit more gives 20.1; LAR allows 17 completions/g vs 21 avg, so I scale by 0.90 (square-root damped). That projects 18.1 against a reference of 19.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 63%. The game line is LAR -2.5, total 54.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Book lines 10/7 (RotoWire props table, 5 books): BetRivers 20.5, Caesars 20.5, DraftKings 20.5, Hard Rock Bet 20.5, BetMGM 20.5; I used 20.5 as the reference against my 18.1 projection. Book lines (RotoWire, 2026-10-09): BetRivers 20.5, Betr 20.5, Caesars 21.5, DraftKings 20.5, Fanatics 20.5, Hard Rock Bet 20.5; consensus 20.5. Book lines (RotoWire, 2026-10-10): BetRivers 20.5, Betr 20.5, Caesars 21.5, DraftKings 20.5, Fanatics 20.5, Hard Rock Bet 20.5, theScore 21.5; consensus 20.5. Sweep 10/11: Allen completed 20, 20, 16 and 23 passes (over 20.5 once). The Rams rank 3rd in opponent EPA/play (SI).",
+  "analysis": "Josh Allen (QB, BUF) played in BUF's most recent game. His completions in the 4 games where he recorded the stat this season: 20, 20, 16, 23, an average of 19.8. Weighting the most recent game a bit more gives 20.1; LAR allows 17 completions/g vs 21 avg, so I scale by 0.90 (square-root damped). That projects 18.1 against a reference of 19.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 63%. The game line is LAR -2.5, total 54.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Book lines 10/7 (RotoWire props table, 5 books): BetRivers 20.5, Caesars 20.5, DraftKings 20.5, Hard Rock Bet 20.5, BetMGM 20.5; I used 20.5 as the reference against my 18.1 projection. Book lines (RotoWire, 2026-10-09): BetRivers 20.5, Betr 20.5, Caesars 21.5, DraftKings 20.5, Fanatics 20.5, Hard Rock Bet 20.5; consensus 20.5. Book lines (RotoWire, 2026-10-10): BetRivers 20.5, Betr 20.5, Caesars 21.5, DraftKings 20.5, Fanatics 20.5, Hard Rock Bet 20.5, theScore 21.5; consensus 20.5. Sweep 10/11: Allen completed 20, 20, 16 and 23 passes (over 20.5 once). The Rams rank 3rd in opponent EPA/play (SI). MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 30,
    "college": "Wyoming",
@@ -13758,6 +13774,14 @@
    {
     "title": "RotoWire NFL news",
     "url": "https://www.rotowire.com/football/news.php"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -19508,7 +19532,7 @@
  },
  {
   "id": "2026-10-05-nfl-194",
-  "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Josh Allen has 23, 69, 22 and 4 rushing yards on 6, 14, 8 and 5 carries. Bills have leaned on James Cook (154 yards, then 75), and Allen has only five or six carries in two of his last three games. The Rams scored 24 on PHI and total is 54.5, so Buffalo should throw. I project 25 yards. Risk: he ran 14 times for 69 against Detroit, so a scramble-heavy game is possible. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 37.5, Caesars 36.5, DraftKings 36.5, Fanatics 35.5, FanDuel 36.5, Hard Rock Bet 37.5, BetMGM 36.5, theScore 36.5; I used 36.5 as the reference against my 25 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 36.5, BetRivers 36.5, Betr 36.5, Caesars 36.5, DraftKings 36.5, FanDuel 36.5, Fanatics 35.5, Hard Rock Bet 36.5, theScore 36.5; consensus 36.5. Book lines (RotoWire, 2026-10-10): BetMGM 36.5, BetRivers 37.5, Betr 36.5, Caesars 37.5, DraftKings 37.5, FanDuel 36.5, Fanatics 35.5, Hard Rock Bet 36.5, theScore 36.5; consensus 36.5. Sweep 10/11: Allen rushed for 23, 69, 22 and 4 yds; only the 14-carry game vs DET cleared 36.5.",
+  "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Josh Allen has 23, 69, 22 and 4 rushing yards on 6, 14, 8 and 5 carries. Bills have leaned on James Cook (154 yards, then 75), and Allen has only five or six carries in two of his last three games. The Rams scored 24 on PHI and total is 54.5, so Buffalo should throw. I project 25 yards. Risk: he ran 14 times for 69 against Detroit, so a scramble-heavy game is possible. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 37.5, Caesars 36.5, DraftKings 36.5, Fanatics 35.5, FanDuel 36.5, Hard Rock Bet 37.5, BetMGM 36.5, theScore 36.5; I used 36.5 as the reference against my 25 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 36.5, BetRivers 36.5, Betr 36.5, Caesars 36.5, DraftKings 36.5, FanDuel 36.5, Fanatics 35.5, Hard Rock Bet 36.5, theScore 36.5; consensus 36.5. Book lines (RotoWire, 2026-10-10): BetMGM 36.5, BetRivers 37.5, Betr 36.5, Caesars 37.5, DraftKings 37.5, FanDuel 36.5, Fanatics 35.5, Hard Rock Bet 36.5, theScore 36.5; consensus 36.5. Sweep 10/11: Allen rushed for 23, 69, 22 and 4 yds; only the 14-carry game vs DET cleared 36.5. MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 30,
    "college": "Wyoming",
@@ -19614,6 +19638,14 @@
    {
     "title": "SI Bills vs Rams",
     "url": "https://www.si.com/betting/bills-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -19631,7 +19663,7 @@
  },
  {
   "id": "2026-10-05-nfl-195",
-  "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Khalil Shakir caught 4, 3, 1 and 7 passes (3.75 per game) on 6, 6, 3 and 8 targets, and he turned seven catches into 82 yards in the last game. DJ Moore (shoulder) is questionable, and if he is limited Shakir's slot role gains work against a Rams team that has had to throw. I project 4.5 receptions. The risk is Moore playing and Coleman (6 for 116) drawing targets. Wed 10/7: DJ Moore (shoulder) questionable, not considered long-term (Schefter, ESPN feed); Benford and Ed Oliver also questionable. Book lines (RotoWire, 2026-10-09): Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5; consensus 4.5. Book lines (RotoWire, 2026-10-10): BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: Shakir had 4, 3, 1 and 7 catches (50, 38, 6, 82 yds); with Palmer out and Moore questionable target share could rise. Sweep 10/11: CBS lists Moore questionable (AC joint) and Palmer out for BUF; Covers shows LAR -3.5, total 54. (Monday game.)",
+  "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Khalil Shakir caught 4, 3, 1 and 7 passes (3.75 per game) on 6, 6, 3 and 8 targets, and he turned seven catches into 82 yards in the last game. DJ Moore (shoulder) is questionable, and if he is limited Shakir's slot role gains work against a Rams team that has had to throw. I project 4.5 receptions. The risk is Moore playing and Coleman (6 for 116) drawing targets. Wed 10/7: DJ Moore (shoulder) questionable, not considered long-term (Schefter, ESPN feed); Benford and Ed Oliver also questionable. Book lines (RotoWire, 2026-10-09): Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5; consensus 4.5. Book lines (RotoWire, 2026-10-10): BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: Shakir had 4, 3, 1 and 7 catches (50, 38, 6, 82 yds); with Palmer out and Moore questionable target share could rise. Sweep 10/11: CBS lists Moore questionable (AC joint) and Palmer out for BUF; Covers shows LAR -3.5, total 54. (Monday game.) MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 26,
    "college": "Boise State",
@@ -19643,7 +19675,7 @@
    "title": "ESPN BUF roster (site.api.espn.com)",
    "url": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/buf/roster"
   },
-  "condition": "DJ Moore (shoulder) questionable",
+  "condition": "DJ Moore (shoulder) questionable and Joshua Palmer (shoulder) out per ESPN injury feed; recheck inactives",
   "confidence": 2,
   "espnId": "4373678",
   "game": "BUF @ LAR",
@@ -19742,6 +19774,14 @@
    {
     "title": "Covers NFL matchups",
     "url": "https://www.covers.com/sports/nfl/matchups"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -19759,7 +19799,7 @@
  },
  {
   "id": "2026-10-05-nfl-196",
-  "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Kyren Williams has combined rushing and receiving yards of 65, 97, 158 and 147 (avg 116.75), including 80 rushing and 67 receiving last week on 16 carries and 13 targets. With the Rams at home and the total high near 54.5, he should keep a heavy workload. I project 120. The risk is Blake Corum taking snaps and Stafford passing on 51-55 attempts, which can reduce rushing volume. Book lines 10/7 (RotoWire props table, 5 books): BetRivers 93.5, DraftKings 94.5, FanDuel 94.5, Hard Rock Bet 94.5, BetMGM 95.5; I used 94.5 as the reference against my 120 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 93.5, BetRivers 94.5, Betr 95.5, DraftKings 98.5, FanDuel 92.5, Fanatics 90.5; consensus 94. Book lines (RotoWire, 2026-10-09): BetMGM 93.5, BetRivers 94.5, Betr 95.5, DraftKings 98.5, FanDuel 92.5, Fanatics 90.5, Hard Rock Bet 94.5; consensus 94.5. Book lines (RotoWire, 2026-10-10): BetMGM 94.5, BetRivers 95.5, Betr 95.5, DraftKings 96.5, FanDuel 92.5, Fanatics 90.5, Hard Rock Bet 94.5, theScore 94.5; consensus 94.5. Sweep 10/11: Kyren totaled 65, 97, 158 and 147 scrimmage yds (80 rush + 67 rec at PHI), and had 10 catches last week.",
+  "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Kyren Williams has combined rushing and receiving yards of 65, 97, 158 and 147 (avg 116.75), including 80 rushing and 67 receiving last week on 16 carries and 13 targets. With the Rams at home and the total high near 54.5, he should keep a heavy workload. I project 120. The risk is Blake Corum taking snaps and Stafford passing on 51-55 attempts, which can reduce rushing volume. Book lines 10/7 (RotoWire props table, 5 books): BetRivers 93.5, DraftKings 94.5, FanDuel 94.5, Hard Rock Bet 94.5, BetMGM 95.5; I used 94.5 as the reference against my 120 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 93.5, BetRivers 94.5, Betr 95.5, DraftKings 98.5, FanDuel 92.5, Fanatics 90.5; consensus 94. Book lines (RotoWire, 2026-10-09): BetMGM 93.5, BetRivers 94.5, Betr 95.5, DraftKings 98.5, FanDuel 92.5, Fanatics 90.5, Hard Rock Bet 94.5; consensus 94.5. Book lines (RotoWire, 2026-10-10): BetMGM 94.5, BetRivers 95.5, Betr 95.5, DraftKings 96.5, FanDuel 92.5, Fanatics 90.5, Hard Rock Bet 94.5, theScore 94.5; consensus 94.5. Sweep 10/11: Kyren totaled 65, 97, 158 and 147 scrimmage yds (80 rush + 67 rec at PHI), and had 10 catches last week. MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 26,
    "college": "Notre Dame",
@@ -19861,6 +19901,14 @@
    {
     "title": "SI Bills vs Rams",
     "url": "https://www.si.com/betting/bills-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -19878,7 +19926,7 @@
  },
  {
   "id": "2026-10-05-nfl-197",
-  "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Dorian Williams has tackled 9, 9, 6 and 8 times (8.0 per game) with solos of 4, 4, 5 and 4. The Rams throw a lot (51 and 55 attempts in two games) and use Kyren Williams for 13 targets, so the linebacker gets work in coverage and in space. I project 8.5. The risk is Terrel Bernard taking more tackles. Sweep 10/11: Williams had 9, 6, 9 and 8 combined tackles (solo 4, 5, 4, 4).",
+  "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Dorian Williams has tackled 9, 9, 6 and 8 times (8.0 per game) with solos of 4, 4, 5 and 4. The Rams throw a lot (51 and 55 attempts in two games) and use Kyren Williams for 13 targets, so the linebacker gets work in coverage and in space. I project 8.5. The risk is Terrel Bernard taking more tackles. Sweep 10/11: Williams had 9, 6, 9 and 8 combined tackles (solo 4, 5, 4, 4). MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 25,
    "college": "Tulane",
@@ -19942,6 +19990,14 @@
    {
     "title": "NFL.com injuries",
     "url": "https://www.nfl.com/injuries/"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -23905,7 +23961,7 @@
  },
  {
   "id": "2026-10-05-nfl-48",
-  "analysis": "Nacua came back from a hip injury with 9 catches for 125 yards, and the Rams said they will not limit him. LA is a 2.5-point home favorite on a 53.5 total, one of the highest of the week. Buffalo may be without DJ Moore, which would raise the shootout odds. No line was found. I project about 8 catches, below last week's 9 given regression. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 7.5, Caesars 7.5, DraftKings 7.5, FanDuel 6.5, Hard Rock Bet 7.5, BetMGM 7.5, theScore 7.5; I used 7.5 as the reference against my 8 projection. Book lines (RotoWire, 2026-10-09): BetMGM 7.5, BetRivers 7.5, Betr 7.5, Caesars 7.5, DraftKings 7.5, FanDuel 6.5, Fanatics 7.5, Hard Rock Bet 7.5, theScore 7.5; consensus 7.5. Sweep 10/11: Nacua had 9 catches for 125 yds on 12 targets at PHI after 5-74 vs SF in Week 1 (StatMuse shows only these two games).",
+  "analysis": "Nacua came back from a hip injury with 9 catches for 125 yards, and the Rams said they will not limit him. LA is a 2.5-point home favorite on a 53.5 total, one of the highest of the week. Buffalo may be without DJ Moore, which would raise the shootout odds. No line was found. I project about 8 catches, below last week's 9 given regression. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 7.5, Caesars 7.5, DraftKings 7.5, FanDuel 6.5, Hard Rock Bet 7.5, BetMGM 7.5, theScore 7.5; I used 7.5 as the reference against my 8 projection. Book lines (RotoWire, 2026-10-09): BetMGM 7.5, BetRivers 7.5, Betr 7.5, Caesars 7.5, DraftKings 7.5, FanDuel 6.5, Fanatics 7.5, Hard Rock Bet 7.5, theScore 7.5; consensus 7.5. Sweep 10/11: Nacua had 9 catches for 125 yds on 12 targets at PHI after 5-74 vs SF in Week 1 (StatMuse shows only these two games). MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 25,
    "college": "BYU",
@@ -24031,6 +24087,14 @@
    {
     "title": "SI Bills vs Rams",
     "url": "https://www.si.com/betting/bills-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -24048,7 +24112,7 @@
  },
  {
   "id": "2026-10-05-nfl-49",
-  "analysis": "Stafford threw 51 passes in the comeback at Philadelphia, but that came from a trailing script. The Rams are 2.5-point home favorites with a 53.5 total, so volume should stay healthy. No line was found. I project around 38 attempts, with the risk being a Rams lead and more run game. Book lines 10/7 (RotoWire props table, 4 books): Caesars 37.5, DraftKings 37.5, Hard Rock Bet 37.5, BetMGM 36.5; I used 37.5 as the reference against my 38 projection. Book lines (RotoWire, 2026-10-09): BetMGM 36.5, Caesars 37.5, DraftKings 37.5, Fanatics 37.5, Hard Rock Bet 37.5; consensus 37.5. Book lines (RotoWire, 2026-10-10): BetMGM 36.5, Caesars 37.5, DraftKings 37.5, Fanatics 37.5, Hard Rock Bet 37.5, theScore 37.5; consensus 37.5. Sweep 10/11: Stafford threw 51 and 55 attempts in his last two (317 and 390 yds) against 25 and 31 earlier; Buffalo ranks 30th in opponent EPA/play (SI).",
+  "analysis": "Stafford threw 51 passes in the comeback at Philadelphia, but that came from a trailing script. The Rams are 2.5-point home favorites with a 53.5 total, so volume should stay healthy. No line was found. I project around 38 attempts, with the risk being a Rams lead and more run game. Book lines 10/7 (RotoWire props table, 4 books): Caesars 37.5, DraftKings 37.5, Hard Rock Bet 37.5, BetMGM 36.5; I used 37.5 as the reference against my 38 projection. Book lines (RotoWire, 2026-10-09): BetMGM 36.5, Caesars 37.5, DraftKings 37.5, Fanatics 37.5, Hard Rock Bet 37.5; consensus 37.5. Book lines (RotoWire, 2026-10-10): BetMGM 36.5, Caesars 37.5, DraftKings 37.5, Fanatics 37.5, Hard Rock Bet 37.5, theScore 37.5; consensus 37.5. Sweep 10/11: Stafford threw 51 and 55 attempts in his last two (317 and 390 yds) against 25 and 31 earlier; Buffalo ranks 30th in opponent EPA/play (SI). MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 38,
    "college": "Georgia",
@@ -24163,6 +24227,14 @@
    {
     "title": "SI Bills vs Rams",
     "url": "https://www.si.com/betting/bills-vs-rams-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
@@ -24180,7 +24252,7 @@
  },
  {
   "id": "2026-10-05-nfl-50",
-  "analysis": "DJ Moore has an AC joint sprain from Week 2, aggravated in Week 4, and has been unable to finish two of four games; Adam Schefter said it is not considered long term. Coleman went over 100 receiving yards with a fourth-quarter touchdown after Moore left. The Rams are 2.5-point home favorites on a 53.5 total, which is pass-friendly. No line was found. I project about 70 yards if Moore is out or limited; the condition stays until his status is announced. Monday-evening update: DJ Moore aggravated his shoulder; it's not considered long-term, but his Week 5 status is still unclear. Wed 10/7: Moore (shoulder) questionable, not long-term per Schefter. Book lines (RotoWire, 2026-10-09): Betr 37.5, Caesars 37.5, DraftKings 37.5, FanDuel 37.5, Fanatics 35.5, Hard Rock Bet 37.5; consensus 37.5. Book lines (RotoWire, 2026-10-10): BetMGM 36.5, BetRivers 39.5, Betr 37.5, Caesars 38.5, DraftKings 39.5, FanDuel 37.5, Fanatics 35.5, Hard Rock Bet 38.5, theScore 39.5; consensus 38.5. Sweep 10/11: Coleman had 116 yds (6-116) vs NE on 7 targets, 37 vs LAC; Palmer is out and Moore questionable. Sweep 10/11: Moore is questionable, Palmer out, and DuBose and Virgil questionable (CBS), so Coleman may see more snaps if Moore sits.",
+  "analysis": "DJ Moore has an AC joint sprain from Week 2, aggravated in Week 4, and has been unable to finish two of four games; Adam Schefter said it is not considered long term. Coleman went over 100 receiving yards with a fourth-quarter touchdown after Moore left. The Rams are 2.5-point home favorites on a 53.5 total, which is pass-friendly. No line was found. I project about 70 yards if Moore is out or limited; the condition stays until his status is announced. Monday-evening update: DJ Moore aggravated his shoulder; it's not considered long-term, but his Week 5 status is still unclear. Wed 10/7: Moore (shoulder) questionable, not long-term per Schefter. Book lines (RotoWire, 2026-10-09): Betr 37.5, Caesars 37.5, DraftKings 37.5, FanDuel 37.5, Fanatics 35.5, Hard Rock Bet 37.5; consensus 37.5. Book lines (RotoWire, 2026-10-10): BetMGM 36.5, BetRivers 39.5, Betr 37.5, Caesars 38.5, DraftKings 39.5, FanDuel 37.5, Fanatics 35.5, Hard Rock Bet 38.5, theScore 39.5; consensus 38.5. Sweep 10/11: Coleman had 116 yds (6-116) vs NE on 7 targets, 37 vs LAC; Palmer is out and Moore questionable. Sweep 10/11: Moore is questionable, Palmer out, and DuBose and Virgil questionable (CBS), so Coleman may see more snaps if Moore sits. MNF refresh (Oct 12): ESPN's injury feed for BUF @ LAR lists Bills DT Ed Oliver (knee) and WR Joshua Palmer (shoulder) out, WR DJ Moore (shoulder, AC joint), CB Dee Alford (ankle) and DE Landon Jackson (knee) questionable, and Rams S Quentin Lake (hip) questionable; no other Rams starter carries a designation. DraftKings has the Rams -3.5 with a 54.5 total (ESPN). Final inactives are not out until about 90 minutes before the 8:15 PM ET kickoff, so this is not settled.",
   "bio": {
    "age": 23,
    "college": "Florida State",
@@ -24192,7 +24264,7 @@
    "title": "Keon Coleman - Wikipedia",
    "url": "https://en.wikipedia.org/wiki/Keon_Coleman"
   },
-  "condition": "DJ Moore out or limited",
+  "condition": "DJ Moore (shoulder) questionable and Joshua Palmer (shoulder) out per ESPN injury feed; recheck inactives",
   "confidence": 2,
   "espnId": "4635008",
   "game": "BUF @ LAR",
@@ -24324,6 +24396,14 @@
    {
     "title": "CBS Sports NFL injuries",
     "url": "https://www.cbssports.com/nfl/injuries/"
+   },
+   {
+    "title": "ESPN game summary, BUF @ LAR (injuries, DraftKings odds)",
+    "url": "https://www.espn.com/nfl/game/_/gameId/401872994"
+   },
+   {
+    "title": "Roundtable: Two Bills out, three questionable vs Rams (search snippet)",
+    "url": "https://roundtable.io/sports/nfl/bills/news/two-bills-out-three-questionable-against-rams-on-monday-night"
    }
   ],
   "sport": "nfl",
