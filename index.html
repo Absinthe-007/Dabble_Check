@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Dabble Prop Board</title>
-<meta name="description" content="Daily More/Less player-prop leans for NFL, college football, NHL, NBA and WNBA, with projections and the articles behind each pick.">
+<meta name="description" content="Daily More/Less player-prop leans for NFL, college football, NHL and NBA, with projections and the articles behind each pick.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
@@ -338,8 +338,8 @@ body.locked{overflow:hidden}
 <div class="sheet-bg" id="sheetBg" hidden><div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="shName"></div></div>
 
 <script>
-const SPORTS=[["all","All"],["nfl","NFL"],["cfb","College FB"],["nhl","NHL"],["nba","NBA"],["wnba","WNBA"]];
-const ORDER=["nfl","cfb","nhl","nba","wnba"];
+const SPORTS=[["all","All"],["nfl","NFL"],["cfb","College FB"],["nhl","NHL"],["nba","NBA"]];
+const ORDER=["nfl","cfb","nhl","nba"];
 const SPORT_NAME={nfl:"NFL",cfb:"College football",nhl:"NHL",nba:"NBA",wnba:"WNBA"};
 const LEAGUE={nfl:"nfl",cfb:"college-football",nhl:"nhl",nba:"nba",wnba:"wnba"};
 const TEAM={
@@ -609,7 +609,7 @@ function render(){renderWeeks();renderRecord();renderDeck();renderNext();renderM
   try{const bust="?v="+Date.now();
     const [w,p]=await Promise.all([fetch("data/weeks.json"+bust).then(r=>r.json()),fetch("data/picks.json"+bust).then(r=>r.json())]);
     state.weeks=[...w].sort((a,b)=>String(b.weekStart||b.id).localeCompare(String(a.weekStart||a.id)));
-    try{const t=await fetch("data/cfb_top25.json"+bust).then(r=>r.json());const ok=new Set(t.teams.flatMap(x=>[x.name,...x.aliases]).map(x=>x.toUpperCase()));state.picks=p.filter(x=>x.sport!=="cfb"||ok.has(String(x.team||"").trim().replace(/\.$/,"").toUpperCase()))}catch(e){state.picks=p}
+    try{const t=await fetch("data/cfb_top25.json"+bust).then(r=>r.json());const ok=new Set(t.teams.flatMap(x=>[x.name,...x.aliases]).map(x=>x.toUpperCase()));state.picks=p.filter(x=>x.sport!=="cfb"||ok.has(String(x.team||"").trim().replace(/\.$/,"").toUpperCase()))}catch(e){state.picks=p}state.picks=state.picks.filter(x=>x.sport!=="wnba");
   }catch(e){$("updated").textContent="Couldn't load picks. Refresh to try again."}
   render();if(window.Live)Live.start();const h=location.hash.slice(1);if(h.startsWith("results-"))openResults(h.slice(8));else if(h&&state.picks.some(x=>x.id===h))openSheet(h);
 })();
