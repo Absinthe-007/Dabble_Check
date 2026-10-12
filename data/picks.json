@@ -9795,6 +9795,7 @@
  },
  {
   "id": "2026-10-05-nfl-03",
+  "actual": "24 rec yds",
   "analysis": "Kittle posted 80 and 82 receiving yards in his last two games and remains a featured piece of a San Francisco offense scoring about 33 points a game through three weeks. The 49ers are small road underdogs (Seattle -2.5, total 47.5 at Dimers), which tilts toward a pass-heavy script. Seattle's defense has been the league's stingiest in yards allowed through three games, which is the main risk. San Francisco's edge rushers (Bosa, Williams, Thompson) were out in Week 4, so Seattle's pass pressure could be lighter against SF's depleted defense, but SF's own offense is what drives this. The ~64.5 reference line is from his Week 4 market and may move once Week 5 numbers post. I project about 70 yards, a bit above that line, built from his last two games trimmed for Seattle's defense. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 58.5, Caesars 56.5, DraftKings 55.5, Fanatics 55.5, FanDuel 57.5, Hard Rock Bet 57.5, BetMGM 58.5, theScore 58.5; I used 58.5 as the reference against my 70 projection. Book lines (RotoWire, 2026-10-09): BetMGM 54.5, BetRivers 56.5, Betr 52.5, Caesars 53.5, DraftKings 52.5, FanDuel 54.5, Fanatics 55.5, Hard Rock Bet 52.5, theScore 49.5; consensus 53.5. Book lines (RotoWire, 2026-10-09): BetMGM 54.5, BetRivers 56.5, Betr 52.5, Caesars 53.5, DraftKings 52.5, FanDuel 54.5, Fanatics 50.5, Hard Rock Bet 52.5, theScore 49.5; consensus 52.5. Book lines (RotoWire, 2026-10-10): BetMGM 54.5, BetRivers 53.5, Betr 54.5, Caesars 54.5, DraftKings 55.5, FanDuel 54.5, Fanatics 55.5, Hard Rock Bet 53.5, theScore 54.5; consensus 54.5. Sweep 10/11: Kittle has 244 yds on 16 catches (22 targets) with 4 TDs, including 80, 82 and 70 in the last three games. Seattle's LB Chazz Surratt is out (NFL.com/CBS). Sweep 10/11: SF's receiver room is depleted (Pearsall, Kirk, Robinson on IR; Hodge questionable), which supports target concentration for Kittle. Covers: SEA -3.5, total 46.5.",
   "bio": {
    "age": 32,
@@ -9930,7 +9931,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "miss",
   "team": "SF",
   "teamOutlook": {
    "allowed": "~25.0",
@@ -10174,6 +10175,7 @@
  },
  {
   "id": "2026-10-05-nfl-06",
+  "actual": "0 solo tkl",
   "analysis": "Del'Shawn Phillips (LB, LAC) played in LAC's most recent game. His solo tackles in the 4 games where he recorded the stat this season: 3, 4, 3, 2, an average of 3.0. Weighting the most recent game a bit more gives 2.9; DEN runs 56 offensive plays/g vs 59 avg, so I scale by 0.97 (square-root damped). That projects 2.8 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 65%. The game line is DEN -3.5, total 41.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Replaces a pick on a player ruled out per ESPN injury feed Oct 10; defensive prop at low confidence. Sweep 10/11: Phillips' solo tackles were 3, 4, 3 and 2 (avg 3.0) against a 2.8 projection.",
   "bio": {
    "age": 30,
@@ -10247,7 +10249,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:05:00-04:00",
   "stat": "Solo tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "LAC",
   "teamOutlook": {
    "allowed": "DEN allows 245 pass / 143 rush yds per game",
@@ -10259,6 +10261,7 @@
  },
  {
   "id": "2026-10-05-nfl-07",
+  "actual": "34 pass att",
   "analysis": "Maye has thrown 33, 22 and 25 passes in the games before this one and New England has leaned on Rhamondre Stevenson and the run game. The Patriots are early 3.5-point home favorites with a total near 44, a script that favors rushing late. Las Vegas has been trading yards with Cousins throwing 52 times in Week 4, so a back-and-forth game could push volume up, which is the main risk. No published line was found for the full board, so the existing 30.5 reference is kept. I project about 29 attempts, slightly under the number, on a game flow that favors New England controlling the clock. Book lines 10/7 (RotoWire props table, 3 books): Caesars 30.5, DraftKings 30.5, Hard Rock Bet 30.5; I used 30.5 as the reference against my 29 projection. Book lines (RotoWire, 2026-10-09): BetMGM 29.5, Caesars 29.5, DraftKings 29.5, Fanatics 29.5, Hard Rock Bet 29.5, theScore 29.5; consensus 29.5. Sweep 10/11: Maye completions line 19.5, pass yds 225.5 (Fanatics/FanDuel), rush att 5.5. NE is a 3.5-pt home favorite with a 45.5 total. Sweep 10/11: Maye (right shoulder) had a full Friday practice with no designation; 41F at kickoff per SportsLine. NE -3.5, total 45.5 (DK).",
   "bio": {
    "age": 24,
@@ -10377,7 +10380,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Pass attempts",
-  "status": "pending",
+  "status": "miss",
   "team": "NE",
   "teamOutlook": {
    "allowed": "~20.25",
@@ -10501,6 +10504,7 @@
  },
  {
   "id": "2026-10-05-nfl-09",
+  "actual": "199 pass yds",
   "analysis": "Jay Glazer reported Washington plans to start Daniels against the Giants after he missed two games with a dislocated left elbow, and Marcus Mariota now has an MCL sprain, so the old backup-QB pick no longer applied. Daniels' passing volume has been light in 2026: 18 of 34 for 164 yards against Philadelphia and 11 of 17 for 96 against Dallas, with much of his production coming as a runner (about 100 rushing yards over those two games). Teams tend to keep the plan simple in a quarterback's first game back from an arm injury. DraftKings has Washington -3 (moneyline -170), so they shouldn't be chasing points. I project about 185 yards, giving a little credit for the softer Giants matchup. No book line was posted yet. The main risk is a soft Giants secondary giving him his best passing day of the season. Tuesday update: ESPN's injury page lists Daniels as Questionable (Oct 6, no detail given), so his availability is unconfirmed; the lean only holds if he plays. Wed update: ESPN lists Daniels questionable; ESPN notes Marcus Mariota doubtful (MCL), so Daniels is expected to start. McLaurin (hamstring) questionable. WSH -3.5, total 43.5. Book lines (RotoWire, 2026-10-09): BetMGM 198.5, BetRivers 198.5, Betr 197.5, Caesars 196.5, DraftKings 198.5, FanDuel 198.5, Fanatics 195.5, Hard Rock Bet 196.5, theScore 199.5; consensus 198.5. Book lines (RotoWire, 2026-10-10): BetMGM 202.5, BetRivers 197.5, Betr 197.5, Caesars 196.5, DraftKings 197.5, FanDuel 198.5, Fanatics 195.5, Hard Rock Bet 197.5, theScore 194.5; consensus 197.5. Sweep 10/11: Terry McLaurin (hamstring) is questionable/game-time decision and Stefon Diggs (hamstring) is out. Daniels completions 18.5, attempts 29.5, rushing yds 30.5 (FanDuel). WSH -3.5, total 41.5. Sweep 10/11: Daniels (left elbow) was a full participant all week. Commanders -3.5, total about 43.5 (DraftKings). WR McLaurin is questionable (hamstring) and Diggs out, which weighs on passing volume.",
   "bio": {
    "age": 25,
@@ -10648,7 +10652,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "~20.5",
@@ -10922,6 +10926,7 @@
  },
  {
   "id": "2026-10-05-nfl-116",
+  "actual": "7 tkl",
   "analysis": "Davis-Gaither is reported at 37 combined tackles through four games (20 solo, 17 assisted), well clear of Bryce Boettcher's 22, and he took over defensive play-calling duties from Cam Bynum. Pittsburgh's Rodgers has completed 41 of 74 passes over his last two games, which gives an off-ball linebacker plenty of short-throw tackle chances. LB Jaylon Carlies left the London win with a rib injury, which could push more snaps his way. The 9.5 projection is just his 9.25 average plus a small nudge for volume, so I treat it as a modest lean. I could not find a posted prop line, and the 37-tackle total came from a single search summary I could not open the source for, so confidence stays at 2. The Steelers are -2.5 at home with a 44.5 total, a game that should stay competitive. Book lines (RotoWire, 2026-10-10): Fanatics 9.5; consensus 9.5. Sweep 10/11: Colts LB Carlies (ribs) is out, supporting Davis-Gaither's snap and tackle volume; Steelers RB Dowdle questionable (toe).",
   "bio": {
    "age": null,
@@ -10991,7 +10996,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "IND",
   "teamOutlook": {
    "allowed": "~23.5",
@@ -11003,6 +11008,7 @@
  },
  {
   "id": "2026-10-05-nfl-117",
+  "actual": "0 sacks",
   "analysis": "Latu has one sack so far in 2026 (about 0.25 per game), but he is the player who led the Colts with 8.5 sacks last season. Against Washington he blew up a fourth-and-one with pressure, added two QB hits, and shared a sack with Adetomiwa Adebawore that knocked Marcus Mariota out. Pittsburgh's quarterback has gone down 13 times through four weeks, so protection is a real weak spot. The counterweight is that the Colts rank near the bottom in pressure rate, and the Colts list DEs Samson Ebukam and Tyquan Lewis as questionable, so the rush rotation could be thinner. I project 0.4 sacks, above his average but well under a full sack. No prop line was found. Wed update: Colts HC Steichen said Arden Key will miss 3-4 weeks (hamstring, via ESPN's Fowler), so Latu should see more edge snaps. PIT -2.5, total 44.5 (DK). Sweep 10/11: Pittsburgh has allowed 13 sacks to Rodgers in 4 games and ranks 27th in sacks plus hits allowed, while the Colts have the 3rd-lowest pressure rate. DE Arden Key is on IR. Sweep 10/11: Colts DEs Key and Clemons are on IR (CBS); Steelers OT Driscoll and G Dunker are on IR.",
   "bio": {
    "age": null,
@@ -11083,7 +11089,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "miss",
   "team": "IND",
   "teamOutlook": {
    "allowed": "~23.5",
@@ -11276,6 +11282,7 @@
  },
  {
   "id": "2026-10-05-nfl-121",
+  "actual": "0.5 sacks",
   "analysis": "Hutchinson has 3.5 sacks in four games, with two against New Orleans, one against Buffalo, a half-sack against the Jets and none at Carolina. His six-game sack streak, which runs back into 2025, set a Lions franchise record. Detroit's defense has 12 team sacks. The Cardinals will start Brissett again after his three-interception game, and he faces a pass rush they cannot afford to give extra chances. The streak broke the pattern in Week 4 only in the sense that he had no sack against Carolina, so there is some risk the pace is cooling. I project 0.9, just above his 0.875 average. No prop line found, so the side is relative to his average, and confidence is 2. Wed update: ARI placed LT Paris Johnson Jr. on IR (ESPN feed). DK has DET -5.5, total 54.5, a high-scoring script for ARI passing downs. Book lines (RotoWire, 2026-10-10): DraftKings 0.75, Hard Rock Bet 0.5; consensus 0.625. Sweep 10/11: Hutchinson has 3.5 sacks in 4 games (2.0, 1.0, 0.5, 0.0), over 0.625 in 3 of 4. Sweep 10/11: ARI is missing OT Paris Johnson Jr. and G Isaiah Adams (IR) per CBS, a pass-rush matchup edge for Hutchinson.",
   "bio": {
    "age": null,
@@ -11377,7 +11384,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "miss",
   "team": "DET",
   "teamOutlook": {
    "allowed": "~23 (est.)",
@@ -11389,6 +11396,7 @@
  },
  {
   "id": "2026-10-05-nfl-122",
+  "actual": "3 tkl",
   "analysis": "Gibbens had 24 tackles (10 solo, 14 assisted) through three games and added eight more against the Giants on 55 snaps, a 90 percent snap share. His tackle rate is 14.8 percent against Mack Wilson's 12.2 percent, and Wilson wears the green dot. Detroit is a 4.5-point road favorite with a strong offense, so Arizona should spend long stretches defending. The cap on this projection is that Arizona's pass defense has allowed big plays, and long completions reduce tackle counts. I project 8.5, a bit above his 8.0 average. No prop line seen, so the lean is against his own average and confidence is 2. Book lines (RotoWire, 2026-10-10): Fanatics 8.5; consensus 8.5. Sweep 10/11: Gibbens has 7, 9, 8 and 8 combined tackles in 2026; at 8.5 he has cleared once in four games. Sweep 10/11: A thinner DET back end (Joseph and Branch PUP, T. Williams questionable) can raise LB tackle volume (CBS).",
   "bio": {
    "age": null,
@@ -11466,7 +11474,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "ARI",
   "teamOutlook": {
    "allowed": "~27 (est.)",
@@ -11575,6 +11583,7 @@
  },
  {
   "id": "2026-10-05-nfl-126",
+  "actual": "2 solo tkl",
   "analysis": "Antonio Johnson (S, JAX) played in JAX's most recent game. His solo tackles in the 4 games where he recorded the stat this season: 3, 4, 2, 3, an average of 3.0. Weighting the most recent game a bit more gives 3.0; PHI runs 54 offensive plays/g vs 59 avg, so I scale by 0.96 (square-root damped). That projects 2.9 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 64%. The game line is JAX -7, total 42.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked.",
   "bio": {
    "age": 24,
@@ -11640,7 +11649,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Solo tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "JAX",
   "teamOutlook": {
    "allowed": "PHI allows 228 pass / 122 rush yds per game",
@@ -11652,6 +11661,7 @@
  },
  {
   "id": "2026-10-05-nfl-127",
+  "actual": "7 rec",
   "analysis": "Brenton Strange (TE, JAX) played in JAX's most recent game. His receptions in the 4 games where he recorded the stat this season: 2, 2, 3, 7, an average of 3.5. Weighting the most recent game a bit more gives 3.9; PHI allows 22 receptions/g vs 21 avg, so I scale by 1.02 (square-root damped). That projects 3.9 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the More at about 59%. The game line is JAX -7, total 42.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Book lines 10/7 (RotoWire props table, 6 books): BetRivers 3.5, Caesars 3.5, DraftKings 3.5, FanDuel 3.5, Hard Rock Bet 3.5, theScore 3.5; I used 3.5 as the reference against my 3.9 projection. Book lines (RotoWire, 2026-10-09): BetMGM 3.5, BetRivers 3.5, Betr 3.5, Caesars 3.5, DraftKings 3.5, FanDuel 3.5, Fanatics 3.5, Hard Rock Bet 3.5, theScore 3.5; consensus 3.5. Sweep 10/11: FanDuel posts 3.5 receptions / 33.5 yards. Strange had 7 catches for 95 yards vs CIN; PHI allowed the 5th-fewest fantasy points to TEs.",
   "bio": {
    "age": 25,
@@ -11770,7 +11780,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "hit",
   "team": "JAX",
   "teamOutlook": {
    "allowed": "PHI allows 228 pass / 122 rush yds per game",
@@ -11782,6 +11792,7 @@
  },
  {
   "id": "2026-10-05-nfl-128",
+  "actual": "7 tkl+ast",
   "analysis": "Javon Bullard (S, GB) played in GB's most recent game. His tackles + assists in the 4 games where he recorded the stat this season: 1, 7, 7, 8, an average of 5.8. Weighting the most recent game a bit more gives 6.0; CHI runs 73 offensive plays/g vs 59 avg, so I scale by 1.11 (square-root damped). That projects 6.6 against a reference of 5.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the More at about 66%. The game line is CHI -3, total 45.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked.",
   "bio": {
    "age": 24,
@@ -11847,7 +11858,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles + assists",
-  "status": "pending",
+  "status": "hit",
   "team": "GB",
   "teamOutlook": {
    "allowed": "CHI allows 194 pass / 102 rush yds per game",
@@ -11859,6 +11870,7 @@
  },
  {
   "id": "2026-10-05-nfl-129",
+  "actual": "6 rec",
   "analysis": "Matthew Golden (WR, GB) played in GB's most recent game. His receptions in the 4 games where he recorded the stat this season: 6, 4, 5, 3, an average of 4.5. Weighting the most recent game a bit more gives 4.3; CHI allows 14 receptions/g vs 21 avg, so I scale by 0.83 (square-root damped). That projects 3.6 against a reference of 4.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 67%. The game line is CHI -3, total 45.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Book lines 10/7 (RotoWire props table, 4 books): Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Hard Rock Bet 4.5; I used 4.5 as the reference against my 3.6 projection. Book lines (RotoWire, 2026-10-09): BetMGM 4.5, BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5.",
   "bio": {
    "age": 23,
@@ -11973,7 +11985,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "GB",
   "teamOutlook": {
    "allowed": "CHI allows 194 pass / 102 rush yds per game",
@@ -12082,6 +12094,7 @@
  },
  {
   "id": "2026-10-05-nfl-130",
+  "actual": "3 sacks",
   "analysis": "Will Anderson Jr. (DE, HOU) played in HOU's most recent game. His sacks in the 4 games where he recorded the stat this season: 0.5, 1, 2.5, 0.5, an average of 1.1. Weighting the most recent game a bit more gives 1.1. That projects 1.1 against a reference of 0.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Treating it as a Poisson count with mean 1.06, the chance of 1+ is about 65%. The game line is HOU -7.5, total 38.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Sweep 10/11: Anderson returned to full practice Friday after missing Wednesday; no game designation.",
   "bio": {
    "age": 25,
@@ -12155,7 +12168,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "hit",
   "team": "HOU",
   "teamOutlook": {
    "allowed": "TEN allows 220 pass / 123 rush yds per game",
@@ -12167,6 +12180,7 @@
  },
  {
   "id": "2026-10-05-nfl-131",
+  "actual": "1 rec",
   "analysis": "Carnell Tate (WR, TEN) played in TEN's most recent game. His receptions in the 4 games where he recorded the stat this season: 4, 3, 6, 9, an average of 5.5. Weighting the most recent game a bit more gives 5.9; HOU allows 24 receptions/g vs 21 avg, so I scale by 1.07 (square-root damped). That projects 6.3 against a reference of 5.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the More at about 63%. The game line is HOU -7.5, total 38.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Book lines 10/7 (RotoWire props table, 2 books): DraftKings 4.5, Hard Rock Bet 4.5; I used 4.5 as the reference against my 6.3 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: Tate (back) was limited Thursday and Friday and carries a questionable tag into Sunday; the Titans are 0-4 entering the game. Sweep 10/11: Tate (back) is questionable, limited Thu/Fri; a Fantasy Footballers item attributes to Saleh that he is good to go (undated, unconfirmed). Hooker (S) out. Tate's receiving yards line rose 50.5 to 54.5 by Oct 9 (SportsBettingDime, book unnamed).",
   "bio": {
    "age": 21,
@@ -12286,7 +12300,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "TEN",
   "teamOutlook": {
    "allowed": "HOU allows 278 pass / 84 rush yds per game",
@@ -12298,6 +12312,7 @@
  },
  {
   "id": "2026-10-05-nfl-132",
+  "actual": "5 solo tkl",
   "analysis": "Jordan Battle (S, CIN) played in CIN's most recent game. His solo tackles in the 4 games where he recorded the stat this season: 6, 4, 3, 3, an average of 4.0. Weighting the most recent game a bit more gives 3.9; MIA runs 50 offensive plays/g vs 59 avg, so I scale by 0.92 (square-root damped). That projects 3.6 against a reference of 4.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 68%. The game line is CIN -7, total 42.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Sweep 10/11: With Dugger out and Cook questionable, Battle is in line for a full-time safety role. MIA is a 7-pt home underdog and likely to throw more. Sweep 10/11: Bengals S Dugger (quad) is out; Battle has no designation, so his defensive role is more secure, a risk to a Less.",
   "bio": {
    "age": 25,
@@ -12375,7 +12390,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Solo tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "CIN",
   "teamOutlook": {
    "allowed": "MIA allows 235 pass / 109 rush yds per game",
@@ -12387,6 +12402,7 @@
  },
  {
   "id": "2026-10-05-nfl-133",
+  "actual": "43 rec yds",
   "analysis": "Malik Washington (WR, MIA) played in MIA's most recent game. His receiving yards in the 4 games where he recorded the stat this season: 53, 43, 56, 67, an average of 54.8. Weighting the most recent game a bit more gives 56.1; CIN allows 272 pass yds/g vs 235 avg, so I scale by 1.08 (square-root damped). That projects 60.4 against a reference of 54.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the More at about 62%. The game line is CIN -7, total 42.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Wed 10/7: Chase in protocol, Higgins day-to-day; MIA has Reese Taylor out, Trader questionable. Book lines (RotoWire, 2026-10-09): BetMGM 42.5, BetRivers 49.5, Betr 43.5, Caesars 44.5, DraftKings 42.5, FanDuel 44.5, Fanatics 45.5, Hard Rock Bet 44.5, theScore 47.5; consensus 44.5. Book lines (RotoWire, 2026-10-10): BetMGM 46.5, BetRivers 49.5, Betr 45.5, Caesars 44.5, DraftKings 45.5, FanDuel 44.5, Fanatics 40.5, Hard Rock Bet 44.5, theScore 44.5; consensus 44.5. Sweep 10/11: Washington 5/5 for 67 yds in the 15-10 loss at MIN; receptions line 4.5 (BetMGM over -115) and longest reception 17.5 (DK). Sweep 10/11: Dolphins WR Caleb Douglas (ankle) and TE Justin Joly (concussion) are out, leaving more targets for the remaining receivers.",
   "bio": {
    "age": 25,
@@ -12517,7 +12533,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "miss",
   "team": "MIA",
   "teamOutlook": {
    "allowed": "CIN allows 272 pass / 100 rush yds per game",
@@ -12529,6 +12545,7 @@
  },
  {
   "id": "2026-10-05-nfl-134",
+  "actual": "7 solo tkl",
   "analysis": "Quincy Williams (LB, CLE) played in CLE's most recent game. His solo tackles in the 4 games where he recorded the stat this season: 3, 4, 5, 0, an average of 3.0. Weighting the most recent game a bit more gives 2.7; NYJ runs 54 offensive plays/g vs 59 avg, so I scale by 0.95 (square-root damped). That projects 2.5 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 70%. The game line is NYJ -2.5, total 39.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Sweep 10/11: With Kiko Mauigoa out, Jets LBs should see more snaps (inference), a risk to a Less on tackles.",
   "bio": {
    "age": 30,
@@ -12598,7 +12615,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Solo tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "CLE",
   "teamOutlook": {
    "allowed": "NYJ allows 206 pass / 124 rush yds per game",
@@ -12610,6 +12627,7 @@
  },
  {
   "id": "2026-10-05-nfl-135",
+  "actual": "2 rec",
   "analysis": "Kenyon Sadiq (TE, NYJ) played in NYJ's most recent game. His receptions in the 4 games where he recorded the stat this season: 3, 2, 7, 0, an average of 3.0. Weighting the most recent game a bit more gives 2.7; CLE allows 22 receptions/g vs 21 avg, so I scale by 1.02 (square-root damped). That projects 2.7 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 62%. The game line is NYJ -2.5, total 39.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Book lines (RotoWire, 2026-10-09): Caesars 3.5, DraftKings 3.5, FanDuel 3.5, Fanatics 4.5, Hard Rock Bet 3.5; consensus 3.5. Book lines (RotoWire, 2026-10-10): BetMGM 3.5, BetRivers 3.5, Betr 3.5, Caesars 3.5, DraftKings 3.5, FanDuel 3.5, Fanatics 3.5, Hard Rock Bet 3.5, theScore 3.5; consensus 3.5. Sweep 10/11: Sadiq has 12 receptions for 143 yards through 4 games. Teammate TE Mason Taylor is listed doubtful by NBC but a full participant by the Jets' site; recheck before kickoff. Sweep 10/11: Browns TE Carsen Ryan (calf) and WR Tylan Wallace (knee) are out, so Sadiq may see more snaps and targets; the low total (DK 39.5) partly offsets.",
   "bio": {
    "age": 21,
@@ -12736,7 +12754,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "hit",
   "team": "NYJ",
   "teamOutlook": {
    "allowed": "CLE allows 254 pass / 113 rush yds per game",
@@ -12748,6 +12766,7 @@
  },
  {
   "id": "2026-10-05-nfl-136",
+  "actual": "6 tkl+ast",
   "analysis": "Roy Lopez (DT, ARI) played in ARI's most recent game. His tackles + assists in the 3 games where he recorded the stat this season: 4, 4, 6, an average of 4.7. Weighting the most recent game a bit more gives 4.9; DET runs 65 offensive plays/g vs 59 avg, so I scale by 1.04 (square-root damped). That projects 5.1 against a reference of 4.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the More at about 60%. The game line is DET -4.5, total 54.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Sweep 10/11: Lopez has 4, 4, 0 and 6 combined tackles; the 5.1 projection is above his 3.5 average.",
   "bio": {
    "age": 29,
@@ -12821,7 +12840,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Tackles + assists",
-  "status": "pending",
+  "status": "hit",
   "team": "ARI",
   "teamOutlook": {
    "allowed": "DET allows 327 pass / 120 rush yds per game",
@@ -12833,6 +12852,7 @@
  },
  {
   "id": "2026-10-05-nfl-137",
+  "actual": "5 solo tkl",
   "analysis": "Fred Warner (LB, SF) played in SF's most recent game. His solo tackles in the 4 games where he recorded the stat this season: 5, 1, 7, 3, an average of 4.0. Weighting the most recent game a bit more gives 3.9; SEA runs 58 offensive plays/g vs 59 avg, so I scale by 0.99 (square-root damped). That projects 3.8 against a reference of 4.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 62%. The game line is SEA -2.5, total 46.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Sweep 10/11: Warner's solo tackles by game are 5, 1, 7, 3 with combined totals of 11, 5, 17, 7. Sweep 10/11: SF is without Bosa and DT Thompson; a thinner front can raise LB tackle volume, a risk to a Less on Warner's solo tackles. Covers: SEA -3.5, total 46.5.",
   "bio": {
    "age": 29,
@@ -12914,7 +12934,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Solo tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "SF",
   "teamOutlook": {
    "allowed": "SEA allows 161 pass / 102 rush yds per game",
@@ -12926,6 +12946,7 @@
  },
  {
   "id": "2026-10-05-nfl-138",
+  "actual": "3 rec",
   "analysis": "Christian McCaffrey (RB, SF) played in SF's most recent game. His receptions in the 4 games where he recorded the stat this season: 5, 4, 4, 3, an average of 4.0. Weighting the most recent game a bit more gives 3.9; SEA allows 20 receptions/g vs 21 avg, so I scale by 0.96 (square-root damped). That projects 3.7 against a reference of 4.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 65%. The game line is SEA -2.5, total 46.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Hard Rock Bet 4.5, BetMGM 4.5, theScore 4.5; I used 4.5 as the reference against my 3.7 projection. Book lines (RotoWire, 2026-10-09): BetMGM 4.5, BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: McCaffrey has 5, 4, 4 and 3 catches in 2026 (never above 4.5) with 10, 10, 15 and 15 rushes the last four weeks; SF WR Kirk/Pearsall/Robinson are on IR, so target share is thin.",
   "bio": {
    "age": 30,
@@ -13048,7 +13069,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "hit",
   "team": "SF",
   "teamOutlook": {
    "allowed": "SEA allows 161 pass / 102 rush yds per game",
@@ -13060,6 +13081,7 @@
  },
  {
   "id": "2026-10-05-nfl-139",
+  "actual": "9 long rec yds",
   "analysis": "Cooper Kupp (WR, SEA) played in SEA's most recent game. His longest reception in the 4 games where he recorded the stat this season: 24, 16, 19, 13, an average of 18.0. Weighting the most recent game a bit more gives 17.4; SF allows 215 pass yds/g vs 235 avg, so I scale by 0.96 (square-root damped). That projects 16.7 against a reference of 18.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 61%. The game line is SEA -2.5, total 46.5. The main risks are a small sample, game script and target or carry share shifting week to week. ESPN's injury report did not list him as out or doubtful when I checked. Sweep 10/11: Kupp has 35, 46, 20 and 13 yds on 1 to 4 catches per game; 46 total yds was his best.",
   "bio": {
    "age": 33,
@@ -13137,7 +13159,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Longest reception",
-  "status": "pending",
+  "status": "hit",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "SF allows 215 pass / 100 rush yds per game",
@@ -13247,6 +13269,7 @@
  },
  {
   "id": "2026-10-05-nfl-140",
+  "actual": "2 solo tkl",
   "analysis": "Marlon Humphrey (CB, BAL) played in BAL's most recent game. His solo tackles in the 4 games where he recorded the stat this season: 3, 4, 5, 1, an average of 3.2. Weighting the most recent game a bit more gives 3.0; ATL runs 60 offensive plays/g vs 59 avg, so I scale by 1.00 (square-root damped). That projects 3.0 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the Less at about 61%. The game line is ATL -3.5, total 43.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Wed 10/7: ESPN feed lists Humphrey (calf) questionable after leaving the Titans game; if he is out the Less lean on solo tackles is moot. Check Friday report. Sweep 10/11: Humphrey is questionable with a calf/hamstring issue; his solo tackles were 1, 5, 4 and 3. Add an injury condition to the pick. Sweep 10/11: CBS still lists Humphrey questionable (calf, 10/4 entry); Hendrickson (BAL pass rusher) is out. Confirm Humphrey is active.",
   "bio": {
    "age": 30,
@@ -13329,7 +13352,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T20:20:00-04:00",
   "stat": "Solo tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "BAL",
   "teamOutlook": {
    "allowed": "ATL allows 276 pass / 48 rush yds per game",
@@ -13341,6 +13364,7 @@
  },
  {
   "id": "2026-10-05-nfl-141",
+  "actual": "6 solo tkl",
   "analysis": "Malaki Starks (S, BAL) played in BAL's most recent game. His solo tackles in the 4 games where he recorded the stat this season: 2, 3, 4, 6, an average of 3.8. Weighting the most recent game a bit more gives 4.0; ATL runs 60 offensive plays/g vs 59 avg, so I scale by 1.00 (square-root damped). That projects 4.0 against a reference of 3.5; no book line was posted when I checked, so the reference is the half-point nearest his season average. Using his game-to-game spread, that puts the More at about 60%. The game line is ATL -3.5, total 43.5. Defensive and kicking stats swing with game script and snap counts, so this is a low-confidence lean. ESPN's injury report did not list him as out or doubtful when I checked. Replaces a pick on a player ruled out per ESPN injury feed Oct 10; defensive prop at low confidence. Sweep 10/11: Starks has 6, 4, 3 and 2 solo tackles (combined 6, 6, 4, 7) in 2026; no injury designation.",
   "bio": {
    "age": 22,
@@ -13418,7 +13442,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T20:20:00-04:00",
   "stat": "Solo tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "BAL",
   "teamOutlook": {
    "allowed": "ATL allows 276 pass / 48 rush yds per game",
@@ -14308,6 +14332,7 @@
  },
  {
   "id": "2026-10-05-nfl-150",
+  "actual": "19 cmp",
   "analysis": "Purdy completed 25, 15, 20 and 19 passes (19.75 average) on 34, 27, 22 and 30 attempts, and San Francisco has leaned on McCaffrey, Kittle and play-action. In three 2025 games against Seattle he completed 26 of 35, 19 of 27 and 15 of 27. Seattle has allowed 18.25 points a game this season. I project 19.0 completions against a reference of 20.5, shading the average down for the matchup. Risk is Seattle building a lead that forces Purdy into a 35-attempt game, since he has gone 34 and 35 attempts before. No book line was found, so the side is measured against my reference of 20.5. Book lines 10/7 (RotoWire props table, 5 books): BetRivers 21.5, Caesars 21.5, DraftKings 20.5, Hard Rock Bet 20.5, BetMGM 20.5; I used 20.5 as the reference against my 19 projection. Book lines (RotoWire, 2026-10-09): BetMGM 20.5, BetRivers 21.5, Betr 20.5, Caesars 20.5, DraftKings 20.5, Fanatics 20.5, Hard Rock Bet 20.5, theScore 20.5; consensus 20.5. Sweep 10/11: Purdy completed 25, 20, 15 and 19 passes in 2026 for 205, 287, 297 and 218 yds; only 1 of 4 over 20.5.",
   "bio": {
    "age": 26,
@@ -14411,7 +14436,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Passing completions",
-  "status": "pending",
+  "status": "hit",
   "team": "SF",
   "teamOutlook": {
    "allowed": "~25.0 implied; San Francisco defense has allowed 16.0 ppg",
@@ -14423,6 +14448,7 @@
  },
  {
   "id": "2026-10-05-nfl-151",
+  "actual": "7 rec",
   "analysis": "Mike Evans caught 5 of 8 targets for 76 yards against Denver last week, 3 for 34 against Arizona, 3 for 54 against Miami and 6 for 49 against the Rams. That is 4.25 catches per game on about 6 targets with Christian Kirk on IR. Seattle is a close game on a 46.5 to 47.5 total, so San Francisco should keep throwing. I project 4.2 catches against a reference of 3.5. Risk is Seattle's pass defense taking away the outside targets and Evans seeing fewer than 6 targets. No book line was found, so the side is measured against my reference of 3.5. Book lines 10/7 (RotoWire props table, 6 books): BetRivers 4.5, Caesars 4.5, DraftKings 3.5, FanDuel 3.5, Hard Rock Bet 4.5, theScore 4.5; I used 4.5 as the reference against my 4.2 projection. The side was flipped to match the projection versus the posted line. Book lines (RotoWire, 2026-10-09): BetMGM 4.5, BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 3.5, FanDuel 3.5, Fanatics 4.5, Hard Rock Bet 3.5, theScore 3.5; consensus 4.5. Book lines (RotoWire, 2026-10-10): BetMGM 4.5, BetRivers 4.5, Betr 3.5, Caesars 4.5, DraftKings 3.5, FanDuel 3.5, Fanatics 4.5, Hard Rock Bet 3.5, theScore 3.5; consensus 3.5. Side moved to More: projection 4.2 vs the book line. Sweep 10/11: Evans has 6, 3, 3 and 5 catches (49, 54, 34, 76 yds) with 8 targets last week; Khadarel Hodge (WR) is questionable and Kirk/Pearsall/Robinson are on IR (CBS). Sweep 10/11: SF WRs Pearsall, Kirk and Robinson are on IR and Hodge is questionable, concentrating targets.",
   "bio": {
    "age": 33,
@@ -14530,7 +14556,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "hit",
   "team": "SF",
   "teamOutlook": {
    "allowed": "~25.0 implied; San Francisco defense has allowed 16.0 ppg",
@@ -14624,6 +14650,7 @@
  },
  {
   "id": "2026-10-05-nfl-153",
+  "actual": "86 rush yds",
   "analysis": "Bijan Robinson has 123.5 rushing yards per game on carries of 21, 16, 29 and 19, and he opened this week by running for 145 yards and two scores in a 45-24 win over New Orleans. Brian Robinson Jr. also gets 9 to 14 carries, so Bijan is not a 25-carry back every week, which is why I trim to 105 against a reference of 94.5. The game is roughly a pick-em on a 44.5 total, so Atlanta should stay competitive. A short week after Monday night is a small concern. The risk is Baltimore's front limiting him, or Lamar Jackson playing and Baltimore controlling the ball. No book line was found, so the side is measured against my reference of 94.5. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 90.5, Caesars 89.5, DraftKings 90.5, Fanatics 85.5, FanDuel 88.5, Hard Rock Bet 88.5, theScore 89.5; I used 89.5 as the reference against my 105 projection. Book lines (RotoWire, 2026-10-09): BetMGM 89.5, BetRivers 90.5, Betr 89.5, Caesars 88.5, DraftKings 89.5, FanDuel 88.5, Fanatics 90.5, Hard Rock Bet 88.5, theScore 89.5; consensus 89.5. Book lines (RotoWire, 2026-10-10): BetMGM 86.5, BetRivers 88.5, Betr 89.5, Caesars 87.5, Circa Sports 90.5, DraftKings 88.5, FanDuel 88.5, Fanatics 85.5, Hard Rock Bet 88.5, theScore 89.5; consensus 88.5. Sweep 10/11: Robinson has 494 rush yds at 5.8 ypc and 339 yds in the last two games (145 at NO, 194 at GB). Baltimore allows 3.9 yards per carry and ranks 16th in EPA per rush (SI). Sweep 10/11: Baltimore is without Jackson and ATL is a 3.5-point favorite (Covers), a positive script for Robinson; context only.",
   "bio": {
    "age": 24,
@@ -14747,7 +14774,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T20:20:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "~22 implied; Atlanta defense has allowed 23.0 ppg",
@@ -14836,6 +14863,7 @@
  },
  {
   "id": "2026-10-05-nfl-155",
+  "actual": "7 rec",
   "analysis": "Drake London caught 5 of 6 targets for 96 yards against New Orleans, 9 for 194 against Green Bay, 4 for 51 against Carolina and 2 for 29 against Pittsburgh. That is 5.0 per game on about 6.5 targets; Michael Penix Jr. targeted him 6 times on Monday. Atlanta's passing volume is modest (Penix attempted 20 and 25), which is why my projection is only 5.0 against a reference of 4.5. Atlanta's other receivers (Dotson, Pitts) have 0 to 3 catches a game, so London is the clear main option. Risk is Baltimore's cornerbacks limiting him and Atlanta running more. No book line was found, so the side is measured against my reference of 4.5. Book lines 10/7 (RotoWire props table, 6 books): BetRivers 6.5, Caesars 6.5, DraftKings 5.5, FanDuel 6.5, Hard Rock Bet 5.5, theScore 5.5; I used 5.5 as the reference against my 5 projection. The side was flipped to match the projection versus the posted line. Book lines (RotoWire, 2026-10-09): BetMGM 6.5, BetRivers 6.5, Betr 5.5, Caesars 5.5, DraftKings 5.5, FanDuel 5.5, Fanatics 6.5, Hard Rock Bet 5.5, theScore 5.5; consensus 5.5. Book lines (RotoWire, 2026-10-10): BetMGM 5.5, BetRivers 6.5, Betr 5.5, Caesars 6.5, Circa Sports 5.5, DraftKings 5.5, FanDuel 5.5, Fanatics 6.5, Hard Rock Bet 5.5, theScore 6.5; consensus 5.5. Sweep 10/11: London's catches by game are 2, 4, 9 and 5 on 5, 5, 10 and 6 targets. He has gone over 5.5 once in four games.",
   "bio": {
    "age": 25,
@@ -14947,7 +14975,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T20:20:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "~22 implied; Atlanta defense has allowed 23.0 ppg",
@@ -14959,6 +14987,7 @@
  },
  {
   "id": "2026-10-05-nfl-156",
+  "actual": "32 pass att",
   "analysis": "Penix attempted 20 passes (15 completions, 223 yards) in Monday's 45-24 win over New Orleans and 25 in the win over Green Bay, so his workload on this log is light (two games). Cooper Rush attempted 22 and 17 passes in the first two games. Bijan Robinson had 19 and 29 carries in the last two games and Brian Robinson Jr. added 14 and 10. With a close game on a 44.5 total, Atlanta can keep leaning on the run. I project 23 attempts against a reference of 26.5. The risk is Baltimore scoring early and forcing Atlanta to chase, or Lamar Jackson sitting and Atlanta being a favorite with a lead. No book line was found, so the side is measured against my reference of 26.5. Book lines 10/7 (RotoWire props table, 3 books): Caesars 29.5, DraftKings 29.5, Hard Rock Bet 29.5; I used 29.5 as the reference against my 23 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Sweep 10/11: Penix threw 20 and 25 attempts in his two logged 2026 games (15/20, 223 yds vs NO; 18/25, 256 yds at GB). Atlanta is run-heavy (No. 1 or 3 in rush-play pct per Covers). Sweep 10/11: Covers lists ATL -3.5, total 43; CBS lists Jackson out. ATL CB Terrell is on IR.",
   "bio": {
    "age": 26,
@@ -15050,7 +15079,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T20:20:00-04:00",
   "stat": "Passing attempts",
-  "status": "pending",
+  "status": "miss",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "~22 implied; Atlanta defense has allowed 23.0 ppg",
@@ -15208,6 +15237,7 @@
  },
  {
   "id": "2026-10-05-nfl-159",
+  "actual": "60 rush+rec yds",
   "analysis": "Chase Brown's yardage splits are rush 56, 80, 61 and 10 plus receiving 22, 2, 8 and 71, which total 78, 82, 69 and 81. His catches climbed to 11 on 11 targets against Jacksonville with Chase and Higgins hurt. Chase is questionable with a concussion and Higgins with an adductor strain, so Burrow's check-downs could keep going to Brown. Cincinnati is a 7.5-point favorite, which should produce rushing attempts too. I project 77 yards against a reference of 72.5. The risk is Chase and Higgins both returning and trimming his target share. No book line was found, so the side is measured against my reference of 72.5. Book lines (RotoWire, 2026-10-10): Fanatics 99.5; consensus 99.5. Side moved to Less: projection 77 vs the book line. Sweep 10/11: Brown rush yds 66.5 (BetMGM over -115), rush att 16.5, rec yds 21.5, receptions 3.5 (DK). Last game 81 total yards on 20 touches vs JAX.",
   "bio": {
    "age": 26,
@@ -15279,7 +15309,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rush + rec yards",
-  "status": "pending",
+  "status": "hit",
   "team": "CIN",
   "teamOutlook": {
    "allowed": "~17.5 implied; Cincinnati defense has allowed 21.25 ppg",
@@ -15434,6 +15464,7 @@
  },
  {
   "id": "2026-10-05-nfl-160",
+  "actual": "15 cmp",
   "analysis": "Malik Willis completed 9 of 17 for 85 yards against Minnesota, 20 of 36 against Kansas City, 14 of 23 against San Francisco and 15 of 27 against Las Vegas. Miami scores only 11.5 points a game and De'Von Achane is on IR, so Gordon carried nine times for 100 yards last week. Cincinnati is a 7.5-point favorite, which could push Miami to throw more in the second half. I project 13.5 completions against a reference of 14.5. Risk is Cincinnati's offense jumping out and forcing Willis to the 36-attempt volume he had against Kansas City. No book line was found, so the side is measured against my reference of 14.5. Book lines (RotoWire, 2026-10-09): BetMGM 16.5, BetRivers 16.5, Betr 16.5, Caesars 16.5, DraftKings 16.5, Fanatics 16.5, Hard Rock Bet 16.5, theScore 16.5; consensus 16.5. Book lines (RotoWire, 2026-10-10): BetMGM 16.5, BetRivers 16.5, Betr 16.5, Caesars 17.5, DraftKings 17.5, Fanatics 17.5, Hard Rock Bet 16.5, theScore 17.5; consensus 17. Sweep 10/11: Willis completed 9 of 17 vs MIN last week; attempts line is 28.5. Passing yds line 190.5.",
   "bio": {
    "age": 27,
@@ -15533,7 +15564,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing completions",
-  "status": "pending",
+  "status": "hit",
   "team": "MIA",
   "teamOutlook": {
    "allowed": "~25.0 implied; Miami defense has allowed 25.25 ppg",
@@ -15622,6 +15653,7 @@
  },
  {
   "id": "2026-10-05-nfl-162",
+  "actual": "1 INT",
   "analysis": "Justin Herbert has thrown an interception in every game this season: 1 against Arizona, 2 against Las Vegas, 1 against Buffalo and 2 against Seattle last week. His offensive line is hurting, with Rashawn Slater out and Joe Alt and Trevor Penning questionable, and ESPN's note says he took six sacks last week. Denver's safeties Talanoa Hufanga (2 INTs against the Rams) and Brandon Jones are active, though Pat Surtain II is doubtful and Riley Moss is questionable. I project 1.1 interceptions against a reference of 0.5. The risk is that a low 42.5 total means fewer pass attempts. No book line was found, so the side is measured against my reference of 0.5. Wed 10/7: LAC OL depleted (Slater out 4-6 wks; Alt, Penning questionable), raising pressure and INT risk for Herbert. Book lines 10/7 (RotoWire props table, 2 books): Caesars 0.5, DraftKings 0.5; I used 0.5 as the reference against my 1.1 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetRivers 0.5, Caesars 0.5, DraftKings 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Herbert has thrown 6 INTs in 4 games (1, 2, 1, 2), going over 0.5 every week, behind a LAC line missing Joe Alt (out) and Slater/Penning (IR). Sweep 10/11: With Alt, Slater and Awosika out, Herbert faces more pressure risk; DEN's top two CBs are also out, which cuts both ways for turnovers.",
   "bio": {
    "age": 28,
@@ -15717,7 +15749,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:05:00-04:00",
   "stat": "Interceptions thrown",
-  "status": "pending",
+  "status": "hit",
   "team": "LAC",
   "teamOutlook": {
    "allowed": "~23.0 implied; Los Angeles defense has allowed 26.5 ppg",
@@ -15729,6 +15761,7 @@
  },
  {
   "id": "2026-10-05-nfl-163",
+  "actual": "19 cmp",
   "analysis": "Cousins has 93 completions on 144 attempts through four games, and last Sunday's 31 of 52 for 365 yards was his biggest workload. Las Vegas is a 3.5-point underdog at New England (DraftKings 45.5 total), which points toward a pass-heavy script again. Brock Bowers (10 and 6 catches in the last two games) and Jeanty (6 catches in two of four games) give him short targets, but Jalen Nailor left the KC game with a concussion and is listed questionable. New England has allowed 19.2 points per game but gave up 35 at Jacksonville, and CBs Christian Gonzalez and Channing Canada are both listed questionable. No line was found; I project 24 completions, a shade above his 23.25 average because of the trailing script. Main risk: he was sacked 5 times in the first three games and a game plan that leans on Jeanty could cut attempts back toward 30. Wed update: Jalen Nailor left Wk4 with a concussion (ESPN feed), thinning LV WRs; DK has NE -3.5, total 45.5 so LV likely trailing and passing. Book lines 10/7 (RotoWire props table, 4 books): BetRivers 21.5, Caesars 21.5, DraftKings 21.5, Hard Rock Bet 21.5; I used 21.5 as the reference against my 24 projection. Book lines (RotoWire, 2026-10-09): BetMGM 21.5, BetRivers 21.5, Betr 21.5, Caesars 22.5, DraftKings 21.5, Fanatics 21.5, Hard Rock Bet 21.5, theScore 21.5; consensus 21.5. Book lines (RotoWire, 2026-10-10): BetMGM 21.5, BetRivers 21.5, Betr 21.5, Caesars 22.5, DraftKings 22.5, Fanatics 21.5, Hard Rock Bet 22.5, theScore 22.5; consensus 22. Sweep 10/11: Cousins completed 31 of 52 attempts last week vs KC; NE has four CBs out (Gonzalez, Davis, Prunty, Canada). Book attempts line is 33.5 (DK over -118). Sweep 10/11: Cousins attempted 52 passes last week; NE CBs Gonzalez, Davis, Prunty and Canada out, LV WRs Nailor and Thornton out.",
   "bio": {
    "age": 38,
@@ -15845,7 +15878,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing completions",
-  "status": "pending",
+  "status": "miss",
   "team": "LV",
   "teamOutlook": {
    "allowed": "~24.5 (implied); NE has allowed 19.2 ppg",
@@ -15857,6 +15890,7 @@
  },
  {
   "id": "2026-10-05-nfl-164",
+  "actual": "77 rush+rec yds",
   "analysis": "Jeanty's four games of rush plus receiving yards are 147, 63, 93 and 126, an average of 107.25, with six catches in two of them. His carries have slid from 23 to 15 as Las Vegas trails or trades scores, and Mike Washington Jr. is mixed in. New England is a 3.5-point home favorite, which tends to push Las Vegas to the air. In Week 1 of 2025 Jeanty carried 19 times for 38 yards and caught 2 for 2 against this defense. No line was found, so I use his average as the reference and project 98 yards on a slightly lower carry count. Main risk is the receiving work: if he gets 6 catches again he clears 100 easily. Book lines (RotoWire, 2026-10-09): BetMGM 89.5, BetRivers 89.5, Betr 89.5, DraftKings 87.5, FanDuel 88.5, Fanatics 85.5, Hard Rock Bet 87.5, theScore 84.5; consensus 88. Side moved to More: projection 98 vs the book line. Book lines (RotoWire, 2026-10-10): Fanatics 89.5; consensus 89.5. Sweep 10/11: Backup RBs Mike Washington Jr. (9 carries, 18 yds vs KC) and Dylan Laube are on the roster. Jeanty only has an anytime TD price (+102 BetRivers) listed; no yardage line. Sweep 10/11: Jeanty is questionable (ankle/foot) and did not practice Friday; he must pass a pregame workout. LV is 30th in rush success rate; NE -3.5 (DK), total about 45.5.",
   "bio": {
    "age": 22,
@@ -15937,7 +15971,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rush + rec yards",
-  "status": "pending",
+  "status": "miss",
   "team": "LV",
   "teamOutlook": {
    "allowed": "~24.5 (implied); NE has allowed 19.2 ppg",
@@ -16032,6 +16066,7 @@
  },
  {
   "id": "2026-10-05-nfl-166",
+  "actual": "11 rec",
   "analysis": "Likely's reception log is 8, 5, 2, 7 on 8, 10, 5 and 12 targets, an average of 5.5 catches and 8.75 targets. Last Sunday he caught seven for 66 yards, and Braxton Berrios is doubtful with a foot/ankle injury, which trims the target pool. Washington has allowed 30.5 points per game and is a 3.5-point favorite, so the Giants should be throwing from behind at times. Jameis Winston has averaged 26 attempts, which caps volume. No line was found; I use 5.5 as the reference and project 6 catches. The main risk is a run-heavy plan (Skattebo has 18 or more carries in three of four games) that drops him to the 2-catch game he had against Tennessee. Book lines (RotoWire, 2026-10-09): BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Book lines (RotoWire, 2026-10-10): BetMGM 4.5, BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: Likely rec yds line 42.5 (DK over -109). WSH safeties Butler, Cross, Owens are out. Sweep 10/11: Likely practiced fully Friday; no injury flag. Washington safeties Butler, Cross and Owens are out.",
   "bio": {
    "age": 26,
@@ -16144,7 +16179,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "hit",
   "team": "NYG",
   "teamOutlook": {
    "allowed": "~23.5 (implied); WSH has scored 22.0 ppg",
@@ -16239,6 +16274,7 @@
  },
  {
   "id": "2026-10-05-nfl-168",
+  "actual": "33 cmp",
   "analysis": "Winston has 43 completions on 78 attempts across three games, a 14.3 average, with 22 to 29 attempts per game and 9 sacks taken. Washington has allowed 30.5 points per game, giving up 37 to Dallas and 31 to Seattle, and sits as a 3.5-point home favorite with a 43.5 total. Nabers (6 catches, 112 yards vs ARI) and Likely (7 catches) anchor the passing game while Berrios is doubtful. No line was found; I use 14.3 as the reference and project 16 completions. Main risk: New York leans on Skattebo and the run game when leading, as in a 22-attempt game against Tennessee. Book lines (RotoWire, 2026-10-09): BetMGM 18.5, BetRivers 19.5, Betr 18.5, Caesars 18.5, DraftKings 18.5, Fanatics 18.5, Hard Rock Bet 18.5, theScore 18.5; consensus 18.5. Side moved to Less: projection 16 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 18.5, BetRivers 18.5, Betr 18.5, Caesars 18.5, DraftKings 18.5, Fanatics 18.5, Hard Rock Bet 18.5, theScore 18.5; consensus 18.5. Sweep 10/11: Winston attempts line 30.5 (DK over -122). Last game 18/29; Washington safeties Butler, Cross, Owens are out, which favors volume rather than Less. Sweep 10/11: With four Washington DBs out, a Less on completions carries added risk.",
   "bio": {
    "age": 32,
@@ -16347,7 +16383,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing completions",
-  "status": "pending",
+  "status": "miss",
   "team": "NYG",
   "teamOutlook": {
    "allowed": "~23.5 (implied)",
@@ -16359,6 +16395,7 @@
  },
  {
   "id": "2026-10-05-nfl-169",
+  "actual": "16 cmp",
   "analysis": "Shough's completions are 35, 27, 29 and 30 on 56, 34, 42 and 48 attempts, with 12 sacks in four games. Minnesota has allowed 22, 3, 16 and 10 points, and Andrew Van Ginkel has 3.0 sacks in four games. Chris Olave (9 and 8 catches) and Juwan Johnson (59 yards, 6 catches Monday) keep him efficient, but New Orleans just lost 45-24 and Davon Godchaux and Kaden Elliss are on the questionable list. Minnesota is a 1.5-point favorite on a 42.5 total. No line was found; I set the reference at his 30.25 average and project 28 completions given the sack and pressure risk. Main risk: New Orleans trails and throws 50 times again. Book lines (RotoWire, 2026-10-09): BetMGM 23.5, BetRivers 23.5, Betr 23.5, Caesars 22.5, DraftKings 22.5, Fanatics 22.5, Hard Rock Bet 22.5, theScore 22.5; consensus 22.5. Side moved to More: projection 28 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 22.5, BetRivers 23.5, Betr 22.5, Caesars 22.5, DraftKings 22.5, Fanatics 22.5, Hard Rock Bet 22.5, theScore 22.5; consensus 22.5. Sweep 10/11: Shough has thrown an NFL-high 180 attempts at about 67 to 69% completion (roughly 30 completions per game) and went 30 of 48 last week. The 22.5 line looks low against that volume, though Minnesota has 74 pressures. Sweep 10/11: Shough leads the league at 49.3 dropbacks per game, but Minnesota allows the lowest completion rate (51.2%) and leads in pressure rate (45.8%); Saints OG Wright is out (Sharp Football).",
   "bio": {
    "age": 27,
@@ -16483,7 +16520,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing completions",
-  "status": "pending",
+  "status": "miss",
   "team": "NO",
   "teamOutlook": {
    "allowed": "~22.0 (implied); MIN has scored 21.5 ppg",
@@ -16700,6 +16737,7 @@
  },
  {
   "id": "2026-10-05-nfl-171",
+  "actual": "11 kick pts",
   "analysis": "Reichard's totals have risen each week and add to 42 points in four games, a 10.5 average. Minnesota's offense scores only 21.5 per game and its defense allows 12.8, which produces field-goal-heavy games like the 15-10 win over Miami. The Saints game total is 42.5, one of the lowest on the slate, with MIN -1.5. I use 10.5 as the reference and project 9, expecting his perfect field-goal rate to regress a little. No line was found. Main risk: Minnesota stalls in the red zone again, and a 5-FG game is easily reachable. Wed update: DK MIN -1.5, total 42.5. Book lines (RotoWire, 2026-10-09): DraftKings 7.5, Hard Rock Bet 7.5; consensus 7.5. Side moved to More: projection 9 vs the book line. Book lines (RotoWire, 2026-10-10): BetRivers 7.5, Caesars 7.5, DraftKings 7.5, Fanatics 7.5, Hard Rock Bet 7.5, theScore 7.5; consensus 7.5. Sweep 10/11: Reichard has made 31 consecutive field-goal attempts per Vikings.com. The game is indoors at Caesars Superdome with a 41.5 to 42.5 total.",
   "bio": {
    "age": 25,
@@ -16796,7 +16834,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Kicking points",
-  "status": "pending",
+  "status": "hit",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "~20.5 (implied); NO has scored 26.2 ppg",
@@ -16808,6 +16846,7 @@
  },
  {
   "id": "2026-10-05-nfl-172",
+  "actual": "3 rec",
   "analysis": "Downs has 17 catches on 28 targets for 202 yards in four games, with 9 and 11 targets in the middle two weeks. Keenan Allen is listed questionable and Alec Pierce is on injured reserve, so his slot role is a core target for Daniel Jones. In 2025 he caught 6 for 57 and a score at Pittsburgh and in 2024 he caught 8 for 82 and a score against them. Pittsburgh will be without CB Jamel Dean (doubtful) and just signed Sean Murphy-Bunting. No line was found; I use 4.25 as the reference and project 5. Risk: the Colts' 20-carry Taylor game plan limits Jones to about 31 attempts. Book lines (RotoWire, 2026-10-09): BetMGM 5.5, BetRivers 5.5, Betr 4.5, Caesars 5.5, DraftKings 4.5, FanDuel 4.5, Fanatics 5.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Book lines (RotoWire, 2026-10-10): BetMGM 4.5, BetRivers 5.5, Betr 4.5, Caesars 5.5, DraftKings 4.5, FanDuel 4.5, Fanatics 5.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: Downs played 51 snaps last week with a 14% target share, tying his season low. Slayton is out and Allen is questionable, which could raise his opportunities. Sweep 10/11: Colts WRs Slayton and Dulin are out, Pierce on IR, and Allen questionable (CBS), so Downs should see heavy volume. PIT CB Dean out, Ramsey questionable. FanDuel: Steelers -2.5, total 43.5.",
   "bio": {
    "age": 25,
@@ -16936,7 +16975,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "IND",
   "teamOutlook": {
    "allowed": "~23.5 (implied); PIT has scored 19.2 ppg",
@@ -16948,6 +16987,7 @@
  },
  {
   "id": "2026-10-05-nfl-173",
+  "actual": "10 tkl+ast",
   "analysis": "Wilson's tackles are 13, 6, 6 and 9 with 15 solo and 19 assisted, and he had a sack in the Cleveland loss. Pittsburgh lost DT Derrick Harmon to injured reserve on Monday, which hurts the run front and could send more plays to the second level. Indianapolis runs Jonathan Taylor 20-plus times (24, 23, 20) behind a high-scoring offense of 25.5 ppg. No line was found; I use 8.5 as the reference and project 9. Risk: Patrick Queen shares inside-linebacker work and a pass-heavy game (Jones threw 31-36 times) shifts snaps to nickel. Book lines (RotoWire, 2026-10-10): Fanatics 7.5; consensus 7.5. Sweep 10/11: Harmon (DT) is on IR and Dean (CB) out per CBS; Pittsburgh is a 2.5-point favorite.",
   "bio": {
    "age": 26,
@@ -17028,7 +17068,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles + assists",
-  "status": "pending",
+  "status": "hit",
   "team": "PIT",
   "teamOutlook": {
    "allowed": "~21.0 (implied); IND has scored 25.5 ppg",
@@ -17040,6 +17080,7 @@
  },
  {
   "id": "2026-10-05-nfl-174",
+  "actual": "6 rec",
   "analysis": "St. Brown's catches are 10, 9, 4 and 8 on 14, 13, 8 and 11 targets, and he has scored in three games. Arizona has allowed 29.2 points per game, including 36 to the Giants and 31 to Seattle, and Detroit is a 4.5-point road favorite with a 54.5 total, the highest on this slate. Jared Goff attempted 52 passes against Carolina, and Detroit's secondary injuries (Branch and Kerby Joseph out, Ya-Sin doubtful) can keep the game high-scoring. No line was found; I use 7.75 as the reference and project 8.5. Main risk is a 4-catch game like the Jets win. Book lines 10/7 (RotoWire props table, 5 books): Caesars 7.5, DraftKings 6.5, FanDuel 6.5, Hard Rock Bet 6.5, BetMGM 7.5; I used 6.5 as the reference against my 8.5 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 7.5, BetRivers 7.5, Betr 7.5, Caesars 7.5, DraftKings 7.5, FanDuel 6.5, Fanatics 7.5, Hard Rock Bet 7.5, theScore 7.5; consensus 7.5. Sweep 10/11: St. Brown has 10, 9, 4 and 8 catches on 14, 13, 8 and 11 targets (31 for 303 yds per StatMuse totals); over 7.5 in 3 of 4.",
   "bio": {
    "age": 26,
@@ -17152,7 +17193,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "DET",
   "teamOutlook": {
    "allowed": "~25.0 (implied); ARI has scored 21.8 ppg",
@@ -17164,6 +17205,7 @@
  },
  {
   "id": "2026-10-05-nfl-175",
+  "actual": "1 tkl+ast",
   "analysis": "Izien has 25 tackles in three games, with 11 (nine solo) against the Jets and 11 (7 solo, 1 sack) at Carolina. Brian Branch (Achilles) and Kerby Joseph are listed out and Thomas Harper is on injured reserve, so Izien is a full-time safety with every-down responsibility. Arizona is a 4.5-point home underdog and scored 24 against the Giants, so plenty of plays will test the back end. No line was found; I use 8.0 as the reference and project 8.5. Risk: Rock Ya-Sin is doubtful and a thin secondary could be beaten deep, which lowers tackle chances. Book lines (RotoWire, 2026-10-10): Fanatics 8.5; consensus 8.5. Sweep 10/11: Izien posted 3, 11 and 11 combined tackles in 3 games; Detroit's secondary is thinned by Ya-Sin (out) and Branch/Joseph (PUP).",
   "bio": {
    "age": 26,
@@ -17244,7 +17286,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Tackles + assists",
-  "status": "pending",
+  "status": "miss",
   "team": "DET",
   "teamOutlook": {
    "allowed": "~25.0 (implied); ARI has scored 21.8 ppg",
@@ -17347,6 +17389,7 @@
  },
  {
   "id": "2026-10-05-nfl-177",
+  "actual": "9 kick pts",
   "analysis": "Bates has 35 kicking points in four games, 8.75 per game, and is 7 of 7 on field goals. Detroit is a 4.5-point favorite on a 54.5 total, which implies about 29.5 points, roughly 3.5 extra points plus about two field goals. Arizona has allowed 29.2 points per game, but also gave up 36 to the Giants, so the Lions should reach scoring range often. No line was found; I use 8.5 as the reference and project 9.5 points. Main risk: Detroit converts drives into touchdowns (Gibbs has scored in all four games), which gives 1 point instead of 3 for the kicker, or turns the game into a rout. Wed update: DK DET -5.5, total 54.5 at ARI. Book lines (RotoWire, 2026-10-09): DraftKings 7.5, Fanatics 8.5, Hard Rock Bet 7.5, theScore 7.5; consensus 7.5. Book lines (RotoWire, 2026-10-10): BetRivers 7.5, DraftKings 7.5, Fanatics 8.5, Hard Rock Bet 7.5, theScore 7.5; consensus 7.5. Sweep 10/11: Bates has scored 7, 7, 7 and 14 kicking points (7 of 7 FG, 14 of 14 XP); only the 4-FG game cleared 7.5.",
   "bio": {
    "age": 27,
@@ -17439,7 +17482,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Kicking points",
-  "status": "pending",
+  "status": "hit",
   "team": "DET",
   "teamOutlook": {
    "allowed": "~25.0 (implied); ARI has scored 21.8 ppg",
@@ -17451,6 +17494,7 @@
  },
  {
   "id": "2026-10-05-nfl-178",
+  "actual": "24 cmp",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Lawrence has thrown just 23, 29, 29 and 23 attempts and completed 18, 19, 17 and 18 for a steady 18.0 average. Jacksonville is 3-1 with a defense allowing 13 points per game, and the Jaguars have leaned on Tuten (17 carries last week) rather than volume passing. Philadelphia scored 20 or fewer in three of four games (Hurts had 93 passing yards last week), so Jacksonville should be able to control the game. I project 17.5 completions, a small step under his average because of the run-first, ahead-on-the-scoreboard script. Main risk is a London early kickoff turning into a shootout or Jacksonville falling behind. Book lines 10/7 (RotoWire props table, 4 books): BetRivers 19.5, Caesars 19.5, DraftKings 19.5, Hard Rock Bet 19.5; I used 19.5 as the reference against my 17.5 projection. Book lines (RotoWire, 2026-10-09): BetMGM 19.5, BetRivers 19.5, Betr 18.5, Caesars 19.5, DraftKings 19.5, Fanatics 19.5, Hard Rock Bet 19.5, theScore 19.5; consensus 19.5. Book lines (RotoWire, 2026-10-10): BetMGM 19.5, BetRivers 19.5, Betr 19.5, Caesars 19.5, DraftKings 20.5, Fanatics 19.5, Hard Rock Bet 19.5, theScore 19.5; consensus 19.5. Sweep 10/11: Completions: DraftKings 19.5, FanDuel 18.5. Stokastic's sims favor the under and note he has not completed 20 this season.",
   "bio": {
    "age": 27,
@@ -17562,7 +17606,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Passing completions",
-  "status": "pending",
+  "status": "miss",
   "team": "JAX",
   "teamOutlook": {
    "allowed": "~13 (53 pts in 4 games)",
@@ -17574,6 +17618,7 @@
  },
  {
   "id": "2026-10-05-nfl-179",
+  "actual": "10 tkl",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Oluokun has logged 4, 7, 6 and 7 tackles (24 total, 6.0 per game) with an interception in two of the four games. Tank Bigsby is out with core-muscle surgery and Saquon Barkley is questionable with a hamstring, so Philadelphia may lean on Will Shipley and short passing, which feeds middle linebackers. I project 6.5 tackles, a slight bump over his average. Main risk is that the Jaguars lead and the Eagles run few plays, capping opportunities. Wed update: Barkley questionable, Bigsby IR (ESPN). Third-stringer Will Shipley is healthiest back. JAX -7 (DK). Book lines (RotoWire, 2026-10-10): Fanatics 7.5; consensus 7.5. Side moved to Less: projection 6.5 vs the book line. Sweep 10/11: Eagles' lead back Barkley and WR Smith are both ruled out, per the team's Oct 9 report; this removes Philadelphia's top rusher, which can reduce the run volume that feeds linebacker tackles. Jaguars S Eric Murray is doubtful with a concussion. Sweep 10/11: Condition is stale: Barkley and Smith are out for PHI (Eagles Friday report), lowering PHI run volume. Baun is available. JAX -7.5, total 41.5.",
   "bio": {
    "age": 31,
@@ -17658,7 +17703,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "JAX",
   "teamOutlook": {
    "allowed": "~13 (53 pts in 4 games)",
@@ -17670,6 +17715,7 @@
  },
  {
   "id": "2026-10-05-nfl-18",
+  "actual": "220 pass yds",
   "analysis": "This game is in London (Tottenham Hotspur Stadium) with a 9:30 a.m. ET kickoff. Hurts threw for only 93 yards on 12 completions in the loss to the Rams, though he did throw two touchdowns to Darius Cooper, and Philadelphia went 0 for 12 on third down. DeVonta Smith was inactive in Week 4 and Saquon Barkley left after two carries with a hamstring injury, so the offense is thin. No passing line is posted yet. I project about 190 yards, above the 93 outlier but below a typical Hurts game because the skill group is depleted and Tank Bigsby (14-55) is carrying the run game. The Less stance depends on the line landing near or above 210; the risk is that a Jacksonville lead forces Hurts to throw more. Monday-evening update: DeVonta Smith was described as questionable at best for London after missing Week 4, which keeps the condition alive. Wed update: ESPN (Graziano/Fowler) notes Eagles played Wk4 without RT Lane Johnson, who has since retired, and DeVonta Smith; Barkley (hamstring) and Smith listed questionable; Jurgens in concussion protocol. DK has JAX -7, total 42.5. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 184.5, Caesars 194.5, DraftKings 191.5, Fanatics 190.5, FanDuel 193.5, Hard Rock Bet 193.5, theScore 196.5; I used 193.5 as the reference against my 190 projection. Book lines (RotoWire, 2026-10-09): BetMGM 186.5, BetRivers 185.5, Betr 189.5, Caesars 184.5, DraftKings 187.5, FanDuel 185.5, Fanatics 185.5, Hard Rock Bet 185.5, theScore 186.5; consensus 185.5. Side moved to More: projection 190 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 189.5, BetRivers 184.5, Betr 187.5, Caesars 185.5, DraftKings 186.5, FanDuel 186.5, Fanatics 185.5, Hard Rock Bet 185.5, theScore 186.5; consensus 186.5. Sweep 10/11: Philadelphia Eagles' Friday Oct 9 report lists Smith, Barkley, Brown and C Drew Kendall as out, while Hurts (calf) practiced fully. PhillyVoice projects a makeshift line of Mailata LT, Lampkin LG, Majors C, Steen RG, Bell RT; the game is in London, 9:30 a.m. ET. Sweep 10/11: Smith, Barkley and Brown are officially out for PHI. Books price Hurts at 189.5 (DraftKings) and 193.5 (FanDuel); JAX allows 8.4 Y/A (30th). Projection is on the DK number, so the edge is thin.",
   "bio": {
    "age": 28,
@@ -17833,7 +17879,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "PHI",
   "teamOutlook": {
    "allowed": "not estimated",
@@ -17845,6 +17891,7 @@
  },
  {
   "id": "2026-10-05-nfl-180",
+  "actual": "0 rec yds",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Brian Thomas Jr. has been a low-volume piece: 3, 3, 1 and 2 catches for 40, 40, 8 and 17 yards (26.3 per game), with targets of 3, 9, 1 and 2. Jacksonville is winning by running, and Meyers and Strange (7 for 95 last week) have taken more of the targets. I project 24 yards, below his average because the Jaguars are favored at home and use few pass snaps. The risk is a single long play: his long this year is 22. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 24.5, Caesars 24.5, DraftKings 23.5, Fanatics 25.5, FanDuel 24.5, Hard Rock Bet 24.5, theScore 27.5; I used 24.5 as the reference against my 24 projection. Sweep 10/11: FanDuel posts 24.5 yards / 2.5 receptions for Thomas; 9 catches for 105 yards through four games.",
   "bio": {
    "age": 23,
@@ -17948,7 +17995,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "JAX",
   "teamOutlook": {
    "allowed": "~13 (53 pts in 4 games)",
@@ -17960,6 +18007,7 @@
  },
  {
   "id": "2026-10-05-nfl-181",
+  "actual": "5 tkl",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Campbell has been remarkably steady: 9 tackles each in three games and 10 in another (9.25 average) with solo counts of 5, 6, 4 and 9. Zack Baun is questionable and Jonathan Greenard (ankle) is day-to-day, so a thinner front could push more plays to Campbell. I project 9.5, just above his average. The risk is that Philadelphia trails and Jacksonville runs the clock, which would lower his tackle total, or Baun's return shares workload. Wed update: Baun, Greenard (ankle) questionable per ESPN feed; JAX -7 means PHI likely trailing, more tackle opportunities. Book lines (RotoWire, 2026-10-10): Fanatics 8.5; consensus 8.5. Sweep 10/11: Philadelphia's Oct 9 report lists Campbell (knee) and Baun (concussion) as full participants with no designation; Greenard (ankle) did not practice and is questionable. Sweep 10/11: Baun (concussion) is available with full participation and Campbell (knee) is full; Greenard is questionable (DNP). With both LBs healthy, the tackle projection is aggressive.",
   "bio": {
    "age": 22,
@@ -18044,7 +18092,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "PHI",
   "teamOutlook": {
    "allowed": "~23 (93 pts in 4 games)",
@@ -18056,6 +18104,7 @@
  },
  {
   "id": "2026-10-05-nfl-182",
+  "actual": "12 cmp",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Caleb Williams (hamstring) will not practice and Ben Johnson said Bagent starts at Green Bay. In Week 4 Bagent went 25-of-34 for 268 yards with one interception, and earlier threw just 9 attempts. Chicago is 3-1 and scores 28 points per game, with Swift (15-20 carries) anchoring the run. I project 21 completions, a regression from the 25 in his one sample, as Chicago should lean on the ground game and short throws if ahead. Main risk is a shootout in Lambeau with a low total of 45.5, where Bagent could easily reach 25 again. Wed 10/7: Caleb Williams (hamstring) confirmed out, will not practice in Week 5 (Ben Johnson via ESPN feed). Monangai (thumb) questionable/day-to-day; Kyler Gordon and others listed out. Book lines 10/7 (RotoWire props table, 4 books): BetRivers 19.5, Caesars 20.5, DraftKings 20.5, Hard Rock Bet 20.5; I used 20.5 as the reference against my 21 projection. The side was flipped to match the projection versus the posted line. Book lines (RotoWire, 2026-10-09): BetMGM 20.5, BetRivers 20.5, Betr 20.5, Caesars 20.5, DraftKings 20.5, Fanatics 20.5, Hard Rock Bet 20.5, theScore 20.5; consensus 20.5. Book lines (RotoWire, 2026-10-10): BetRivers 19.5, Betr 20.5, Caesars 20.5, DraftKings 20.5, Fanatics 20.5, theScore 20.5; consensus 20.5. Sweep 10/11: Bagent is the confirmed starter with 322 passing yards, 0 TD and 1 INT across 3 games this season. DraftKings has the total at 44.5, down from 49.5 at open, with the Bears -2.5. Sweep 10/11: QB unsettled: CBS lists Caleb Williams questionable (hamstring), limited Friday with no first-team snaps, while SI expects Bagent to start. Bears -3 (DK), -2.5 (FD), total 45.5.",
   "bio": {
    "age": 26,
@@ -18168,7 +18217,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing completions",
-  "status": "pending",
+  "status": "miss",
   "team": "CHI",
   "teamOutlook": {
    "allowed": "~16 (65 pts in 4 games)",
@@ -18180,6 +18229,7 @@
  },
  {
   "id": "2026-10-05-nfl-183",
+  "actual": "4 rec",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Burden III has caught 5, 3, 7 and 4 passes (4.75 average) on 5, 7, 11 and 6 targets, so his volume has been steady. With Bagent likely throwing short and to the possession slot, Burden is a natural checkdown target (he caught 4 for 63 last week and 7 against PHI). I project 5.5 catches. Odunze and Loveland (6 for 57 last week) will also eat volume, and the run-heavy offense could cap everything. Book lines 10/7 (RotoWire props table, 4 books): Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Hard Rock Bet 4.5; I used 4.5 as the reference against my 5.5 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Sweep 10/11: Neither Burden nor Odunze appears on the Bears' Oct 9 injury report, which lists Monangai (out), Elliott (out) and Williams (questionable, Bagent starting).",
   "bio": {
    "age": 22,
@@ -18271,7 +18321,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "CHI",
   "teamOutlook": {
    "allowed": "~16 (65 pts in 4 games)",
@@ -18283,6 +18333,7 @@
  },
  {
   "id": "2026-10-05-nfl-184",
+  "actual": "9 tkl",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Zaire Franklin has recorded 4, 7, 10 and 8 tackles (7.25 average) and is now the lead off-ball linebacker after Edgerrin Cooper suffered a torn Achilles in Week 4. Swift has carried 15, 20, 16 and 18 times, and a Bears team playing a backup QB should lean on the run. I project 8 tackles. The risk is a Packers lead that makes Chicago pass more, or Franklin sharing snaps with Isaiah McDuffie and Ty'Ron Hopper. Wed 10/7: Cooper (Achilles) placed on IR Tuesday (confirmed). Book lines (RotoWire, 2026-10-10): Fanatics 7.5; consensus 7.5. Sweep 10/11: Packers LBs Cooper and Oliver are on IR and Parsons is on PUP (ACL), per CBS.",
   "bio": {
    "age": 30,
@@ -18359,7 +18410,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "GB",
   "teamOutlook": {
    "allowed": "~26 (105 pts in 4 games)",
@@ -18371,6 +18422,7 @@
  },
  {
   "id": "2026-10-05-nfl-185",
+  "actual": "0 sacks",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Lukas Van Ness has 1 sack against MIN, 1.5 against the Jets, and none in the other two games for 2.5 total (0.6 per game). Micah Parsons will not practice and is out Sunday, which pushes Van Ness into more pass-rush snaps and one-on-ones. Chicago is starting Bagent behind a line missing Braxton Jones (IR), which should help a pass rusher. I project 0.8 sacks. Sacks are a high-variance stat, and a lead for Chicago could reduce pass plays. Wed 10/7: Parsons (knee) confirmed will not practice this week (LaFleur); listed out. Edgerrin Cooper placed on IR, Reed to IR. Book lines (RotoWire, 2026-10-10): DraftKings 0.25, FanDuel 0.25, Hard Rock Bet 0.5; consensus 0.25. Sweep 10/11: Sources conflict on Micah Parsons: Bears.com lists him on PUP with a torn ACL, NBC Sports lists him questionable. Verify before relying on the condition text. Sweep 10/11: Parsons is on PUP (ACL); Packers DTs Campbell and Hargrave are questionable; Bears OT Braxton Jones is on IR (CBS).",
   "bio": {
    "age": 25,
@@ -18463,7 +18515,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "miss",
   "team": "GB",
   "teamOutlook": {
    "allowed": "~26 (105 pts in 4 games)",
@@ -18475,6 +18527,7 @@
  },
  {
   "id": "2026-10-05-nfl-186",
+  "actual": "26 cmp",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Stroud has completed 26, 30, 16 and 21 passes on 38, 55, 27 and 31 attempts. The 30-for-55 game came in a trailing script against CIN; his last two games have been 21-for-31 and 16-for-27. Tennessee is 0-4 and scores 13.8 points per game, so Houston should lead and run more (Montgomery, Marks). The total is just 38.5-39.5, a low-possession game. I project 22 completions, slightly under his average. The risk is Tennessee keeping it close and forcing Houston to throw more. Wed update: DK has HOU -7.5, total 37.5. Book lines (RotoWire, 2026-10-09): BetRivers 24.5, Betr 21.5, Caesars 21.5, DraftKings 21.5, Fanatics 21.5, Hard Rock Bet 21.5, theScore 21.5; consensus 21.5. Side moved to More: projection 22 vs the book line. Book lines (RotoWire, 2026-10-10): BetRivers 21.5, Betr 21.5, Caesars 21.5, DraftKings 20.5, Fanatics 20.5, Hard Rock Bet 21.5, theScore 20.5; consensus 21.5. Sweep 10/11: Stroud is healthy per the Texans report; WR Dell and OT B. Smith are out and three OL are questionable (illness). His yards line is 243.5 (book unnamed, SportsBettingDime).",
   "bio": {
    "age": 25,
@@ -18582,7 +18635,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing completions",
-  "status": "pending",
+  "status": "hit",
   "team": "HOU",
   "teamOutlook": {
    "allowed": "~27 (109 pts in 4 games)",
@@ -18671,6 +18724,7 @@
  },
  {
   "id": "2026-10-05-nfl-188",
+  "actual": "6 rec",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Wan'Dale Robinson has 5, 1, 7 and 3 catches (4.0 average) on 6, 1, 11 and 5 targets. Tennessee's passing offense runs through Carnell Tate (9 for 145 last week) and Robinson's slot role is where Ward throws underneath. Houston's pass rush (Anderson, Hunter, Clowney) should push Ward toward quick throws. I project 4.5 catches. Risk is the low scoring environment: Tennessee has not scored more than 24 points. Book lines 10/7 (RotoWire props table, 2 books): DraftKings 3.5, Hard Rock Bet 3.5; I used 3.5 as the reference against my 4.5 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetRivers 4.5, Betr 3.5, Caesars 3.5, DraftKings 3.5, FanDuel 3.5, Fanatics 3.5, Hard Rock Bet 3.5, theScore 3.5; consensus 3.5. Book lines (RotoWire, 2026-10-10): BetMGM 3.5, BetRivers 3.5, Betr 3.5, Caesars 3.5, DraftKings 3.5, FanDuel 3.5, Fanatics 3.5, Hard Rock Bet 3.5, theScore 3.5; consensus 3.5.",
   "bio": {
    "age": 25,
@@ -18774,7 +18828,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "hit",
   "team": "TEN",
   "teamOutlook": {
    "allowed": "~21 (83 pts in 4 games)",
@@ -18872,6 +18926,7 @@
  },
  {
   "id": "2026-10-05-nfl-19",
+  "actual": "72 rush yds",
   "analysis": "Tuten led Jacksonville with 17 carries for 73 yards against Cincinnati and had two touchdowns erased by penalties, while Chris Rodriguez Jr. added six carries for 35 yards and a 25-yard score. Trevor Lawrence was efficient (18 of 23, 227 yards), so the offense is balanced. The game is in London at 9:30 a.m. ET. No rushing line was posted yet. My 68-yard projection assumes about 15 carries at 4.5 per carry with Rodriguez cutting into goal-line work. The risk is a shared backfield and a possible Eagles lead if Jacksonville's offense stalls; the preseason pick'em sheet had the Eagles about a 1.5-point favorite, but that is stale. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 60.5, Caesars 62.5, DraftKings 62.5, Fanatics 60.5, FanDuel 62.5, Hard Rock Bet 61.5, theScore 64.5; I used 62.5 as the reference against my 68 projection. Book lines (RotoWire, 2026-10-09): BetMGM 63.5, BetRivers 65.5, Betr 67.5, Caesars 66.5, DraftKings 67.5, FanDuel 65.5, Fanatics 65.5, Hard Rock Bet 67.5, theScore 69.5; consensus 66.5. Book lines (RotoWire, 2026-10-10): BetMGM 65.5, BetRivers 65.5, Betr 65.5, Caesars 66.5, Circa Sports 65.5, DraftKings 67.5, FanDuel 65.5, Fanatics 65.5, Hard Rock Bet 66.5, theScore 69.5; consensus 65.5. Sweep 10/11: Tuten: FanDuel 65.5, DraftKings 67.5. He took 76% of backfield touches vs CIN; PHI is 23rd in rushing points allowed to backfields.",
   "bio": {
    "age": 23,
@@ -19004,7 +19059,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "JAX",
   "teamOutlook": {
    "allowed": "not estimated",
@@ -19016,6 +19071,7 @@
  },
  {
   "id": "2026-10-05-nfl-190",
+  "actual": "7 rec",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Garrett Wilson has caught 6, 5, 10 and 3 passes on 7, 7, 13 and 4 targets. The Jets list WR Adonai Mitchell and TE Mason Taylor as doubtful, and Arian Smith is out for the season (ACL), which should increase Wilson's share of targets. Geno Smith went just 8-of-15 last week with sacks (3), and ESPN lists the Jets as 2.5-point home favorites. I project 6.5 catches. Risk: a run-heavy Jets plan like last week, when Smith threw only 15 times. Wed 10/7: Mitchell, Mason Taylor and Breece Hall all listed doubtful (ESPN feed), supporting Wilson target volume. Book lines 10/7 (RotoWire props table, 6 books): BetRivers 6.5, Caesars 6.5, DraftKings 6.5, FanDuel 6.5, Hard Rock Bet 6.5, theScore 6.5; I used 6.5 as the reference against my 6.5 projection. Book lines (RotoWire, 2026-10-09): BetMGM 6.5, BetRivers 6.5, Betr 6.5, Caesars 6.5, DraftKings 6.5, FanDuel 6.5, Fanatics 6.5, Hard Rock Bet 5.5, theScore 6.5; consensus 6.5. Book lines (RotoWire, 2026-10-10): BetMGM 5.5, BetRivers 6.5, Betr 5.5, Caesars 6.5, DraftKings 5.5, FanDuel 6.5, Fanatics 6.5, Hard Rock Bet 5.5, theScore 5.5; consensus 5.5. Sweep 10/11: The market has Wilson at 6.5 receptions with the Under priced at -125; he has 31 targets in 4 games. Mitchell is out and Isaiah Williams is WR2 behind Wilson. Review: Under is priced -125 on a 6.5 market, so More 5.5 has no clear edge. Sweep 10/11: Jets HC Aaron Glenn said Friday that WR Adonai Mitchell and RB Breece Hall will not play; TE Mason Taylor returns and WR Tim Patrick (activated from IR) is undecided.",
   "bio": {
    "age": 26,
@@ -19137,7 +19193,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "hit",
   "team": "NYJ",
   "teamOutlook": {
    "allowed": "~21 (84 pts in 4 games)",
@@ -19149,6 +19205,7 @@
  },
  {
   "id": "2026-10-05-nfl-191",
+  "actual": "8 tkl",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Carson Schwesinger has recorded 10, 10, 6 and 9 tackles (8.75 average) with solo counts of 3, 5, 1 and 3. He is Cleveland's every-down linebacker, and the Jets run the ball with Braelon Allen (14 for 59 last week) while Breece Hall is doubtful. I project 9 tackles. The risk is Jets' quarterback sacks and short drives lowering plays, or a Cleveland lead that reduces snaps. Wed 10/7: Mason Graham (MCL/ankle sprain) still questionable per Rapoport; Myles Garrett on IR (knee, 6-week recovery). Book lines (RotoWire, 2026-10-10): Fanatics 9.5; consensus 9.5. Side moved to Less: projection 9 vs the book line. Sweep 10/11: Graham (MCL/ankle) is questionable per NBC and out per CBS, week to week. Browns opponents run just 38.7% of plays (6th lowest), which tempers tackle volume for Cleveland's LBs. Sweep 10/11: Browns DTs Mason Graham, Mike Hall Jr. and Kalia Davis are out, which can raise LB tackle counts (inference), a risk to a Less on Schwesinger.",
   "bio": {
    "age": 23,
@@ -19237,7 +19294,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "CLE",
   "teamOutlook": {
    "allowed": "~24 (95 pts in 4 games)",
@@ -19249,6 +19306,7 @@
  },
  {
   "id": "2026-10-05-nfl-192",
+  "actual": "4 tkl",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Jamien Sherwood has 4, 6, 8 and 13 tackles over the last four weeks (7.75 average), with 13 coming against Chicago. The Jets' defense has been busy (allowed 83 points) and Cleveland leans on Judkins (17 carries last week). I project 8 tackles. Risk: Kiko Mauigoa (LB) is questionable and could change usage; Jets' scoreboard script. Book lines (RotoWire, 2026-10-10): Fanatics 7.5; consensus 7.5. Sweep 10/11: Mauigoa (quad) is listed out by CBS and questionable by NBC. Enagbare (LB, knee) is questionable, which could add snaps for Sherwood. Sweep 10/11: Jets HC Glenn confirmed LB Kiko Mauigoa (quad) will not play Sunday.",
   "bio": {
    "age": 26,
@@ -19333,7 +19391,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "NYJ",
   "teamOutlook": {
    "allowed": "~21 (84 pts in 4 games)",
@@ -19345,6 +19403,7 @@
  },
  {
   "id": "2026-10-05-nfl-193",
+  "actual": "4 tkl",
   "analysis": "No line found: ESPN, Covers and Action Network did not show a posted prop for this player. Davis posted 8, 4, 10 and 10 tackles (8.0 average), though the 10-tackle games came with a high-volume script (Detroit, Chicago). I project 7.5, a small discount, because Jamien Sherwood and others share the load and Cleveland may run the ball for chunks of short gains. Risk: Watson's 33 attempts plus Judkins (17 carries) last week keep Davis involved on every down. Book lines (RotoWire, 2026-10-10): Fanatics 7.5; consensus 7.5. Sweep 10/11: With Mauigoa out, Davis should keep a full-time role (inference), a risk to a Less on tackles.",
   "bio": {
    "age": 37,
@@ -19420,7 +19479,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "NYJ",
   "teamOutlook": {
    "allowed": "~21 (84 pts in 4 games)",
@@ -19883,6 +19942,7 @@
  },
  {
   "id": "2026-10-05-nfl-20",
+  "actual": "137 pass yds",
   "analysis": "Malik Willis completed just nine passes for 85 yards in Miami's 15-10 loss to Minnesota, and no Dolphin other than Malik Washington (5-67) had more than one catch. The receiving corps is thin, with rookie Caleb Douglas returning from an ankle injury. Miami will lean on Ollie Gordon II after De'Von Achane's torn ACL, which keeps Willis's attempts low. No line is posted that I found; my 170 projection is above the 85-yard outlier but below a typical starter pace. Cincinnati's offense missing Chase and Higgins could keep the game low-scoring too. Risk is Cincinnati building a lead and forcing Miami to throw. Book lines (RotoWire, 2026-10-09): BetMGM 188.5, BetRivers 191.5, Betr 193.5, Caesars 190.5, DraftKings 193.5, FanDuel 192.5, Fanatics 190.5, Hard Rock Bet 192.5, theScore 194.5; consensus 192.5. Book lines (RotoWire, 2026-10-10): BetMGM 187.5, BetRivers 188.5, Betr 191.5, Caesars 187.5, DraftKings 189.5, FanDuel 190.5, Fanatics 185.5, Hard Rock Bet 189.5, theScore 184.5; consensus 188.5. Sweep 10/11: Willis attempts 28.5, completions 17.5, rush yds 32.5. Last game 9/17 for 85 yds and a lost fumble. CIN -7, total 43.5.",
   "bio": {
    "age": 27,
@@ -20012,7 +20072,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "MIA",
   "teamOutlook": {
    "allowed": "not estimated",
@@ -20126,6 +20186,7 @@
  },
  {
   "id": "2026-10-05-nfl-22",
+  "actual": "40 rec yds",
   "analysis": "Odunze caught six of seven targets for 94 yards in the 23-12 win over the Jets with Tyson Bagent throwing 25 of 34 for 268. Caleb Williams has a grade 2 hamstring injury (3-4 week estimate), and Bears coach Ben Johnson has not set a timeline, so the pick is conditional on Bagent starting. The game kicks off at noon Central on Sunday at Lambeau. Green Bay is about a 2.5-point favorite (DraftKings) per Football Nation; no Odunze line yet. I projected 66 yards between his 94-yard game and a normal target share alongside Colston Loveland and Luther Burden III. Risk is Chicago leaning on Monangai and Swift. Monday-evening update: Ben Johnson confirmed Tyson Bagent starts again and Caleb Williams won't practice this week, so the condition is effectively met. Book lines 10/7 (RotoWire props table, 5 books): Caesars 38.5, DraftKings 38.5, Fanatics 35.5, FanDuel 38.5, Hard Rock Bet 38.5; I used 38.5 as the reference against my 66 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 38.5, BetRivers 39.5, Betr 39.5, Caesars 39.5, DraftKings 40.5, FanDuel 39.5, Fanatics 40.5, Hard Rock Bet 39.5, theScore 39.5; consensus 39.5. Book lines (RotoWire, 2026-10-10): BetMGM 39.5, BetRivers 38.5, Betr 40.5, Caesars 39.5, DraftKings 39.5, FanDuel 39.5, Fanatics 40.5, Hard Rock Bet 39.5, theScore 39.5; consensus 39.5. Sweep 10/11: Condition unresolved: CBS lists Williams questionable while SI expects him out (reports conflict). Bears -3 (DK), -2.5 (FD), total 45.5.",
   "bio": {
    "age": 24,
@@ -20263,7 +20324,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "CHI",
   "teamOutlook": {
    "allowed": "not estimated",
@@ -20275,6 +20336,7 @@
  },
  {
   "id": "2026-10-05-nfl-23",
+  "actual": "43 rush yds",
   "analysis": "Swift ran 15 times for 58 yards with a fumble in Week 4 while Kyle Monangai handled 30 carries for 146 yards and two scores; Monangai hurt his thumb and his Week 5 status is in doubt per Ben Johnson. If Monangai is out or limited, Swift and Roschon Johnson would see more work. Green Bay allows about 138.7 rushing yards a game and lost linebacker Edgerrin Cooper (Achilles) for the year. No Swift line posted yet. I projected 62 yards assuming about 15 to 18 carries if Monangai sits; if Monangai plays full speed the projection drops sharply. Chicago ran 5.3 per carry as a team through three games, which supports a decent floor. Monday-evening update: Ben Johnson said he expects Monangai (thumb) to be available at Green Bay, so this condition is now unlikely to be met and the pick will probably void. Wed 10/7: Monangai (right thumb) listed questionable and day-to-day per Ben Johnson (ESPN feed); not ruled out. Book lines 10/7 (RotoWire props table, 5 books): Caesars 61.5, DraftKings 61.5, Fanatics 60.5, FanDuel 61.5, Hard Rock Bet 61.5; I used 61.5 as the reference against my 62 projection. Line check Oct 9: the 61.5 line from earlier was stale. BettingPros consensus is now 68.5 (RotoWire no longer lists this prop), so the side moves to Less: projection 62 yds vs 68.5. Book lines (RotoWire, 2026-10-10): BetMGM 84.5, BetRivers 85.5, Betr 84.5, Caesars 83.5, DraftKings 84.5, FanDuel 84.5, Fanatics 85.5, Hard Rock Bet 84.5, theScore 83.5; consensus 84.5. Sweep 10/11: Swift (hip/knee) practiced fully Friday with no game designation, and Roschon Johnson moves to RB2 with Monangai out. Game total is down to 44.5 (DraftKings), with Bears -2.5. Sweep 10/11: CBS lists RB Kyle Monangai out at GB (toe, 10/9) while SI does not list him as injured (conflict, unsettled until inactives); his absence could threaten a Less on Swift.",
   "bio": {
    "age": 27,
@@ -20428,7 +20490,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "CHI",
   "teamOutlook": {
    "allowed": "not estimated",
@@ -20440,6 +20502,7 @@
  },
  {
   "id": "2026-10-05-nfl-24",
+  "actual": "5 rec",
   "analysis": "Kraft caught six passes for 42 yards and a touchdown against Tampa Bay, with Jordan Love completing 22 of 30. Jayden Reed is out for the season and Green Bay's backfield is unclear (Kaleb Johnson led with 8 carries for 42), which leaves Love leaning on short throws to Kraft. Chicago's Week 4 defense is untested here because Williams is out and the Bears have been mostly offense-driven. No reception line posted yet. I project about 5 catches at roughly 7 targets. Risk is a game where Green Bay's offensive-line churn forces checkdowns elsewhere, or Chicago taking away the middle. Book lines 10/7 (RotoWire props table, 4 books): Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Hard Rock Bet 4.5; I used 4.5 as the reference against my 5 projection. Book lines (RotoWire, 2026-10-09): BetMGM 4.5, BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: Packers WRs Reed and S. Williams are on IR and TE Castles is questionable (CBS), leaving Kraft among the main remaining options.",
   "bio": {
    "age": 25,
@@ -20560,7 +20623,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "hit",
   "team": "GB",
   "teamOutlook": {
    "allowed": "not estimated",
@@ -20572,6 +20635,7 @@
  },
  {
   "id": "2026-10-05-nfl-25",
+  "actual": "182 pass yds",
   "analysis": "Geno Smith threw for 119 yards on 15 attempts against Chicago in a game where the Jets managed little offense, after a 321-yard game against Detroit. Breece Hall (quad), Adonai Mitchell and Mason Taylor were all out in Week 4, thinning the pass game, and their Week 5 status is pending. The Jets are 1.5-point home favorites and the total is 40.5, a low-volume projection. Cleveland's pass rush recorded five sacks against Pittsburgh. No line was found. The risk is Smith's 75% completion rate keeping drives alive if the receivers return. Monday-evening update: Geno Smith is confirmed as the Jets' starter, and FanDuel's 40.5 total is one of the lowest of the week. Wed 10/7: Hall and Mitchell listed doubtful, Mason Taylor doubtful (ESPN feed). Book lines 10/7 (RotoWire props table, 8 books): BetRivers 207.5, Caesars 207.5, DraftKings 206.5, Fanatics 205.5, FanDuel 206.5, Hard Rock Bet 206.5, BetMGM 206.5, theScore 204.5; I used 206.5 as the reference against my 205 projection. Book lines (RotoWire, 2026-10-09): BetMGM 209.5, BetRivers 202.5, Betr 207.5, Caesars 205.5, DraftKings 207.5, FanDuel 206.5, Fanatics 205.5, Hard Rock Bet 206.5, theScore 204.5; consensus 206.5. Book lines (RotoWire, 2026-10-09): BetMGM 209.5, BetRivers 202.5, Betr 207.5, Caesars 205.5, DraftKings 207.5, FanDuel 206.5, Fanatics 200.5, Hard Rock Bet 206.5, theScore 204.5; consensus 206.5. Book lines (RotoWire, 2026-10-10): BetMGM 204.5, BetRivers 201.5, Betr 207.5, Caesars 205.5, Circa Sports 206.5, DraftKings 207.5, FanDuel 206.5, Fanatics 210.5, Hard Rock Bet 206.5, theScore 204.5; consensus 206.5. Sweep 10/11: Smith has 902 passing yards in 4 games (about 225 per game) but the Jets have Hall, Mitchell and Taylor all doubtful or out, and Cleveland has the 4th-highest pressure rate over 3 weeks (44.6%). The line is 207.5 and the game total is 39.5. Sweep 10/11: The low total (DK 39.5, FD 40.5) is consistent with a Less on Smith's yardage; the Jets scored 12 in Week 4.",
   "bio": {
    "age": 35,
@@ -20713,7 +20777,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "NYJ",
   "teamOutlook": {
    "allowed": "~19.5",
@@ -20725,6 +20789,7 @@
  },
  {
   "id": "2026-10-05-nfl-26",
+  "actual": "155 pass yds",
   "analysis": "Watson has 855 yards and 6 touchdowns on 115 attempts through three games and threw for 268 yards against Pittsburgh. The Jets' defense was just gashed by Chicago for 492 total yards, but Football Nation rates the New York pass defense as a strength. Cleveland has Quinshon Judkins running (177 yards on 59 carries) and Denzel Boston plus Harold Fannin as targets. Tylan Wallace was out in Week 4. The total is a low 40.5. No line was found. Risk: a run-heavy script keeps his yardage down. Monday-evening update: Watson is confirmed as Cleveland's starter, but FanDuel's 40.5 game total is low for a 245-yard projection. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 203.5, Caesars 203.5, DraftKings 201.5, Fanatics 205.5, FanDuel 203.5, Hard Rock Bet 203.5, BetMGM 203.5, theScore 204.5; I used 203.5 as the reference against my 245 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 203.5, BetRivers 201.5, Betr 204.5, Caesars 201.5, DraftKings 204.5, FanDuel 203.5, Fanatics 200.5, Hard Rock Bet 204.5, theScore 204.5; consensus 203.5. Book lines (RotoWire, 2026-10-10): BetMGM 196.5, BetRivers 198.5, Betr 200.5, Caesars 200.5, Circa Sports 198.5, DraftKings 205.5, FanDuel 200.5, Fanatics 200.5, Hard Rock Bet 202.5, theScore 204.5; consensus 200.5. Sweep 10/11: Watson averages 213.8 passing yards per game with 6.3 air yards per attempt, and the Jets rank 6th-best at 193.3 passing yards allowed per game. The market line is 203.5 and the total is 39.5, so the 245 projection looks aggressive. Sweep 10/11: Books have Browns-Jets at 39.5 (DK) to 40.5 (FD), Jets -1.5 to -2.5, which does not support a high passing-yards projection; Covers calls the Browns offense inconsistent.",
   "bio": {
    "age": 31,
@@ -20861,7 +20926,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "CLE",
   "teamOutlook": {
    "allowed": "~21.0",
@@ -20873,6 +20938,7 @@
  },
  {
   "id": "2026-10-05-nfl-27",
+  "actual": "170 pass yds",
   "analysis": "Cam Ward's offense is scoring 12.3 points a game with passing production around 159 to 190 yards. Houston has 11 sacks through three games and is a 6.5-point favorite with a total of 38.5 to 39.5, so Tennessee likely trails. Trailing can add attempts, which is the main risk. Tony Pollard has 173 yards on 38 carries and Tyjae Spears is questionable with an ankle. No line was found. I project about 170 yards. Wed update: DK has HOU -7.5, total 37.5, a low-scoring game. Book lines 10/7 (RotoWire props table, 4 books): Caesars 189.5, DraftKings 189.5, Fanatics 190.5, Hard Rock Bet 190.5; I used 189.5 as the reference against my 170 projection. Book lines (RotoWire, 2026-10-09): BetMGM 192.5, BetRivers 195.5, Betr 192.5, Caesars 190.5, DraftKings 192.5, FanDuel 190.5, Fanatics 190.5, Hard Rock Bet 191.5, theScore 189.5; consensus 191.5. Book lines (RotoWire, 2026-10-10): BetMGM 188.5, BetRivers 188.5, Betr 190.5, Caesars 188.5, Circa Sports 190.5, DraftKings 189.5, FanDuel 190.5, Fanatics 190.5, Hard Rock Bet 190.5, theScore 189.5; consensus 190. Sweep 10/11: Ward's passing-yards line moved from 181.5 to 193.5 by Oct 9 (SportsBettingDime, book unnamed). HOU -7 and total 37.5 (FanDuel).",
   "bio": {
    "age": 24,
@@ -21003,7 +21069,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "TEN",
   "teamOutlook": {
    "allowed": "~22.75",
@@ -21015,6 +21081,7 @@
  },
  {
   "id": "2026-10-05-nfl-28",
+  "actual": "56 rec yds",
   "analysis": "Nico Collins returned from a hamstring injury with 7 catches for 117 yards and both of Stroud's touchdowns against Dallas. Football Nation lists him as limited, so the hamstring needs a clean week; the pick's condition covers that. Houston is a 6.5-point favorite, which could limit pass volume in the second half. Montgomery has only 103 yards on 37 carries, so the offense still runs through Collins. No line was found. Risk: another hamstring flare-up or a snap count. Book lines 10/7 (RotoWire props table, 3 books): Caesars 77.5, DraftKings 77.5, Fanatics 75.5; I used 77.5 as the reference against my 82 projection. Book lines (RotoWire, 2026-10-09): BetMGM 76.5, BetRivers 82.5, Betr 78.5, Caesars 77.5, DraftKings 77.5, FanDuel 77.5, Fanatics 75.5, Hard Rock Bet 78.5, theScore 79.5; consensus 77.5. Book lines (RotoWire, 2026-10-10): BetMGM 76.5, BetRivers 79.5, Betr 78.5, Caesars 78.5, Circa Sports 77.5, DraftKings 76.5, FanDuel 77.5, Fanatics 75.5, Hard Rock Bet 77.5, theScore 79.5; consensus 77.5. Sweep 10/11: Collins was full in practice Thursday and Friday with no game designation, while Texans WR Tank Dell is out with a knee injury. Sweep 10/11: Collins has no injury designation; with Tank Dell out the receiver room is thinner.",
   "bio": {
    "age": 27,
@@ -21148,7 +21215,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "miss",
   "team": "HOU",
   "teamOutlook": {
    "allowed": "~16.25",
@@ -21160,6 +21227,7 @@
  },
  {
   "id": "2026-10-05-nfl-29",
+  "actual": "267 pass yds",
   "analysis": "Daniel Jones has 611 yards, 3 touchdowns and 3 interceptions through three games and threw for just 143 yards in the win over Washington, which leaned on Jonathan Taylor. Alec Pierce is on injured reserve and Keenan Allen is the other listed WR concern, so the condition tracks that. Pittsburgh is a 1.5 to 2.5-point home favorite with a total around 44.5 and has extra rest. Tyler Warren is the top option. No line was found. Risk: Pittsburgh's six or more sack pressure forcing a pass-heavy script. Book lines 10/7 (RotoWire props table, 5 books): Caesars 218.5, DraftKings 219.5, Fanatics 215.5, FanDuel 219.5, Hard Rock Bet 217.5; I used 219.5 as the reference against my 185 projection. Book lines (RotoWire, 2026-10-09): BetMGM 209.5, BetRivers 215.5, Betr 212.5, Caesars 209.5, DraftKings 210.5, FanDuel 213.5, Fanatics 210.5, Hard Rock Bet 211.5, theScore 209.5; consensus 210.5. Book lines (RotoWire, 2026-10-10): BetMGM 210.5, BetRivers 211.5, Betr 209.5, Caesars 208.5, DraftKings 207.5, FanDuel 213.5, Fanatics 205.5, Hard Rock Bet 211.5, theScore 209.5; consensus 209.5. Sweep 10/11: Jones averages 188.5 passing yards per game and had 143 on 34 throws last week. Slayton is out, Pierce is on IR, and Keenan Allen is questionable, thinning the receiving group. Sweep 10/11: Sharp Football: Jones averages 5.7 yards per attempt (second-lowest among full-season starters); Colts WR corps is thin (Slayton, Dulin out; Pierce IR; Allen questionable).",
   "bio": {
    "age": 29,
@@ -21290,7 +21358,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "IND",
   "teamOutlook": {
    "allowed": "~23.25",
@@ -21302,6 +21370,7 @@
  },
  {
   "id": "2026-10-05-nfl-30",
+  "actual": "7 rec",
   "analysis": "Tyler Warren has 23 catches on 27 targets through four games and had five against Washington, which is his usual level. He is the Colts' best receiving option with Pierce on IR. Pittsburgh at home is a small favorite with a 44.5 total. Football Nation's season catch figure differs slightly (18 catches), so I am projecting from the Rotowire game note and averaging near 5. No line was found. Risk: a run-heavy script around Taylor. Book lines (RotoWire, 2026-10-09): BetMGM 5.5, BetRivers 5.5, Betr 5.5, Caesars 5.5, DraftKings 5.5, FanDuel 5.5, Fanatics 5.5, Hard Rock Bet 5.5, theScore 5.5; consensus 5.5. Side moved to Less: projection 5 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 5.5, BetRivers 5.5, Betr 5.5, Caesars 5.5, DraftKings 5.5, FanDuel 5.5, Fanatics 5.5, Hard Rock Bet 4.5, theScore 4.5; consensus 5.5. Sweep 10/11: Warren has 23 catches in 4 games (5.75 per game) with at least a 17% target share each week, which sits above the 5.5 line. Slayton is out, Allen is questionable.",
   "bio": {
    "age": 24,
@@ -21430,7 +21499,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "IND",
   "teamOutlook": {
    "allowed": "~23.25",
@@ -21442,6 +21511,7 @@
  },
  {
   "id": "2026-10-05-nfl-31",
+  "actual": "12 rec yds",
   "analysis": "Metcalf had 5 catches for 115 yards against Cleveland as Aaron Rodgers threw 39 times. Pittsburgh has rest and is a small home favorite with a 44.5 total. Roman Wilson, Pat Freiermuth and Darnell Washington share targets, which caps his ceiling. Indianapolis' secondary has been susceptible to big plays. No line was found. Risk: one big play inflating a single game average. Book lines (RotoWire, 2026-10-09): BetMGM 52.5, BetRivers 52.5, Betr 53.5, Caesars 52.5, DraftKings 52.5, FanDuel 53.5, Fanatics 50.5, Hard Rock Bet 53.5, theScore 54.5; consensus 52.5. Book lines (RotoWire, 2026-10-10): BetMGM 54.5, BetRivers 51.5, Betr 52.5, Caesars 53.5, Circa Sports 53.5, DraftKings 52.5, FanDuel 53.5, Fanatics 50.5, Hard Rock Bet 53.5, theScore 49.5; consensus 53. Sweep 10/11: Metcalf had 5 catches for 115 yards last game and 98 yards through the first three; he lines up wide on 86.4% of snaps, where Indianapolis has allowed only 72.3 yards per game to wide receivers. Mike Pittman Jr. is on IR for Pittsburgh per RotoWire (Oct 10). Sweep 10/11: Steelers WR Pittman is on IR (foot) so Metcalf is a main target; Colts CB Ward is questionable (groin) and the Colts allow 13.3 yards per completion (30th).",
   "bio": {
    "age": 28,
@@ -21578,7 +21648,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "miss",
   "team": "PIT",
   "teamOutlook": {
    "allowed": "~21.25",
@@ -21590,6 +21660,7 @@
  },
  {
   "id": "2026-10-05-nfl-32",
+  "actual": "8 rec",
   "analysis": "Brock Bowers has 16 catches for 202 yards and 2 touchdowns in two games since his knee procedure, with 11 targets against Kansas City. Las Vegas is a road underdog of about 3.5, and a trailing script favors targets for the tight end. Cousins is throwing heavily (365 yards, 52 attempts last week). No line was found. Risk: New England taking away the middle. Book lines (RotoWire, 2026-10-09): BetMGM 6.5, BetRivers 6.5, Betr 6.5, Caesars 6.5, DraftKings 6.5, FanDuel 6.5, Fanatics 6.5, Hard Rock Bet 6.5, theScore 6.5; consensus 6.5. Side moved to Less: projection 6 vs the book line. Sweep 10/11: Bowers rec yds line 73.5 (FanDuel -113/-113); longest reception 20.5. LV WRs Jalen Nailor and Dont'e Thornton Jr. are out, which concentrates targets toward Bowers. Sweep 10/11: Bowers (knee) was a full participant Friday; with Nailor and Thornton out his target share could rise, a risk to a Less.",
   "bio": {
    "age": 23,
@@ -21710,7 +21781,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "LV",
   "teamOutlook": {
    "allowed": "~23.75",
@@ -21722,6 +21793,7 @@
  },
  {
   "id": "2026-10-05-nfl-33",
+  "actual": "27 rush yds",
   "analysis": "Ashton Jeanty has 206 rushing yards at 3.3 yards per carry and ran 15 times for 58 yards against Kansas City, adding 6 catches for 68. With the Raiders three-point or more underdogs, rushing volume tends to fall. New England's run defense was not assessed in the sources, so this is a moderate-confidence lean. No line was found. Risk: a breakaway carry or a game that stays close. Book lines (RotoWire, 2026-10-09): BetMGM 60.5, BetRivers 61.5, Betr 60.5, Caesars 58.5, DraftKings 57.5, FanDuel 59.5, Fanatics 55.5, Hard Rock Bet 58.5, theScore 59.5; consensus 59.5. Sweep 10/11: Kubiak said Friday Jeanty will 'do his best' to play. Mike Washington Jr. had 9 carries for 18 yds last week. Sweep 10/11: Jeanty is questionable (ankle/foot), DNP Friday, pregame workout; LV elevated RB Hemby from the practice squad.",
   "bio": {
    "age": 22,
@@ -21846,7 +21918,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "LV",
   "teamOutlook": {
    "allowed": "~23.75",
@@ -21858,6 +21930,7 @@
  },
  {
   "id": "2026-10-05-nfl-34",
+  "actual": "243 pass yds",
   "analysis": "Cousins has 661 yards and 9 touchdowns and threw 52 times for 365 yards in Week 4. New England's CB Christian Gonzalez was out in Week 4 with a shoulder injury and his Week 5 status is unclear, which is the pick's condition. The Raiders are underdogs, which supports volume. No line was found. Risk: Gonzalez returning, plus New England controlling the ball. Wed update: ESPN lists Christian Gonzalez questionable (not out) and Mack Hollins questionable; NE A.J. Brown on IR. Raiders WR Nailor (concussion) hurt in Wk4, Bowers/Tucker/White targets. DK has NE -3.5, total 45.5. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 220.5, Caesars 227.5, DraftKings 228.5, Fanatics 220.5, FanDuel 225.5, Hard Rock Bet 226.5, theScore 224.5; I used 220.5 as the reference against my 275 projection. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 231.5, BetRivers 233.5, Betr 233.5, Caesars 230.5, DraftKings 231.5, FanDuel 233.5, Fanatics 230.5, Hard Rock Bet 232.5, theScore 229.5; consensus 231.5. Book lines (RotoWire, 2026-10-10): BetMGM 231.5, BetRivers 233.5, Betr 232.5, Caesars 230.5, DraftKings 231.5, FanDuel 234.5, Fanatics 230.5, Hard Rock Bet 232.5, theScore 234.5; consensus 232.5. Sweep 10/11: Cousins threw 31-of-52 for 365 yds, 2 TD, 1 INT in the 30-27 loss to KC; NE will be missing its four top CBs (Gonzalez, Davis, Prunty, Canada out per Friday report). Spread NE -3.5, total 45.5. Sweep 10/11: NE CBs Gonzalez, Davis, Prunty and Canada are out; LV WRs Nailor and Thornton also out. Cousins threw 52 times for 365 yards last week; NE allowed 71.1% completions on play-action.",
   "bio": {
    "age": 38,
@@ -21984,7 +22057,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "LV",
   "teamOutlook": {
    "allowed": "~23.75",
@@ -22094,6 +22167,7 @@
  },
  {
   "id": "2026-10-05-nfl-36",
+  "actual": "1 rec",
   "analysis": "With Jefferson out, T.J. Hockenson caught all 13 targets for 119 yards against Miami. The pick's condition is Jefferson out again, and his status is uncertain. New Orleans is thin at linebacker. Minnesota is a road favorite at 45.5. No line was found. Risk: Jefferson playing cuts targets and Kyler Murray's sack rate. Wed update: ESPN lists Jefferson questionable (10/6), so Hockenson's 13-target volume may dip if Jefferson returns. Oliver is on IR. DK has MIN -1.5, total 42.5. Book lines (RotoWire, 2026-10-09): Caesars 4.5, FanDuel 4.5, Fanatics 4.5; consensus 4.5. Book lines (RotoWire, 2026-10-10): BetMGM 4.5, BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 4.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: Hockenson caught 13 passes for 119 yards in Week 4 per Vikings.com. Jefferson (ankle) and Addison (hamstring) are both questionable, so target volume could rise. Sweep 10/11: Condition ('Jefferson out') is unresolved: Jefferson is questionable and appears to be tracking to return (Sharp Football), so the target bump may shrink. MIN -2.0 per Sharp Football.",
   "bio": {
    "age": 29,
@@ -22230,7 +22304,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "~22.0",
@@ -22242,6 +22316,7 @@
  },
  {
   "id": "2026-10-05-nfl-37",
+  "actual": "121 rec yds",
   "analysis": "Malik Nabers had 6 catches for 112 yards and a touchdown against Arizona after 12 catches for 96 yards in the first three games. Washington allowed 362 yards per game through Week 3 and may be missing starters. Giants QB Jameis Winston is the clear starter. Washington is favored by 2.5 with a 43.5 total. Football Nation suggests 4.5 receptions as playable. No yardage line was found. Risk: Winston's inconsistency and Andrew Thomas' groin hurting protection. Book lines (RotoWire, 2026-10-09): BetRivers 55.5, Betr 55.5, Caesars 54.5, DraftKings 54.5, FanDuel 54.5, Fanatics 55.5, Hard Rock Bet 55.5, theScore 55.5; consensus 55.5. Book lines (RotoWire, 2026-10-10): BetMGM 57.5, BetRivers 54.5, Betr 55.5, Caesars 55.5, DraftKings 56.5, FanDuel 54.5, Fanatics 55.5, Hard Rock Bet 56.5, theScore 54.5; consensus 55.5. Sweep 10/11: Nabers receptions line 4.5 (FanDuel over -148); longest reception 21.5. Giants WR Berrios is on IR, so targets are concentrated; WSH is missing three DBs. Sweep 10/11: Nabers moved to full participation Friday. Washington is missing CB Amos and safeties Butler, Cross and Owens.",
   "bio": {
    "age": 23,
@@ -22374,7 +22449,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "NYG",
   "teamOutlook": {
    "allowed": "~23.0",
@@ -22386,6 +22461,7 @@
  },
  {
   "id": "2026-10-05-nfl-38",
+  "actual": "326 pass yds",
   "analysis": "Winston threw for 250 yards and 3 touchdowns against Arizona and is the Giants' starter after Jaxson Dart's season-ending injury. Washington's defense has allowed 362 yards a game. Andrew Thomas was limited with a groin injury, which Football Nation says matters for passing over lines near 214.5. Total of 43.5 suggests moderate volume. No line was found. Risk: Skattebo-led run game cutting pass attempts. Wed update: Washington's Terry McLaurin questionable; Mariota doubtful; Giants also lost Berrios for the year (foot surgery). Book lines (RotoWire, 2026-10-09): BetMGM 204.5, BetRivers 199.5, Betr 198.5, Caesars 198.5, DraftKings 199.5, FanDuel 201.5, Fanatics 200.5, Hard Rock Bet 199.5, theScore 199.5; consensus 199.5. Book lines (RotoWire, 2026-10-10): BetMGM 204.5, BetRivers 195.5, Betr 199.5, Caesars 199.5, DraftKings 201.5, FanDuel 200.5, Fanatics 200.5, Hard Rock Bet 201.5, theScore 199.5; consensus 200.5. Sweep 10/11: Winston 18-of-29 for 250 yds last game. WSH is missing safeties Butler, Cross and Owens. NYG +3.5, total 41.5. Sweep 10/11: Washington is without four DBs (Amos, Butler, Cross, Owens), a favorable passing matchup; total about 43.5, Commanders -3.5.",
   "bio": {
    "age": 32,
@@ -22522,7 +22598,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "NYG",
   "teamOutlook": {
    "allowed": "~23.0",
@@ -22534,6 +22610,7 @@
  },
  {
   "id": "2026-10-05-nfl-39",
+  "actual": "33 rush yds",
   "analysis": "Hampton scored a two-yard rushing touchdown against Seattle but his carry share fell to a season-low 28% in Week 4, with Keaton Mitchell out-carrying him. The Chargers' offensive line is badly depleted. Denver is a 3.5-point favorite on a 42.5 total, which suggests a low-scoring game and likely a trailing script for LA. No rushing line was found, so no numeric projection is given. Risk is that touchdown-driven volume or a game script reversal lifts his carries. Monday-evening update: Hampton's first three games went 12-43, 23-94 and 15-56 (64 yards a game, 3.9 per carry) before his carry share dropped in Week 4. With right tackle Rashawn Slater now out with a high ankle sprain and a tough Denver front, I project about 56 yards. Wed 10/7: Slater (high ankle sprain) out 4-6 weeks, Alt and Penning questionable, so LAC run blocking is further depleted (supports Less). Book lines 10/7 (RotoWire props table, 5 books): Caesars 38.5, DraftKings 38.5, Fanatics 35.5, FanDuel 37.5, Hard Rock Bet 37.5; I used 37.5 as the reference against my 56 projection. The side was flipped to match the projection versus the posted line. The market is far from my projection, so I would treat this as low confidence until the gap is explained. Book lines (RotoWire, 2026-10-09): BetMGM 37.5, BetRivers 37.5, Betr 39.5, Caesars 38.5, DraftKings 39.5, FanDuel 37.5, Fanatics 35.5, Hard Rock Bet 38.5, theScore 37.5; consensus 37.5. Book lines (RotoWire, 2026-10-10): BetMGM 38.5, BetRivers 38.5, Betr 38.5, Caesars 38.5, DraftKings 39.5, FanDuel 37.5, Fanatics 40.5, Hard Rock Bet 38.5, theScore 39.5; consensus 38.5. Sweep 10/11: Hampton ran for 43, 94, 56 and 45 yds in 2026, over 38.5 in all four games. Sweep 10/11: LAC is missing OTs Alt (out) and Slater (IR) and OL Awosika (out) per CBS, a negative for rushing efficiency.",
   "bio": {
    "age": 23,
@@ -22669,7 +22746,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:05:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "LAC",
   "teamOutlook": {
    "allowed": "~23.0",
@@ -22796,6 +22873,7 @@
  },
  {
   "id": "2026-10-05-nfl-41",
+  "actual": "0 rec",
   "analysis": "Harvey caught 10 passes for 68 yards and carried 7 times for 25 in Week 4, out-snapping J.K. Dobbins. Bo Nix threw 42 times in that loss, which fed the checkdown role. Denver is a road favorite on a 42.5 total, so a more balanced script could cut his targets from last week's peak. No receptions line was found. A regression from 10 catches is the main risk, so I project about 5. Wed 10/7: Surtain (ankle) expected to miss about two weeks (ESPN/Fowler), listed doubtful; Riley Moss ribs under evaluation, so Denver may lean on short passing. Book lines 10/7 (RotoWire props table, 4 books): Caesars 4.5, DraftKings 4.5, FanDuel 3.5, Hard Rock Bet 4.5; I used 4.5 as the reference against my 5 projection. Book lines (RotoWire, 2026-10-09): BetMGM 3.5, BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 3.5, FanDuel 3.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Book lines (RotoWire, 2026-10-10): BetMGM 3.5, BetRivers 4.5, Betr 4.5, Caesars 4.5, DraftKings 4.5, FanDuel 3.5, Fanatics 4.5, Hard Rock Bet 4.5, theScore 4.5; consensus 4.5. Sweep 10/11: Harvey caught 4, 6 and 10 passes (23, 41, 68 yds) on 4, 7 and 10 targets in his three logged games.",
   "bio": {
    "age": 25,
@@ -22924,7 +23002,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:05:00-04:00",
   "stat": "Receptions",
-  "status": "pending",
+  "status": "miss",
   "team": "DEN",
   "teamOutlook": {
    "allowed": "~19.0",
@@ -22936,6 +23014,7 @@
  },
  {
   "id": "2026-10-05-nfl-42",
+  "actual": "271 pass yds",
   "analysis": "Goff threw 32-of-52 for 412 yards against Carolina, a season high in attempts and yards that came in a trailing game script. Arizona allowed 9.3 yards per pass attempt through three games and Detroit's offense averaged 31 points per game then. Detroit is without OL Ben Bartch and Jameson Williams had his first 100-yard game in Week 4. No line was available when checked. A normal script would keep Goff below the 412 outlier, so I project about 280 yards, with the risk being a Lions rushing-heavy game (Gibbs). Book lines 10/7 (RotoWire props table, 6 books): Caesars 281.5, DraftKings 280.5, Fanatics 280.5, FanDuel 280.5, Hard Rock Bet 280.5, BetMGM 280.5; I used 280.5 as the reference against my 280 projection. The side was flipped to match the projection versus the posted line. Book lines (RotoWire, 2026-10-09): BetMGM 284.5, BetRivers 282.5, Betr 277.5, Caesars 278.5, DraftKings 279.5, FanDuel 280.5, Fanatics 275.5, Hard Rock Bet 279.5, theScore 279.5; consensus 279.5. Side moved to More: projection 280 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 283.5, BetRivers 285.5, Betr 279.5, Caesars 278.5, Circa Sports 280.5, DraftKings 279.5, FanDuel 280.5, Fanatics 275.5, Hard Rock Bet 279.5, theScore 279.5; consensus 279.5. Sweep 10/11: Goff has thrown for 206, 327, 269 and 412 yds (avg 303.5) and the Lions threw on 77% of plays (52 att) in Week 4.",
   "bio": {
    "age": 31,
@@ -23067,7 +23146,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "DET",
   "teamOutlook": {
    "allowed": "~23 (est.)",
@@ -23079,6 +23158,7 @@
  },
  {
   "id": "2026-10-05-nfl-43",
+  "actual": "292 pass yds",
   "analysis": "Brissett has thrown for 277, 95, 280 and 166 yards through four games, an average of about 204.5 a game on 38 attempts, with his big outputs coming when Arizona had to keep throwing. Detroit's pass defense has allowed 299.3 yards a game and lost CB Rock Ya-Sin to a hamstring injury in Week 4. Detroit's offense should force Arizona into a passing script, which is how his two 275-plus games happened. I project about 235 yards, built from his season average bumped for the matchup and expected volume. No book line was found yet, so the More lean is relative to his average. The main risk is Detroit's pass rush (he threw three interceptions at the Giants) and a run-heavy Arizona plan if the game stays close. Book lines 10/7 (RotoWire props table, 6 books): Caesars 271.5, DraftKings 269.5, Fanatics 270.5, FanDuel 270.5, Hard Rock Bet 270.5, BetMGM 272.5; I used 270.5 as the reference against my 235 projection. The side was flipped to match the projection versus the posted line. Book lines (RotoWire, 2026-10-09): BetMGM 271.5, BetRivers 271.5, Betr 269.5, Caesars 265.5, DraftKings 270.5, FanDuel 266.5, Fanatics 260.5, Hard Rock Bet 267.5, theScore 269.5; consensus 269.5. Book lines (RotoWire, 2026-10-09): BetMGM 271.5, BetRivers 271.5, Betr 269.5, Caesars 266.5, DraftKings 270.5, FanDuel 266.5, Fanatics 260.5, Hard Rock Bet 267.5, theScore 269.5; consensus 269.5. Book lines (RotoWire, 2026-10-10): BetMGM 268.5, BetRivers 271.5, Betr 269.5, Caesars 265.5, Circa Sports 268.5, DraftKings 269.5, FanDuel 266.5, Fanatics 265.5, Hard Rock Bet 267.5, theScore 264.5; consensus 268. Sweep 10/11: Brissett threw for 277, 95, 280 and 166 yds in 2026 and Arizona has hit 20+ yd completions on only 4 of 152 attempts (BetMGM); WR Marvin Harrison is deactivated Sunday (RotoWire).",
   "bio": {
    "age": 33,
@@ -23218,7 +23298,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "ARI",
   "teamOutlook": {
    "allowed": "~27 (est.)",
@@ -23230,6 +23310,7 @@
  },
  {
   "id": "2026-10-05-nfl-44",
+  "actual": "102 rec yds",
   "analysis": "Smith-Njigba has 32 catches for 481 yards and six touchdowns on 42 targets, with 122, 155 and 128 yards before a quieter 6-target, 76-yard game against the Chargers. San Francisco was without edge rushers Nick Bosa (calf, multiple weeks), Mykel Williams and James Thompson Jr. in Week 4, which should give Sam Darnold more time. Seattle is a 2.5-point home favorite with a 47.5 total. I project about 98 yards, discounting his 120-yard average for a division opponent that knows him and his lower Week 4 volume. No line was found yet, so the More lean is against his expected range in the mid-80s. Risk is Seattle leaning on the run with a lead and SF bracketing him. Book lines 10/7 (RotoWire props table, 8 books): BetRivers 95.5, Caesars 93.5, DraftKings 93.5, Fanatics 95.5, FanDuel 93.5, Hard Rock Bet 93.5, BetMGM 95.5, theScore 94.5; I used 93.5 as the reference against my 98 projection. Book lines (RotoWire, 2026-10-09): BetMGM 93.5, BetRivers 94.5, Betr 94.5, Caesars 92.5, DraftKings 91.5, FanDuel 94.5, Fanatics 90.5, Hard Rock Bet 93.5, theScore 89.5; consensus 93.5. Book lines (RotoWire, 2026-10-10): BetMGM 94.5, BetRivers 96.5, Betr 95.5, Caesars 94.5, Circa Sports 94.5, DraftKings 97.5, FanDuel 94.5, Fanatics 95.5, Hard Rock Bet 95.5, theScore 94.5; consensus 95. Sweep 10/11: Smith-Njigba has 122, 155, 128 and 76 yds with targets of 11, 11, 14 and 6; he was 9-155 at ARI.",
   "bio": {
    "age": 24,
@@ -23373,7 +23454,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "~22.5",
@@ -23499,6 +23580,7 @@
  },
  {
   "id": "2026-10-05-nfl-46",
+  "actual": "118 rec yds",
   "analysis": "London has topped 100 receiving yards in six of his last seven games with Penix per the earlier Covers cite. Baltimore lost CB Marlon Humphrey to a calf injury in Week 4 and Durham Smythe to an Achilles injury. Atlanta is a 3.5-point home underdog on a 46.5 total, so passing volume should be solid. The condition (no new ATL injuries from Monday night's game) cannot be checked until that game ends. No line was found. I project about 85 yards. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 81.5, Caesars 82.5, DraftKings 83.5, Fanatics 80.5, FanDuel 82.5, Hard Rock Bet 82.5, theScore 84.5; I used 82.5 as the reference against my 85 projection. Book lines (RotoWire, 2026-10-09): BetMGM 81.5, BetRivers 81.5, Betr 81.5, Caesars 80.5, DraftKings 81.5, FanDuel 80.5, Fanatics 80.5, Hard Rock Bet 80.5, theScore 79.5; consensus 80.5. Book lines (RotoWire, 2026-10-10): BetMGM 78.5, BetRivers 83.5, Betr 80.5, Caesars 80.5, Circa Sports 80.5, DraftKings 81.5, FanDuel 80.5, Fanatics 80.5, Hard Rock Bet 79.5, theScore 79.5; consensus 80.5. Sweep 10/11: London has 370 yds on 20 catches through 4 games (29, 51, 194, 96) and no injury designation. Falcons ran at a high rate (rush-play pct No. 1 or 3 per Covers) so volume swings by game script.",
   "bio": {
    "age": 25,
@@ -23636,7 +23718,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T20:20:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "ATL",
   "teamOutlook": {
    "allowed": "~25",
@@ -23648,6 +23730,7 @@
  },
  {
   "id": "2026-10-05-nfl-47",
+  "actual": "53 rec yds",
   "analysis": "Flowers caught six passes for 119 yards and a touchdown in the first half Sunday, all with Jackson at quarterback. If Jackson is out and Tyler Huntley starts, the passing game likely shrinks while Henry gets more work. The spread shifted toward Atlanta after the injury report and the total is 46.5. No line was found. I project around 55 yards as a Huntley-led outcome. The condition remains until Jackson's status is known. Monday-evening update: Jackson's MRI result still wasn't public; Minter didn't think it would be long-term. Condition stays open. Wed 10/7: Jackson not yet officially ruled out (questionable, 'unlikely' per ESPN feed); Huntley would start. Condition reworded accordingly. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 67.5, Caesars 65.5, DraftKings 66.5, Fanatics 65.5, FanDuel 66.5, Hard Rock Bet 66.5, theScore 69.5; I used 66.5 as the reference against my 55 projection. Book lines (RotoWire, 2026-10-09): BetMGM 68.5, BetRivers 67.5, Betr 67.5, Caesars 68.5, DraftKings 68.5, FanDuel 68.5, Fanatics 65.5, Hard Rock Bet 68.5, theScore 69.5; consensus 68.5. Book lines (RotoWire, 2026-10-10): BetMGM 65.5, BetRivers 67.5, Betr 69.5, Caesars 68.5, DraftKings 69.5, FanDuel 68.5, Fanatics 65.5, Hard Rock Bet 68.5, theScore 69.5; consensus 68.5. Sweep 10/11: Flowers' 2026 log is 5-150 at IND, 5-84 at DAL and 8-118 (10 targets) vs TEN, over 68.5 each time. Huntley was 8/9 for 63 yds in relief vs TEN. Falcons rank 8th in EPA/play allowed (SI). Sweep 10/11: CBS lists Jackson out and Flowers questionable (foot, as of 10/7).",
   "bio": {
    "age": 26,
@@ -23789,7 +23872,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T20:20:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "BAL",
   "teamOutlook": {
    "allowed": "~21.5",
@@ -24486,6 +24569,7 @@
  },
  {
   "id": "2026-10-05-nfl-53",
+  "actual": "331 pass yds",
   "analysis": "Lawrence completed 18 of 23 passes for 227 yards, a touchdown and no interceptions in Jacksonville's 22-17 win at Cincinnati. The Jaguars play Philadelphia in London on Sunday at 9:30 a.m. ET, which is a neutral-site game with an early start. Philadelphia was 0-for-12 on third downs in Week 4 and may be without Saquon Barkley (hamstring) and DeVonta Smith, which could shorten Eagles possessions and leave Jacksonville with a lead. No passing line was found. My 235-yard projection extends the 227-yard efficiency to a slightly higher volume; the risk is a run-heavy script with Bhayshul Tuten and Chris Rodriguez Jr. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 230.5, Caesars 228.5, DraftKings 229.5, Fanatics 225.5, FanDuel 225.5, Hard Rock Bet 227.5, theScore 229.5; I used 229.5 as the reference against my 235 projection. Book lines (RotoWire, 2026-10-09): BetMGM 225.5, BetRivers 227.5, Betr 225.5, Caesars 223.5, DraftKings 225.5, FanDuel 225.5, Fanatics 220.5, Hard Rock Bet 225.5, theScore 224.5; consensus 225.5. Book lines (RotoWire, 2026-10-10): BetMGM 223.5, BetRivers 226.5, Betr 225.5, Caesars 225.5, Circa Sports 225.5, DraftKings 227.5, FanDuel 225.5, Fanatics 225.5, Hard Rock Bet 226.5, theScore 224.5; consensus 225.5. Sweep 10/11: Lawrence: FanDuel 225.5, DraftKings 227.5. JAX -7.5, total 41.5 points to a lower-volume script; PHI allows 6.6 Y/A (9th). NBC Philly's guide leans under 225.5 (opinion).",
   "bio": {
    "age": 27,
@@ -24621,7 +24705,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T09:30:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "JAX",
   "teamOutlook": {
    "allowed": "~20 (est.)",
@@ -24633,6 +24717,7 @@
  },
  {
   "id": "2026-10-05-nfl-54",
+  "actual": "190 pass yds",
   "analysis": "Burrow went 39 of 54 for 428 yards with one touchdown and two interceptions in the 22-17 loss to Jacksonville. Chase is entering concussion protocol and Higgins has a groin strain, and Cincinnati only has about four healthy receivers (Colbie Young is out), so the passing volume may stay high but with a lower-quality target group. Miami's offense is run-centered with Ollie Gordon II after Achane's ACL tear, which should keep the game low in possessions. No line was found. I project 300 yards, discounting the 54-attempt game and the receiver injuries. Main risk is a Chase/Higgins absence leaving Burrow with a limited set of targets, and Miami playing keep-away. Monday-evening update: Chase is likely out (concussion protocol) and Higgins is day-to-day; Cincinnati still threw for 428 yards in Week 4 with a thin receiver room, so the lean stands with a little more risk. Wed 10/7: Chase in concussion protocol, likely out; Higgins day-to-day (SI/Zac Taylor). Thin WR room raises volume but lowers efficiency. Book lines (RotoWire, 2026-10-09): BetMGM 243.5, BetRivers 240.5, Betr 243.5, Caesars 240.5, DraftKings 245.5, FanDuel 242.5, Fanatics 240.5, Hard Rock Bet 246.5, theScore 244.5; consensus 243.5. Book lines (RotoWire, 2026-10-10): BetMGM 256.5, BetRivers 254.5, Betr 253.5, Caesars 252.5, DraftKings 256.5, FanDuel 252.5, Fanatics 250.5, Hard Rock Bet 257.5, theScore 259.5; consensus 254.5. Sweep 10/11: Burrow completions 23.5 (DK over -120), attempts 32.5, pass TDs 1.5 (FanDuel over -168). CIN is a 7-pt favorite at MIA (total 43.5); book price on the yards over is +100 vs under -135, so the market leans Under. Sweep 10/11: Chase (concussion) and Higgins (groin/neck) are both questionable but full participants Friday; Higgins is a game-time decision. Final status unconfirmed until inactives.",
   "bio": {
    "age": 29,
@@ -24780,7 +24865,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "CIN",
   "teamOutlook": {
    "allowed": "~21 (est.)",
@@ -24887,6 +24972,7 @@
  },
  {
   "id": "2026-10-05-nfl-56",
+  "actual": "367 pass yds",
   "analysis": "Love averaged 266.7 passing yards through Week 3 and then threw for 198 on 22 of 30 with two touchdowns and an interception against Tampa Bay. Jayden Reed is out for the season (neck) and Green Bay has been shuffling its offensive line, so protection is a question. Chicago will probably be on Tyson Bagent if Caleb Williams (grade 2 hamstring) is out, which lets Green Bay play from ahead. Green Bay is a 2.5-point favorite. No prop line found. I project 245 yards, the four-game average, which makes the side only meaningful once a line posts. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 233.5, Caesars 234.5, DraftKings 231.5, Fanatics 230.5, FanDuel 233.5, Hard Rock Bet 233.5, theScore 234.5; I used 233.5 as the reference against my 245 projection. Book lines (RotoWire, 2026-10-09): BetMGM 234.5, BetRivers 236.5, Betr 234.5, Caesars 233.5, DraftKings 237.5, FanDuel 233.5, Fanatics 230.5, Hard Rock Bet 234.5, theScore 234.5; consensus 234.5. Book lines (RotoWire, 2026-10-10): BetMGM 241.5, BetRivers 235.5, Betr 233.5, Caesars 233.5, Circa Sports 234.5, DraftKings 236.5, FanDuel 233.5, Fanatics 230.5, Hard Rock Bet 234.5, theScore 234.5; consensus 234.5. Sweep 10/11: Love has 1,041 passing yards, 8 TD and 3 INT through 4 games; Green Bay's total dropped from 49.5 to 44.5 on DraftKings, and LG Aaron Banks is doubtful. Sweep 10/11: Two Packers guards (Banks, Monk) are doubtful and Burton questionable per CBS, a pressure risk for Love; Jacobs is on reserve-exempt and Reed on IR. Bears -3 (DK), total 45.5.",
   "bio": {
    "age": 27,
@@ -25019,7 +25105,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "GB",
   "teamOutlook": {
    "allowed": "~20 (est.)",
@@ -25031,6 +25117,7 @@
  },
  {
   "id": "2026-10-05-nfl-57",
+  "actual": "44 rush yds",
   "analysis": "Judkins has 177 rushing yards on 59 carries through three games, about 59 a game, with Jaleel McLaughlin behind him. New York allowed 492 total yards to Chicago last week and Breece Hall's absence hurts their offense, so Cleveland may have more time of possession. The total is 40.5, a low-scoring script that favors the run. No line was found. Risk: Jets rank well versus the pass, so Cleveland may not feel pass-forced, and carries can dip if trailing. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 58.5, Caesars 58.5, DraftKings 58.5, Fanatics 55.5, FanDuel 59.5, Hard Rock Bet 59.5, theScore 60.5; I used 58.5 as the reference against my 62 projection. Book lines (RotoWire, 2026-10-09): BetMGM 57.5, BetRivers 60.5, Betr 59.5, Caesars 58.5, DraftKings 58.5, FanDuel 59.5, Fanatics 60.5, Hard Rock Bet 59.5, theScore 59.5; consensus 59.5. Book lines (RotoWire, 2026-10-10): BetMGM 57.5, BetRivers 60.5, Betr 59.5, Caesars 58.5, Circa Sports 59.5, DraftKings 58.5, FanDuel 59.5, Fanatics 55.5, Hard Rock Bet 59.5, theScore 59.5; consensus 59.5. Sweep 10/11: Judkins has a market line of 57.5 rush yards with attempts at 15.5 (over -138). Cleveland has led on only 27.6% of offensive snaps, and the Jets' opponents run 46.0% of the time (25th).",
   "bio": {
    "age": 22,
@@ -25138,7 +25225,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "CLE",
   "teamOutlook": {
    "allowed": "~20.5",
@@ -25150,6 +25237,7 @@
  },
  {
   "id": "2026-10-05-nfl-58",
+  "actual": "104 rec yds",
   "analysis": "Wilson had 10 catches for 107 yards and a touchdown against Detroit and is the clear target leader with Adonai Mitchell and Mason Taylor out in Week 4. Cleveland had five sacks against Pittsburgh but the secondary is untested here. The Jets are small favorites at 40.5, a low total, which is the risk. No line was found. Book lines 10/7 (RotoWire props table, 7 books): BetRivers 70.5, Caesars 69.5, DraftKings 71.5, Fanatics 65.5, FanDuel 68.5, Hard Rock Bet 69.5, theScore 70.5; I used 69.5 as the reference against my 70 projection. Book lines (RotoWire, 2026-10-09): BetMGM 71.5, BetRivers 68.5, Betr 69.5, Caesars 69.5, DraftKings 69.5, FanDuel 69.5, Fanatics 65.5, Hard Rock Bet 69.5, theScore 69.5; consensus 69.5. Book lines (RotoWire, 2026-10-09): BetMGM 71.5, BetRivers 68.5, Betr 69.5, Caesars 69.5, DraftKings 69.5, FanDuel 69.5, Fanatics 70.5, Hard Rock Bet 69.5, theScore 69.5; consensus 69.5. Book lines (RotoWire, 2026-10-10): BetMGM 70.5, BetRivers 69.5, Betr 70.5, Caesars 67.5, Circa Sports 67.5, DraftKings 67.5, FanDuel 69.5, Fanatics 65.5, Hard Rock Bet 67.5, theScore 64.5; consensus 67.5. Sweep 10/11: Wilson has 270 receiving yards and 2 TD through four games and had just 3 catches for 27 yards at Chicago. Mitchell is out, Isaiah Williams is WR2, and Tim Patrick was activated from IR on Oct 10. Sweep 10/11: Mitchell and Hall are out for NYJ; books have the game total at 39.5 (DraftKings) to 40.5 (FanDuel) with the Jets -1.5 to -2.5, a low-scoring environment.",
   "bio": {
    "age": 26,
@@ -25277,7 +25365,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "NYJ",
   "teamOutlook": {
    "allowed": "~20",
@@ -25289,6 +25377,7 @@
  },
  {
   "id": "2026-10-05-nfl-59",
+  "actual": "11 rush yds",
   "analysis": "Montgomery has 103 yards and 2 touchdowns on 37 carries (about 34 yards a game) through three games. Houston is a 6.5-point favorite, which would normally help rushing volume late, and Tennessee has a low total near 39; this is a Less lean on his poor efficiency. No line was found. Risk: a positive game script producing 20 carries. Book lines (RotoWire, 2026-10-09): BetMGM 47.5, BetRivers 46.5, Betr 44.5, Caesars 45.5, DraftKings 45.5, FanDuel 43.5, Fanatics 45.5, Hard Rock Bet 44.5, theScore 44.5; consensus 45.5. Book lines (RotoWire, 2026-10-10): BetMGM 44.5, BetRivers 46.5, Betr 44.5, Caesars 43.5, Circa Sports 44.5, DraftKings 42.5, FanDuel 43.5, Fanatics 40.5, Hard Rock Bet 43.5, theScore 44.5; consensus 44.",
   "bio": {
    "age": 29,
@@ -25384,7 +25473,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "HOU",
   "teamOutlook": {
    "allowed": "~16.5",
@@ -25396,6 +25485,7 @@
  },
  {
   "id": "2026-10-05-nfl-60",
+  "actual": "52 rush yds",
   "analysis": "Pollard has 173 yards on 38 carries (about 58 a game) and Tyjae Spears is questionable with an ankle, which could raise Pollard's share. Houston is favored by 6.5 with a 38.5 to 39.5 total, so Tennessee may be forced to pass. I project 52 yards. No line was found. Risk: a Spears absence would bump his workload. Book lines 10/7 (RotoWire props table, 4 books): Caesars 48.5, DraftKings 48.5, Fanatics 50.5, Hard Rock Bet 49.5; I used 48.5 as the reference against my 52 projection. The side was flipped to match the projection versus the posted line. Book lines (RotoWire, 2026-10-09): BetMGM 48.5, BetRivers 52.5, Betr 50.5, Caesars 49.5, DraftKings 49.5, FanDuel 50.5, Hard Rock Bet 49.5, theScore 49.5; consensus 49.5. Book lines (RotoWire, 2026-10-10): BetMGM 46.5, BetRivers 52.5, Betr 51.5, Caesars 49.5, Circa Sports 50.5, DraftKings 48.5, FanDuel 50.5, Fanatics 50.5, Hard Rock Bet 49.5, theScore 49.5; consensus 50. Sweep 10/11: Pollard practiced fully Thursday and Friday with no designation. HOU -7 in a 37.5 total (FanDuel).",
   "bio": {
    "age": 29,
@@ -25503,7 +25593,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "TEN",
   "teamOutlook": {
    "allowed": "~23",
@@ -25515,6 +25605,7 @@
  },
  {
   "id": "2026-10-05-nfl-61",
+  "actual": "235 pass yds",
   "analysis": "Rodgers has 999 yards, 7 touchdowns and 4 interceptions on 153 attempts through four games, about 250 a game, and threw 39 times against Cleveland. Pittsburgh is a small favorite with a 44.5 total and a rest advantage. The Colts' secondary has been prone to big plays. No line was found. Risk: Rodgers has been sacked 13 times and the Colts' run game could shorten the game. Book lines 10/7 (RotoWire props table, 5 books): Caesars 224.5, DraftKings 223.5, Fanatics 225.5, FanDuel 224.5, Hard Rock Bet 223.5; I used 224.5 as the reference against my 250 projection. Book lines (RotoWire, 2026-10-09): Betr 221.5, Caesars 218.5, DraftKings 218.5, FanDuel 222.5, Fanatics 220.5, Hard Rock Bet 220.5, theScore 219.5; consensus 220.5. Book lines (RotoWire, 2026-10-10): BetMGM 227.5, BetRivers 221.5, Betr 223.5, Caesars 223.5, Circa Sports 227.5, DraftKings 225.5, FanDuel 223.5, Fanatics 225.5, Hard Rock Bet 225.5, theScore 229.5; consensus 225.5. Sweep 10/11: Rodgers averages about 250 passing yards per game on 38.3 attempts, and Indianapolis allows 261.3 passing yards per game (4th most) and 13.3 yards per completion (3rd highest). Rodgers has been sacked 13 times in 4 games. Sweep 10/11: Sharp Football: Rodgers averages 41.8 dropbacks per game (6th); the Colts allow 8.1 yards per attempt (28th). Dean is out and Ramsey questionable for PIT.",
   "bio": {
    "age": 42,
@@ -25638,7 +25729,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Passing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "PIT",
   "teamOutlook": {
    "allowed": "~21",
@@ -25650,6 +25741,7 @@
  },
  {
   "id": "2026-10-05-nfl-62",
+  "actual": "45 rush yds",
   "analysis": "Taylor has 258 yards and 4 rushing touchdowns on 66 carries (about 3.9 a carry) and scored twice against Washington. With Alec Pierce on IR and a weak passing attack, the Colts lean on him. Pittsburgh has lost Rico Dowdle to a toe injury on offense and is a small favorite, so game script stays neutral. No line was found. Risk: a 3.9 yards-per-carry average and a Steelers pass-rush-first defense. Book lines (RotoWire, 2026-10-09): BetMGM 83.5, BetRivers 86.5, Betr 86.5, Caesars 84.5, DraftKings 84.5, FanDuel 86.5, Fanatics 85.5, Hard Rock Bet 85.5, theScore 79.5; consensus 85.5. Side moved to Less: projection 75 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 84.5, BetRivers 85.5, Betr 85.5, Caesars 85.5, DraftKings 85.5, FanDuel 86.5, Fanatics 80.5, Hard Rock Bet 85.5, theScore 84.5; consensus 85.5. Sweep 10/11: Taylor has had 20+ touches in all four games and six rushing TDs; Pittsburgh has allowed the sixth-highest yards per carry since Week 2, and Dimers projects 86.6 rush yards. The Less side at 85.5 runs against these inputs, so review it. Review: outside projections (Dimers 86.6 rush yds) run against the Less side. Sweep 10/11: Steelers DT Harmon is on IR and the Colts' WR room is thin, which could push volume to Taylor, a risk to a Less (Squawka suggested Taylor over 75 rush yards).",
   "bio": {
    "age": 27,
@@ -25782,7 +25874,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "IND",
   "teamOutlook": {
    "allowed": "~23.5",
@@ -25794,6 +25886,7 @@
  },
  {
   "id": "2026-10-05-nfl-63",
+  "actual": "64 rush yds",
   "analysis": "Stevenson has 116 rushing yards on 31 carries (about 3.7 a carry) and New England has leaned on the run with Maye throwing only 22 to 33 times. New England is a 3.5-point favorite, which supports a run-heavy script. No line was found. Risk: a small sample and Maye's mobility vs a back-and-forth game. Book lines (RotoWire, 2026-10-10): BetMGM 39.5, BetRivers 38.5, Betr 38.5, Caesars 37.5, DraftKings 36.5, FanDuel 37.5, Fanatics 35.5, Hard Rock Bet 37.5, theScore 34.5; consensus 37.5. Sweep 10/11: Stevenson book props: rush att 10.5 (DK), rush+rec 59.5 (DK), rec 2.5; Henderson rush yds 46.5 (FanDuel/BetRivers), rush att 11.5. Per ESPN feed, Henderson operates as RB1 if Stevenson is out. Sweep 10/11: Stevenson (knee) is questionable, limited Friday; SportsLine cites Rapoport that he is expected to play. Confirm on inactives.",
   "bio": {
    "age": 28,
@@ -25909,7 +26002,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "hit",
   "team": "NE",
   "teamOutlook": {
    "allowed": "~20.5 (est.)",
@@ -25921,6 +26014,7 @@
  },
  {
   "id": "2026-10-05-nfl-64",
+  "actual": "46 rec yds",
   "analysis": "Olave has 27 catches for 375 yards (125 yards a game) in three games, with Tyler Shough at QB (917 yards). Minnesota's defense is elite by points allowed (13.7 per game) and sacks, so this projection is below his average at 72 yards. The Saints are home underdogs at 45.5. No line was found. Risk: Minnesota's pass rush limiting Shough. Book lines (RotoWire, 2026-10-09): BetMGM 78.5, BetRivers 81.5, Betr 80.5, Caesars 80.5, DraftKings 81.5, FanDuel 81.5, Fanatics 80.5, Hard Rock Bet 81.5, theScore 84.5; consensus 81.5. Side moved to Less: projection 72 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 78.5, BetRivers 80.5, Betr 81.5, Caesars 80.5, Circa Sports 81.5, DraftKings 80.5, FanDuel 81.5, Fanatics 80.5, Hard Rock Bet 80.5, theScore 79.5; consensus 80.5. Sweep 10/11: Olave has 491 yards on 35 catches in 4 games and leads the NFL at 12 targets per game (Vikings.com). The Less projection of 72 sits well below his season pace, so review the side and confidence. Review: usage (12 targets/g, 491 yds in 4 g per Vikings.com) runs against the Less side. Sweep 10/11: Vikings allow 13.2 yards per completion (29th); Saints WR Tyson is on IR and Barion Brown is questionable, concentrating targets with Olave (Sharp Football).",
   "bio": {
    "age": 26,
@@ -26041,7 +26135,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Receiving yards",
-  "status": "pending",
+  "status": "hit",
   "team": "NO",
   "teamOutlook": {
    "allowed": "~23 (est.)",
@@ -26053,6 +26147,7 @@
  },
  {
   "id": "2026-10-05-nfl-65",
+  "actual": "59 rush yds",
   "analysis": "Skattebo has 50 carries at 3.5 yards a carry through four games. Tyrone Tracy was a full participant in Week 4 and shares work. Washington is a 2.5-point favorite with a 43.5 total. Football Nation suggests 16.5 attempts or fewer as playable, so carries are uncertain. No line was found. Risk: a split with Tracy. Book lines (RotoWire, 2026-10-09): BetMGM 55.5, BetRivers 55.5, Betr 58.5, Caesars 56.5, DraftKings 55.5, FanDuel 56.5, Fanatics 55.5, Hard Rock Bet 56.5, theScore 57.5; consensus 56.5. Side moved to Less: projection 48 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 55.5, BetRivers 56.5, Betr 55.5, Caesars 55.5, DraftKings 55.5, FanDuel 56.5, Fanatics 55.5, Hard Rock Bet 56.5, theScore 57.5; consensus 55.5. Sweep 10/11: Skattebo rush att 15.5 (DK), rush+rec 73.5 (DK). Najee Harris line 27.5 rush yds. Harris carried 9 times for 30 yds and lost a fumble last week. Sweep 10/11: Skattebo practiced fully Friday; Najee Harris also full, so the backfield is a split.",
   "bio": {
    "age": 24,
@@ -26157,7 +26252,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "NYG",
   "teamOutlook": {
    "allowed": "~23",
@@ -26169,6 +26264,7 @@
  },
  {
   "id": "2026-10-05-nfl-66",
+  "actual": "151 rush yds",
   "analysis": "Gibbs had 65 carries for 307 yards and four rushing touchdowns through three games, the clearest part of a Detroit offense averaging 31 points per game. Detroit lost 32-26 at Carolina in Week 4 when Goff threw 52 passes, so I do not have his Week 4 rushing line. Arizona allowed 9.3 yards per pass attempt, which could keep Detroit throwing. No line was posted when I looked, so the side is provisional and should be re-checked against Dabble's number. I project about 85 yards. Main risk is the pass-heavy script seen in Week 4. Book lines 10/7 (RotoWire props table, 6 books): Caesars 90.5, DraftKings 91.5, Fanatics 90.5, FanDuel 90.5, Hard Rock Bet 90.5, BetMGM 91.5; I used 90.5 as the reference against my 85 projection. The side was flipped to match the projection versus the posted line. Book lines (RotoWire, 2026-10-09): BetMGM 93.5, BetRivers 89.5, Betr 91.5, Caesars 91.5, DraftKings 93.5, FanDuel 90.5, Fanatics 90.5, Hard Rock Bet 91.5, theScore 91.5; consensus 91.5. Book lines (RotoWire, 2026-10-10): BetMGM 94.5, BetRivers 89.5, Betr 90.5, Caesars 90.5, Circa Sports 90.5, DraftKings 90.5, FanDuel 90.5, Fanatics 90.5, Hard Rock Bet 90.5, theScore 89.5; consensus 90.5. Sweep 10/11: Gibbs ran for 156, 52, 99 and 46 yds with 5, 6, 7, 4 catches; DET is -5.5 at ARI. Sweep 10/11: Covers: DET -4.5, total 54.5, a positive script for Gibbs; DET OT Bartch is out per CBS. Game-script risk to a Less.",
   "bio": {
    "age": 24,
@@ -26304,7 +26400,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:25:00-04:00",
   "stat": "Rushing yards",
-  "status": "pending",
+  "status": "miss",
   "team": "DET",
   "teamOutlook": {
    "allowed": "~23 (est.)",
@@ -26316,6 +26412,7 @@
  },
  {
   "id": "2026-10-05-nfl-67",
+  "actual": "27 pass att",
   "analysis": "Nix threw 42 passes in Denver's Week 4 loss, feeding RJ Harvey's 10 catches. This week Denver is a 3.5-point favorite against a Chargers team missing Ladd McConkey, with a game total of just 42.5 at Dimers. A favorite in a low-total game usually throws fewer passes, so I project about 36 attempts. No attempts line was found, so the side is provisional. Risk is that Denver falls behind again and has to throw. Book lines 10/7 (RotoWire props table, 3 books): Caesars 33.5, DraftKings 33.5, Hard Rock Bet 33.5; I used 33.5 as the reference against my 36 projection. The side was flipped to match the projection versus the posted line. Book lines (RotoWire, 2026-10-09): BetMGM 33.5, Caesars 33.5, DraftKings 33.5, Fanatics 33.5, Hard Rock Bet 33.5, theScore 33.5; consensus 33.5. Sweep 10/11: Nix has attempted 28, 31, 34 and 42 passes (131, 288, 186, 214 yds); 2 of 4 over 33.5. Sweep 10/11: Covers shows DEN -3.5, total 42; a favorite in a low-total game may lean on the run, a risk to More on attempts.",
   "bio": {
    "age": 26,
@@ -26428,7 +26525,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:05:00-04:00",
   "stat": "Pass attempts",
-  "status": "pending",
+  "status": "miss",
   "team": "DEN",
   "teamOutlook": {
    "allowed": "~19.5",
@@ -26440,6 +26537,7 @@
  },
  {
   "id": "2026-10-05-nfl-84",
+  "actual": "7 tkl",
   "analysis": "Singleton is the NFL tackle leader through four games with 47 (about 11.75 per game), including 14 against the 49ers. With Sanders and Tillman questionable on the Broncos injury report, he should again play nearly every down. The Chargers are 0-4 and their line has been gutted by Slater, Alt and Penning injuries, so Los Angeles may lean on quick throws and checkdowns that LBs clean up. I trim the projection to 11.0 because the 14-tackle game inflates the average and Denver could protect a lead on the ground. No posted line was found, so the side compares to his own season average. Main risk is a game that slows down and leaves fewer plays. Sweep 10/11: Singleton has 16, 9, 8 and 14 combined tackles (solo 5, 5, 5, 7).",
   "bio": {},
   "confidence": 2,
@@ -26497,7 +26595,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:05:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "DEN",
   "teamOutlook": {
    "allowed": "~19.5",
@@ -26509,6 +26607,7 @@
  },
  {
   "id": "2026-10-05-nfl-85",
+  "actual": "2 sacks",
   "analysis": "Bonitto went 0 sacks in Weeks 1, 2 and 4 and recorded his only sack in Week 3 against the Rams, which is well below the 14.0 he posted last year. Los Angeles has surrendered 8 sacks on Herbert through four games and came out of the Seattle loss with Slater, Alt and Penning all hurt, so the matchup is as good as pass rushers get. Denver's pass rush went quiet at San Francisco and the recap criticized it, which adds some chance of another dud. I blend his 2026 rate (0.25 per game) with last year's 0.82 to get 0.5 sacks. No book line was seen, so More is relative to his 2026 per-game average. Surtain being doubtful could shift coverage, but that matters less than the line injuries. Sweep 10/11: Bonitto has 1.0 sack in four games, and 3, 0, 2, 2 combined tackles. Sweep 10/11: LAC OTs Alt (out) and Slater (IR) and OL Awosika (out) give DEN pass rushers a matchup edge (context, not a book line).",
   "bio": {},
   "confidence": 2,
@@ -26574,7 +26673,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:05:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "hit",
   "team": "DEN",
   "teamOutlook": {
    "allowed": "~19.5",
@@ -26586,6 +26685,7 @@
  },
  {
   "id": "2026-10-05-nfl-86",
+  "actual": "6 tkl",
   "analysis": "Henley's 26 tackles through four games average 6.5 and lead the team, and he had five (four solo) in Week 4 plus a forced fumble. Denver's Week 4 recap described Bo Nix checking the ball down all day, a profile that sends short targets into linebacker range. Los Angeles is a home underdog at 0-4 with missing defensive pieces, so he should stay on the field. I set 7.0 as a small bump over his average. I found no injury designation for him. No posted line was found, so the side is relative to his own average. Risk is Denver sitting on a lead and running, which would hand tackles to the front. Sweep 10/11: Henley has 8, 3, 9 and 5 combined tackles in 2026 (solo 2, 0, 5, 3).",
   "bio": {},
   "confidence": 2,
@@ -26638,7 +26738,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T16:05:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "LAC",
   "teamOutlook": {
    "allowed": "~23",
@@ -26650,6 +26750,7 @@
  },
  {
   "id": "2026-10-05-nfl-88",
+  "actual": "12 tkl",
   "analysis": "Dean is the Raiders' tackle leader with 32 (8.0 per game) and has been central to the defense with several forced fumbles. He logged five tackles against the Chiefs and had a limited practice week earlier after a possible shoulder injury, yet he played. New England just beat Buffalo 29-26 behind a strong Drake Maye game, so the Patriots should move the ball, but Raiders defenders may be on the field mostly chasing in space. I project 7.5, a notch under his average. No posted line was found, so the side is against his own average. Jeremy Chinn (30 tackles) shares the workload.",
   "bio": {},
   "confidence": 2,
@@ -26694,7 +26795,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "LV",
   "teamOutlook": {
    "allowed": "~24 (est.)",
@@ -26706,6 +26807,7 @@
  },
  {
   "id": "2026-10-05-nfl-89",
+  "actual": "0 sacks",
   "analysis": "Crosby has two sacks across four games and added half a sack with five quarterback hits against Kansas City, which suggests he is getting home more often than the box score shows. Drake Maye was sacked nine times in the first three games, and left tackle Will Campbell gave up six pressures against Buffalo, including a strip sack. The Patriots did clean things up against the Bills, so I do not assume a repeat, and I project 0.7 against a 0.5 per-game average. No book line was found; More is relative to his own average.",
   "bio": {},
   "confidence": 3,
@@ -26758,7 +26860,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "miss",
   "team": "LV",
   "teamOutlook": {
    "allowed": "~24 (est.)",
@@ -26770,6 +26872,7 @@
  },
  {
   "id": "2026-10-05-nfl-90",
+  "actual": "5 tkl",
   "analysis": "Spillane led the Patriots with 15 tackles and an interception in Week 3 and 8 tackles with a forced fumble in the Bills win. He is the defensive captain and was reported playing every defensive snap. Raiders QB Kirk Cousins threw 52 times for 365 yards in Week 4, so the volume should again keep Spillane around the ball. I could not verify his full-season total, so the 8.5 projection leans on those two games and his 2025 average of 7.5 per game. No posted line was found, so the side compares to the 2025 per-game average. Harold Landry was on the PUP list for Week 4. Sweep 10/11: If Elliss sits, Spillane's snap share should rise; NE is a 3.5-pt favorite so game script may limit LV volume. No Spillane designation listed.",
   "bio": {},
   "confidence": 2,
@@ -26830,7 +26933,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "miss",
   "team": "NE",
   "teamOutlook": {
    "allowed": "~20.5 (est.)",
@@ -26842,6 +26945,7 @@
  },
  {
   "id": "2026-10-05-nfl-92",
+  "actual": "9 tkl",
   "analysis": "Reese had a team-high nine tackles, a tackle for loss, an interception and three pass breakups in the Week 4 win and sits at 24 tackles on the year. Edmunds (23 tackles) shares the middle, which caps the ceiling a little. Washington expects Jayden Daniels back from his elbow injury and is a 3-point favorite in a game with a 43.5 total, which supports a normal number of snaps. Burns' torn ACL leaves a thin pass rush, so more plays may end in short completions that Reese tackles. I project 6.5 over a 6.0 average. No line was posted where I looked. Sweep 10/11: Reese 9 solo tackles last game. Giants DE Golston (neck, IR) and S Pinnock (concussion) are out.",
   "bio": {
    "exp": "rookie (fifth overall pick, 2026)"
@@ -26896,7 +27000,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "NYG",
   "teamOutlook": {
    "allowed": "~23",
@@ -26908,6 +27012,7 @@
  },
  {
   "id": "2026-10-05-nfl-96",
+  "actual": "9 tkl",
   "analysis": "Cashman has 33 tackles in four games (7, 10, 8, 8) and extended a streak of 7-plus tackle games to 15. He played 38 of the Vikings' 39 defensive snaps against Miami. The Saints just threw 48 times in a 21-point loss, and their offense is built around volume against a defense that shuffles attackers, so there should be plenty of tackles to mop up. Minnesota's long possessions (39:11 vs Miami) also leave the defense with more snaps in a game that is not a blowout. I set 8.5 against a 8.25 average. No posted line was seen. Book lines (RotoWire, 2026-10-10): Fanatics 8.5; consensus 8.5.",
   "bio": {},
   "confidence": 3,
@@ -26961,7 +27066,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Tackles",
-  "status": "pending",
+  "status": "hit",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "~21.5 (est.)",
@@ -26973,6 +27078,7 @@
  },
  {
   "id": "2026-10-05-nfl-97",
+  "actual": "0 sacks",
   "analysis": "Turner has 5.5 sacks and two forced fumbles through four games, including both Minnesota sacks against Miami on 33 snaps. New Orleans has let Tyler Shough get sacked 10 times, and they dropped to 1-3 after the Falcons loss. Minnesota ranked first in pressure rate last season. I project 1.4 sacks, roughly his average, because his pace is hard to exceed. No book line was seen, so the side is versus his 1.375 per-game rate; a posted line would likely sit well below that. Risk is the Saints getting the ball out quickly. Sweep 10/11: Shough has been sacked 12 times and faced 73 pressures; Minnesota has the league's best sack rate (10.9%). New Orleans G Jeremiah Wright is out. Sweep 10/11: Saints G Wright is out (concussion) and Shough was pressured on 52.9% of dropbacks vs Atlanta; Minnesota leads in pressure rate (45.8%) and sack rate (10.9%).",
   "bio": {
    "exp": "third-year edge rusher"
@@ -27044,7 +27150,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "miss",
   "team": "MIN",
   "teamOutlook": {
    "allowed": "~21.5 (est.)",
@@ -27056,6 +27162,7 @@
  },
  {
   "id": "2026-10-05-nfl-99",
+  "actual": "0.5 sacks",
   "analysis": "Young had 3.5 sacks in the first three games, tied his career-high with two against Las Vegas and was blanked in the Monday night loss, when Tyree Wilson had the only Saints sack. The Vikings gave up four sacks to Miami with Ryan Van Demark replacing Christian Darrisaw and Donovan Jackson getting hurt. Minnesota's offense has struggled to score touchdowns, which could keep the Saints in obvious pass-rush spots if they fall behind. Carl Granderson and Anfernee Jennings were out last week, which would lift Young's snap share if they remain out. I project 0.9 versus a 0.875 average. No posted line found. Wed update: Darrisaw (concussion protocol) questionable per ESPN/RotoWire; Donovan Jackson on IR. Slightly helps Young's rush. MIN -1.5 (DK). Sweep 10/11: Young has 17 pressures and an 18.7% pressure rate while lining up at right edge on 95% of snaps. Minnesota is starting Van Demark and Huber with Darrisaw and Jackson out, and RT O'Neill is questionable. Sweep 10/11: Saints DL Shepherd, Broughton and Miller are questionable (illness); Minnesota's replacement LT Richards allowed 14 pressures over two weeks.",
   "bio": {},
   "confidence": 2,
@@ -27128,7 +27235,7 @@
   "sport": "nfl",
   "startTime": "2026-10-11T13:00:00-04:00",
   "stat": "Sacks",
-  "status": "pending",
+  "status": "miss",
   "team": "NO",
   "teamOutlook": {
    "allowed": "~23 (est.)",
@@ -35926,6 +36033,7 @@
  },
  {
   "id": "2026-10-05-nhl-165",
+  "actual": "1 SOG",
   "analysis": "Aliaksei Protas (Capitals left wing) had 159 shots on goal in 76 games last season (2.09 per game) and has 2 in 2 games this season (1.00 per game) while averaging 16.5 minutes. He has dressed for every WSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.01; SEA allowed 29.3 shots/g vs league 27.8, a factor of 1.05. That projects 2.12 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.12 per game puts fewer than or equal to 2.5 at about 64%. The main risks are a small early-season sample, line-combination changes and power-play time. Sweep 10/11: NHL API game log shows 1,1,0,2 SOG in 4 games (1.0 per game) in 15-17 minutes of ice time; NHL.com projects him on the third line. Sweep 10/11: Daily Faceoff (updated 10/9) projects Protas on WSH line 3 and PK1 with no PP slot; projected lineup, may change. Dimers lists Strome (not Protas) under 1.5 SOG at +125 on DraftKings.",
   "bio": {
    "age": 25,
@@ -36023,7 +36131,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T17:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "Kraken allow 2.99 goals/g (blended)",
@@ -36035,6 +36143,7 @@
  },
  {
   "id": "2026-10-05-nhl-166",
+  "actual": "1 P",
   "analysis": "Jared McCann (Kraken left wing) had 40 points in 52 games last season (0.77 per game) and has 4 in 3 games this season (1.33 per game) while averaging 16.0 minutes. He has dressed for every SEA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.85; WSH allowed 2.87 goals/g vs league 3.08, a factor of 0.97, damped. That projects 0.82 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 56% chance of at least one point on a Poisson read of 0.82 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: NHL gamecenter lists McCann with 6 points (5 assists) in 5 GP; WSH has allowed 2.25 GAA (.922 team save pct) through 4 GP with Thompson 3-0-0. Sweep 10/11: Daily Faceoff projects McCann on SEA line 1 and PP2. Goalies unconfirmed (Grubauer SEA, Thompson WSH) as of the goalie page.",
   "bio": {
    "age": 30,
@@ -36145,7 +36254,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T17:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "Capitals allow 2.87 goals/g (blended)",
@@ -36157,6 +36266,7 @@
  },
  {
   "id": "2026-10-05-nhl-167",
+  "actual": "6 hits",
   "analysis": "Boone Jenner (Capitals center) had 147 hits in 67 games last season (2.19 per game) and has 0 in 2 games this season (0.00 per game) while averaging 15.6 minutes. He has dressed for every WSH game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.01; no opponent adjustment for this stat. That projects 2.01 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.01 per game puts fewer than or equal to 2.5 at about 67%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: NHL.com projects Jenner on the fourth line (Jenner, Sourdif, Leonard) for WSH vs SEA. Sweep 10/11: Daily Faceoff projects Jenner on WSH line 4 and PK2. Sandin is out and Roy day-to-day for WSH.",
   "bio": {
    "age": 33,
@@ -36246,7 +36356,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T17:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "Kraken allow 2.99 goals/g (blended)",
@@ -36258,6 +36368,7 @@
  },
  {
   "id": "2026-10-05-nhl-168",
+  "actual": "3 BLK",
   "analysis": "Adam Larsson (Kraken defenseman) had 163 blocked shots in 82 games last season (1.99 per game) and has 10 in 3 games this season (3.33 per game) while averaging 21.4 minutes. He has dressed for every SEA game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.12; no opponent adjustment for this stat. That projects 2.12 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.12 per game puts more than 1.5 at about 63%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: NHL.com projects Larsson on SEA's top D pair with Vince Dunn; Ryan Lindgren (upper body) and Jacob Melanson are listed out. Sweep 10/11: Daily Faceoff shows Larsson on SEA pair 1 and PK1, a heavy shot-blocking role; Lindgren is listed out.",
   "bio": {
    "age": 33,
@@ -36347,7 +36458,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T17:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "Capitals allow 2.87 goals/g (blended)",
@@ -36359,6 +36470,7 @@
  },
  {
   "id": "2026-10-05-nhl-169",
+  "actual": "1 SOG",
   "analysis": "Brock Boeser (Canucks right wing) had 166 shots on goal in 75 games last season (2.21 per game) and has 6 in 4 games this season (1.50 per game) while averaging 17.4 minutes. He has dressed for every VAN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.11; NYR allowed 28.3 shots/g vs league 27.8, a factor of 1.02. That projects 2.15 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.15 per game puts fewer than or equal to 2.5 at about 64%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 2.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 2.15 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, BetRivers 1.5, Caesars 2.5, DraftKings 1.5, FanDuel 2.5, Fanatics 2.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Sweep 10/11: NHL game log shows 1 SOG in each of his last two games and 3rd-line 14:51-18:38 TOI range; Daily Faceoff lists him on PP1 (DeBrusk-Pettersson-Boeser-Hronek-Rossi) and PK2. NYR goalie Shesterkin enters at 1.79 GAA/.927 per NHL.com gamecenter. Sweep 10/11: Daily Faceoff shows Boeser on VAN line 3 but PP1 and PK2. Demko out; Lankinen (VAN) and Garand (NYR) are unconfirmed, Shesterkin out.",
   "bio": {
    "age": 29,
@@ -36497,7 +36609,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T18:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "VAN",
   "teamOutlook": {
    "allowed": "Rangers allow 2.84 goals/g (blended)",
@@ -36585,6 +36697,7 @@
  },
  {
   "id": "2026-10-05-nhl-170",
+  "actual": "1 P",
   "analysis": "Adam Fox (Rangers defenseman) had 53 points in 55 games last season (0.96 per game) and has 4 in 4 games this season (1.00 per game) while averaging 20.5 minutes. He has dressed for every NYR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.97; VAN allowed 3.91 goals/g vs league 3.08, a factor of 1.13, damped. That projects 1.09 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 66% chance of at least one point on a Poisson read of 1.09 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): FanDuel 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Fox has an assist in 4 of his last 5 games (game log Oct 1-9) and leads NYR with 5 assists over the last 5 games. Vancouver is 2-4-0 with a 4.83 GAA and .853 team save pct through 6 games. Sweep 10/11: Fox is on NYR pair 1, PP1 and PK1 (Daily Faceoff). Dimers lists his SOG under 1.5 at +125 on DraftKings, so shot volume is modest; this is not a points line.",
   "bio": {
    "age": 28,
@@ -36703,7 +36816,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T18:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "hit",
   "team": "NYR",
   "teamOutlook": {
    "allowed": "Canucks allow 3.91 goals/g (blended)",
@@ -36715,6 +36828,7 @@
  },
  {
   "id": "2026-10-05-nhl-171",
+  "actual": "3 hits",
   "analysis": "Braden Schneider (Rangers defenseman) had 163 hits in 82 games last season (1.99 per game) and has 10 in 4 games this season (2.50 per game) while averaging 17.3 minutes. He has dressed for every NYR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.05; no opponent adjustment for this stat. That projects 2.05 against a reference of 1.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.05 per game puts more than 1.5 at about 61%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: Daily Faceoff (updated Oct 10) lists Schneider on the third pair with Smits and off both special-teams units, so his role is bottom-pair even strength only. Sweep 10/11: Daily Faceoff lists Schneider on NYR pair 3 with no PP or PK slot.",
   "bio": {
    "age": 25,
@@ -36804,7 +36918,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T18:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "NYR",
   "teamOutlook": {
    "allowed": "Canucks allow 3.91 goals/g (blended)",
@@ -36816,6 +36930,7 @@
  },
  {
   "id": "2026-10-05-nhl-172",
+  "actual": "0 A",
   "analysis": "Marco Rossi (Canucks center) had 23 assists in 50 games last season (0.46 per game) and has 1 in 4 games this season (0.25 per game) while averaging 17.2 minutes. He has dressed for every VAN game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.42; NYR allowed 2.84 goals/g vs league 3.08, a factor of 0.96, damped. That projects 0.40 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 33% chance of at least one assist on a Poisson read of 0.40 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Sweep 10/11: Rossi is on VAN line 2 and PP1 (Daily Faceoff). Dimers lists his assist at +190 on DraftKings; PP1 role adds risk to a Less.",
   "bio": {
    "age": 25,
@@ -36950,7 +37065,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T18:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "hit",
   "team": "VAN",
   "teamOutlook": {
    "allowed": "Rangers allow 2.84 goals/g (blended)",
@@ -36962,6 +37077,7 @@
  },
  {
   "id": "2026-10-05-nhl-173",
+  "actual": "1 SOG",
   "analysis": "Trevor Zegras (Flyers center) had 167 shots on goal in 81 games last season (2.06 per game) and has 2 in 4 games this season (0.50 per game) while averaging 18.7 minutes. He has dressed for every PHI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.86; CAR allowed 23.7 shots/g vs league 27.8, a factor of 0.85. That projects 1.58 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 1.58 per game puts fewer than or equal to 2.5 at about 79%. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to More: projection 1.58 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 1.5, BetRivers 1.5, Caesars 1.5, DraftKings 1.5, FanDuel 2.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Sweep 10/11: NHL API game log shows 5 SOG over his last 6 games with 0 SOG in three of them, despite a top-line/PP1 role per Daily Faceoff; the More side relies on a 1.58 projection vs a 1.5 line. Sweep 10/11: Daily Faceoff has Zegras on PHI line 1 and PP1. Woll (PHI) and Kochetkov (CAR) are unconfirmed; Jarvis is out for CAR; Konecny and York day-to-day for PHI.",
   "bio": {
    "age": 25,
@@ -37096,7 +37212,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "miss",
   "team": "PHI",
   "teamOutlook": {
    "allowed": "Hurricanes allow 2.86 goals/g (blended)",
@@ -37108,6 +37224,7 @@
  },
  {
   "id": "2026-10-05-nhl-174",
+  "actual": "2 P",
   "analysis": "Sebastian Aho (Hurricanes center) had 80 points in 79 games last season (1.01 per game) and has 4 in 3 games this season (1.33 per game) while averaging 20.0 minutes. He has dressed for every CAR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 1.05; PHI allowed 3.09 goals/g vs league 3.08, a factor of 1.00, damped. That projects 1.05 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 65% chance of at least one point on a Poisson read of 1.05 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 1.5, Betr 1.5, Caesars 0.5, DraftKings 1.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Side moved to Less: projection 1.05 vs the book line. Book lines (RotoWire, 2026-10-10): BetMGM 0.5, BetRivers 1.5, Betr 0.5, Caesars 1.5, DraftKings 0.5, FanDuel 1.5, Fanatics 1.5, Hard Rock Bet 1.5, theScore 1.5; consensus 1.5. Sweep 10/11: Aho game log: 0,1,3,3,1 points in the last 5 (8 total, 4 goals), 20:30 TOI at PHI on Oct 3; CAR plays at PHI whose goalie Vladar has 5.08 GAA/.857 and Woll 2.61/.927. Lowering Less confidence is warranted given PHI's weak defense. Sweep 10/11: Aho is on CAR line 1, PP1 and PK2 (Daily Faceoff); Jarvis and Nikishin are out for CAR.",
   "bio": {
    "age": 29,
@@ -37242,7 +37359,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T19:00:00-04:00",
   "stat": "Points",
-  "status": "pending",
+  "status": "miss",
   "team": "CAR",
   "teamOutlook": {
    "allowed": "Flyers allow 3.09 goals/g (blended)",
@@ -37254,6 +37371,7 @@
  },
  {
   "id": "2026-10-05-nhl-175",
+  "actual": "2 hits",
   "analysis": "Owen Tippett (Flyers right wing) had 166 hits in 81 games last season (2.05 per game) and has 15 in 4 games this season (3.75 per game) while averaging 15.5 minutes. He has dressed for every PHI game so far and is not on ESPN's injury list. Weighting this season three times per game gives 2.27; no opponent adjustment for this stat. That projects 2.27 against a reference of 2.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). A Poisson read of 2.27 per game puts fewer than or equal to 2.5 at about 60%. Peripheral stats like these swing with deployment and score effects, so this stays a low-confidence lean. Sweep 10/11: Daily Faceoff (updated Oct 10) lists Tippett on the second forward group with Couturier and Michkov and on PP2; Travis Konecny and Cam York are day-to-day. Sweep 10/11: Daily Faceoff lists Tippett on PHI line 2 and PP2 with no PK slot.",
   "bio": {
    "age": 27,
@@ -37339,7 +37457,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "PHI",
   "teamOutlook": {
    "allowed": "Hurricanes allow 2.86 goals/g (blended)",
@@ -37351,6 +37469,7 @@
  },
  {
   "id": "2026-10-05-nhl-176",
+  "actual": "0 A",
   "analysis": "Nikolaj Ehlers (Hurricanes left wing) had 45 assists in 82 games last season (0.55 per game) and has 1 in 3 games this season (0.33 per game) while averaging 17.4 minutes. He has dressed for every CAR game so far and is not on ESPN's injury list. Weighting this season three times per game gives 0.53; PHI allowed 3.09 goals/g vs league 3.08, a factor of 1.00, damped. That projects 0.53 against a reference of 0.5 (no book line posted when I checked; the reference is the half-point nearest his season-ago rate). About a 41% chance of at least one assist on a Poisson read of 0.53 per game. The main risks are a small early-season sample, line-combination changes and power-play time. Book lines (RotoWire, 2026-10-09): BetMGM 0.5, BetRivers 0.5, Betr 0.5, Caesars 0.5, DraftKings 0.5, FanDuel 0.5, Fanatics 0.5, Hard Rock Bet 0.5, theScore 0.5; consensus 0.5. Side moved to More: projection 0.53 vs the book line. Sweep 10/11: Game log shows 2 assists in his last 5 games and TOI of 11:08, 15:53 and 13:38 in the last three, well below Aho's ~18-20 minutes; NHL.com Oct 3 preview listed him on the third line (Ehlers-Staal-Martinook). Sweep 10/11: Ehlers is on CAR line 3 but PP1 per Daily Faceoff, which supports assist upside; Jarvis is out.",
   "bio": {
    "age": 30,
@@ -37485,7 +37604,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T19:00:00-04:00",
   "stat": "Assists",
-  "status": "pending",
+  "status": "miss",
   "team": "CAR",
   "teamOutlook": {
    "allowed": "Flyers allow 3.09 goals/g (blended)",
@@ -49705,6 +49824,7 @@
  },
  {
   "id": "2026-10-05-nhl-286",
+  "actual": "1 hits",
   "analysis": "Vincent Desharnais (Capitals defenseman) logged 103 hits in 53 games last season (1.94 per game) and 7 in 2 this season (3.50 per game), averaging 18.3 minutes. Weighting this season three times per game gives a blended 2.10. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 2.10 above a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 2.10 per game puts more than 1.5 at about 62%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: With Matt Roy (lower body) and Rasmus Sandin (knee) out, Desharnais is projected on the second D pair with Fehervary per NHL.com. Sweep 10/11: Daily Faceoff lists Desharnais on WSH pair 2 with Fehervary and on PK1 (projected).",
   "bio": {
    "age": 30,
@@ -49799,7 +49919,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T17:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "miss",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "Kraken allow 2.99 goals/g (blended)",
@@ -49811,6 +49931,7 @@
  },
  {
   "id": "2026-10-05-nhl-287",
+  "actual": "0 hits",
   "analysis": "Ryan Winterton (Kraken forward) logged 74 hits in 68 games last season (1.09 per game) and 0 in 3 this season (0.00 per game), averaging 14.5 minutes. Weighting this season three times per game gives a blended 0.96. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 0.96 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 0.96 per game puts fewer than 1.5 at about 75%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: Daily Faceoff lists Winterton on SEA line 4 and PK1 (projected).",
   "bio": {
    "age": 23,
@@ -49901,7 +50022,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T17:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "Capitals allow 2.87 goals/g (blended)",
@@ -49913,6 +50034,7 @@
  },
  {
   "id": "2026-10-05-nhl-288",
+  "actual": "2 BLK",
   "analysis": "Vince Dunn (Kraken defenseman) logged 86 blocked shots in 81 games last season (1.06 per game) and 3 in 3 this season (1.00 per game), averaging 21.0 minutes. Weighting this season three times per game gives a blended 1.06. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 1.06 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.06 per game puts fewer than 1.5 at about 72%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: Dunn is on SEA pair 1 with Larsson, PP2 and PK2 per Daily Faceoff. Dimers lists him to score a point at +195 on DraftKings (a points market, not blocked shots).",
   "bio": {
    "age": 29,
@@ -50007,7 +50129,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T17:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "miss",
   "team": "SEA",
   "teamOutlook": {
    "allowed": "Capitals allow 2.87 goals/g (blended)",
@@ -50019,6 +50141,7 @@
  },
  {
   "id": "2026-10-05-nhl-289",
+  "actual": "1 BLK",
   "analysis": "Alex Tuch (Capitals forward) logged 90 blocked shots in 79 games last season (1.14 per game) and 1 in 2 this season (0.50 per game), averaging 17.3 minutes. Weighting this season three times per game gives a blended 1.09. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 1.09 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.09 per game puts fewer than 1.5 at about 70%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: Daily Faceoff lists Tuch on WSH line 1, PP2 and PK2 (projected lineup).",
   "bio": {
    "age": 30,
@@ -50109,7 +50232,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T17:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "WSH",
   "teamOutlook": {
    "allowed": "Kraken allow 2.99 goals/g (blended)",
@@ -53680,6 +53803,7 @@
  },
  {
   "id": "2026-10-05-nhl-318",
+  "actual": "2 hits",
   "analysis": "Andrei Svechnikov (Hurricanes forward) logged 148 hits in 79 games last season (1.87 per game) and 11 in 3 this season (3.67 per game), averaging 18.0 minutes. Weighting this season three times per game gives a blended 2.06. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 2.06 above a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 2.06 per game puts more than 1.5 at about 61%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: NHL gamecenter lists Svechnikov with 3 goals and 6 points; NHL.com (Oct 3) put him on the top line with Aho and Robinson. Sweep 10/11: Daily Faceoff lists Svechnikov on CAR line 1 and PP1; no PK slot.",
   "bio": {
    "age": 26,
@@ -53778,7 +53902,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T19:00:00-04:00",
   "stat": "Hits",
-  "status": "pending",
+  "status": "hit",
   "team": "CAR",
   "teamOutlook": {
    "allowed": "Flyers allow 3.09 goals/g (blended)",
@@ -53790,6 +53914,7 @@
  },
  {
   "id": "2026-10-05-nhl-319",
+  "actual": "1 SOG",
   "analysis": "Nick Seeler (Flyers defenseman) logged 94 shots on goal in 80 games last season (1.18 per game) and 1 in 4 this season (0.25 per game), averaging 18.1 minutes. Weighting this season three times per game gives a blended 0.98. The Hurricanes adjustment (0.93x) moves the number only slightly. That projects 0.98 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 0.98 per game puts fewer than 1.5 at about 74%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Book lines (RotoWire, 2026-10-09): DraftKings 1.5; consensus 1.5. Sweep 10/11: Daily Faceoff lists Seeler on the second D pair and first penalty-kill unit (with Couturier, Dvorak, Sanheim) and not on a power-play unit; Ristolainen is on IR. Sweep 10/11: Daily Faceoff lists Seeler on PHI pair 2 and PK1, a defensive role.",
   "bio": {
    "age": 33,
@@ -53889,7 +54014,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T19:00:00-04:00",
   "stat": "Shots on goal",
-  "status": "pending",
+  "status": "hit",
   "team": "PHI",
   "teamOutlook": {
    "allowed": "Hurricanes allow 2.86 goals/g (blended)",
@@ -53995,6 +54120,7 @@
  },
  {
   "id": "2026-10-05-nhl-320",
+  "actual": "1 BLK",
   "analysis": "Shayne Gostisbehere (Hurricanes defenseman) logged 63 blocked shots in 55 games last season (1.15 per game) and 2 in 3 this season (0.67 per game), averaging 19.2 minutes. Weighting this season three times per game gives a blended 1.08. Hits and blocks depend on how much the opponent has the puck, so there is no opponent adjustment here. That projects 1.08 below a reference of 1.5 (no sportsbook line verified; the reference is the half-point nearest his 2025-26 rate). A Poisson read of 1.08 per game puts fewer than 1.5 at about 71%. Early-season samples and lineup changes can swing this, so it stays a low-confidence lean. Sweep 10/11: Gostisbehere is on CAR pair 3 but PP1, with no PK unit (Daily Faceoff).",
   "bio": {
    "age": 33,
@@ -54085,7 +54211,7 @@
   "sport": "nhl",
   "startTime": "2026-10-11T19:00:00-04:00",
   "stat": "Blocked shots",
-  "status": "pending",
+  "status": "hit",
   "team": "CAR",
   "teamOutlook": {
    "allowed": "Flyers allow 3.09 goals/g (blended)",
