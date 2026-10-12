@@ -1,5 +1,42 @@
 [
  {
+  "id": "2026-10-12",
+  "generatedAt": "2026-10-12T12:30:00Z",
+  "headline": "Week of Oct 12: NHL props for Oct 13-14 built from Daily Faceoff lineups and NHL.com stats; six CFB Top 25 props added from Fox Sports game pages. NFL and WNBA Finals props wait for injury reports.",
+  "label": "Oct 12 – 18, 2026",
+  "news": {
+   "cfb": {
+    "items": [
+     "AP Top 25 Week 7: Georgia 1, Notre Dame 2, Miami 3, Ohio State 4, Indiana 5. Kentucky, Wake Forest and Northwestern entered; Oregon, Florida and Pittsburgh dropped out."
+    ]
+   },
+   "nhl": {
+    "items": [
+     "Props cover Oct 13-14 games; Daily Faceoff line combinations (Oct 9-11) show every listed player in the lineup with no injury designation, but starting goalies are unconfirmed."
+    ]
+   }
+  },
+  "sources": [
+   {
+    "title": "Daily Faceoff line combinations",
+    "url": "https://www.dailyfaceoff.com/teams"
+   },
+   {
+    "title": "Fox Sports college football game pages",
+    "url": "https://www.foxsports.com/college-football"
+   },
+   {
+    "title": "ESPN AP Top 25 rankings",
+    "url": "https://www.espn.com/college-football/rankings"
+   },
+   {
+    "title": "Covers NHL odds",
+    "url": "https://www.covers.com/sport/hockey/nhl/odds"
+   }
+  ],
+  "weekStart": "2026-10-12"
+ },
+ {
   "id": "2026-10-05",
   "data": {
    "generatedAt": "2026-10-10T06:45:00Z",
