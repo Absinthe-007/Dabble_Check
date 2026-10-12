@@ -5,7 +5,7 @@
 const API="https://site.api.espn.com/apis/site/v2/sports/";
 const PATH={nfl:"football/nfl",cfb:"football/college-football",nhl:"hockey/nhl"};
 const ALIAS={nhl:{SJ:"SJS",NJ:"NJD",LA:"LAK",TB:"TBL",UTAH:"UTA"},
-  cfb:{ALA:"BAMA",IU:"IND",BOIS:"BSU",MISSST:"MSST"},nfl:{WAS:"WSH"},wnba:{GSV:"GS",LVA:"LV",NYL:"NY"}};
+  cfb:{ALA:"BAMA",IU:"IND",BOIS:"BSU",MISSST:"MSST"},nfl:{WAS:"WSH"}};
 const ab=(sp,x)=>{x=String(x||"").toUpperCase();return (ALIAS[sp]&&ALIAS[sp][x])||x};
 const norm=s=>String(s||"").toLowerCase().replace(/\b(jr|sr|ii|iii|iv)\b\.?/g,"").replace(/[^a-z]/g,"");
 const f=v=>{const m=String(v??"").replace(/,/g,"").match(/-?\d+(\.\d+)?/);return m?parseFloat(m[0]):0};
@@ -75,18 +75,6 @@ function statFor(sp,fam,p){
     }
     return null;
   }
-  if(sp==="wnba"){
-    const g=Object.values(p.groups).reduce((a,b)=>Object.assign(a,b),{});
-    const n=k=>f(g[k]);
-    const m={"Points":["PTS","pts"],"Rebounds":["REB","reb"],"Assists":["AST","ast"],"Steals":["STL","stl"],"Blocks":["BLK","blk"],"Turnovers":["TO","TO"]};
-    if(fam==="Threes made")return g["3PT"]!=null?[first(g["3PT"]),"3PM"]:null;
-    if(fam==="Blocks + steals")return [n("BLK")+n("STL"),"stocks"];
-    if(fam==="Pts + reb")return [n("PTS")+n("REB"),"pts+reb"];
-    if(fam==="Pts + ast")return [n("PTS")+n("AST"),"pts+ast"];
-    if(fam==="Reb + ast")return [n("REB")+n("AST"),"reb+ast"];
-    if(fam==="Pts + reb + ast")return [n("PTS")+n("REB")+n("AST"),"PRA"];
-    const k=m[fam];return k&&g[k[0]]!=null?[n(k[0]),k[1]]:null;
-  }
   return null;
 }
 
@@ -121,8 +109,6 @@ function lineFor(sp,p){
     if(x.SV!=null&&x.SA!=null)return `${x.SV}/${x.SA} SV`;
     if(x.TOI==null)return"";
     return j([`${f(x.G)}G ${f(x.A)}A`,`${f(x.S)} SOG`,+x.HT?`${x.HT} hit`:"",+x.BS?`${x.BS} blk`:"",x.TOI])}
-  if(sp==="wnba"){const x=Object.values(g).reduce((a,b)=>Object.assign(a,b),{});
-    if(p.dnp||x.PTS==null)return p.dnp?"DNP":"";return j([`${x.MIN} min`,`${x.PTS} pts`,`${x.REB} reb`,`${x.AST} ast`,+x.STL?`${x.STL} stl`:"",+x.BLK?`${x.BLK} blk`:""])}
   const o=[],pa=g.passing,ru=g.rushing,re=g.receiving,de=g.defensive,ki=g.kicking;
   if(pa&&pa["C/ATT"]!=null)o.push(`${pa["C/ATT"]} ${pa.YDS} yd ${pa.TD} TD ${pa.INT} INT`);
   if(ru&&ru.CAR!=null)o.push(`${ru.CAR} car ${ru.YDS} yd${+ru.TD?` ${ru.TD} TD`:""}`);

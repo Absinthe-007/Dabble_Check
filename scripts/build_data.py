@@ -20,9 +20,9 @@ def load(coll):
     return docs
 
 weeks = sorted(load("weeks"), key=lambda w: w.get("weekStart", w["id"]), reverse=True)
-picks = sorted((p for p in load("picks") if p.get("sport") != "mlb"), key=lambda p: p["id"])  # MLB removed (owner request, Oct 7 2026)
+picks = sorted((p for p in load("picks") if p.get("sport") not in ("mlb", "wnba")), key=lambda p: p["id"])  # MLB removed (owner request, Oct 7 2026)
 for w in weeks:
-    (w.get("news") or {}).pop("mlb", None)
+    (w.get("news") or {}).pop("mlb", None); (w.get("news") or {}).pop("wnba", None)
 if not weeks:
     sys.exit("No weeks found in export; refusing to overwrite data.")
 

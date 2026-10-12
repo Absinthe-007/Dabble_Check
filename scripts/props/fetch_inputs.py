@@ -18,7 +18,7 @@ week = datetime.date.fromisoformat(WEEK)
 days = [week + datetime.timedelta(days=i) for i in range(8)]  # through the next Monday (MNF, Monday NHL)
 
 # ESPN slate for the week (CFB limited to the Top 25 group)
-ESPN = {'nfl': 'football/nfl', 'cfb': 'football/college-football', 'nhl': 'hockey/nhl', 'wnba': 'basketball/wnba'}
+ESPN = {'nfl': 'football/nfl', 'cfb': 'football/college-football', 'nhl': 'hockey/nhl'}
 slate = {}
 for s, p in ESPN.items():
     ev = {}
@@ -52,6 +52,4 @@ save(f'{N}/dfo.html', 'https://www.dailyfaceoff.com/starting-goalies')
 for d in days:
     save(f'{N}/score_{d:%d}.json', f'https://api-web.nhle.com/v1/score/{d.isoformat()}')
 
-# WNBA injuries
-save(f'{WORK}/wnba/inj.json', 'https://site.api.espn.com/apis/site/v2/sports/basketball/wnba/injuries')
 print('inputs saved under', WORK, '| today', TODAY, '| week', WEEK)

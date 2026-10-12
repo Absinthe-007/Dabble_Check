@@ -20,7 +20,6 @@ STATS = {
             'Rush + rec yards': 'rushrec', 'Kicking points': 'kickpts', 'FGs made': 'fgm',
             'Tackles + assists': 'tackle', 'Tackles': 'tackle', 'Solo tackles': 'solo', 'Sacks': 'sack'},
     'nhl': {'Shots on goal': 'shot', 'Points': 'point', 'Assists': 'ast', 'Blocked shots': 'blk', 'Power play points': 'pppt'},
-    'wnba': {'Points': 'pts', 'Rebounds': 'reb', 'Assists': 'ast', 'Threes made': 'threes'},
 }
 URL = 'https://www.rotowire.com/betting/%s/player-props.php'
 
@@ -59,7 +58,7 @@ def projnum(d):
 
 def main():
     pend, out = sys.argv[1], sys.argv[2]
-    sports = sys.argv[3:] or ['nfl', 'nhl', 'wnba']
+    sports = sys.argv[3:] or ['nfl', 'nhl']
     os.makedirs(out, exist_ok=True)
     now = datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%MZ')
     tables = {s: parse(fetch(s)) for s in sports}

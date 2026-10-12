@@ -2,7 +2,7 @@
  {
   "id": "2026-10-12",
   "generatedAt": "2026-10-12T12:30:00Z",
-  "headline": "Week of Oct 12: NHL props for Oct 13-14 built from Daily Faceoff lineups and NHL.com stats; six CFB Top 25 props added from Fox Sports game pages. NFL and WNBA Finals props wait for injury reports.",
+  "headline": "Week of Oct 12: NHL props for Oct 13-14 built from Daily Faceoff lineups and NHL.com stats; six CFB Top 25 props added from Fox Sports game pages. NFL props wait for injury reports.",
   "label": "Oct 12 – 18, 2026",
   "news": {
    "cfb": {
@@ -40,7 +40,7 @@
   "id": "2026-10-05",
   "data": {
    "generatedAt": "2026-10-10T06:45:00Z",
-   "headline": "Friday night grading: NHL 18-5, WNBA semis G3 4-8, CFB Iowa @ Washington 1-2 (1 void, QB Hank Brown did not play). Late addition: BYU's win over Iowa State graded 1-3 (Bachmeier threw for 329, Akana had no sack); 4 BYU/Iowa picks with no stated reference line stay pending."
+   "headline": "Friday night grading: NHL 18-5, CFB Iowa @ Washington 1-2 (1 void, QB Hank Brown did not play). Late addition: BYU's win over Iowa State graded 1-3 (Bachmeier threw for 329, Akana had no sack); 4 BYU/Iowa picks with no stated reference line stay pending."
   },
   "generatedAt": "2026-10-12T06:50:00Z",
   "headline": "Nightly grading: Sunday's NFL slate went 55-52 and the three finished NHL games went 12-7, graded from box scores. Monday's games are still pending.",
@@ -86,16 +86,6 @@
      "Starting goalies aren't confirmed for most games, so there are still no goalie picks."
     ],
     "summary": "The 2026-27 regular season opened Sept 29 (84 games this year). Busy week: 4 games Monday, 9 Tuesday, 10 Thursday, 14 Saturday."
-   },
-   "wnba": {
-    "items": [
-     "Game 1s: Atlanta 92, New York 82 (Jordin Canada 25, Sabrina Ionescu 27); Golden State 71, Las Vegas 60 (Gabby Williams 25, A'ja Wilson 24; GS won the boards 52-25).",
-     "Allisha Gray (ATL) hurt two fingers on her shooting hand in Game 1; her Game 2 status is uncertain.",
-     "Jewell Loyd (LV) left Game 1 with a left leg injury and is being evaluated; Stephanie Talbot is also out.",
-     "Satou Sabally (NY) and Brionna Jones (ATL) sat out Game 1, with no Game 2 update yet.",
-     "Game 2s Wednesday: Liberty at Dream 7:30 PM ET, Aces at Valkyries 9:30 PM ET. Game 3s Friday."
-    ],
-    "summary": "Semifinals (best of 5) are under way. Game 2s are Wednesday, Game 3s Friday, Game 4s if needed Sunday. The Finals start Oct 17."
    }
   },
   "sources": [
@@ -238,22 +228,6 @@
    {
     "title": "Dimers: NHL player props Oct 5",
     "url": "https://www.dimers.com/nhl/news/nhl-player-props-10-05-2026-ac"
-   },
-   {
-    "title": "Yahoo: 2026 WNBA semifinals schedule",
-    "url": "https://sports.yahoo.com/articles/2026-wnba-semifinals-schedule-watch-101604709.html"
-   },
-   {
-    "title": "AJC: Allisha Gray hurt in Game 1",
-    "url": "https://www.ajc.com/sports/2026/10/allisha-gray-hurt-dream-beat-liberty-game-1-wnba-semifinals/"
-   },
-   {
-    "title": "Aces: Game 1 recap vs Valkyries",
-    "url": "https://aces.wnba.com/news/game-recap-poor-rebounding-plagued-aces-in-71-60-game-1-semifinals-loss-to-valkyries"
-   },
-   {
-    "title": "SI: Liberty vs Dream prop bet",
-    "url": "https://www.si.com/betting/liberty-vs-dream-prediction-odds-best-prop-bet-wnba-playoffs-semifinals-game-1-2026"
    },
    {
     "title": "AmericanTV: Week 6 CFB TV schedule 2026",
@@ -468,28 +442,12 @@
     "url": "https://www.fanduel.com/research/nhl-picks-today-nhl-best-bets-predictions-and-props-for-monday-october-5"
    },
    {
-    "title": "Bleacher Report: Dream beat Liberty Game 1 box score",
-    "url": "https://bleacherreport.com/articles/25506591-angel-reese-ionescus-box-score-stats-highlights-dream-beat-liberty-wnba-playoffs-game-1"
-   },
-   {
-    "title": "Bleacher Nation: Dream vs Liberty Game 1 props",
-    "url": "https://www.bleachernation.com/picks/2026/10/03/dream-vs-liberty-best-bets-player-props-computer-picks-game-1-wnba-semifinals/"
-   },
-   {
-    "title": "Covers: Liberty vs Dream Game 1 picks",
-    "url": "https://www.covers.com/wnba/liberty-vs-dream-prediction-picks-sunday-oct-4-2026"
-   },
-   {
     "title": "Mission Local: Valkyries take Game 1 vs Aces",
     "url": "https://missionlocal.org/2026/10/valkyries-take-first-game-against-aces-in-dominant-win/"
    },
    {
     "title": "FOX 5 Atlanta: Dream beat Liberty 92-82",
     "url": "https://www.fox5atlanta.com/sports/atlanta-dream-beat-new-york-liberty-92-82-despite-losing-allisha-gray"
-   },
-   {
-    "title": "CBS: Aces vs Valkyries Game 1 recap",
-    "url": "https://www.cbssports.com/wnba/gametracker/recap/WNBA_20261004_LVA@GS/"
    },
    {
     "title": "StatSniper: Bengals at Dolphins Week 5",
@@ -506,10 +464,6 @@
    {
     "title": "FantasyPros: Jacoby Brissett game log",
     "url": "https://www.fantasypros.com/nfl/games/jacoby-brissett.php"
-   },
-   {
-    "title": "Yahoo Sports: 2026 WNBA semifinals schedule",
-    "url": "https://sports.yahoo.com/articles/2026-wnba-semifinals-schedule-watch-101604709.html"
    },
    {
     "title": "PFT: Minter unsure of Lamar Jackson for Week 5",
@@ -586,10 +540,6 @@
    {
     "title": "ESPN NHL injuries",
     "url": "https://www.espn.com/nhl/injuries"
-   },
-   {
-    "title": "ESPN WNBA semifinal box scores and injuries",
-    "url": "https://www.espn.com/wnba/injuries"
    },
    {
     "title": "ESPN NFL box scores 2026 (team schedules) and injuries",

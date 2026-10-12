@@ -45,8 +45,9 @@ How: run many WebSearch queries per game and per player (injury news, team annou
 - MLB is gone: all MLB picks (open and graded) and MLB news were deleted from the artifact database, and the site no longer lists it. Never create, refresh, grade or report MLB picks; do not run MLB research or an MLB builder, and leave MLB out of the notification's per-sport hit rate.
 - If any `mlb` docs show up in an export, delete them from the database; `scripts/build_data.py` also filters them out.
 
-## WNBA removed from runs (owner's request, Oct 12 2026)
-- Do not create, refresh, grade, research or report WNBA picks, and do not run `wnba_build.py`; leave WNBA out of the notification's per-sport hit rate and out of must plays. Existing graded WNBA picks stay in the database and export so the data is kept, but the site hides WNBA entirely (tab, record, news, live tracking, Games & players); `index.html` filters `wnba` picks out on load and `live.js` has no WNBA feed.
+## WNBA removed (owner's request, Oct 12 2026)
+- WNBA is gone: all WNBA picks (open and graded) and WNBA news were deleted from the artifact database, the repo data, the builders and the site (tab, record, live tracking, Games & players). Never create, refresh, grade, research or report WNBA picks; leave WNBA out of the notification's per-sport hit rate and out of must plays.
+- If any `wnba` docs show up in an export, delete them from the database; `scripts/build_data.py` also filters them out.
 
 ## Must plays: 5 per sport (owner's request, Oct 7 2026)
 - Every update, pick the 5 strongest open More/Less picks for each in-season sport (NFL, CFB, NHL) and store them on the pick docs as `must: {rank: 1-5, note}`. The site shows them as "<Sport> must plays" at the top of that sport's tab (hidden on the All tab); when a sport has no `must` picks it falls back to its 5 best-graded open picks.
