@@ -1,15 +1,8 @@
 {
- "poll": "AP Top 25, Week 6 (Oct 4, 2026)",
+ "poll": "AP Top 25, Week 7 (Oct 11, 2026)",
  "teams": [
   {
    "rank": 1,
-   "name": "Texas",
-   "aliases": [
-    "TEX"
-   ]
-  },
-  {
-   "rank": 2,
    "name": "Georgia",
    "aliases": [
     "UGA",
@@ -17,14 +10,14 @@
    ]
   },
   {
-   "rank": 3,
+   "rank": 2,
    "name": "Notre Dame",
    "aliases": [
     "ND"
    ]
   },
   {
-   "rank": 4,
+   "rank": 3,
    "name": "Miami",
    "aliases": [
     "MIA",
@@ -32,10 +25,17 @@
    ]
   },
   {
-   "rank": 5,
+   "rank": 4,
    "name": "Ohio State",
    "aliases": [
     "OSU"
+   ]
+  },
+  {
+   "rank": 5,
+   "name": "Indiana",
+   "aliases": [
+    "IND"
    ]
   },
   {
@@ -48,9 +48,9 @@
   },
   {
    "rank": 7,
-   "name": "Indiana",
+   "name": "Texas",
    "aliases": [
-    "IND"
+    "TEX"
    ]
   },
   {
@@ -68,30 +68,23 @@
   },
   {
    "rank": 10,
-   "name": "LSU",
-   "aliases": []
-  },
-  {
-   "rank": 11,
    "name": "Texas Tech",
    "aliases": [
     "TTU"
    ]
   },
   {
-   "rank": 12,
+   "rank": 11,
    "name": "Utah",
    "aliases": []
   },
   {
-   "rank": 13,
-   "name": "Oregon",
-   "aliases": [
-    "ORE"
-   ]
+   "rank": 12,
+   "name": "UCLA",
+   "aliases": []
   },
   {
-   "rank": 14,
+   "rank": 13,
    "name": "Missouri",
    "aliases": [
     "MIZ",
@@ -99,27 +92,32 @@
    ]
   },
   {
-   "rank": 15,
+   "rank": 14,
    "name": "Tennessee",
    "aliases": [
     "TENN"
    ]
   },
   {
-   "rank": 16,
-   "name": "Florida",
+   "rank": 15,
+   "name": "Kentucky",
    "aliases": [
-    "UF",
-    "FLA"
+    "UK",
+    "UKY"
    ]
   },
   {
-   "rank": 17,
+   "rank": 16,
    "name": "Mississippi State",
    "aliases": [
     "MSST",
     "MSU"
    ]
+  },
+  {
+   "rank": 17,
+   "name": "Iowa",
+   "aliases": []
   },
   {
    "rank": 18,
@@ -137,20 +135,23 @@
   },
   {
    "rank": 20,
-   "name": "Iowa",
-   "aliases": []
-  },
-  {
-   "rank": 21,
-   "name": "UCLA",
-   "aliases": []
-  },
-  {
-   "rank": 22,
    "name": "Houston",
    "aliases": [
     "HOU"
    ]
+  },
+  {
+   "rank": 21,
+   "name": "Wake Forest",
+   "aliases": [
+    "WAKE",
+    "WF"
+   ]
+  },
+  {
+   "rank": 22,
+   "name": "LSU",
+   "aliases": []
   },
   {
    "rank": 23,
@@ -166,9 +167,10 @@
   },
   {
    "rank": 25,
-   "name": "Pittsburgh",
+   "name": "Northwestern",
    "aliases": [
-    "PITT"
+    "NU",
+    "NW"
    ]
   }
  ]
